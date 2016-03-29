@@ -2,15 +2,39 @@
 
 // global map object
 var map
+var data
 
-function loaded(data) {
+function loaded(dat) {
+  data = dat;
+  mk_geoJSON('today');
+}
+
+function mk_geoJSON(today) {
   var features = []
-  var today = Object.keys(data.kuefas)[new Date().getDay()-1];
-  console.log(today)
-  var vokues = data.kuefas[today].reduce(function(carry, el, index, obj){
-    carry[el.name] = el
-    return carry
-  }, {});
+  if (today == "all"){
+    var vokues = Object.keys(data.kuefas).reduce(
+      function(ret, key) {
+	data.kuefas[key].reduce(function(ret, el){
+	  if( typeof ret[el.name] == 'undefined') {
+	    el.desc = key +' : '+ el.desc +'<br/>'
+	    ret[el.name] = el;
+	  } else {
+	    ret[el.name].desc += key +' : '+ el.desc +'<br/>'
+	  }
+	  return ret
+	}, ret)
+	return ret
+      }, {})
+  } else {
+    if (today == 'today')
+      var today = Object.keys(data.kuefas)[new Date().getDay()-1];
+    console.log(today)
+    var vokues = data.kuefas[today].reduce(
+      function(carry, el, index, obj){
+	carry[el.name] = el
+	return carry
+      }, {});
+  }
   data.stressfaktoren.forEach(function(e) {
     var color = '#641207';
     var symbol = 'danger';
@@ -22,7 +46,7 @@ function loaded(data) {
       vokues[e.name] = undefined;
       var color = '#17A5A5'
       var symbol = 'restaurant'
-      var msg = '<span style="color:'+ color +';float:right">'+ e.vokue.desc +'</span><br/>'+ msg;
+      var msg = '<i style="color:'+ color +';float:right">'+ e.vokue.desc +'</i><br/>'+ msg;
       var has_vokue = true;
     }
     
@@ -69,6 +93,11 @@ function setupMap(geoJSON) {
 	className: className+ ' cluster'
       });
   }
+
+  if(typeof vokue_group != 'undefined')
+    map.removeLayer(vokue_group);
+  if(typeof locations_group != 'undefined')
+    map.removeLayer(locations_group);
   
   vokue_group = new L.MarkerClusterGroup({
     maxClusterRadius: 50,
@@ -129,6 +158,13 @@ function init() {
     this.all_visible = true;
   }.bind(this));
 
+  //set day of the week
+  $('select#today').on('change', function(e,f) {
+    var val = e.target.value
+    if(val)
+      mk_geoJSON(val)
+  })
+  
   // Load Data
   var urls = ['kuefas.json', 'stressfaktoren.json'];
   var data = {}

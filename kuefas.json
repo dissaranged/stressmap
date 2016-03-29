@@ -6,7 +6,7 @@
       "time": "19:00"
     },
     {
-      "name": "B�diker 9",
+      "name": "Bödiker 9",
       "desc": "20:00, vegane K�fA",
       "time": "20:00"
     },
@@ -16,12 +16,12 @@
       "time": "20:00"
     },
     {
-      "name": "Kreutziger 19",
+      "name": "K19 Café",
       "desc": "20:00, Weltk�che",
       "time": "20:00"
     },
     {
-      "name": "New Yorck (im Bethanien)",
+      "name": "New Yorck im Bethanien",
       "desc": "jeden Mo 20:00 vegan, 1. und 3. Mo im Monat im Rahmen der DruzBar (K�fA und Soli-Cocktailbar)",
       "time": "20:00"
     },
@@ -110,7 +110,7 @@
       "time": "20:00"
     },
     {
-      "name": "Kreutziger 19",
+      "name": "K19 Café",
       "desc": "20:00, Kiezsuppe (leckeres Essen mit Technobeatz)",
       "time": "20:00"
     },
@@ -162,12 +162,12 @@
       "time": "19:30"
     },
     {
-      "name": "Kreutziger 19",
+      "name": "K19 Café",
       "desc": "20:00",
       "time": "20:00"
     },
     {
-      "name": "KvU",
+      "name": "KvU (Kirche von Unten)",
       "desc": "Fleischesser-Asyl 20:00",
       "time": "20:00"
     },
@@ -194,7 +194,7 @@
   ],
   "Freitag": [
     {
-      "name": "B�diker 9",
+      "name": "Bödiker 9",
       "desc": "19:00, vegan",
       "time": "19:00"
     },
@@ -258,12 +258,12 @@
       "time": "12:00"
     },
     {
-      "name": "KvU",
+      "name": "KvU (Kirche von Unten)",
       "desc": "Frühstück 13:00",
       "time": "13:00"
     },
     {
-      "name": "Projektraum",
+      "name": "Projektraum H48 (Neukölln)",
       "desc": "13:00 veganer Sonntagsbrunch",
       "time": "13:00"
     },

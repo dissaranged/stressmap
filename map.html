@@ -1,19 +1,34 @@
 <html>
-<head>
-  <!-- jQuery -->
-  <script src="http://code.jquery.com/jquery.js"></script>
-  <!-- MapBox -->
-  <script src='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.js'></script>
-  <link href='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.css' rel='stylesheet' />
-  <!-- MarkerCluster Plugin (not used yet) -->
-  <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
-<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
-<link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
-  
-  <link href="main.css" rel="stylesheet" />
-  <script src="main.js"></script>
-</head>
-<body>
-  <div id="map"></div>
-</body>
+  <head>
+    <!-- jQuery -->
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <!-- MapBox -->
+    <script src='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.css' rel='stylesheet' />
+    <!-- MarkerCluster Plugin (not used yet) -->
+    <script src='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/leaflet.markercluster.js'></script>
+    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.css' rel='stylesheet' />
+    <link href='https://api.mapbox.com/mapbox.js/plugins/leaflet-markercluster/v0.4.0/MarkerCluster.Default.css' rel='stylesheet' />
+    
+    <link href="main.css" rel="stylesheet" />
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <div id="map"></div>
+
+    <div id="controls">
+      <select size="1" id="today" name="day">
+	<option value="today">heute</option>
+	<option value="all">alle Tage</option>
+	<option value="">------------------------</option>
+	<option value="Montag">Montag</option>
+	<option value="Dienstag">Dienstag</option>
+	<option value="Mittwoch">Mittwoch</option>
+	<option value="Donnerstag">Donnerstag</option>
+	<option value="Freitag">Freitag</option>
+	<option value="Samstag">Samstag</option>
+	<option value="Sonntag">Sonntag</option>
+      </select>>
+    </div>
+  </body>
 </html>
