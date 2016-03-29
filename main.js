@@ -107,7 +107,7 @@ function init() {
   }
   var legend = Object.keys(symbols).reduce(function(carry, val) {
     carry+= '<div class="'+ symbols[val].toLowerCase() +'Legend">'
-      +'<img  class="symbol" src="http://localhost:3000/maki/'+ val +'-18.png"/>'
+      +'<img  class="symbol" src="http://dissaranged.github.io/stressmap/maki/'+ val +'-18.png"/>'
       +'<span >'+ symbols[val] +'</span></div>'
     return carry;
   }, "");
