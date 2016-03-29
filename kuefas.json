@@ -1,0 +1,301 @@
+{
+  "Montag": [
+    {
+      "name": "Rote Insel",
+      "desc": "19:00 (vegi und Fleisch)",
+      "time": "19:00"
+    },
+    {
+      "name": "B�diker 9",
+      "desc": "20:00, vegane K�fA",
+      "time": "20:00"
+    },
+    {
+      "name": "Drugstore",
+      "desc": "20:00, vegane K�fA im Bierrechtscafé",
+      "time": "20:00"
+    },
+    {
+      "name": "Kreutziger 19",
+      "desc": "20:00, Weltk�che",
+      "time": "20:00"
+    },
+    {
+      "name": "New Yorck (im Bethanien)",
+      "desc": "jeden Mo 20:00 vegan, 1. und 3. Mo im Monat im Rahmen der DruzBar (K�fA und Soli-Cocktailbar)",
+      "time": "20:00"
+    },
+    {
+      "name": "V36",
+      "desc": "20:00, Montagsphobie: vegane Burger-K�fA und Bar",
+      "time": "20:00"
+    },
+    {
+      "name": "Zielona Gora",
+      "desc": "20:00 vegan (jeden 1. Mo im Monat)",
+      "time": "20:00"
+    },
+    {
+      "name": "Abstand",
+      "desc": "22:00, Burger (vegan)",
+      "time": "22:00"
+    },
+    {
+      "name": "Sama-Café",
+      "desc": "23:00 vegetarisch/vegan",
+      "time": "23:00"
+    }
+  ],
+  "Dienstag": [
+    {
+      "name": "Thommy-Weißbecker-Haus",
+      "desc": "Kiez-Cuisine, 18:00",
+      "time": "18:00"
+    },
+    {
+      "name": "B5355",
+      "desc": "19:00 jeden 1. + 3. Di im Monat K�che f�r Alle (vegan mit glutenfreier Alternative)",
+      "time": "19:00"
+    },
+    {
+      "name": "Groni50",
+      "desc": "20:00 vegan/veget. (jeden 1. + 3. Di im Monat)",
+      "time": "20:00"
+    },
+    {
+      "name": "Köpi",
+      "desc": "20:00, vegan",
+      "time": "20:00"
+    },
+    {
+      "name": "M29",
+      "desc": "20:00, vegan (jeden 1. Di im Monat)",
+      "time": "20:00"
+    },
+    {
+      "name": "Schreina47",
+      "desc": "20:00",
+      "time": "20:00"
+    },
+    {
+      "name": "Scherer 8",
+      "desc": "21:00 vegane K�fa und Kino",
+      "time": "21:00"
+    },
+    {
+      "name": "X-B-Liebig",
+      "desc": "21:00 Delikatessen-K�fA (vegan)",
+      "time": "21:00"
+    }
+  ],
+  "Mittwoch": [
+    {
+      "name": "Schokofabrik (Mariannenstr.)",
+      "desc": "18:00, Frauen-K�fA im Schoko-Café",
+      "time": "18:00"
+    },
+    {
+      "name": "Rauchhaus",
+      "desc": "19:05",
+      "time": "19:05"
+    },
+    {
+      "name": "B-Lage",
+      "desc": "20:00, vegan",
+      "time": "20:00"
+    },
+    {
+      "name": "Kadterschmiede",
+      "desc": "20:00, vegan",
+      "time": "20:00"
+    },
+    {
+      "name": "Kreutziger 19",
+      "desc": "20:00, Kiezsuppe (leckeres Essen mit Technobeatz)",
+      "time": "20:00"
+    },
+    {
+      "name": "Subversiv",
+      "desc": "20:00, vegan",
+      "time": "20:00"
+    },
+    {
+      "name": "Schreina47",
+      "desc": "20:00",
+      "time": "20:00"
+    },
+    {
+      "name": "Vetomat",
+      "desc": "20:00",
+      "time": "20:00"
+    },
+    {
+      "name": "Köpi",
+      "desc": "20:30, vegan",
+      "time": "20:30"
+    },
+    {
+      "name": "La Casa",
+      "desc": "21:00 (vegetarisch/vegan)",
+      "time": "21:00"
+    },
+    {
+      "name": "X-B-Liebig",
+      "desc": "21:00 vegan",
+      "time": "21:00"
+    },
+    {
+      "name": "Sama-Café",
+      "desc": "22:00 vegetarisch/vegan",
+      "time": "22:00"
+    }
+  ],
+  "Donnerstag": [
+    {
+      "name": "FE61",
+      "desc": "Gitschiner Str. 61, 19:30 (jeden 1. und 3. Do im Monat)",
+      "time": "19:30"
+    },
+    {
+      "name": "Lunte",
+      "desc": "19:30",
+      "time": "19:30"
+    },
+    {
+      "name": "Kreutziger 19",
+      "desc": "20:00",
+      "time": "20:00"
+    },
+    {
+      "name": "KvU",
+      "desc": "Fleischesser-Asyl 20:00",
+      "time": "20:00"
+    },
+    {
+      "name": "Schreina47",
+      "desc": "20:00",
+      "time": "20:00"
+    },
+    {
+      "name": "Zielona Gora",
+      "desc": "20:00 vegan (jeden 4. Do im Monat, im Rahmen des Metal-Tresen)",
+      "time": "20:00"
+    },
+    {
+      "name": "Abstand",
+      "desc": "21:00 vegetarische K�fA + Kuchen",
+      "time": "21:00"
+    },
+    {
+      "name": "Scherer 8",
+      "desc": "21:00 vegane K�fa und Tresen",
+      "time": "21:00"
+    }
+  ],
+  "Freitag": [
+    {
+      "name": "B�diker 9",
+      "desc": "19:00, vegan",
+      "time": "19:00"
+    },
+    {
+      "name": "Bandito Rosso",
+      "desc": "20:00 leckeres Drei-G�nge-Men� (vegan/manchmal auch vegetarisch)",
+      "time": "20:00"
+    },
+    {
+      "name": "Lunte",
+      "desc": "20:00, vegetarisch und Fleisch",
+      "time": "20:00"
+    },
+    {
+      "name": "Zielona Gora",
+      "desc": "20:00 vegan (jeden 4. Fr im Monat)",
+      "time": "20:00"
+    },
+    {
+      "name": "La Casa",
+      "desc": "jeden 2.+4. Fr 21:00 (vegetarisch)",
+      "time": "21:00"
+    },
+    {
+      "name": "Rote Insel",
+      "desc": "ab 21:00 gibt's Steinofenpizza",
+      "time": "21:00"
+    },
+    {
+      "name": "Villa Kunterbunt",
+      "desc": "21:00, vegetarisch",
+      "time": "21:00"
+    },
+    {
+      "name": "Sama-Café",
+      "desc": "22:00 vegetarisch",
+      "time": "22:00"
+    }
+  ],
+  "Samstag": [
+    {
+      "name": "Vetomat",
+      "desc": "12:00-16:00 jeden 1. + 3. Samstag im Monat Brunch",
+      "time": "12:00"
+    },
+    {
+      "name": "Zielona Gora",
+      "desc": "12:15 Solibrunch (vegan/veget.), jeden 2. Samstag im Monat",
+      "time": "12:15"
+    }
+  ],
+  "Sonntag": [
+    {
+      "name": "Erreichbar",
+      "desc": "12:00 veganer AntiRa-Soli-Brunch",
+      "time": "12:00"
+    },
+    {
+      "name": "Schreina47",
+      "desc": "12:00 Frühstück mit Espresso",
+      "time": "12:00"
+    },
+    {
+      "name": "KvU",
+      "desc": "Frühstück 13:00",
+      "time": "13:00"
+    },
+    {
+      "name": "Projektraum",
+      "desc": "13:00 veganer Sonntagsbrunch",
+      "time": "13:00"
+    },
+    {
+      "name": "Scherer 8",
+      "desc": "13:00 jeden 2.+4. Sonntag Vegan-Brunch",
+      "time": "13:00"
+    },
+    {
+      "name": "Supamolly",
+      "desc": "Café 16:00-20:00",
+      "time": "16:00"
+    },
+    {
+      "name": "Ausland",
+      "desc": "Lychenerstr. 60 (P-Berg), 18:00, vegan/vegetarisch (für 1,50 Euro)",
+      "time": "18:00"
+    },
+    {
+      "name": "Caf� Cralle",
+      "desc": "19:00 vegan/vegetarisch",
+      "time": "19:00"
+    },
+    {
+      "name": "Freudenhaus",
+      "desc": "vegetarisch ca. 19:09 (nach der Lindenstr.)",
+      "time": "19:09"
+    },
+    {
+      "name": "Zielona Gora",
+      "desc": "vegane K�fA 19:09 (nach Lindenstraße)",
+      "time": "19:09"
+    }
+  ]
+}

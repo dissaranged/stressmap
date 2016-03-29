@@ -1,0 +1,29 @@
+#map {
+    position:absolute;
+    top:0;
+    bottom:0;
+    width:100%;
+    margin:20px;
+}
+
+.symbol {
+    height: 1.9em;
+    width: 1.9em;
+    margin-right: 10px;
+}
+
+.cluster {
+    border: 2px solid;
+    border-radius: 100px;
+    text-align: center;
+    font-size: 18;
+    padding: 3px;
+}
+
+.vokue {
+    background-color: rgba(23,123,123,0.6) 
+}
+
+.stressfaktoren {
+    background-color: rgba(64,12,07,0.6)
+}
