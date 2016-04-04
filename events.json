@@ -1,0 +1,70 @@
+[
+  {
+    "time": "09:00",
+    "type": "Prozess",
+    "desc": "Rechter Mord in Neukölln? Aufruf zur Prozessbeobachtung. Prozess gegen Rolf Z. Aktenzeichen 529 KS 1/16. Saal 500, Turmstraße 91. Angekündigte Fortsetzungstermine: 6.4., 11.4., 13.4., 18.4. und 25.4. jeweils um 09.00 Uhr.<br>",
+    "coordinates": [
+      13.297754,
+      52.527109
+    ]
+  },
+  {
+    "time": "16:00",
+    "type": "Antikriegscafé",
+    "desc": "Kaffee trinken, Kekse essen, sich über Krieg und Militarisierung austauschen. Diesen Monat Thema: Wehrpflicht. Ab 18.00 Uhr: Wehrpflicht in Europa - Wo gibt es sie, und wo nicht."
+  },
+  {
+    "time": "20:00",
+    "free": true,
+    "location": "Café Morgenrot",
+    "loc": "2167",
+    "type": "Info-Veranstaltung",
+    "desc": "\"Europas Staatsgewalten gegen Migration\" - Release der aktuellen Zeitschrift <a href=\"http://www.cilip.de\">Bürgerrechte &amp; Polizei/ CILIP</a>. Über Jahrzehnte hinweg haben die EU und ihre Mitgliedstaaten die Abwehr gegen Geflüchtete und MigrantInnen perfektioniert. Wir haben dies in unserer Zeitschrift Bürgerrechte &amp; Polizei/ CILIP stets aus polizeikritischer Perspektive analysiert. Unser aktuelles Heft \"Europas Staatsgewalten gegen Migration\" trägt die neuen Maßnahmen zusammen: Militarisierung der Migrationskontrolle, zunehmende Repression gegen jede Art von Fluchthilfe, Ausbau von Datenbanken, unaufhaltsamer Aufstieg der Grenzagentur FRONTEX unter Einsatz neuer Technologien wie Drohnen und Satellitenüberwachung.<br>"
+  },
+  {
+    "time": "20:00",
+    "free": true,
+    "location": "Drugstore",
+    "loc": "23",
+    "type": "DIY-Café",
+    "desc": "Das DIY-Café wird reanimiert und zwar ab jetzt jeden Montag. Gestartet wird mit einem Rock'n'Roll-Tanzkurs. Also kommt vorbei - Bier jibet och."
+  },
+  {
+    "time": "20:00",
+    "location": "Kadterschmiede",
+    "loc": "4265",
+    "type": "Kurdistansoliküfa",
+    "desc": "Wir zeigen den Film \"Min Dit - Die Kinder von Diyarbakir\". Dazu veganes Essen. Kommt vorbei und zeigt euch solidarisch."
+  },
+  {
+    "time": "20:00",
+    "free": true,
+    "location": "V36",
+    "loc": "7591",
+    "type": "Konzert, Küfa + Kellerbar",
+    "desc": "20.00 Uhr: Küfa und Kellerbar<br>"
+  },
+  {
+    "time": "20:00",
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "Internationalistischer Abend",
+    "desc": "Veranstaltung: \"Stadtguerilla in Lateinamerika und BRD - Transfer eines revolutionären Konzepts\". Mit Küfa (vegan), danach Solitresen, free Kicker und Politmucke. Referenten: Fabian Bennewitz und Meas Wolfstatze, zwei internationalistischen Geschichtsstudis der \"Freien\" Uni Berlin. <a href=\"http://international.nostate.net\">Infos</a>"
+  },
+  {
+    "time": "21:00",
+    "free": true,
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Videokino Peliculoso",
+    "desc": "\"Metropolitan\" USA 98min R.: Whit Stillman D.: Carolyna Farina, Chris Eigeman<br>"
+  },
+  {
+    "time": "21:30",
+    "free": true,
+    "location": "Sama-Café",
+    "loc": "86",
+    "type": "Film Club",
+    "desc": "Thema: Blick auf die Gescichte um die Gegenwart zu verstehen!<br>"
+  }
+]

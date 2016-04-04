@@ -9,7 +9,17 @@
 #controls {
     float: right;
     opacity: 0.7;
+    background: grey;
+    padding: 5px;
+    border-radius: 15px;
+    align: right;
 }
+#controls > div {
+    margin: 3px;
+}
+#controls .inputs {
+    width: 7em;
+    }
 
 .symbol {
     height: 1.9em;
@@ -25,10 +35,19 @@
     padding: 3px;
 }
 
-.vokue {
-    background-color: rgba(23,123,123,0.6) 
+.vokues {
+    background-color: rgba(23,165,165,0.6); 
 }
 
 .stressfaktoren {
-    background-color: rgba(64,12,07,0.6)
+    background-color: rgba(100,18,07,0.6);
+}
+
+.events {
+    background-color: rgba(165,23,165,0.6);
+}
+
+.legend.active {
+    border: 1px red solid;
+    border-radius: 5px;
 }

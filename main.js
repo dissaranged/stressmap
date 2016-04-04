@@ -2,22 +2,35 @@
 
 // global map object
 var map
+var overlay
 var data
+var geoJSON
 
 function loaded(dat) {
   data = dat;
-  mk_geoJSON('today');
+  setupMap(mk_geoJSON('today'));
+}
+
+function merge(obj, oobj={}) {
+   Object.keys(obj).forEach( key => {
+    if(typeof oobj[key] === 'undefined')
+      oobj[key] = obj[key];
+  });
+  return oobj    
 }
 
 function mk_geoJSON(today) {
   var features = []
+
+  // Handle VoKues
   if (today == "all"){
     var vokues = Object.keys(data.kuefas).reduce(
       function(ret, key) {
 	data.kuefas[key].reduce(function(ret, el){
 	  if( typeof ret[el.name] == 'undefined') {
-	    el.desc = key +' : '+ el.desc +'<br/>'
-	    ret[el.name] = el;
+	    var new_el = merge(el);
+	    new_el.desc = key +' : '+ el.desc +'<br/>'
+	    ret[el.name] = new_el;
 	  } else {
 	    ret[el.name].desc += key +' : '+ el.desc +'<br/>'
 	  }
@@ -31,54 +44,102 @@ function mk_geoJSON(today) {
     console.log(today)
     var vokues = data.kuefas[today].reduce(
       function(carry, el, index, obj){
-	carry[el.name] = el
+	carry[el.name] = merge(el);
 	return carry
       }, {});
   }
+
+  // Handle events
+  var events = data.events.reduce(
+    function(carry, el, index, obj){
+      if(el.location) {
+	carry[el.location] = merge(el);
+      } else if (el.coordinates) {
+	var msg = '<span style="color:red">'+ el.time +'</span><br/>'+ el.desc
+	features.push( {
+	  type: 'Feature',
+	  geometry: {
+	    type: 'Point',
+	    coordinates: el.coordinates
+	  },
+	  properties: {
+	    title: el.type,
+	    description: msg,
+            'marker-size': 'medium',
+	    'marker-color': '#A517A5',
+	    'marker-symbol': 'star',
+	    events: true
+	  }
+	} )
+      } else {
+	console.log("strange things happen by el creation: ",el)
+      }
+      return carry
+    }, {});
+  
+  
   data.stressfaktoren.forEach(function(e) {
     var color = '#641207';
     var symbol = 'danger';
     var has_vokue = false;
-    var msg =  '<span style="color:#A4A4A4;float:right">'+
-	e./*full_*/address+'</span><br/>'+ e.info;
+    var has_event = false;
+    var title = e.name
+    var msg =  '<span style="color:#A4A4A4;">'+
+	e.full_address+'</span><br/>'+ e.info;
     if(typeof vokues[e.name] == 'object') {
       e.vokue = vokues[e.name];
       vokues[e.name] = undefined;
       var color = '#17A5A5'
       var symbol = 'restaurant'
-      var msg = '<i style="color:'+ color +';float:right">'+ e.vokue.desc +'</i><br/>'+ msg;
+      var msg = '<i style="color:'+ color +';">'+ e.vokue.desc +'</i><br/>'+ msg;
       var has_vokue = true;
     }
-    
-    
-    features.push( {
-      type: 'Feature',
-      geometry: {
-	type: 'Point',
-	coordinates: [e.lng, e.lat]// e.coordinates
-      },
-      properties: {
-	title: e.name,
-	description: msg,
-        'marker-size': 'medium',
-	'marker-color': color,
-	'marker-symbol': symbol,
-	vokue: has_vokue
-      }
-    } )
+    if(typeof events[e.name] == 'object') {
+      e.event = events[e.name];
+      events[e.name] = undefined;
+      var color = '#A517A5';
+      var symbol = 'star'
+      var msg = '<i style="color:'+ color +';">'+ e.event.desc +'</i><br/>' + msg;
+      title+= ' : <span style="color:red">'+ e.event.time +'</span>'
+      var has_event = true;
+    }
+    if (!e.coordinates) {
+      console.error("no coordinates for : ", e)
+    } else {
+      features.push( {
+	type: 'Feature',
+	geometry: {
+	  type: 'Point',
+	  coordinates: e.coordinates
+	},
+	properties: {
+	  title: title,
+	  description: msg,
+          'marker-size': 'medium',
+	  'marker-color': color,
+	  'marker-symbol': symbol,
+	  vokues: has_vokue,
+	  events: has_event
+	}
+      } )
+    }
   });
-  var geoJSON = {
+
+  var geo = {
     "type": "FeatureCollection",
     "features": features
-  }
-  setupMap(geoJSON);
+  };
 
-  console.log("vokues not found : ", vokues);
+  console.log("vokues not found : ", Object.keys(vokues).reduce(function(c,e) {vokues[e] ? c[e] = vokues[e] : null; return c},{}));
+  console.log("events not found : ", Object.keys(events).reduce(function(c,e) {events[e] ? c[e] = events[e] : null; return c},{}));
+
+  geoJSON = geo;
+  return geo;
 }
 
-function setupMap(geoJSON) {
-  console.log(geoJSON)
-  map.addControl(L.mapbox.geocoderControl('mapbox-places'))
+function setupMap(geoJSON, filter) {
+  //console.log('geoJSON  :  '+JSON.stringify(geoJSON,null,2));
+  console.log('geoJSON  :  ', geoJSON);
   function createIcon(className, cluster) {
     var count = cluster.getChildCount();
     var size = 30
@@ -94,29 +155,31 @@ function setupMap(geoJSON) {
       });
   }
 
-  if(typeof vokue_group != 'undefined')
-    map.removeLayer(vokue_group);
-  if(typeof locations_group != 'undefined')
-    map.removeLayer(locations_group);
+  overlay.clearLayers();
   
-  vokue_group = new L.MarkerClusterGroup({
-    maxClusterRadius: 50,
-    disableClusteringAtZoom: 15,
-    iconCreateFunction: createIcon.bind(null, 'vokue'),
-  }).addTo(map);;
-
-  locations_group =  new L.MarkerClusterGroup({
-    maxClusterRadius: 50,
-    disableClusteringAtZoom: 15,
-    iconCreateFunction: createIcon.bind(null, 'stressfaktoren')
-  }).addTo(map);
-
+  var groups = {};
+  ['vokues', 'events', 'stressfaktoren'].forEach( thing => {
+    groups[thing] = new L.MarkerClusterGroup({
+      maxClusterRadius: 50,
+      disableClusteringAtZoom: 15,
+      iconCreateFunction: createIcon.bind(null, thing),
+    }).addTo(overlay);
+  });
+  
   var features = L.mapbox.featureLayer(geoJSON).eachLayer( function(layer) {
-    if (layer.feature.properties.vokue)
-      vokue_group.addLayer(layer)
-    else
-      locations_group.addLayer(layer)
-  });    
+    if( (typeof filter === 'undefined')
+	|| ( typeof filter === 'function' && filter(layer) )
+      ) {
+      if (layer.feature.properties.events) {
+	groups.events.addLayer(layer);
+      } else if (layer.feature.properties.vokues) {
+	groups.vokues.addLayer(layer);
+      } else {
+	groups.stressfaktoren.addLayer(layer)
+      }
+    }
+  });
+  
 }
 
 function init() {
@@ -127,46 +190,54 @@ function init() {
       position: "bottomleft",
       opacity: 0.7
     }
-  }).setView([52.5072095, 13.4], 9);
+  })
+
+  map.setView([52.5072095, 13.4], 10);
     
   // Legend
   var symbols = {
     danger: 'StressFaktoren',
-    restaurant: 'VoKue'
+    restaurant: 'VoKues',
+    star: 'Events'
   }
+
   var legend = Object.keys(symbols).reduce(function(carry, val) {
-    carry+= '<div class="'+ symbols[val].toLowerCase() +'Legend">'
-      +'<img  class="symbol" src="http://dissaranged.github.io/stressmap/maki/'+ val +'-18.png"/>'
+    carry += '<div class="'+ symbols[val].toLowerCase() +' legend">'
+      +'<img  class="symbol" src="http://localhost:3000/maki/'+ val +'-18.png"/>'
       +'<span >'+ symbols[val] +'</span></div>'
     return carry;
   }, "");
   map.legendControl.addLegend(legend);
-
-  // hiding non vokues
-  this.all_visible = true;
-  $('.vokueLegend').on('click', function() {
-    if (this.all_visible) {
-      map.removeLayer(locations_group);
-      this.all_visible = false;
-    } else {
-      locations_group.addTo(map);
-      this.all_visible = true;
-    }
-  }.bind(this))
-  $('.stressfaktorenLegend').on('click', function() {
-    locations_group.addTo(map);
-    this.all_visible = true;
-  }.bind(this));
-
+  overlay = L.layerGroup().addTo(map);
+  // filtering
+  var legend_items =   $('.legend')
+  legend_items.each( (i, el) => {
+    el.addEventListener('click',  e => {
+      var type = el.classList[0]
+      if(type == 'stressfaktoren')
+	setupMap(geoJSON);
+      else {
+	setupMap(geoJSON, layer => {
+	  return layer.feature.properties[type]
+	})
+      }
+      legend_items.each( (i, thing) => {
+	thing.classList.remove('active');
+      });
+      el.classList.add('active');
+    });
+  });
+  
   //set day of the week
   $('select#today').on('change', function(e,f) {
     var val = e.target.value
-    if(val)
-      mk_geoJSON(val)
+    if(val) {
+      setupMap(mk_geoJSON(val));
+    }
   })
   
   // Load Data
-  var urls = ['kuefas.json', 'stressfaktoren.json'];
+  var urls = ['kuefas.json', 'events.json', 'stressfaktoren.json'];
   var data = {}
   function oneLoaded(key, dat){
     data[key] = dat;
@@ -177,13 +248,14 @@ function init() {
     $.ajax({
       dataType: 'json'
       , url: url
+      , charset: 'utf-8'
       , success: function(data, status, jqXHR) {
-	var key = url.replace(/\.[^.]*$/, '');
-	if (status != 'success') {
-	  console.error("can't load "+ name +' : ', status, data, jqXHR);
-	  data = {};
-	}
-	oneLoaded(key, data);
+  	var key = url.replace(/\.[^.]*$/, '');
+  	if (status != 'success') {
+  	  console.error("can't load "+ name +' : ', status, data, jqXHR);
+  	  data = {};
+  	}
+  	oneLoaded(key, data);
       }
     });
   });
