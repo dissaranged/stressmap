@@ -201,16 +201,9 @@ function init() {
     star: 'Events'
   }
 
-  var legend = Object.keys(symbols).reduce(function(carry, val) {
-    carry += '<div class="'+ symbols[val].toLowerCase() +' legend">'
-      +'<img  class="symbol" src="http://dissaranged.github.io/stressmap/maki/'+ val +'-18.png"/>'
-      +'<span >'+ symbols[val] +'</span></div>'
-    return carry;
-  }, "");
-  map.legendControl.addLegend(legend);
   overlay = L.layerGroup().addTo(map);
   // filtering
-  var legend_items =   $('.legend')
+  var legend_items = $('.legend')
   legend_items.each( (i, el) => {
     el.addEventListener('click',  e => {
       var type = el.classList[0]

@@ -12,7 +12,7 @@
     background: grey;
     padding: 5px;
     border-radius: 15px;
-    align: right;
+    text-align: center;
 }
 #controls > div {
     margin: 3px;
@@ -22,9 +22,9 @@
     }
 
 .symbol {
-    height: 1.9em;
-    width: 1.9em;
-    margin-right: 10px;
+    height: 1.3em;
+    width: 1.3em;
+    margin: 10px;
 }
 
 .cluster {
