@@ -30,6 +30,7 @@ function mk_geoJSON(today) {
 	  if( typeof ret[el.name] == 'undefined') {
 	    var new_el = merge(el);
 	    new_el.desc = key +' : '+ el.desc +'<br/>'
+	    new_el.time = null
 	    ret[el.name] = new_el;
 	  } else {
 	    ret[el.name].desc += key +' : '+ el.desc +'<br/>'
@@ -77,32 +78,29 @@ function mk_geoJSON(today) {
       return carry
     }, {});
   
-  
+
   data.stressfaktoren.forEach(function(e) {
     var color = '#641207';
     var symbol = 'danger';
     var has_vokue = false;
     var has_event = false;
     var title = e.name
-    var msg =  '<span style="color:#A4A4A4;">'+
-	e.full_address+'</span><br/>'+ e.info;
+    var msg = ""
     if(typeof vokues[e.name] == 'object') {
       e.vokue = vokues[e.name];
       vokues[e.name] = undefined;
-      var color = '#17A5A5'
+      color = '#17A5A5'
       var symbol = 'restaurant'
-      var msg = '<i style="color:'+ color +';">'+ e.vokue.desc +'</i><br/>'+ msg;
       var has_vokue = true;
     }
     if(typeof events[e.name] == 'object') {
       e.event = events[e.name];
       events[e.name] = undefined;
-      var color = '#A517A5';
+      color = '#A517A5';
       var symbol = 'star'
-      var msg = '<i style="color:'+ color +';">'+ e.event.desc +'</i><br/>' + msg;
-      title+= ' : <span style="color:red">'+ e.event.time +'</span>'
       var has_event = true;
     }
+    var msg = $.Mustache.render('infowindow', e);
     if (!e.coordinates) {
       console.error("no coordinates for : ", e)
     } else {
@@ -228,6 +226,10 @@ function init() {
       setupMap(mk_geoJSON(val));
     }
   })
+
+  // infowindow
+  $.Mustache.add('infowindow', $('#infowindow').html());
+  console.log($.Mustache.render('infowindow', {}))
   
   // Load Data
   var urls = ['kuefas.json', 'events.json', 'stressfaktoren.json'];

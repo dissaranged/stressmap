@@ -54,7 +54,24 @@
     border: 1px red solid;
     border-radius: 5px;
 }
+
 .marker-description {
     max-height: 300px;
     overflow-y: scroll;
+}
+.marker-title {
+    text-align: center;
+}
+
+.vokue i {
+    color: rgb(23,165,165);
+}
+
+.event i {
+    color: rgb(165,23,165);
+}
+
+.marker-description .address {
+    font-size: 0.8em;
+    color:#A4A4A4;
 }
