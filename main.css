@@ -1,13 +1,16 @@
 #map {
     position:absolute;
-    top:0;
-    bottom:0;
-    width:90%;
-    margin:20px;
+    top:0px;
+    bottom:0px;
+    left: 0px;
+    right: 0px;
+    margin:5px;
 }
 
 #controls {
     float: right;
+    position: relative;
+    right: -10px;
     opacity: 0.7;
     background: grey;
     padding: 5px;

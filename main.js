@@ -182,12 +182,7 @@ function setupMap(geoJSON, filter) {
 function init() {
   // SetUp map
   L.mapbox.accessToken = 'pk.eyJ1IjoiZ2dyaW4iLCJhIjoiY2ltYjljMnJhMDAya3dmbTZ1d3hzNGVzbyJ9.jpe-T4LzCNjdpByfbHrJOA';
-  map = L.mapbox.map('map', 'mapbox.streets', {
-    legendControl: {
-      position: "bottomleft",
-      opacity: 0.7
-    }
-  })
+  map = L.mapbox.map('map', 'mapbox.streets')
 
   map.setView([52.5072095, 13.4], 10);
     
