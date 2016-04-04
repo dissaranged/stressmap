@@ -55,6 +55,12 @@
     border-radius: 5px;
 }
 
+
+.leaflet-popup-content-wrapper {
+    background-color: lightgrey;
+    border: 3px darkgrey dashed;
+    border-radius: 30px;
+}
 .marker-description {
     max-height: 300px;
     overflow-y: scroll;
@@ -73,5 +79,6 @@
 
 .marker-description .address {
     font-size: 0.8em;
-    color:#A4A4A4;
+    color:#696969;
+    text-align: right;
 }

@@ -16,10 +16,9 @@
     <link href="main.css" rel="stylesheet" />
     <script src="main.js"></script>
     <script id="infowindow" type="x-tmpl-mustache">
-      <span class="address">
+      <div class="address">
 	{{full_address}}
-      </span>
-      <br/>
+      </div>
       {{#event}}
       <div class="event">
 	<b style="color:red">{{ event.time }}</b> | {{ event.type}} <br/>
