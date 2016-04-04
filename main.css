@@ -54,3 +54,7 @@
     border: 1px red solid;
     border-radius: 5px;
 }
+.marker-description {
+    max-height: 300px;
+    overflow-y: scroll;
+}

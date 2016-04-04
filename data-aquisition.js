@@ -76,16 +76,16 @@ const fs = require('fs');
     );
   }
 
+  var geocoder = require('geocoder')
+  
   function get_stressis(html) {
     // getting all Addresses
     jsdom.env(
       //"http://stressfaktor.squat.net/adressen.php",
-      html,
-      ["http://code.jquery.com/jquery.js",
-       "https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.js"],
+      html, ["http://code.jquery.com/jquery.js"],
       function(err, window) {
 	const $ = window.jQuery
-	var L = window.L
+	
 	var stressis = [];
 	$('table:eq(3) table').each(function(i, e){
   	  var item = {};
@@ -110,17 +110,9 @@ const fs = require('fs');
   	  stressis.push(item);
 	});
 	//geoCoding
-	L.mapbox.accessToken = 'pk.eyJ1IjoiZ2dyaW4iLCJhIjoiY2ltYjljMnJhMDAya3dmbTZ1d3hzNGVzbyJ9.jpe-T4LzCNjdpByfbHrJOA';
-	var geocoder = L.mapbox.geocoder('mapbox.places');
-
-	function gotOne(i, err, data) {
-      	  if (data.latlng) {
-            stressis[i].coordinates = data.latlng.reverse();
-      	  } else {
-      	    console.error("couldn't retrieve geoLocation for : ",
-      			  stressis[i].address, "recived : ",err, data);
-      	  }
-	  
+	
+	function gotOne(i) {
+	  console.log('gotOne')
       	  if(++i < stressis.length){
       	    getOne(i);
       	  } else {
@@ -130,13 +122,25 @@ const fs = require('fs');
 	};
 	
 	function getOne(i) {
-      	  var item = stressis[i]
-	  console.log('retriving coordinates for '+item.name)
+      	  var item = stressis[i];
+	  console.log('retriving coordinates for '+item.name,item.address)
 	  //gotOne(i,null,{});return;
-      	  geocoder.query(item.address, gotOne.bind(null, i));
+      	  geocoder.geocode(item.address, function(err, data) {
+	    if (err) {
+	      console.error("couldn't retrieve geoLocation for : ",
+      			    stressis[i].address, "recived : ",  status);
+	    } else {
+	      item.coordinates = [
+		data.results[0].geometry.location.lng,
+		data.results[0].geometry.location.lat
+	      ];
+	    }
+	    gotOne(i)
+	  });
 	}
 	getOne(0)
 	function allDone() {
+	  console.log('AllDone')
       	  fs.writeFile('./tst-stressfaktoren.json',
       		       JSON.stringify(stressis, null, 2),
       		       'utf-8',
@@ -234,9 +238,9 @@ const fs = require('fs');
   }
 
   todo = {
-    './data/termine.html' : get_events,
+    // './data/termine.html' : get_events,
     // './data/kuefa.html' : get_vokues,
-    // './data/adressen.html' : get_stressis
+    './data/adressen.html' : get_stressis
   }
   for ( fname in todo ) {
     var txt = fs.readFileSync(fname);
