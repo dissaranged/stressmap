@@ -24,7 +24,10 @@
 .symbol {
     height: 1.3em;
     width: 1.3em;
-    margin: 10px;
+}
+
+.legend .symbol {
+    margin-left: 10px;
 }
 
 .cluster {
