@@ -8,6 +8,7 @@ const fs = require('fs');
   var fixings = {'Scherer8': {address: 'Schererstr 8, 13347 Berlin'},
 		 'Rosa Rose': {address: 'Jessnerstr. 3, 10247 Berlin'},
 		 'Babylonia': {address: 'Cuvrystr. 21, 10997 Berlin'},
+		 //sharni 38 is not in reinickendorf
 		 // KueFas
 		 'Groni50':  { name: "Groni50 (Wedding)" },
 		 'FE61': { name: "FREE e.V." },
@@ -157,15 +158,10 @@ const fs = require('fs');
     jsdom.env(
       //"http://stressfaktor.squat.net/adressen.php",
       html,
-      ["http://code.jquery.com/jquery.js",
-       "https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.js"],
+      ["http://code.jquery.com/jquery.js"],
       {encoding: 'binary'},
       function(err, window) {
 	var $ = window.jQuery;
-	var L = window.L;
-
-	L.mapbox.accessToken = 'pk.eyJ1IjoiZ2dyaW4iLCJhIjoiY2ltYjljMnJhMDAya3dmbTZ1d3hzNGVzbyJ9.jpe-T4LzCNjdpByfbHrJOA';
-	var geocoder = L.mapbox.geocoder('mapbox.places');
 
 	var c_geocoder = 0;
 	events = []
@@ -190,13 +186,17 @@ const fs = require('fs');
   	  } else {
 	    c_geocoder++;
 	    location = $('td:eq(1) b',entry)
+	    item.location = location.html();
 	    console.log('getting event : '+location.text())
-	    geocoder.query(location.text(), (err, data) => {
-	      if(data.latlng)
-		item.coordinates = data.latlng.reverse();
-	      else {
+	    geocoder.geocode(location.text(), function(err, data) {
+	      if (err) {
 		console.error("couldn't retrieve geoLocation for : ",
-      			      location.text(), "recived : ",err, data);
+      			      location.text(), "recived : ",  status);
+	      } else {
+		item.coordinates = [
+		  data.results[0].geometry.location.lng,
+		  data.results[0].geometry.location.lat
+		];
 	      }
 	      c_geocoder--;
 	    });

@@ -1,0 +1,22 @@
+{
+  "name": "stressmaps",
+  "version": "0.1",
+  "description": "Zeigt VoKues, Events und Adressen aus dem Berliner Stressfaktor auf einer mapbox karte",
+  "dependencies": {
+    "jsdom": "*",
+    "geocoder": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dissaranged/stressmap.git"
+  },
+  "keywords": [
+    "map",
+    "vokue",
+    "kuefa",
+    "berlin",
+    "stressfaktor"
+  ],
+  "author": "ggrin@riseup.net",
+  "license": "MIT"
+}

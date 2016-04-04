@@ -56,7 +56,6 @@ function mk_geoJSON(today) {
       if(el.location) {
 	carry[el.location] = merge(el);
       } else if (el.coordinates) {
-	var msg = '<span style="color:red">'+ el.time +'</span><br/>'+ el.desc
 	features.push( {
 	  type: 'Feature',
 	  geometry: {
@@ -65,7 +64,7 @@ function mk_geoJSON(today) {
 	  },
 	  properties: {
 	    title: el.type,
-	    description: msg,
+	    description: $.Mustache.render('infowindow',{event:el}),
             'marker-size': 'medium',
 	    'marker-color': '#A517A5',
 	    'marker-symbol': 'star',
