@@ -3,12 +3,13 @@ const fs = require('fs');
   var jsdom = require('jsdom');
   var Iconv = require('iconv').Iconv
   var iconv = new Iconv('ISO-8859-15', 'UTF-8');
-  
+  var geocoder = require('geocoder')
+ 
                   // Stressfaktoren
   var fixings = {'Scherer8': {address: 'Schererstr 8, 13347 Berlin'},
 		 'Rosa Rose': {address: 'Jessnerstr. 3, 10247 Berlin'},
 		 'Babylonia': {address: 'Cuvrystr. 21, 10997 Berlin'},
-		 //sharni 38 is not in reinickendorf
+		 'Scharni 38': {address: 'Scharnweberstr. 38, 10247 Berlin'},
 		 // KueFas
 		 'Groni50':  { name: "Groni50 (Wedding)" },
 		 'FE61': { name: "FREE e.V." },
@@ -20,6 +21,67 @@ const fs = require('fs');
 		 "Scherer 8": {"name": "Scherer8"},
 		 "Thommy-Weißbecker-Haus": {"name": "Tommy-Weisbecker-Haus"}
 		};
+
+  var faulty_ones = []
+  var geo_c = 0;
+  function geocode_this(ary, allDone) {
+    geo_c++;
+
+    function gotOne(i) {
+      console.log('gotOne')
+      if(++i < ary.length){
+      	getOne(i);
+      } else {
+      	console.log('retrieved all geoData');
+	geo_c--;
+      	allDone();
+      }
+    };
+	
+    function getOne(i) {
+            
+      var item = ary[i];
+      console.log('retriving coordinates for '+item.name,item.address)
+      var c = 0;
+      
+      var callback = function (err, data) {
+	if (err) {
+	  console.error("couldn't retrieve geoLocation for : ",
+      			address, "recived : ",  err);
+	} else {
+	  if (data.status === "OVER_QUERY_LIMIT") {
+	    setTimeout(gotOne.bind(null, i-1), 300);
+	    return;
+	  } else if (data.status === "ZERO_RESULTS"){
+	    if ( c == 0) 
+	      var address = item.address.replace(/\([^)]*\)/g, '').trim();
+	    else if( c == 1)
+	      address = (/\(([^)]*)\)/g).exec(item.address)[1].trim();
+	    if (c < 2) {
+	      c++;
+	      console.log('fixing address (', c , ') : ', address);
+	      geocoder.geocode(address, callback);
+	    } else {
+	      faulty_ones.push(item);
+	    }
+	    return;
+	  } else if(data && typeof data.results == 'object' && typeof data.results[0] == 'object' && data.results[0].geometry) {
+	    item.coordinates = [
+	      data.results[0].geometry.location.lng,
+	      data.results[0].geometry.location.lat
+	    ];
+	  } else {
+	    faulty_ones.push(item);
+	    console.error('Error in geocoder : ', JSON.stringify(item, null, 2), JSON.stringify(data, null, 2));
+	  }
+	}
+	gotOne(i);
+      }
+      
+      geocoder.geocode(item.address, callback);
+    }
+    getOne(0)
+  }
 
   
   // Get VoKues
@@ -76,8 +138,6 @@ const fs = require('fs');
       }
     );
   }
-
-  var geocoder = require('geocoder')
   
   function get_stressis(html) {
     // getting all Addresses
@@ -110,36 +170,8 @@ const fs = require('fs');
 
   	  stressis.push(item);
 	});
-	//geoCoding
 	
-	function gotOne(i) {
-	  console.log('gotOne')
-      	  if(++i < stressis.length){
-      	    getOne(i);
-      	  } else {
-      	    console.log('retrieved all geoData');
-      	    allDone();
-      	  }
-	};
 	
-	function getOne(i) {
-      	  var item = stressis[i];
-	  console.log('retriving coordinates for '+item.name,item.address)
-	  //gotOne(i,null,{});return;
-      	  geocoder.geocode(item.address, function(err, data) {
-	    if (err) {
-	      console.error("couldn't retrieve geoLocation for : ",
-      			    stressis[i].address, "recived : ",  status);
-	    } else {
-	      item.coordinates = [
-		data.results[0].geometry.location.lng,
-		data.results[0].geometry.location.lat
-	      ];
-	    }
-	    gotOne(i)
-	  });
-	}
-	getOne(0)
 	function allDone() {
 	  console.log('AllDone')
       	  fs.writeFile('./tst-stressfaktoren.json',
@@ -150,7 +182,8 @@ const fs = require('fs');
       			 console.log('Saved Addresses : '+ stressis.length +' items found.');
       		       });
 	}
-
+	//geoCoding
+	geocode_this(stressis, allDone);
       });
   }
 
@@ -184,24 +217,9 @@ const fs = require('fs');
   	  if(location.length > 0) {
   	    item.location = location.text();
   	  } else {
-	    c_geocoder++;
-	    location = $('td:eq(1) b',entry)
-	    item.location = location.html();
-	    console.log('getting event : '+location.text())
-	    geocoder.geocode(location.text(), function(err, data) {
-	      if (err) {
-		console.error("couldn't retrieve geoLocation for : ",
-      			      location.text(), "recived : ",  status);
-	      } else {
-		item.coordinates = [
-		  data.results[0].geometry.location.lng,
-		  data.results[0].geometry.location.lat
-		];
-	      }
-	      c_geocoder--;
-	    });
-	    //filter for adress in brackets
-  	  }
+	    item.address = $('td:eq(1) b',entry).text();
+	    item.location = $('td:eq(1) b',entry).html();
+	  }
 
 	  var loc = $('td:eq(1) b a',entry)[0]
 	  if( loc ) {
@@ -219,12 +237,7 @@ const fs = require('fs');
   	  events.push(item)
 	});
 
-	var f = function() {
-	  if (c_geocoder > 0) {
-	    console.log('.')
-	    setTimeout(f,500);
-	    return
-	  }
+	function allDone() {
 	  fs.writeFile('./tst-events.json',
       		       JSON.stringify(events, null, 2),
 		       'utf-8',
@@ -232,20 +245,37 @@ const fs = require('fs');
       			 if (err) throw err;
       			 console.log('Saved Events : '+ events.length +' items found.');
       		       });
-	};
-	f()	
+	}
+	
+	geocode_this(
+	  events.reduce( (ret, item) => {
+	      if(item.address)
+	        ret.push(item);
+	      return ret;
+	    }, []),
+	  allDone );
       });
   }
 
   todo = {
-    // './data/termine.html' : get_events,
-    // './data/kuefa.html' : get_vokues,
+    './data/termine.html' : get_events,
+    './data/kuefa.html' : get_vokues,
     './data/adressen.html' : get_stressis
+  }
+  function done_print(){
+    if ( geo_c > 0 ) {
+      setTimeout(done_print,100);
+      return
+    }
+    console.log('Errors in geoCoding  : ', JSON.stringify(faulty_ones,null, 2));
+    console.log(' stressis : ', stressis.length);
+    console.log(' vokues : ', stressis.length);
+    console.log(' events : ', stressis.length);
   }
   for ( fname in todo ) {
     var txt = fs.readFileSync(fname);
     var html = iconv.convert(txt).toString();
     todo[fname](html);
   }
-  
+  setTimeout(done_print,5000); //very very messy
 }());
