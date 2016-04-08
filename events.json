@@ -1,9 +1,9 @@
 [
   {
-    "time": "17:45",
+    "time": "18:00",
     "address": "Kino Moviemento (Kottbusser Damm 22)",
     "location": "Kino Moviemento (Kottbusser Damm 22)",
-    "type": "Punkfilmfest Berlin (2. Tag)",
+    "type": "Punkfilmfest Berlin (3. Tag)",
     "desc": "10.00 Uhr: \"Vilja und die Räuber\"<br>",
     "coordinates": [
       13.42342,
@@ -13,116 +13,86 @@
   {
     "time": "18:00",
     "free": true,
-    "location": "Fischladen",
-    "loc": "31",
-    "type": "Vorbereitungstreffen",
-    "desc": "Carnival of Subculture - 14. Mai 2016"
+    "location": "WB13",
+    "loc": "82",
+    "type": "Spieleabend",
+    "desc": "Heute ist Spiel, Spaß und Spannung angesagt. Egal ob Kartenspiele, Brettspiele oder andere Spiele kommt vorbei, bringt eure Lieblingsspiele mit und lasst uns den Abend spielend verbringen. Ein paar Spiele werden vorhanden sein, ebenso kühle Getränke und was zu futtern."
   },
   {
-    "time": "18:00",
-    "free": true,
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Politisches Café",
-    "desc": "Film: \"Punk-Revolution NYC\". Diese Doku zeigt die Spuren der Geschichte der New Yorker Punk-Bewegung. Außerdem TV-Interviews mit Richard Hell &amp; Richard Lloyd, Suicide's Alan Vega, Craig Leon (Produzent der Debütalben von The Ramones, Blondie und Suicide) und vielen mehr."
+    "time": "18:15",
+    "address": "Kino Moviemento (Kottbusser Damm 22)",
+    "location": "Kino Moviemento (Kottbusser Damm 22)",
+    "type": "Lesung",
+    "desc": "Lesung mit \"Attila The Stockbroker\" (Punkveteran aus England).",
+    "coordinates": [
+      13.42342,
+      52.49024
+    ]
   },
   {
     "time": "19:00",
     "free": true,
     "location": "Bunte Kuh",
     "loc": "1199",
-    "type": "HipHop-Tresen",
-    "desc": "Wir laden euch wieder zu unserem wöchendlichen Hip-Hop- Tresen in der Bunten Kuh ein. Wie immer gibt es ein Open-Mic, bei dem ihr dazu eingeladen seid, euer können unter Beweis zu stellen und die Bunte Kuh zu eurer persönlichen Bühne zu machen oder den Künstler*innen bei einem kühlen Getränk zu lauschen. Außerdem könnt ihr euch auf Master Al freuen, der das diesmalige Open-Mic eröffnet. Tresen: 19.00 Uhr. Konzert: 21.00 Uhr."
+    "type": "Infoveranstaltung",
+    "desc": "\"LKW - der typische Repressionsvowurf unter der Lupe\". Wir wollen die typischen Vorwürfe Landfriedensbruch, Körperverletzung und Widerstand erklären und deuten. Wann trifft es euch? Wie könnt ihr Repression vermeiden? Was solltet ihr bei einem entsprechenden Vorwurf berücksichtigen? Auf diese Fragen wollen wir euch Antworten geben. Referenten: Rechtsanwalt Martin Henselmann und Rote Hilfe Berlin."
   },
   {
     "time": "19:00",
     "free": true,
-    "address": "Café Laika (Emser Str. 131, Neukölln)",
-    "location": "Café Laika (Emser Str. 131, Neukölln)",
-    "type": "Ende Gelände! Infoabend",
-    "desc": "\"Kohle stoppen. Klima schützen!\" - unter diesem Motto wird \"Ende Gelände!\" dieses Jahr wieder ein deutliches Zeichen für den Klimaschutz setzen.<br>",
-    "coordinates": [
-      13.4380257,
-      52.4692679
-    ]
-  },
-  {
-    "time": "19:00",
-    "location": "JUP",
-    "loc": "970",
-    "type": "Infoveranstaltung",
-    "desc": "\"Freizeit ohne Kontrollen: Die Geschichte der westdeutschen Jugendzentrumsbewegung der 1970er Jahre\".<br>"
+    "location": "Meuterei",
+    "loc": "5269",
+    "type": "Soli-Abend",
+    "desc": "Soli-Abend für das Anarchistische Radio Berlin. Das A-Radio Berlin sammelt Geld für anarchistische Radioprojekte im Ausland und für ein internationales Radiotreffen 2016.<br>"
   },
   {
     "time": "19:00",
     "location": "Schokoladen",
     "loc": "1131",
     "type": "Konzert",
-    "desc": "\"Uliczny Opryszek\" (Punk aus Polen), \"Panika\" (Punk aus Berlin) + DJ."
-  },
-  {
-    "time": "19:00",
-    "free": true,
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "Riot Grrrl's not Dead #4",
-    "desc": "This month our feminist bar evening will screen the documentary \"Don't Need You - The Herstory of Riot Grrrl\" (language: english). The movie lets the creators of the riot grrrl movement speak for themselves. The doors at ZGK open at 7 pm, there will be delicious küfa at 7.30 pm and the movie starts at 8.30pm. Open for all gender."
-  },
-  {
-    "time": "19:30",
-    "location": "Friedel 54",
-    "loc": "7801",
-    "type": "Thursday: cinema",
-    "desc": "\"Mala Mala\" (2014, Puerto Rico, Documentary, Spanish/ English with English Subtitles, 90 min.) - This film shows several stories of the transgender community in Puerto Rico, including April Carrion, well-known drag queen who participated in reality show RuPaul's Drag Race. Mala Mala also includes the historic victory of the LGBT community with the approval and signature of Law 238-2014 (in Puerto Rico).<br>"
+    "desc": "\"Wood In Di Fire\" (Groovy Jazzy Reggae)"
   },
   {
     "time": "20:00",
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Kulturbühne: Kopfstand",
-    "desc": "Musikalische Lesebühne mit Sahara B., Paul Geigerzähler, Der Papst, seine Frau und sein Porsche und Gästen. Eintritt: Spende."
-  },
-  {
-    "time": "20:00",
-    "free": true,
-    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "type": "Küfa, Prisoner letter writing and Linocut",
-    "desc": "1st Thursday of the Month is back at Linienstrasse. Come for the delicious burgers and stay to learn or make lino cut prints. We will have tools, lino and paint as well as prints but you are free to bring your own. There is also a prisoner letter writing info table - come if you would like to write a postcard or letter ot someone in prison or would like to learn more about it. Everything by donation.",
-    "coordinates": [
-      13.402794,
-      52.528892
-    ]
-  },
-  {
-    "time": "20:00",
-    "location": "X-B-Liebig",
-    "loc": "83",
-    "type": "Konzert",
-    "desc": "\"Colored In\" (Grunge), \"Hexzlahr\" (Screamo), \"Drawstring\" (Emo). No space for discriminatory behavior! Eintritt: Spende."
-  },
-  {
-    "time": "20:30",
-    "free": true,
-    "location": "Café Cralle",
-    "loc": "20",
-    "type": "Infoveranstaltung",
-    "desc": "\"One Struggle - one fight!\" Selbstorganisierung und Perspekiven des Widerstandes gegen Rassismus und soziale Ausgrenzung.<br>"
-  },
-  {
-    "time": "20:30",
-    "free": true,
     "location": "Zielona Gora",
     "loc": "84",
-    "type": "Samahuset im Exil",
-    "desc": "Exiltresen mit Küfa (Pommes, veganen Burgern, Salat) und entspannendem Film (\"Planet Terror\")."
+    "type": "Soli-Tresen für anarchistische Gefangene",
+    "desc": "Die Einnahmen dieses Abends sind Soli für den Gefangenen Günther Finneisen. Günther hat fast 16 Jahre in Einzelhaft gesessen. Seit April 2015 ist er wieder eingesperrt. Der Vorwurf ist diesmal ein geplanter bewaffneter Raub. Günther wurde im Januar 2016 für 3 Jahre und 6 Monate verurteilt mit anschließender Sicherungsverwahrung. Da es ein Revisionsverfahren geben wird, braucht er finanzielle Unterstützung. Günther ist trotz seiner Inhaftierungen ein kämpferischer Gefangener, der sich dem Knastsystem nicht beugt. \"Knäste zu Baulücken!\""
+  },
+  {
+    "time": "20:30",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Info-Tresen",
+    "desc": "Die <a href=\"http://anarchistischegruppe.noblogs.org\">Anarchistische Gruppe Neukölln</a> lädt ein zu einer Veranstaltung zu 47 Jahren Häuserkampf in Berlin mit Fotos und kleinen Videoclips und einem Schwerpunkt auf migrantischen Hausbesetzungen."
+  },
+  {
+    "time": "20:30",
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "Konzert",
+    "desc": "Zuerst Lesung/Buchvorstellung: \"Attila's Autobiography Launch in Berlin\". Dann Konzert: \"Attila the Stockbroker with his Barnstormer\" (Punk Poet). Anschliessend DJ Ugly."
   },
   {
     "time": "21:00",
-    "free": true,
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Videokino Peliculoso",
-    "desc": "\"Last Days Of Our Disco\" USA 113min R.: Whit Stillman D.: Kate Beckinsale, Chloe Sevigny<br>"
+    "location": "Clash",
+    "loc": "1950",
+    "type": "Konzert",
+    "desc": "\"Suburbs\" und \"Bockwurschtbude\""
+  },
+  {
+    "time": "21:00",
+    "location": "Scherer8",
+    "loc": "3981",
+    "type": "Konzert",
+    "desc": "\"Beesus\" (Heavy-Rocker aus Italien), \"Meat\" (Groove-Death-Metaller aus Berlin), \"Lares\" (Stoner-Rock mit Post Black Metal-Einflüssen). Eintritt: Spende."
+  },
+  {
+    "time": "21:00",
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Konzert",
+    "desc": "\"La Mafia del Baile\" (Punkabilly, Surf) und \"Pornscars\" (Garage Punk)"
   }
 ]
