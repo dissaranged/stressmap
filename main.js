@@ -6,6 +6,17 @@ var overlay
 var data
 var geoJSON
 
+function filter(layer) {
+  var filters = $('.legend.active');
+  var ret = false;
+  filters.each( (i, thing) => {
+    var type = thing.classList[0];
+    if (layer.feature.properties[type] || type == 'stressfaktoren') 
+      ret = true;
+  });
+  return ret;
+}
+
 function loaded(dat) {
   data = dat;
   setupMap(mk_geoJSON('today'));
@@ -163,6 +174,7 @@ function setupMap(geoJSON, filter) {
   ['vokues', 'events', 'stressfaktoren'].forEach( thing => {
     groups[thing] = new L.MarkerClusterGroup({
       maxClusterRadius: 50,
+      disableClusteringAtZoom: 15,
       spiderfyOnMaxZoom: true,
       zoomToBoundsOnClick: true,
       iconCreateFunction: createIcon.bind(null, thing),
@@ -205,31 +217,58 @@ function init() {
   legend_items.each( (i, el) => {
     el.addEventListener('click',  e => {
       var type = el.classList[0]
-      if(type == 'stressfaktoren')
-	setupMap(geoJSON);
-      else {
-	setupMap(geoJSON, layer => {
-	  return layer.feature.properties[type]
-	})
+      if(type == 'stressfaktoren') {
+	legend_items.each( (i, thing) => {
+	  thing.classList.remove('active');
+	});
+	el.classList.add('active');
+      } else {
+	$('.stressfaktoren.legend')[0].classList.remove('active');
+	el.classList.toggle('active')
       }
-      legend_items.each( (i, thing) => {
-	thing.classList.remove('active');
-      });
-      el.classList.add('active');
+      setupMap(geoJSON, filter);
     });
+  });
+
+  // search bar
+  $('#find').on('change', (event) => {
+    console.log(event);
+    var string = event.target.value
+    var results = overlay.getLayers().reduce( (ret, group) => {
+      group.eachLayer( layer => {
+	if(new RegExp(string,'i').test( layer.feature.properties.title )){
+	  ret.push(layer)
+	}  
+      });
+      return ret;
+    }, []);
+    $('#findings').html(
+      results.reduce( (container, layer ) => {
+	var li = document.createElement('li');
+	li.textContent = layer.feature.properties.title
+	li.addEventListener('click', (event) => {
+	  map.setView(layer.getLatLng(), 15);
+	  layer.openPopup();
+	});
+	container.appendChild(li);
+	return container;
+      }, document.createElement('div'))
+    );
+  });
+  $('#reset_findings').on('click', function() {
+    $('#findings').html('')
   });
   
   //set day of the week
-  $('select#today').on('change', function(e,f) {
+  $('select#today').on('change', function(e) {
     var val = e.target.value
     if(val) {
-      setupMap(mk_geoJSON(val));
+      setupMap(mk_geoJSON(val),	filter);
     }
   })
 
   // infowindow
   $.Mustache.add('infowindow', $('#infowindow').html());
-  console.log($.Mustache.render('infowindow', {}))
   
   // Load Data
   var urls = ['kuefas.json', 'events.json', 'stressfaktoren.json'];
