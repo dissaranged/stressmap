@@ -4,7 +4,10 @@ const fs = require('fs');
   var Iconv = require('iconv').Iconv
   var iconv = new Iconv('ISO-8859-15', 'UTF-8');
   var geocoder = require('geocoder')
- 
+  var stressis = [];
+  var vokues = {};
+  var events = [];
+  
                   // Stressfaktoren
   var fixings = {'Scherer8': {address: 'Schererstr 8, 13347 Berlin'},
 		 'Rosa Rose': {address: 'Jessnerstr. 3, 10247 Berlin'},
@@ -41,6 +44,7 @@ const fs = require('fs');
     function getOne(i) {
             
       var item = ary[i];
+      console.log(item)
       console.log('retriving coordinates for '+item.name,item.address)
       var c = 0;
       
@@ -55,8 +59,11 @@ const fs = require('fs');
 	  } else if (data.status === "ZERO_RESULTS"){
 	    if ( c == 0) 
 	      var address = item.address.replace(/\([^)]*\)/g, '').trim();
-	    else if( c == 1)
-	      address = (/\(([^)]*)\)/g).exec(item.address)[1].trim();
+	    else if( c == 1) {
+	      var m = (/\(([^)]*)\)/g).exec(item.address);
+	      if(m)
+		address = m[1].trim();
+	    }
 	    if (c < 2) {
 	      c++;
 	      console.log('fixing address (', c , ') : ', address);
@@ -91,8 +98,7 @@ const fs = require('fs');
       ["http://code.jquery.com/jquery.js"],
       function (err, window) {
 	const $ = window.jQuery
-	var vokues = {};
-	
+		
 	function forOneDay(el) {
 	  var today = []
 	  $('span.text2', el).html().split('<br>').forEach(function(html){
@@ -147,7 +153,7 @@ const fs = require('fs');
       function(err, window) {
 	const $ = window.jQuery
 	
-	var stressis = [];
+	//var stressis = [];
 	$('table:eq(3) table').each(function(i, e){
   	  var item = {};
   	  item.name = $(e).find('tr:eq(0) span b').text().trim();
@@ -197,11 +203,12 @@ const fs = require('fs');
 	var $ = window.jQuery;
 
 	var c_geocoder = 0;
-	events = []
-	
-	
+		
+	var m = /(\d)+\.(\d+)\.(\d+)/.exec($('table:eq(3) td:eq(1) table>tbody>tr:eq(0) span').text())
+	var date = new Date(parseInt(m[3]),parseInt(m[2])-1,parseInt(m[1]))
+
 	$('table:eq(3) td:eq(1) table>tbody>tr:gt(0)').each(function(i, entry){
-  	  var item = {};
+  	  var item = {date: date};
   	  // TODO handle entry-free images
   	  item.time = /\d\d\.\d\d/.exec(
   	    $('td:eq(0)',entry).text()
@@ -257,11 +264,19 @@ const fs = require('fs');
       });
   }
 
+
+  
   todo = {
-    './data/termine.html' : get_events,
-    './data/kuefa.html' : get_vokues,
-    './data/adressen.html' : get_stressis
+    // './data/termine.html' : get_events,
+    // './data/kuefa.html' : get_vokues,
+    // './data/adressen.html' : get_stressis
   }
+  fs.readdirSync('./data/').filter( i => {
+    return /termine.php/.test(i)}).reduce( (cary, item) => {
+      todo['./data/'+item] = get_events
+      return cary;
+    }, todo)
+
   function done_print(){
     if ( geo_c > 0 ) {
       setTimeout(done_print,100);
@@ -269,8 +284,8 @@ const fs = require('fs');
     }
     console.log('Errors in geoCoding  : ', JSON.stringify(faulty_ones,null, 2));
     console.log(' stressis : ', stressis.length);
-    console.log(' vokues : ', stressis.length);
-    console.log(' events : ', stressis.length);
+    console.log(' vokues : ', vokues.length);
+    console.log(' events : ', events.length);
   }
   for ( fname in todo ) {
     var txt = fs.readFileSync(fname);
