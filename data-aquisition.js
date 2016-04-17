@@ -44,7 +44,6 @@ const fs = require('fs');
     function getOne(i) {
             
       var item = ary[i];
-      console.log(item)
       console.log('retriving coordinates for '+item.name,item.address)
       var c = 0;
       
@@ -208,9 +207,11 @@ const fs = require('fs');
 	var date = new Date(parseInt(m[3]),parseInt(m[2])-1,parseInt(m[1]))
 
 	$('table:eq(3) td:eq(1) table>tbody>tr:gt(0)').each(function(i, entry){
-  	  var item = {date: date};
+	  console.log("------------------------\n",entry.outerHTML)
+	  console.log("-->",$('td:eq(0)',entry).text())
+	  var item = {date: date};
   	  // TODO handle entry-free images
-  	  item.time = /\d\d\.\d\d/.exec(
+  	  var m = item.time = /\d\d?.\d\d/.exec(
   	    $('td:eq(0)',entry).text()
   	  )[0].replace('.',':').trim();
   	  var s = $('td:eq(0) img', entry)
