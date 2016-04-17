@@ -53,7 +53,7 @@ const fs = require('fs');
       			address, "recived : ",  err);
 	} else {
 	  if (data.status === "OVER_QUERY_LIMIT") {
-	    setTimeout(gotOne.bind(null, i-1), 300);
+	    setTimeout(gotOne.bind(null, i-1), 1000);
 	    return;
 	  } else if (data.status === "ZERO_RESULTS"){
 	    if ( c == 0) 

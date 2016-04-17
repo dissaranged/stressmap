@@ -34,7 +34,7 @@ function mk_geoJSON(today) {
   var features = []
   
   if (today == 'today')
-    today = Object.keys(data.kuefas)[(new Date().getDay()+7)%7];
+    today = Object.keys(data.kuefas)[(new Date().getDay()+6)%7];
 
   // Handle VoKues
   if (today == "all"){
@@ -65,7 +65,7 @@ function mk_geoJSON(today) {
   // Handle events
   var events = data.events.reduce(
     function(carry, el, index, obj){
-      if (today == 'all' || Object.keys(data.kuefas)[(new Date(el.date).getDay()+7)%7] == today) {
+      if (today == 'all' || Object.keys(data.kuefas)[(new Date(el.date).getDay()+6)%7] == today) {
 	if(el.location) {
 	  carry[el.location] = merge(el);
 	} else if (el.coordinates) {
