@@ -34,7 +34,7 @@ function mk_geoJSON(today) {
   var features = []
   
   if (today == 'today')
-      today = Object.keys(data.kuefas)[new Date().getDay()-1];
+    today = Object.keys(data.kuefas)[(new Date().getDay()+7)%7];
 
   // Handle VoKues
   if (today == "all"){
