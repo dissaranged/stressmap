@@ -174,7 +174,6 @@ function setupMap(geoJSON, filter) {
   ['vokues', 'events', 'stressfaktoren'].forEach( thing => {
     groups[thing] = new L.MarkerClusterGroup({
       maxClusterRadius: 50,
-      disableClusteringAtZoom: 15,
       spiderfyOnMaxZoom: true,
       zoomToBoundsOnClick: true,
       iconCreateFunction: createIcon.bind(null, thing),
@@ -200,7 +199,7 @@ function setupMap(geoJSON, filter) {
 function init() {
   // SetUp map
   L.mapbox.accessToken = 'pk.eyJ1IjoiZ2dyaW4iLCJhIjoiY2ltYjljMnJhMDAya3dmbTZ1d3hzNGVzbyJ9.jpe-T4LzCNjdpByfbHrJOA';
-  map = L.mapbox.map('map', 'mapbox.streets')
+  map = L.mapbox.map('map', 'mapbox.streets', {maxZoom: 15})
 
   map.setView([52.5072095, 13.4], 10);
     

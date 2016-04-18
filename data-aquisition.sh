@@ -19,6 +19,6 @@ node data-aquisition.js &&
     mv tst-events.json events.json &&
     mv tst-stressfaktoren.js stressfaktoren.js &&
     mv tst-kuefas.js kuefas.js
-git add events.json
+git add {events,kuefas.stressfaktoren}.json
 git commit -m "new data"
 git push origin gh-pages
