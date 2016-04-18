@@ -42,20 +42,6 @@
     <div id="map" class="dark"></div>
 
     <div id="controls">
-      <div> 
-      <select size="1" id="today" name="day" class="inputs">
-	<option value="today">heute</option>
-	<option value="all">alle Tage</option>
-	<option value="">------------------------</option>
-	<option value="Montag">Montag</option>
-	<option value="Dienstag">Dienstag</option>
-	<option value="Mittwoch">Mittwoch</option>
-	<option value="Donnerstag">Donnerstag</option>
-	<option value="Freitag">Freitag</option>
-	<option value="Samstag">Samstag</option>
-	<option value="Sonntag">Sonntag</option>
-      </select>
-      </div>
       <div class="stressfaktoren legend active">
 	<span>StressFaktoren</span>	<img class="symbol" src="./maki/danger-18.png">
       </div>
@@ -65,6 +51,22 @@
       <div class="vokues legend">
 	<span>VoKues</span>	<img class="symbol" src="./maki/restaurant-18.png">
       </div>
+
+      <div> 
+	<select size="1" id="today" name="day" class="inputs">
+	  <option value="today">heute</option>
+	  <option value="all">alle Tage</option>
+	  <option value="">------------------------</option>
+	  <option value="Montag">Montag</option>
+	  <option value="Dienstag">Dienstag</option>
+	  <option value="Mittwoch">Mittwoch</option>
+	  <option value="Donnerstag">Donnerstag</option>
+	  <option value="Freitag">Freitag</option>
+	  <option value="Samstag">Samstag</option>
+	  <option value="Sonntag">Sonntag</option>
+	</select>
+      </div>
+
       <div>
 	<input id="find" class="inputs">
 	<div id="findings"></div>
