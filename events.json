@@ -1,6 +1,120 @@
 [
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "10:45",
+    "address": "Bahnhof Alexanderplatz",
+    "location": "Bahnhof Alexanderplatz",
+    "type": "Zugtreffpunkt",
+    "desc": "Gemeinsame Anreise zur Gay-Pride-Parade in Brandenburg an der Havel. <a href=\"http://lgbti-conference.org/gaypride/\">Infos zur Parade</a><br>",
+    "coordinates": [
+      13.4132147,
+      52.5219184
+    ]
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "13:00",
+    "location": "Erreichbar",
+    "loc": "26",
+    "type": "Soli-Brunch",
+    "desc": "Veganer Brunch mit Salaten, Aufstrichen, Eintopf, Kuchen u.v.m. (mit glutenfreien Optionen). Alles gegen Spende. Wie jeden 3. Sonntag im Monat ist der Brunch von der Gruppe Afrika Unity."
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "14:00",
+    "free": true,
+    "address": "Gemeinschaftsgarten am Bethaniendamm",
+    "location": "Gemeinschaftsgarten am Bethaniendamm",
+    "type": "Gartenfest",
+    "desc": "\"Ton, Steine, Gärten trifft La Via Campesina\". Informationen, schenken, tauschen, erwerben von Saatgut und Setzlingen, essen und trinken, Kaffee und Kuchen. Refugees welcome!"
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "15:00",
+    "address": "Jugendclub Liebig 19",
+    "location": "Jugendclub Liebig 19",
+    "type": "Kiezversammlung",
+    "desc": "Liebe Nachbar*innen, Liebe Anwohner*innen, zwar ist die Präsenz der Polizei auf der Straße in den letzten Wochen deutlich gesunken, dennoch sehen wir uns weiterhin mit Kontrollen und Schikanen konfrontiert. Zudem wird nach wie vor Wahlkampf auf dem Rücken unseres Bezirks ausgetragen.<br>"
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "15:30",
+    "free": true,
+    "location": "K9",
+    "loc": "4347",
+    "type": "Infoveranstaltung",
+    "desc": "\"War, Occupation, Refugees\". This Event is in English. But we can organize translation.<br>"
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "17:00",
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Podiumsdiskussion",
+    "desc": "Podiumsdiskussion mit der Roten Hilfe: Linke Politik im Stadion und Repression.<br>"
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "17:00",
+    "free": true,
+    "location": "Villa Kuriosum",
+    "loc": "6787",
+    "type": "Ausstellung",
+    "desc": "\"Das Havarieamt präsentiert: Stapelkunst 2005-2007\". 18.00 Uhr Lesung aus Pippi Langstrumpf. Found &amp; Trash Art in unterschiedlichen Behältnissen, überwiegend in gefundenen Büroablagen. Ende 20.00 Uhr."
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "19:00",
+    "free": true,
+    "location": "Lunte",
+    "loc": "48",
+    "type": "Film",
+    "desc": "\"Sophie Scholl\". Februar 1943: Bei einer Flugblatt-Aktion gegen die Nazi-Diktatur wird die junge Studentin Sophie Scholl zusammen mit ihrem Bruder Hans in der Münchener Universität verhaftet.<br>"
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "19:00",
+    "free": true,
+    "location": "Rauchhaus",
+    "loc": "4268",
+    "type": "Breakfast For Dinner",
+    "desc": "Waking up after yet another crazy weekend on a sunday afternoon what could be greater than awesome vegan breakfast food!? English bfast, pancakes, smoothies, vegan grilled cheese sandwiches, fluffer nut toast. Combine ur own plate of amazing breakfast food. Brought to you by \"Einhorn\", vegan futter crew. Soli for Rauchhaus."
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "19:30",
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "Lesung",
+    "desc": "Autorin: Seweryna Szmaglewska \"Rauch über Birkenau\". Experimentelle Lesung: Eine weibliche Perspektive auf den Holocaust."
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "20:00",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Film",
+    "desc": "Dokufilm mit Regisseurin Carmen Blazejewski: \"Kleines Stück vom Schicksal\" (BRD 2011, 100 Min., R. &amp; B: Carmen Blazejewski) - Bevor wir dann alle aufs Land ziehen, vorher nochmal einen Blick auf diesen Film werfen: Alt-Meteln in Mecklenburg hat sich nach der Wende gemausert. Die Bewohner sind stolz auf ihre blühenden Vorgärten und Bürgermeister Franz auf die neue Asphaltstraße - sein Lebenswerk. Und der international angesehene Klavierbaumeister Matthias Kunze [den sehen wir nächste Woche in \"Erlöse uns von dem Bösen\" nochmal in jünger wieder) hat sich hier auf der grünen Wiese ein Imperium geschaffen. Nur der verfallene Hof von Lutz Turczynski, dem ehemaligen Ostberliner Theatermacher, ist ein \"Schandfleck\", dabei soll hier mitten im kapitalistischen Land \"ein exterritoriales Gebiet als konsequenteste Form von Ganzheitlichkeit und Nachhaltigkeit\" entstehen und straffällig gewordenen Kindern und Jugendlichen ein Zuhause geben. Die alte Geschichte von Erfolg und Misserfolg entwickelt sich zu einer Tragödie biblischen Ausmaßes, gehoben auf die Bühne des nahen Schweriner Theaters - oft zum Totlachen, manchmal nicht zum Aushalten."
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "20:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "Open stage - play your songs unplugged"
+  },
+  {
+    "date": "2016-04-16T22:00:00.000Z",
+    "time": "21:00",
+    "location": "X-B-Liebig",
+    "loc": "83",
+    "type": "Konzert",
+    "desc": "Experimentelle Nacht mit \"Purgis (Furu - dance, Adam Goodwin - kontrabass, Adrian Krok - drums), \"Teresa Riemann\" (piano &amp; voice), \"Mimosa\" (Natalie Sandrov - voice, electronics, Els Vandeweyer - vibraphone, Rieko Okuda - key) + \"Opta, h\" (harsh jazz from Berlin). There will be food."
+  },
+  {
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "17:00",
     "free": true,
     "location": "Café Morgenrot",
@@ -9,7 +123,7 @@
     "desc": "Miss Rottenmeiers queer-feministischer Stricktreff. Jeden 1. und 3. Mittwoch im Monat ab 17.00 Uhr. DIY-Workshop für Einsteiger_innen und Stitch'n Bitch. Alles, was Sie schon immer übers Stricken wissen wollten über die ersten Schritte des Selbermachens. Und/oder einfach gemütliches Stricken beim stilvollen Heissgetränk. Wenn möglich sollten Stricknadeln und Wolle mitgebracht werden. Für Einmaltäter_innen wird aber auch Material vorhanden sein."
   },
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "19:00",
     "free": true,
     "location": "Baiz",
@@ -18,7 +132,7 @@
     "desc": "\"Die gegenwärtige Situation erinnert mich an Karl Marx, der einst prophezeit hat, dass der Kapitalismus untergehen würde,...\" Dieser Satz stammt von Prof. Werner Sinn. \"FAZ\" und \"Welt\" beklagen eine Renaissance des Marxismus als \"Opium für Intellektuelle\" und z.B. US Zentralbank Mitglied N. Kashkari schlägt die Zerschlagung der US Großbanken vor, um das \"System2 zu retten - das seit 1848 umhergeisternde und mehrfach für mausetot erklärte \"Gespenst des Kommunismus\" wandelt zumindest in den Thinktanks der Eliten noch umher. Während sich die Systemadministratoren des Instrumentariums des Marxismus bedienen, gilt bei Linken ein Bezug auf diesen als ein Tabu. Die Forderung eines \"Linke\"-Politikers nach Zerschlagung der Großbanken wäre sein politischer Suizid innerhalb der Partei. Verkehrte Welt oder Ausdruck der (geistigen) Agonie der Linken? Lasst uns darüber diskutieren und das Opium mal probieren..."
   },
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "19:00",
     "free": true,
     "address": "Café Commune (Reichenberger Str. 157)",
@@ -31,7 +145,7 @@
     ]
   },
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "19:00",
     "free": true,
     "location": "FAU-Lokal",
@@ -40,7 +154,7 @@
     "desc": "\"Was tun, wenn die Polizei klingelt\". Wir wollen euch eine Informationsveranstaltung rund um das Thema Hausdurchsuchungen anbieten und die gängigen Fragen klären: Wann und was darf durchsucht werden? Zu welcher Uhrzeit? Wie kann ich mich vorbereiten? Was muss ich beachten? Wie hole ich Hilfe heran? Referenten: Rote Hilfe Berlin."
   },
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "19:00",
     "location": "Schokoladen",
     "loc": "1131",
@@ -48,7 +162,7 @@
     "desc": "\"Zukunft und die Lichter\" (Indie aus Berlin), \"Saender\" (Indie aus Köln) und \"Brandon Miller\" (Indie aus Berlin)"
   },
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "19:05",
     "free": true,
     "location": "Rauchhaus",
@@ -57,7 +171,7 @@
     "desc": "Free D.I.Y. Night-Fleamarket + Küfa and Surftresen. (Market from 19.05h - 24h, build up: 18h, without Anmeldung)"
   },
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "20:00",
     "location": "Abstand",
     "loc": "5085",
@@ -65,7 +179,7 @@
     "desc": "Konzert mit der Punkrock-Band \"Kein Hass da\". No dogs, no master. Eintritt: Spende."
   },
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "20:00",
     "free": true,
     "location": "Friedel 54",
@@ -74,7 +188,7 @@
     "desc": "Die FoodCoop Schinke 09 aus Kreuzberg 36 stellt sich vor und sucht neue Mitglieder.<br>"
   },
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "21:30",
     "free": true,
     "location": "Kastanienkeller",
@@ -83,7 +197,7 @@
     "desc": "Draußen ist's kalt, also wärmt euch ein wenig bei uns auf, indem ihr euch selbst oder gegenseitig beim legendären winterwöchentlichen Schwarzlichttischtennis zu sportlichen Höchstleistungen treibt. Für Getränke (und Snacks) ist gesorgt."
   },
   {
-    "date": "2016-03-30T22:00:00.000Z",
+    "date": "2016-04-19T22:00:00.000Z",
     "time": "22:00",
     "location": "Køpi",
     "loc": "43",
@@ -91,142 +205,159 @@
     "desc": "\"Hell\" (Extreme Funeral Doom Metal/Salem, Oregon, USA ) + \"Buio\" (Black Metal/Berlin)"
   },
   {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "10:45",
-    "address": "Bahnhof Alexanderplatz",
-    "location": "Bahnhof Alexanderplatz",
-    "type": "Zugtreffpunkt",
-    "desc": "Gemeinsame Anreise zur Gay-Pride-Parade in Brandenburg an der Havel. <a href=\"http://lgbti-conference.org/gaypride/\">Infos zur Parade</a><br>"
-  },
-  {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "13:00",
-    "location": "Erreichbar",
-    "loc": "26",
-    "type": "Soli-Brunch",
-    "desc": "Veganer Brunch mit Salaten, Aufstrichen, Eintopf, Kuchen u.v.m. (mit glutenfreien Optionen). Alles gegen Spende. Wie jeden 3. Sonntag im Monat ist der Brunch von der Gruppe Afrika Unity."
-  },
-  {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "14:00",
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "18:00",
     "free": true,
-    "address": "Gemeinschaftsgarten am Bethaniendamm",
-    "location": "Gemeinschaftsgarten am Bethaniendamm",
-    "type": "Gartenfest",
-    "desc": "\"Ton, Steine, Gärten trifft La Via Campesina\". Informationen, schenken, tauschen, erwerben von Saatgut und Setzlingen, essen und trinken, Kaffee und Kuchen. Refugees welcome!"
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "Politisches Café",
+    "desc": "Film: \"Don't need you\" is a documentary film that tells the story of the origins of Riot Grrrl in the American independent music scene of the 1990s, and how this feminist movement evolved into a revolutionary underground network of education and self-awareness through music, writing, activism, and women-friendly community. The film gives audiences a chance to meet key figures in the development of Riot Grrrl and see for themselves how these women have changed the history of music and feminism forever."
   },
   {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "15:00",
-    "address": "Jugendclub Liebig 19",
-    "location": "Jugendclub Liebig 19",
-    "type": "Kiezversammlung",
-    "desc": "Liebe Nachbar*innen, Liebe Anwohner*innen, zwar ist die Präsenz der Polizei auf der Straße in den letzten Wochen deutlich gesunken, dennoch sehen wir uns weiterhin mit Kontrollen und Schikanen konfrontiert. Zudem wird nach wie vor Wahlkampf auf dem Rücken unseres Bezirks ausgetragen.<br>"
-  },
-  {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "15:30",
-    "free": true,
-    "location": "K9",
-    "loc": "4347",
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "19:00",
+    "location": "Projektraum H48 (Neukölln)",
+    "loc": "3484",
     "type": "Infoveranstaltung",
-    "desc": "\"War, Occupation, Refugees\". This Event is in English. But we can organize translation.<br>"
+    "desc": "\"8. Mai gestern und heute - Gegen den Naziaufmarsch in Demmin\". Seit 2006 marschieren (Neo-)Nazis am Abend des 8. Mai, dem Tag der Befreiung vom Nazismus, in der mecklenburgischen Kleinstadt Demmin auf. Mit ihrem Fackelmarsch versuchen sie - ähnlich wie in Magdeburg und Dresden - an einen lokalen Opfermythos anzuknüpfen: den (angeblichen) Massensuizid tausender Demminer*innen in den letzten Kriegstagen. Sie versuchen damit die (mittlerweile) vorherrschende Lesart des 8. Mai als Tag der Befreiung zurückzudrängen. Mit Verweis auf die Leiden der deutschen (Zivil-)Bevölkerung sollen die Verbrechen des Naziregimes relativiert und eine Täter-Opfer-Umkehr erreicht werden.<br>"
   },
   {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "17:00",
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Podiumsdiskussion",
-    "desc": "Podiumsdiskussion mit der Roten Hilfe: Linke Politik im Stadion und Repression.<br>"
-  },
-  {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "17:00",
-    "free": true,
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Ausstellung",
-    "desc": "\"Das Havarieamt präsentiert: Stapelkunst 2005-2007\". 18.00 Uhr Lesung aus Pippi Langstrumpf. Found &amp; Trash Art in unterschiedlichen Behältnissen, überwiegend in gefundenen Büroablagen. Ende 20.00 Uhr."
-  },
-  {
-    "date": "2016-04-06T22:00:00.000Z",
+    "date": "2016-04-20T22:00:00.000Z",
     "time": "19:00",
-    "free": true,
-    "location": "Lunte",
-    "loc": "48",
-    "type": "Film",
-    "desc": "\"Sophie Scholl\". Februar 1943: Bei einer Flugblatt-Aktion gegen die Nazi-Diktatur wird die junge Studentin Sophie Scholl zusammen mit ihrem Bruder Hans in der Münchener Universität verhaftet.<br>"
-  },
-  {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "19:00",
-    "free": true,
-    "location": "Rauchhaus",
-    "loc": "4268",
-    "type": "Breakfast For Dinner",
-    "desc": "Waking up after yet another crazy weekend on a sunday afternoon what could be greater than awesome vegan breakfast food!? English bfast, pancakes, smoothies, vegan grilled cheese sandwiches, fluffer nut toast. Combine ur own plate of amazing breakfast food. Brought to you by \"Einhorn\", vegan futter crew. Soli for Rauchhaus."
-  },
-  {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "19:30",
-    "location": "Supamolly",
-    "loc": "77",
-    "type": "Lesung",
-    "desc": "Autorin: Seweryna Szmaglewska \"Rauch über Birkenau\". Experimentelle Lesung: Eine weibliche Perspektive auf den Holocaust."
-  },
-  {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "20:00",
-    "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Film",
-    "desc": "Dokufilm mit Regisseurin Carmen Blazejewski: \"Kleines Stück vom Schicksal\" (BRD 2011, 100 Min., R. &amp; B: Carmen Blazejewski) - Bevor wir dann alle aufs Land ziehen, vorher nochmal einen Blick auf diesen Film werfen: Alt-Meteln in Mecklenburg hat sich nach der Wende gemausert. Die Bewohner sind stolz auf ihre blühenden Vorgärten und Bürgermeister Franz auf die neue Asphaltstraße - sein Lebenswerk. Und der international angesehene Klavierbaumeister Matthias Kunze [den sehen wir nächste Woche in \"Erlöse uns von dem Bösen\" nochmal in jünger wieder) hat sich hier auf der grünen Wiese ein Imperium geschaffen. Nur der verfallene Hof von Lutz Turczynski, dem ehemaligen Ostberliner Theatermacher, ist ein \"Schandfleck\", dabei soll hier mitten im kapitalistischen Land \"ein exterritoriales Gebiet als konsequenteste Form von Ganzheitlichkeit und Nachhaltigkeit\" entstehen und straffällig gewordenen Kindern und Jugendlichen ein Zuhause geben. Die alte Geschichte von Erfolg und Misserfolg entwickelt sich zu einer Tragödie biblischen Ausmaßes, gehoben auf die Bühne des nahen Schweriner Theaters - oft zum Totlachen, manchmal nicht zum Aushalten."
-  },
-  {
-    "date": "2016-04-06T22:00:00.000Z",
-    "time": "20:00",
     "location": "Schokoladen",
     "loc": "1131",
     "type": "Konzert",
-    "desc": "Open stage - play your songs unplugged"
+    "desc": "\"Parcels\" (Australien) und \"Hush Moss\" (Israel/Berlin)"
   },
   {
-    "date": "2016-04-06T22:00:00.000Z",
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "19:30",
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Thursday: cinema",
+    "desc": "\"My Brooklyn\" (USA 2012, USA, Documentary, English, 85 min) - A documentary about Director Kelly Anderson's personal journey, as a Brooklyn \"gentrifier\", to understand the forces reshaping her neighborhood along lines of race and class.<br>"
+  },
+  {
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "20:00",
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Konzert",
+    "desc": "Songwriter-Abend mit \"Peter, der\" und \"Hans F.\" Eintritt: Spende."
+  },
+  {
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "20:00",
+    "free": true,
+    "location": "Bandito Rosso",
+    "loc": "15",
+    "type": "Infoveranstaltung",
+    "desc": "\"Organize - gegen Rassismus und soziale Ausgrenzung\". Ferienwohnungen, explosiv steigende Mieten, Zwangsräumungen, Lagerunterbringung von Menschen auf der Flucht und vieles mehr, machen das Leben in dieser Stadt tagtäglich schwerer. Um diesen Entwicklungen eine kraftvolle und solidarische Antwort zu geben, bedarf es einer Selbstorganisierung von unten. Aus diesen Anlass findet am 30.04. um 16.30 Uhr am U-Bhf. Osloer Straße eine antikapitalistische Demonstration für Selbstorganisierung und solidarische Perspektiven statt. Die stadtteilpolitische Gruppe <a href=\"http://haendewegvomwedding.blogsport.eu\">\"Hände weg vom Wedding\"</a> stellt aktuelle Kämpfe gegen Verdrängung vor.<br>"
+  },
+  {
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "20:00",
+    "location": "Kadterschmiede",
+    "loc": "4265",
+    "type": "Rigaer Raklett",
+    "desc": "Rigaer Raklett präsentiert lecker Essen und Film: \"Broken Land\" (2014, in Englisch mit dt. Untertitel) - Mauern gegen Migration: Dieses Konzept findet nicht nur in Europa Anwendung, sondern auch an der amerikanisch-mexikanischen Grenze. Mitten durch die karge Wüste führt der Grenzzaun, der die beiden Staaten trennt. Der Dokumentarfilm erzählt aus der Perspektive derer, die auf der begehrenswerten Seite des Zauns leben und lässt US-Bürger zu Wort kommen. Die unkommentierten Aussagen der Interviewten bedürfen keiner journalistischen Bewertung, um die Absurdität der Situation zu verdeutlichen."
+  },
+  {
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "20:00",
+    "free": true,
+    "address": "Laidak (Boddinstr. 42/43)",
+    "location": "Laidak (Boddinstr. 42/43)",
+    "type": "Infoveranstaltung",
+    "desc": "\"Was ist anarchistische Stadtpolitik? Grundbausteine, Aufgaben und Probleme\".<br>",
+    "coordinates": [
+      13.4283167,
+      52.47992010000001
+    ]
+  },
+  {
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "20:00",
+    "free": true,
+    "location": "Meuterei",
+    "loc": "5269",
+    "type": "Info event (eng) + solicocktails night",
+    "desc": "Info event about the demo of 7th of May at the Brenner border. <a href=\"http://abbatterelefrontiere.blogspot.de\" target=\"_blank\" title=\"Weitere Infos: http://abbatterelefrontiere.blogspot.de\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a> <br>"
+  },
+  {
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "20:00",
+    "free": true,
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "NoBorders Filmabend + Küfa",
+    "desc": "Wir backen wieder unsere super-leckere vegane Focaccia. Dazu zeigen wir \"Um jeden Preis. Tod oder Europa\" - Gibt es keinen Ausweg oder müssen doch weiterhin Menschen sterben? Die Weltlandwirtschaft könnte problemlos 12 Milliarden Menschen ernähren. (Eine Doku von S.M. Vetter und K. Steiberger). Danach gibt's Tresen, Mukke und freie Kicker."
+  },
+  {
+    "date": "2016-04-20T22:00:00.000Z",
     "time": "21:00",
+    "free": true,
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Videokino Peliculoso",
+    "desc": "\"Nibelungen\" D 1924 143min R.: Fritz Lang D.: Paul Richter, Margarete Schön<br>"
+  },
+  {
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "21:00",
+    "location": "Scherer8",
+    "loc": "3981",
+    "type": "Liedermacher*in-Tresen",
+    "desc": "Jeden 3. Do. im Monat. \"Merle\" und \"Grog\"."
+  },
+  {
+    "date": "2016-04-20T22:00:00.000Z",
+    "time": "21:30",
+    "free": true,
     "location": "X-B-Liebig",
     "loc": "83",
-    "type": "Konzert",
-    "desc": "Experimentelle Nacht mit \"Purgis (Furu - dance, Adam Goodwin - kontrabass, Adrian Krok - drums), \"Teresa Riemann\" (piano &amp; voice), \"Mimosa\" (Natalie Sandrov - voice, electronics, Els Vandeweyer - vibraphone, Rieko Okuda - key) + \"Opta, h\" (harsh jazz from Berlin). There will be food."
+    "type": "Jam Session",
+    "desc": "Also in April, XB Jam Session falls in the 3rd Thursday of the month. As always, there's going to be Delikatessen Küfa (vegan) at 20.30, and Soli-Cocktails. Bring your own instruments. No rockstars."
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "09:00",
     "address": "Landgericht Berlin (Turmstr. 91, Moabit)",
     "location": "Landgericht Berlin (Turmstr. 91, Moabit)",
     "type": "Prozess",
-    "desc": "Rechter Mord in Neukölln? Aufruf zur Prozessbeobachtung. Prozess gegen Rolf Z. Aktenzeichen 529 KS 1/16. Saal 500, Turmstraße 91. Angekündigte Fortsetzungstermine: 25.4. um 09.00 Uhr.<br>"
+    "desc": "Rechter Mord in Neukölln? Aufruf zur Prozessbeobachtung. Prozess gegen Rolf Z. Aktenzeichen 529 KS 1/16. Saal 500, Turmstraße 91. Angekündigte Fortsetzungstermine: 25.4. um 09.00 Uhr.<br>",
+    "coordinates": [
+      13.35201,
+      52.52614
+    ]
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "16:00",
     "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
     "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
     "type": "Antikriegscafé",
-    "desc": "Kaffee trinken, Kekse essen, sich über Krieg und Militarisierung austauschen. Diesen Monat Thema: Wehrpflicht. Ab 18.00 Uhr zeigen wir die Doku \"Insumission - 20 years of disobedience\" (OmeU - mit Spontanübersetzung ins Deutsche) über Wehrpflichtverweigerung in Spanien."
+    "desc": "Kaffee trinken, Kekse essen, sich über Krieg und Militarisierung austauschen. Diesen Monat Thema: Wehrpflicht. Ab 18.00 Uhr zeigen wir die Doku \"Insumission - 20 years of disobedience\" (OmeU - mit Spontanübersetzung ins Deutsche) über Wehrpflichtverweigerung in Spanien.",
+    "coordinates": [
+      13.402794,
+      52.528892
+    ]
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "19:00",
     "free": true,
     "address": "Biergarten Jockel (Ratiborstr. 14c, Kreuzberg)",
     "location": "Biergarten Jockel (Ratiborstr. 14c, Kreuzberg)",
     "type": "Treffen + Infos",
-    "desc": "\"Officina Bellinzona und das Ultimatum der Arbeiter*innen!\" Offenes Treffen des Klassenkampferischen Blocks.<br>"
+    "desc": "\"Officina Bellinzona und das Ultimatum der Arbeiter*innen!\" Offenes Treffen des Klassenkampferischen Blocks.<br>",
+    "coordinates": [
+      13.43855,
+      52.49194
+    ]
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "19:00",
     "location": "Schokoladen",
     "loc": "1131",
@@ -234,7 +365,7 @@
     "desc": "\"Brothers In Law\" (Noise Pop, Post-Punk aus Italien) und \"Häxxan\" (Garage Psych Punk aus Israel). Aftershow Tunes by DJ Al-ex Plush Anders (Punk, Glam, Wave)."
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "20:00",
     "free": true,
     "location": "K19 Café",
@@ -243,7 +374,7 @@
     "desc": "Weltküche mit entwicklungspolitischem Nachtisch<br>"
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "20:00",
     "free": true,
     "location": "New Yorck im Bethanien",
@@ -252,7 +383,7 @@
     "desc": "KüfA, Cocktails and Cold Drinks. We are collecting money to support a refugee activist. The people of <a href=\"https://cispmberlin.wordpress.com/2016/02/24/no-stress-tour-2016-first-edition/\">No-Stress-Tour</a> are going to talk about their plans for this summer. If you are interested to learn more or would like to take part, please come by and join us.<br>"
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "21:00",
     "free": true,
     "location": "Køpi",
@@ -261,7 +392,7 @@
     "desc": "\"Look of Silence\" Dän 2014 103min  R.: Joshua Oppenheimer<br>"
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "21:00",
     "location": "Schokoladen",
     "loc": "1131",
@@ -269,7 +400,7 @@
     "desc": "Schokokuss presents: Party-Night"
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "21:30",
     "free": true,
     "location": "Sama-Café",
@@ -278,7 +409,7 @@
     "desc": "\"Reise der Verdammten\" (1976)"
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "22:00",
     "free": true,
     "location": "Abstand",
@@ -287,7 +418,7 @@
     "desc": "Es ist wieder so weit... Electro im Abstand. Diesmal mit live DJ Tomasz (Deep House), Schwarzlicht-Kicker und Visuals. No dogs, no master."
   },
   {
-    "date": "2016-04-07T22:00:00.000Z",
+    "date": "2016-04-17T22:00:00.000Z",
     "time": "22:00",
     "location": "Køpi",
     "loc": "43",
@@ -295,7 +426,248 @@
     "desc": "\"Krlja\" (grindcore/Croatia) - \"Disbaja\" (grindcore/Croatia)"
   },
   {
-    "date": "2016-04-08T22:00:00.000Z",
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "17:00",
+    "location": "JUP",
+    "loc": "970",
+    "type": "\"Wir feiern die Befreiung Pankows\"",
+    "desc": "In den Tagen um den 23. und 24. April befreite die Rote Armee den Berliner Bezirk Pankow. Sie beendete damit die Herrschaft der Nazis im Bezirk und bereitete damit den Weg für die vollständige Befreiung Berlins. Im Zuge des Vorrückens wurden auch etliche Zwangsarbeiter_innenlager, wie das Lager in der Schönholzer Heide aufgelöst und die Sklavenarbeiter_innen befreit. Dieses Datum ist für uns ein Grund zu feiern.<br>"
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "19:00",
+    "free": true,
+    "location": "Meuterei",
+    "loc": "5269",
+    "type": "Soli-Tresen",
+    "desc": "Soli-Tresen für Bleiberechtskosten mit Film um 19.30 Uhr und Cocktails."
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Notgemeinschaft Peter Pan\" (Punk aus Hamburg) und \"Coolerking\" (Punk, HC aus Berlin - 2/3 Spermbirds)"
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "20:00",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Offener antifaschistischer Tresen",
+    "desc": "Vertreter*innen der Initiative zur Aufklärung am Mord von Burak Bektaş werden sich und ihre Arbeit vorstellen. Darüber wollen wir in eine Diskussion kommen: Wie kann Rassismus und rassistischer Terror/Anschläge thematisiert werden? Was hat das gesellschaftliche Klima damit zu tun? Was sind die praktischen Forderungen und weitergehenden Ziele der Kampagne? Wie können sie in andere Kontexte eingebunden werden?"
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "20:00",
+    "address": "Maxim (Charlottenburger Str. 117, Weissensee)",
+    "location": "Maxim (Charlottenburger Str. 117, Weissensee)",
+    "type": "Konzert",
+    "desc": "Konzertreihe Abgang. On stage: \"Bacabs\" (Punk'n Roll) und \"Kibotu\" (Alternative).",
+    "coordinates": [
+      28.7263889,
+      -20.0719444
+    ]
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "20:00",
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Too Drunk to Pogo Festival Tag 1",
+    "desc": "Live: \"The Veggers\" (Hardcorepunk aus Seoul), \"Reddot\" (Poppunk aus Seoul), \"Baretta Love\" (Punk), \"Erring Soda\" (Punk aus Berlin), \"Cut My Skin\" (Punk aus Berlin)."
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "20:00",
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "Internationalistischer Abend",
+    "desc": "1. Mai-Veranstaltung: Rote Hilfe und EA - Im Interesse der Bewegung. Wir wollen euch im Rahmen dieser Veranstaltung erläutern, wie die Antirepressionsstrukturen Rote Hilfe und Ermittlungsausschuss Berlin arbeiten. Wann und Wie bekommt Mensch Hilfe? Wir erklären, was der EA eigentlich macht und wann ihr zur Roten Hilfe kommen könnt oder kommen solltet. Es wird erläutert warum es wichtig ist, Organisationen wie den EA, die Rote Hilfe oder auch Anwälte in die Vorbereitung von Aktionen einzubeziehen und wann und wie man Kontakt zu den Strukturen aufnimmt. Referenten: Ermittlungsausschuss und Rote Hilfe Berlin. <a href=\"http://www.berlin.rote-hilfe.de/events/\" target=\"_blank\" title=\"Weitere Infos: http://www.berlin.rote-hilfe.de/events/\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a><br>"
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "21:00",
+    "location": "Erreichbar",
+    "loc": "26",
+    "type": "Konzert",
+    "desc": "Konzert mit \"Glitter Inferno\" (queerer Acapella-Chor singt hysterischen Pop und schmalzige Baladen), \"Faulenza\" (Trans*pride HipHop und Gitarrenlieder). Dazu gibt's was zu futtern und nen Cocktailtresen für unsere Solizimma. Kommt vorbei - schwelgt und tanzt mit uns. Eintritt: Spende."
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "21:00",
+    "location": "K19 Café",
+    "loc": "45",
+    "type": "FAU Solikonzert",
+    "desc": "Im April 2013 starteten wir einen Arbeitskampf gegen die Heinrich-Böll-Stiftung, da einige unserer Mitglieder und ihre Kolleg*innen dort unter äußerst prekären Bedingungen arbeiten mussten. Das ganze landete vor Gericht, der Prozess dauerte mehrere Jahre und einige Kosten sind entstanden.<br>"
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "21:00",
+    "location": "X-B-Liebig",
+    "loc": "83",
+    "type": "Konzert",
+    "desc": "\"LovataraxX\" (Synthwave, Coldwave from Grenoble). Eintritt: Spende."
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "21:30",
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "Konzert",
+    "desc": "\"Wojczech\" (Grindcore), \"Balg\" (Math, Noise Core), \"Confusion Master\" (Sludge, Doom)"
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "22:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im AGH",
+    "desc": "\"Terror Detonator\" (Thrash Metal - Patras/ Greek) - \"Sardanapalm Death\" (Thrash Crust - Patras/ Greek)<br>"
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "22:00",
+    "free": true,
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Multisexueller Abend",
+    "desc": "Früher war's auch nicht besser, nur anders. Alte Perlen realsozialistisch gefädelt - ein Mitropa-Kneipenabend. Mit Tanzmusik aus Ost und West. Warme und kalte Speisen und überraschende Showelemente."
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "23:00",
+    "location": "Lauschangriff",
+    "loc": "2041",
+    "type": "Party",
+    "desc": "Liquidpunk - Underground DnB Party mit lokalen DJs. Eintritt: Spende."
+  },
+  {
+    "date": "2016-04-21T22:00:00.000Z",
+    "time": "0:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im Koma F",
+    "desc": "Nothing Nice To Say Festival Aftershowparty mit \"Minus Apes\" (Hardcore Punk- one off reunion show/Berlin) + \"Life Fucker\" (Noise Punk/Berlin) + \"Cheap Drugs\" (Hardcore/Belgium) + DJs"
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "16:00",
+    "free": true,
+    "location": "f.a.q.",
+    "loc": "5379",
+    "type": "Konferenz: Who Cares?",
+    "desc": "Lesungen, Workshops, Diskussionen. \"Who Cares?\" hinterfragt \"sich kümmern\" als Frauen*rolle innerhalb der Geschichte des Kapitalismus. Wir erfinden Experimente, die zu anderen Umgängen mit Für_Sorge inspirieren. Wir begegnen Frauen*bildern wie der Hexe*, der Hure*, der Mutter* und der Hysterikerin*. Wir brechen mit Karriere und Identitätsdruck, streiken mit Trauer, diskutieren Konzepte von Freundschaft, Liebe und Mitgefühl - auf der Suche nach Visionen antikapitalistisch feministischer Zukunft. <a href=\"http://theirksomeinstitute.wordpress.com\">Mehr Infos</a>"
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Phantom Winter\", \"Cranial\" und \"Chambers\""
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "19:00",
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Konzert",
+    "desc": "Too Drunk to Pogo Festival Tag 2<br>"
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "20:00",
+    "location": "Kadterschmiede",
+    "loc": "4265",
+    "type": "Konzert",
+    "desc": "\"Sollbruchstellen im Gefahrengebiet\". Solisplit für die FAU Berlin und gegen das Gefahrengebiet. Zugleich auch Tonträgerreleaseparty von Geigerzaehler.<br>"
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "20:00",
+    "location": "Schreina47",
+    "loc": "87",
+    "type": "Infoveranstaltung",
+    "desc": "\"8. Mai Demmin - Nazis stoppen!\" Ein A-Z von Antifa bis Ziviler Ungehorsam - über den Naziaufmarsch in Demmin. Seit 2006 marschieren (Neo-)Nazis zum Jahrestag der Befreiung Demmins und dem damit einhergehenden Massensuizid der örtlichen Bevölkerung durch die mecklenburgische Kleinstadt. Ähnlich wie in Dresden oder Magdeburg versuchen die (Neo-)Nazis damit ihre verfälschte Sichtweise auf die deutsche Geschichte um die Befreiung vom Nazismus in die Öffentlichkeit zu tragen, einen Opfermythos zu konstruieren und sich von der Deutschen Schuld rein zu waschen.<br>"
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "20:00",
+    "location": "X-B-Liebig",
+    "loc": "83",
+    "type": "Konzert",
+    "desc": "\"52 Hertz\" (Emo), \"Godzilla Was A Friend Of Mine\" (Emo), \"Watching Tides\" (Emo). No space for discriminatory behavior! Eintritt: Spende."
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "20:30",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Infoveranstaltung",
+    "desc": "Die <a href=\"htpp://anarchistischegruppe.noblogs.org\">Anarchistische Gruppe Neukölln</a> lädt ein: Infoveranstaltung zur Waldbesetzung von <a href=\"http://lautonomia.blogsport.eu\">Lautonomia</a> an der Rodungskante des Tagebau Nochten im Lausitzer Braunkohlerevier.<br>"
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "20:30",
+    "location": "Lichtblick",
+    "loc": "1130",
+    "type": "Film",
+    "desc": "\"Tito on Ice\" - Die Comiczeichner Max Andersson und Lars Sjunnesson reisen quer durch das ehemalige Jugoslawien. Mit an Bord: ein Kühlschrank, darin: die Mumie von General Tito. Die Reise ist eine Promotour für einen neuen Comic der Schweden und zugleich ein Kunst- und Geschichtshappening über Tito und den Zerfall Jugoslawiens. Auf ihrem Trip tauchen die Künstler ein in eine skurrile Welt voller Paralleluniversen und überschreiten pausenlos Grenzen. Auch die zwischen den Genres: Dokumentarisches Super-8-Material geht über in Animationen aus Pappe und Müll. Ein Film über und jenseits von Grenzen - tragisch, poetisch und sehr komisch. Zum Kinostart in Anwesenheit des Regieduos Max Andersson und Helena Ahornen. Eintritt: 6,-/5,- EUR."
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "21:00",
+    "location": "Kastanienkeller",
+    "loc": "41",
+    "type": "Konzert",
+    "desc": "\"Syny\" (Hiphop aus Polen), \"Jarkas\" (Hiphop aus Syrien), \"Yac\" (Dub, Noise, Trance aus Polen). After: Video Party-Grime around the world (DVJ Krokodil Injection)"
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "21:00",
+    "location": "KvU (Kirche von Unten)",
+    "loc": "46",
+    "type": "Konzert + Geburtstagsparty",
+    "desc": "100 Jahre Punk Pur Birthday Bash: \"Disturbance\" (Punk aus NL), \"Cut My Skin\" (Punk aus Berlin), \"Defrag\" (Dark Punk aus UK/Berlin). Danach Punk-DJ."
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "21:00",
+    "location": "Mensch Meier",
+    "loc": "8045",
+    "type": "Soli-Geburtstagsparty",
+    "desc": "\"Es ist uns keine Ehre! 20 Jahre MediBüro Berlin 1996-2016\". Das Medibüro setzt sich seit 20 Jahren für die medizinische Versorgung aller Menschen unabhängig vom Aufenthaltsstatus ein. Wir wollen unser Durchhaltevermögen und unsere Unermüdlichkeit feiern. Zur Party sind alle eingeladen, die uns in den letzten 20 Jahren unterstützt haben, mit uns zu tun hatten, uns kennenlernen oder einfach Spaß haben wollen.<br>"
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "21:30",
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "Konzert",
+    "desc": "\"Riggots\" (Agressive Pop, HC/Punk) + Support. Danach DJ."
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "22:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im AGH",
+    "desc": "\"China Shop Bull\" (RavePunkHip Leeds/UK) - \"Killaflaw\" (Beats`nDance Livercool/West)"
+  },
+  {
+    "date": "2016-04-22T22:00:00.000Z",
+    "time": "23:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Soliparty im Køpikeller",
+    "desc": "\"Schrott Welt\" - SoliTekno für die KØPI<br>"
+  },
+  {
+    "date": "2016-04-18T22:00:00.000Z",
     "time": "18:00",
     "location": "Clash",
     "loc": "1950",
@@ -303,7 +675,7 @@
     "desc": "Carnival of Subculture - 14. Mai 2016"
   },
   {
-    "date": "2016-04-08T22:00:00.000Z",
+    "date": "2016-04-18T22:00:00.000Z",
     "time": "19:00",
     "free": true,
     "location": "Bandito Rosso",
@@ -312,7 +684,7 @@
     "desc": "\"Festung Europa einreißen\". Die Abschottung der EU wird immer weiter vorangetrieben. Kriegsschiffe von EU und Nato sind im Mittelmeer im Einsatz um Geflüchtete an der Überfahrt zu hindern. Außerdem soll die EU-Grenzschutzbehörde Frontex neue Befugnisse erhalten und zu einem europäischen Grenz- und Küstenwachsystem umgebaut werden. Geflüchtete werden in sogenannten Hot Spots in Griechenland und Italien registriert, festgesetzt und ein großer Teil wird direkt abgeschoben. Diejenigen, die es schaffen in die BRD zu kommen, sind mit Gesetzesverschärfungen wie dem Asylpaket II, Unterbringung in Lagern, Residenzpflicht, rassistischer Hetze und gewalttätigen Übergriffen konfrontiert. Neben dem staatlichen Rassismus erstarken rechte Bewegungen wie »Pegida« und die »Alternative für Deutschland«. Gewalttätige Übergriffe auf Geflüchtete und ihre Unterkünfte haben rasant zugenommen. Es zeigen sich deutliche Parallelen zu den rassistischen Mobilisierungen der 1990er Jahre. Der linke Aktivist Matthias Monroy wird über die Abschottungspolitik der EU und die Frage wie im Sommer 2015 die Mauern der Festung Europa ins Wanken kamen, sprechen. Der Refugee-Aktivist Turgay Ulu geht auf die Situation von Geflüchteten in der BRD und die Perspektiven der Refugee-Bewegung ein. <a href=\"http://www.perspektive.nostate.net\" target=\"_blank\" title=\"Weitere Infos: http://www.perspektive.nostate.net\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
   },
   {
-    "date": "2016-04-08T22:00:00.000Z",
+    "date": "2016-04-18T22:00:00.000Z",
     "time": "19:30",
     "free": true,
     "location": "Friedel 54",
@@ -321,7 +693,7 @@
     "desc": "Die <a href=\"http://anarchistischegruppe.noblogs.org\">Anarchistische Gruppe Neukölln</a> lädt ein zu einer Veranstaltung mit jimmy boyle: \"Einstellungen zur Arbeit - Stolz, Lob, Selbstverwirklichung und Leistungsgerechtigkeit\". Das Lob der Arbeit, der Stolz auf Arbeit, Arbeit als Verwirklichung des Menschen und die Forderung einer gerechten Verteilung des gesellschaftlichen Reichtums - all diese Dinge waren Grundsätze der sozialistischen Arbeiterbewegung, finden sich sowohl im Programm der Kommunistischen Partei der Sowjetunion wie im Wertekanon bürgerlicher Parteien und deren Wählerschaft. Und auch in der (alternativen) Linken werden sie heutzutage mehr oder minder bejaht. Auf der Veranstaltung soll entlang von Zitaten eine Kritik an diesen Einstellungen zur Arbeit vorgestellt und diskutiert werden. Die These ist, dass mit den Einstellungen ein \"sich einrichten\" in armseligen Verhältnisse gefordert oder praktiziert wird. Leute, die Armut abschaffen wollen, sollten das lassen.<br>"
   },
   {
-    "date": "2016-04-08T22:00:00.000Z",
+    "date": "2016-04-18T22:00:00.000Z",
     "time": "19:30",
     "location": "Mehringhof",
     "loc": "50",
@@ -329,7 +701,7 @@
     "desc": "\"Schulden: der wahre Reichtum des Kapitalismus\". Unser Vortrag über das Finanzkapital bietet weder Anlageberatung noch Einblicke in die geheime Macht und Machenschaften von Hedge-Fonds. Sondern: eine Einführung in die politische Ökonomie des verliehenen Geldes.<br>"
   },
   {
-    "date": "2016-04-08T22:00:00.000Z",
+    "date": "2016-04-18T22:00:00.000Z",
     "time": "20:00",
     "free": true,
     "location": "Baiz",
@@ -338,7 +710,7 @@
     "desc": "Kleines Domino-Turnier an gewohntem Tag und gewohnter Stelle. Das Los entscheidet, mit Glück hat dies nix zu tun. Teams werden gelost, gespielt wird nach Imhoteps Bauart. Erscheint pünktlich! Um 20.01 Uhr gilt Rien ne va plus, aber wir öffnen die Pforten ja schon schon um 16.00 Uhr..."
   },
   {
-    "date": "2016-04-08T22:00:00.000Z",
+    "date": "2016-04-18T22:00:00.000Z",
     "time": "20:00",
     "location": "New Yorck im Bethanien",
     "loc": "3944",
@@ -346,7 +718,7 @@
     "desc": "Im April 1915 wurde mit der systemati­schen Deportation und Vernichtung der Armenier_innen im osma­nischen Reich begonnen. Diejenigen Armenier_innen die die ersten Massaker während des Völkermordes von 1915 - 1916 überlebten, wurden per Deportationsgesetz in zwei Richtungen getrieben - entweder nach Damaskus oder ins Konzentrationslager Ras al-Ain/Ceylanpinar, auch nach Mosul oder weiter durch die syrische Wüste ins KZ Deir ez-Zor. Von diesen Todesmärschen und KZ's waren  hauptsächlich Frauen und Kinder betroffen.<br>"
   },
   {
-    "date": "2016-04-08T22:00:00.000Z",
+    "date": "2016-04-18T22:00:00.000Z",
     "time": "20:30",
     "location": "Schokoladen",
     "loc": "1131",
@@ -354,7 +726,7 @@
     "desc": "LSD - Liebe Statt Drogen"
   },
   {
-    "date": "2016-04-08T22:00:00.000Z",
+    "date": "2016-04-18T22:00:00.000Z",
     "time": "21:00",
     "free": true,
     "location": "Scherer8",
@@ -363,7 +735,7 @@
     "desc": "\"Volver\""
   },
   {
-    "date": "2016-04-08T22:00:00.000Z",
+    "date": "2016-04-18T22:00:00.000Z",
     "time": "21:05",
     "location": "Zielona Gora",
     "loc": "84",
