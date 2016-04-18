@@ -234,8 +234,10 @@ function init() {
     console.log(event);
     var string = event.target.value
     var results = overlay.getLayers().reduce( (ret, group) => {
+      var query = new RegExp(string,'i');
       group.eachLayer( layer => {
-	if(new RegExp(string,'i').test( layer.feature.properties.title )){
+	if( query.test( layer.feature.properties.title )
+	    || query.test( layer.feature.properties.description) ) {
 	  ret.push(layer)
 	}  
       });
@@ -246,7 +248,7 @@ function init() {
 	var li = document.createElement('li');
 	li.textContent = layer.feature.properties.title
 	li.addEventListener('click', (event) => {
-	  map.setView(layer.getLatLng(), 15);
+	  map.setView(layer.getLatLng(),15);
 	  layer.openPopup();
 	});
 	container.appendChild(li);

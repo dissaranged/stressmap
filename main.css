@@ -16,13 +16,30 @@
     padding: 5px;
     border-radius: 15px;
     text-align: center;
+    width: 12em;
 }
 #controls > div {
     margin: 3px;
 }
 #controls .inputs {
-    width: 7em;
-    }
+    width: 100%;
+    border-radius: 5px;
+}
+#findings {
+    text-align: left;
+    padding: 5px;
+    margin: 5px;
+    max-height: 10em;
+    overflow: overlay;
+    
+}
+#reset_findings {
+    border-radius: 12px;
+    background-color: red;
+    border-color: darkred;
+}
+
+
 
 .symbol {
     height: 1.3em;
@@ -30,7 +47,7 @@
 }
 
 .legend .symbol {
-    margin-left: 10px;
+    float: right;
 }
 
 .cluster {
@@ -55,7 +72,10 @@
 
 .legend.active {
     border: 1px red solid;
+}
+.legend {
     border-radius: 5px;
+    border: 1px grey solid;
 }
 
 
@@ -66,7 +86,7 @@
 }
 .marker-description {
     max-height: 300px;
-    overflow-y: scroll;
+    overflow-y: overlay;
 }
 .marker-title {
     text-align: center;
@@ -85,3 +105,4 @@
     color:#696969;
     text-align: right;
 }
+
