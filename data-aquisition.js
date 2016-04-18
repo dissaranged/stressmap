@@ -24,11 +24,11 @@ const fs = require('fs');
 		 "Scherer 8": {"name": "Scherer8"},
 		 "Thommy-Weißbecker-Haus": {"name": "Tommy-Weisbecker-Haus"},
 		 // Events
-		 "address": "Gemeinschaftsgarten am Bethaniendamm":{
+		 "Gemeinschaftsgarten am Bethaniendamm": {
 		   "address": "Bethaniendamm Berlin"
 		 },
-		 "address": "Jugendclub Liebig 19": {
-		   "address": "Liebigstraße 19 Berlin",
+		 "Jugendclub Liebig 19": {
+		   "address": "Liebigstraße 19 Berlin"
 		 }
 		};
 
@@ -221,7 +221,7 @@ const fs = require('fs');
 	  var c_geocoder = 0;
 	  
 	  var m = /(\d+)\.(\d+)\.(\d+)/.exec($('table:eq(3) td:eq(1) table>tbody>tr:eq(0) span').text())
-	  var date = new Date(parseInt(m[3]),parseInt(m[2])-1,parseInt(m[1]))
+	  var date = m[3] +'-'+ m[2] +'-'+ m[1]
 
 	  $('table:eq(3) td:eq(1) table>tbody>tr:gt(0)').each(function(i, entry){
 	    //console.log("------------------------\n",entry.outerHTML)
@@ -258,7 +258,13 @@ const fs = require('fs');
   	      $('td:eq(1) span',entry).html());
   	    item.type = m[1].trim();
   	    item.desc = m[2].trim();
-	    
+
+	    if(fixings[item.address]) {
+	      Object.keys(fixings[obj.name]).forEach(key => {
+		obj[key] = fixings[obj.name][key]
+	      })
+	    }
+	  
   	    events.push(item)
 	  });
 	  console.log('resolving events ')

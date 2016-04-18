@@ -21,16 +21,16 @@
       </div>
       {{#event}}
       <div class="event">
-	<b style="color:red">{{ event.time }}@{{ event.date }}</b> | {{ event.type}} <br/>
-	<i> {{{ event.desc }}} </i>
+	<b style="color:red">{{ date }}@{{ time }}</b> | {{ type }} <br/>
+	<i> {{{ desc }}} </i>
       </div>
       {{/event}}
       {{#vokue}}
       <div class="vokue">
-	{{#vokue.time}}
-	<b style="color:red">{{ vokue.time }}</b> |
-	{{/vokue.time}}
-	<i>{{{ vokue.desc }}}</i>
+	{{#time}}
+	<b style="color:red">{{ time }}</b> |
+	{{/time}}
+	<i>{{{ desc }}}</i>
       </div>
       {{/vokue}}
       <div class="info">

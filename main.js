@@ -57,7 +57,8 @@ function mk_geoJSON(today) {
     console.log(today)
     var vokues = data.kuefas[today].reduce(
       function(carry, el, index, obj){
-	carry[el.name] = merge(el);
+	carry[el.name] ? null : carry[el.name] = [];
+	carry[el.name].push(merge(el));
 	return carry
       }, {});
   }
@@ -67,7 +68,8 @@ function mk_geoJSON(today) {
     function(carry, el, index, obj){
       if (today == 'all' || Object.keys(data.kuefas)[(new Date(el.date).getDay()+6)%7] == today) {
 	if(el.location) {
-	  carry[el.location] = merge(el);
+	  carry[el.location] ? null : carry[el.location] = [] ;
+	  carry[el.location].push( merge(el) );
 	} else if (el.coordinates) {
 	  features.push( {
 	    type: 'Feature',
