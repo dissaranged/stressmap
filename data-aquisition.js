@@ -22,14 +22,24 @@ const fs = require('fs');
 		 "New Yorck (im Bethanien)": {"name": "New Yorck im Bethanien"},
 		 "Projektraum": {"name": "Projektraum H48 (Neukölln)"},
 		 "Scherer 8": {"name": "Scherer8"},
-		 "Thommy-Weißbecker-Haus": {"name": "Tommy-Weisbecker-Haus"}
+		 "Thommy-Weißbecker-Haus": {"name": "Tommy-Weisbecker-Haus"},
+		 // Events
+		 "address": "Gemeinschaftsgarten am Bethaniendamm":{
+		   "address": "Bethaniendamm Berlin"
+		 },
+		 "address": "Jugendclub Liebig 19": {
+		   "address": "Liebigstraße 19 Berlin",
+		 }
 		};
 
   var faulty_ones = []
   var geo_c = 0;
   function geocode_this(ary, allDone) {
+    var timeout = 300;
+    if (ary == [])
+      allDone();
     geo_c++;
-
+    console.log('starting geocoder for ', ary.length, 'elements ########')
     function gotOne(i) {
       console.log('gotOne')
       if(++i < ary.length){
@@ -51,9 +61,12 @@ const fs = require('fs');
 	if (err) {
 	  console.error("couldn't retrieve geoLocation for : ",
       			address, "recived : ",  err);
+	  faulty_ones.push(item);
 	} else {
 	  if (data.status === "OVER_QUERY_LIMIT") {
-	    setTimeout(gotOne.bind(null, i-1), 1000);
+	    console.log(JSON.stringify(data))
+	    console.log('servers not liking us right now, wait ... ')
+	    setTimeout(gotOne.bind(null, i-1), timeout += 10);
 	    return;
 	  } else if (data.status === "ZERO_RESULTS"){
 	    if ( c == 0) 
@@ -146,123 +159,113 @@ const fs = require('fs');
   
   function get_stressis(html) {
     // getting all Addresses
-    jsdom.env(
-      //"http://stressfaktor.squat.net/adressen.php",
-      html, ["http://code.jquery.com/jquery.js"],
-      function(err, window) {
-	const $ = window.jQuery
-	
-	//var stressis = [];
-	$('table:eq(3) table').each(function(i, e){
-  	  var item = {};
-  	  item.name = $(e).find('tr:eq(0) span b').text().trim();
-  	  var address = $(e).find('tr:eq(0) span');
-  	  address.find('b').remove();
-  	  item.full_address = address.text().trim();;
-	  item.address = item.full_address.replace(/\([^)]*\)/g, '').trim();
-  	  item.info = $(e).find('tr:eq(1) span').html();
-  	  item.www = $(e).find('tr:eq(2) a[href*="http"]').attr('href');
-  	  item.email = $(e).find('tr:eq(2) a[href*="mailto"]')
-  	    .attr('href');
-  	  var tel = $(e).find('tr:eq(2) span');
-  	  tel.find('a').remove();
-  	  item.telephone = tel.text();
-	  if(fixings[item.name]) {
-	    Object.keys(fixings[item.name]).forEach(key => {
-	      item[key] = fixings[item.name][key]
-	    })
-	  }
+    var promise = new Promise(function(resolve, reject) {
+      jsdom.env(
+	//"http://stressfaktor.squat.net/adressen.php",
+	html, ["http://code.jquery.com/jquery.js"],
+	function(err, window) {
+	  const $ = window.jQuery
+	  
+	  //var stressis = [];
+	  $('table:eq(3) table').each(function(i, e){
+  	    var item = {};
+  	    item.name = $(e).find('tr:eq(0) span b').text().trim();
+  	    var address = $(e).find('tr:eq(0) span');
+  	    address.find('b').remove();
+  	    item.full_address = address.text().trim();;
+	    item.address = item.full_address.replace(/\([^)]*\)/g, '').trim();
+  	    item.info = $(e).find('tr:eq(1) span').html();
+  	    item.www = $(e).find('tr:eq(2) a[href*="http"]').attr('href');
+  	    item.email = $(e).find('tr:eq(2) a[href*="mailto"]')
+  	      .attr('href');
+  	    var tel = $(e).find('tr:eq(2) span');
+  	    tel.find('a').remove();
+  	    item.telephone = tel.text();
+	    if(fixings[item.name]) {
+	      Object.keys(fixings[item.name]).forEach(key => {
+		item[key] = fixings[item.name][key]
+	      })
+	    }
 
-  	  stressis.push(item);
+  	    stressis.push(item);
+	  });
+	  
+	  
+	  function allDone() {
+	    console.log('AllDone')
+      	    fs.writeFile('./tst-stressfaktoren.json',
+      			 JSON.stringify(stressis, null, 2),
+      			 'utf-8',
+      			 (err) => {
+      			   if (err) throw err;
+      			   console.log('Saved Addresses : '+ stressis.length +' items found.');
+      			 });
+	  }
+	  //geoCoding
+	  geocode_this(stressis, allDone);
 	});
-	
-	
-	function allDone() {
-	  console.log('AllDone')
-      	  fs.writeFile('./tst-stressfaktoren.json',
-      		       JSON.stringify(stressis, null, 2),
-      		       'utf-8',
-      		       (err) => {
-      			 if (err) throw err;
-      			 console.log('Saved Addresses : '+ stressis.length +' items found.');
-      		       });
-	}
-	//geoCoding
-	geocode_this(stressis, allDone);
-      });
+    });
+    return promise;
   }
 
   function get_events(html) {
-    jsdom.env(
-      //"http://stressfaktor.squat.net/adressen.php",
-      html,
-      ["http://code.jquery.com/jquery.js"],
-      {encoding: 'binary'},
-      function(err, window) {
-	var $ = window.jQuery;
+    var promise = new Promise(function(resolve, reject) {
+      jsdom.env(
+	//"http://stressfaktor.squat.net/adressen.php",
+	html,
+	["http://code.jquery.com/jquery.js"],
+	{encoding: 'binary'},
+	function(err, window) {
+	  var $ = window.jQuery;
 
-	var c_geocoder = 0;
-		
-	var m = /(\d)+\.(\d+)\.(\d+)/.exec($('table:eq(3) td:eq(1) table>tbody>tr:eq(0) span').text())
-	var date = new Date(parseInt(m[3]),parseInt(m[2])-1,parseInt(m[1]))
-
-	$('table:eq(3) td:eq(1) table>tbody>tr:gt(0)').each(function(i, entry){
-	  console.log("------------------------\n",entry.outerHTML)
-	  console.log("-->",$('td:eq(0)',entry).text())
-	  var item = {date: date};
-  	  // TODO handle entry-free images
-  	  var m = item.time = /\d\d?.\d\d/.exec(
-  	    $('td:eq(0)',entry).text()
-  	  )[0].replace('.',':').trim();
-  	  var s = $('td:eq(0) img', entry)
-  	  if (s.length > 0) {
-  	    if (/eintrittfrei.gif$/.test(s[0].src)) {
-  	      item.free = true
-  	    }
-  	  }
-
-	  var location =  $('td:eq(1) b a', entry)
-  	  if(location.length > 0) {
-  	    item.location = location.text();
-  	  } else {
-	    item.address = $('td:eq(1) b',entry).text();
-	    item.location = $('td:eq(1) b',entry).html();
-	  }
-
-	  var loc = $('td:eq(1) b a',entry)[0]
-	  if( loc ) {
-	    var m = /adressen\.php\?loc=(\d*)/.exec(loc.href)
-	    if(m)
-	      item.loc = m[1];
-	  }
-
-	  $('td:eq(1) b', entry).remove();
-  	  m =  /:(.*?)<br>(.*)/.exec(
-  	    $('td:eq(1) span',entry).html());
-  	  item.type = m[1].trim();
-  	  item.desc = m[2].trim();
+	  var c_geocoder = 0;
 	  
-  	  events.push(item)
-	});
+	  var m = /(\d+)\.(\d+)\.(\d+)/.exec($('table:eq(3) td:eq(1) table>tbody>tr:eq(0) span').text())
+	  var date = new Date(parseInt(m[3]),parseInt(m[2])-1,parseInt(m[1]))
 
-	function allDone() {
-	  fs.writeFile('./tst-events.json',
-      		       JSON.stringify(events, null, 2),
-		       'utf-8',
-      		       (err) => {
-      			 if (err) throw err;
-      			 console.log('Saved Events : '+ events.length +' items found.');
-      		       });
-	}
-	
-	geocode_this(
-	  events.reduce( (ret, item) => {
-	      if(item.address)
-	        ret.push(item);
-	      return ret;
-	    }, []),
-	  allDone );
-      });
+	  $('table:eq(3) td:eq(1) table>tbody>tr:gt(0)').each(function(i, entry){
+	    //console.log("------------------------\n",entry.outerHTML)
+	    console.log("-->",$('td:eq(0)',entry).text())
+	    var item = {date: date};
+  	    // TODO handle entry-free images
+  	    var m = item.time = /\d\d?.\d\d/.exec(
+  	      $('td:eq(0)',entry).text()
+  	    )[0].replace('.',':').trim();
+  	    var s = $('td:eq(0) img', entry)
+  	    if (s.length > 0) {
+  	      if (/eintrittfrei.gif$/.test(s[0].src)) {
+  		item.free = true
+  	      }
+  	    }
+
+	    var location =  $('td:eq(1) b a', entry)
+  	    if(location.length > 0) {
+  	      item.location = location.text();
+  	    } else {
+	      item.address = $('td:eq(1) b',entry).text();
+	      item.location = $('td:eq(1) b',entry).html();
+	    }
+
+	    var loc = $('td:eq(1) b a',entry)[0]
+	    if( loc ) {
+	      var m = /adressen\.php\?loc=(\d*)/.exec(loc.href)
+	      if(m)
+		item.loc = m[1];
+	    }
+
+	    $('td:eq(1) b', entry).remove();
+  	    m =  /:(.*?)<br>(.*)/.exec(
+  	      $('td:eq(1) span',entry).html());
+  	    item.type = m[1].trim();
+  	    item.desc = m[2].trim();
+	    
+  	    events.push(item)
+	  });
+	  console.log('resolving events ')
+	  resolve()
+	});
+    });
+    return promise
   }
 
 
@@ -280,18 +283,51 @@ const fs = require('fs');
 
   function done_print(){
     if ( geo_c > 0 ) {
-      setTimeout(done_print,100);
+      setTimeout(done_print,1000);
       return
     }
     console.log('Errors in geoCoding  : ', JSON.stringify(faulty_ones,null, 2));
     console.log(' stressis : ', stressis.length);
-    console.log(' vokues : ', vokues.length);
+    console.log(' vokues : ', Object.keys(vokues).length);
     console.log(' events : ', events.length);
   }
-  for ( fname in todo ) {
-    var txt = fs.readFileSync(fname);
-    var html = iconv.convert(txt).toString();
-    todo[fname](html);
+
+  //geoCoding events
+  function allDone() {
+    fs.writeFile('./tst-events.json',
+      		 JSON.stringify(events, null, 2),
+		 'utf-8',
+      		 (err) => {
+      		   if (err) throw err;
+      		   console.log('Saved Events : '+ events.length +' items found.');
+      		 });
+    done_print();
   }
-  setTimeout(done_print,5000); //very very messy
+  
+  console.log('creating promise')
+  var loop = new Promise( function(resolve, reject) {
+    var c = 1;
+    for ( fname in todo ) {
+      console.log('.');
+      var txt = fs.readFileSync(fname);
+      var html = iconv.convert(txt).toString();
+      todo[fname](html).then(function() {
+	console.log('then  :',c)
+	if (c == Object.keys(todo).length)
+	  resolve()
+	else
+	  c++;
+      });
+    }
+    console.log('after loop');
+  }).then(function() {
+    geocode_this(
+      events.reduce( (ret, item) => {
+	if(item.address)
+  	  ret.push(item);
+	return ret;
+      }, []),
+      allDone );
+  })
+    
 }());
