@@ -24,12 +24,9 @@ const fs = require('fs');
 		 "Scherer 8": {"name": "Scherer8"},
 		 "Thommy-Weißbecker-Haus": {"name": "Tommy-Weisbecker-Haus"},
 		 // Events
-		 "Gemeinschaftsgarten am Bethaniendamm": {
-		   "address": "Bethaniendamm Berlin"
-		 },
-		 "Jugendclub Liebig 19": {
-		   "address": "Liebigstraße 19 Berlin"
-		 }
+		 "Gemeinschaftsgarten am Bethaniendamm": {"address": "Bethaniendamm Berlin"},
+		 "Jugendclub Liebig 19": {"address": "Liebigstraße 19 Berlin"},
+		 "Werkstatt der Kulturen": {"address": "Wissmannstraße 32, 12049 Berlin"}
 		};
 
   var faulty_ones = []
@@ -105,56 +102,59 @@ const fs = require('fs');
   
   // Get VoKues
   function get_vokues(html) {
-    jsdom.env(
-      html,
-      ["http://code.jquery.com/jquery.js"],
-      function (err, window) {
-	const $ = window.jQuery
-		
-	function forOneDay(el) {
-	  var today = []
-	  $('span.text2', el).html().split('<br>').forEach(function(html){
-    	    var obj = {};
-    	    var el = $('<div>'+ html +'</div>');
-    	    obj.name = $('b',el).text().trim()
-	    var loc = $('b a',el)[0]
-	    if( loc ) {
-	      var m = /adressen\.php\?loc=(\d*)/.exec(loc.href)
-	      if(m)
-		obj.loc = m[1];
-	    }
-    	    $('b',el).remove();
-    	    obj.desc = el.html();
-    	    var time =  /\d\d:\d\d/.exec(obj.desc);
-    	    obj.time = time ? time[0]: time
+    var promise = new Promise(function(resolve, reject) {
+      jsdom.env(
+	html,
+	["http://code.jquery.com/jquery.js"],
+	function (err, window) {
+	  const $ = window.jQuery
+	  
+	  function forOneDay(el) {
+	    var today = []
+	    $('span.text2', el).html().split('<br>').forEach(function(html){
+    	      var obj = {};
+    	      var el = $('<div>'+ html +'</div>');
+    	      obj.name = $('b',el).text().trim()
+	      var loc = $('b a',el)[0]
+	      if( loc ) {
+		var m = /adressen\.php\?loc=(\d*)/.exec(loc.href)
+		if(m)
+		  obj.loc = m[1];
+	      }
+    	      $('b',el).remove();
+    	      obj.desc = el.html();
+    	      var time =  /\d\d:\d\d/.exec(obj.desc);
+    	      obj.time = time ? time[0]: time
 
-	    if(fixings[obj.name]) {
-	    Object.keys(fixings[obj.name]).forEach(key => {
-	      obj[key] = fixings[obj.name][key]
+	      if(fixings[obj.name]) {
+		Object.keys(fixings[obj.name]).forEach(key => {
+		  obj[key] = fixings[obj.name][key]
+		})
+	      }
+    	      today.push(obj);
 	    })
+	    return today;
 	  }
-    	    today.push(obj);
-	  })
-	  return today;
-	}
-	$('table:eq(3) td:eq(1) table').each(function(i,e) {
-	  var day = $('tr:eq(0) span.text2', e).text().trim();
-	  var data = forOneDay($('tr:eq(1)', e));
-	  vokues[day] = data;
+	  $('table:eq(3) td:eq(1) table').each(function(i,e) {
+	    var day = $('tr:eq(0) span.text2', e).text().trim();
+	    var data = forOneDay($('tr:eq(1)', e));
+	    vokues[day] = data;
+	  });
+	  var vokues_sum = Object.keys(vokues).reduce(function(sum, k){
+	    sum += vokues[k].length
+	    return sum;
+	  },0)
+	  fs.writeFile('./tst-kuefas.json',
+    		       JSON.stringify(vokues, null, 2),
+    		       'utf-8',
+    		       (err) => {
+    			 if (err) throw err;
+    			 console.log('Saved Kuefas : '+ vokues_sum +' items found.');
+			 resolve();
+    		       });
 	});
-	var vokues_sum = Object.keys(vokues).reduce(function(sum, k){
-	  sum += vokues[k].length
-	  return sum;
-	},0)
-	fs.writeFile('./tst-kuefas.json',
-    		     JSON.stringify(vokues, null, 2),
-    		     'utf-8',
-    		     (err) => {
-    		       if (err) throw err;
-    		       console.log('Saved Kuefas : '+ vokues_sum +' items found.');
-    		     });
-      }
-    );
+    })
+    return promise
   }
   
   function get_stressis(html) {
@@ -200,6 +200,7 @@ const fs = require('fs');
       			   if (err) throw err;
       			   console.log('Saved Addresses : '+ stressis.length +' items found.');
       			 });
+	    resolve();
 	  }
 	  //geoCoding
 	  geocode_this(stressis, allDone);
@@ -260,8 +261,8 @@ const fs = require('fs');
   	    item.desc = m[2].trim();
 
 	    if(fixings[item.address]) {
-	      Object.keys(fixings[obj.name]).forEach(key => {
-		obj[key] = fixings[obj.name][key]
+	      Object.keys(fixings[item.address]).forEach(key => {
+		item[key] = fixings[item.address][key]
 	      })
 	    }
 	  
@@ -277,9 +278,9 @@ const fs = require('fs');
 
   
   todo = {
-    // './data/termine.html' : get_events,
-    // './data/kuefa.html' : get_vokues,
-    // './data/adressen.html' : get_stressis
+    //'./data/termine.html' : get_events,
+    './data/kuefa.php' : get_vokues,
+    './data/adressen.php' : get_stressis
   }
   fs.readdirSync('./data/').filter( i => {
     return /termine.php/.test(i)}).reduce( (cary, item) => {
