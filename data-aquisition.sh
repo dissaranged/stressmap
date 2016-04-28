@@ -12,13 +12,14 @@ for i in Monday Tuesday Wednesday Thursday Friday Saturday Sunday; do
     wget https://stressfaktor.squat.net/termine.php?tag=$tag
 done;
 wget https://stressfaktor.squat.net/adressen.php
-wget https://stressfaktor.squat.net/kuefa.php
+wget https://stressfaktor.squat.net/kuefa.php?day=all
 cd -
 
 node data-aquisition.js &&
     mv tst-events.json events.json &&
-    mv tst-stressfaktoren.js stressfaktoren.js &&
-    mv tst-kuefas.js kuefas.js
-git add {events,kuefas.stressfaktoren}.json
+#    mv tst-stressfaktoren.json stressfaktoren.json &&
+    #    mv tst-kuefas.jsson kuefas.json &&
+    true
+git add {events,kuefas,stressfaktoren}.json
 git commit -m "new data"
 git push origin gh-pages

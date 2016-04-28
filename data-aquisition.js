@@ -24,9 +24,13 @@ const fs = require('fs');
 		 "Scherer 8": {"name": "Scherer8"},
 		 "Thommy-Weißbecker-Haus": {"name": "Tommy-Weisbecker-Haus"},
 		 // Events
-		 "Gemeinschaftsgarten am Bethaniendamm": {"address": "Bethaniendamm Berlin"},
-		 "Jugendclub Liebig 19": {"address": "Liebigstraße 19 Berlin"},
-		 "Werkstatt der Kulturen": {"address": "Wissmannstraße 32, 12049 Berlin"}
+		 "Gemeinschaftsgarten am Bethaniendamm": {"address": "Bethaniendamm, Berlin"},
+		 "Jugendclub Liebig 19": {"address": "Liebigstraße 19, Berlin"},
+		 "Werkstatt der Kulturen": {"address": "Wissmannstraße 32, 12049 Berlin"},
+		 "Piekfeiner Laden - Hausprojekt Wönnichstr. 103": {"address": "Wönnichstr. 103, Berlin"},
+		 "Treffpunkt: vor Oppelner Straße 45 (nahe U-Bhf. Schlesisches Tor) ": {"address": "Oppelner Str. 45, 10997 Berlin"},
+		 "Freie Universität Berlin": {"address": "Kaiserswerther Str. 16-18,14195 Berlin"},
+		 "S-Bhf Schöneweide": {"address": "S-Bhf Schöneweide, Berlin"}
 		};
 
   var faulty_ones = []
@@ -38,7 +42,7 @@ const fs = require('fs');
     geo_c++;
     console.log('starting geocoder for ', ary.length, 'elements ########')
     function gotOne(i) {
-      console.log('gotOne')
+      console.log('gotOne',i,ary.length,faulty_ones.length)
       if(++i < ary.length){
       	getOne(i);
       } else {
@@ -79,6 +83,8 @@ const fs = require('fs');
 	      geocoder.geocode(address, callback);
 	    } else {
 	      faulty_ones.push(item);
+	      console.log("couldn't resolve ", item.address, "after trying to fix it")
+	      gotOne(i);
 	    }
 	    return;
 	  } else if(data && typeof data.results == 'object' && typeof data.results[0] == 'object' && data.results[0].geometry) {
@@ -279,8 +285,8 @@ const fs = require('fs');
   
   todo = {
     //'./data/termine.html' : get_events,
-    './data/kuefa.php' : get_vokues,
-    './data/adressen.php' : get_stressis
+    // './data/kuefa.php' : get_vokues,
+    // './data/adressen.php' : get_stressis
   }
   fs.readdirSync('./data/').filter( i => {
     return /termine.php/.test(i)}).reduce( (cary, item) => {
