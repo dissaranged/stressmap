@@ -1,153 +1,64 @@
 [
   {
-    "date": "2016-05-04",
-    "time": "17:00",
-    "free": true,
-    "location": "Café Morgenrot",
-    "loc": "2167",
-    "type": "Queer-feministischer Stricktreff",
-    "desc": "Miss Rottenmeiers queer-feministischer Stricktreff. Jeden 1. und 3. Mittwoch im Monat ab 17.00 Uhr. DIY-Workshop für Einsteiger_innen und Stitch'n Bitch. Alles, was Sie schon immer übers Stricken wissen wollten über die ersten Schritte des Selbermachens. Und/oder einfach gemütliches Stricken beim stilvollen Heissgetränk. Wenn möglich sollten Stricknadeln und Wolle mitgebracht werden. Für Einmaltäter_innen wird aber auch Material vorhanden sein."
-  },
-  {
-    "date": "2016-05-04",
+    "date": "2016-05-10",
     "time": "19:00",
-    "free": true,
-    "location": "B5355",
-    "loc": "7599",
-    "type": "Soli Küfa, Open Stage + Haircuts",
-    "desc": "Still raising money for soli-rooms/flats. Come and enjoy a vegan/glutenfree delicous meal with friends, drinks, music and Open Stage. Also a friend will offer his soli haircuts. Doors open 7pm. Food from 8pm on. Open Stage starts 9pm. Smoke free till 10pm. If you/or your band are interessted in playing (acoustic), feel free to contact us or just drop by."
-  },
-  {
-    "date": "2016-05-04",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Black Eyed Dog\" (Record Release Party), \"The Beauty Regime\" (Indie aus Berlin) und Very Special Guest: \"Lady Gaby\" (Spoken Word)"
-  },
-  {
-    "date": "2016-05-04",
-    "time": "20:00",
     "free": true,
     "location": "Baiz",
     "loc": "2756",
-    "type": "Kickerturnier",
-    "desc": "Teams werden wie immer gelost, Einzelspieler_innen sind also willkommen. Kosten gibt's keine (außer bei den Sportgetränken). Für die Anmeldung müsstet Ihr aber spätestens 19.45 Uhr da sein, sonst garantieren wir für nix."
+    "type": "Film",
+    "desc": "\"Die Mordfelder von Berditschew\". In der Ukraine lebten vor dem II. Weltkrieg 2,5 Millionen Juden. Das war die größte je zusammenhängend existierende jiddische Lebenswelt. 1945 war diese Welt zerstört. An hunderten von Orten ermordeten die deutschen Einsatzgruppen ca. 1,5 Millionen Menschen.<br>"
   },
   {
-    "date": "2016-05-04",
-    "time": "20:00",
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Release DreckSack # 24",
-    "desc": "Seit Anfang April ist sie erhältlich, die aktuelle Ausgabe, der \"im Prinzip letzten lesbaren Zeitschrift für Literatur\" (junge Welt). Und auch diesmal wartet sie mit zahlreichen Textbeiträgen bekannter und neuer Autoren, rund um die Lebens- und Arbeitswelt der schweigenden Mehrheit auf. Vorgestellt wird sie diesmal von: Astrid Beutel, Florian Günther, Erik Steffen, Dago Langhans, Salah Yousif. Wer will (und kann) wirft was innen Hut. <a href=\"http://www.edition-luekk-noesens.de/drecksack/\" target=\"_blank\" title=\"Weitere Infos: http://www.edition-luekk-noesens.de/drecksack/\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
+    "date": "2016-05-10",
+    "time": "19:00",
+    "free": true,
+    "location": "Bandito Rosso",
+    "loc": "15",
+    "type": "Perspektive Tresen",
+    "desc": "\"Bewaffnet gegen Nazis\". Wenn über die französische Résistance geschrieben oder gesprochen wird geht es in der Regel um den nationalen Widerstand, der von General de Gaulle gegen die deutsche Besatzung geführt wurde. Tatsächlich aber gab es noch viele andere Gruppen, die organisiert gekämpft haben. 1941 nach dem Überfall Deutschlands auf die Sowjetunion rief die kommunistische Partei Frankreichs zum bewaffneten Kampf auf. In der kommunistischen Widerstandsgruppe FTP-MOI kämpften viele jüdische Immigrant*innen aus Osteuropa. Die Gruppe organisierte eine Vielzahl von Sabotageaktionen, Entgleisungen von Militärzügen und Exekutionen von hochrangigen Nazis und deren Kollaborateuren. In Frankreich ist die MOI über ein tausendfach verbreitetes Propaganda-Plakat das \"l'affiche rouge\" der deutschen Besatzer im Gedächtnis geblieben, auf dem zehn 1944 verhaftete und hingerichtete Kämpfer der MOI porträtiert sind. Anlässlich des 8. Mai - dem Tag der Befreiung - beschäftigen wir uns mit dem antifaschistischen Widerstand im besetzten Frankreich. Dazu wird es einen kurzen Vortrag zur Entstehung und Organisation der FTP-MOI geben. Außerdem zeigen wir den Film \"Widerstandskämpfer im Ruhestand\" des französischen Filmemachers Mosco Boucault von 1985. Im Film sprechen sieben Überlebende von ihrem Kampf gegen die faschistische deutsche Armee und von ihrer Trauer über den Verlust ihrer Familien und Mitkämpfer*innen. <a href=\"http://www.perspektive.nostate.net\" target=\"_blank\" title=\"Weitere Infos: http://www.perspektive.nostate.net\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
   },
   {
-    "date": "2016-05-04",
-    "time": "20:00",
-    "location": "Bunte Kuh",
-    "loc": "1199",
-    "type": "Female HipHop Night",
-    "desc": "Die Berlin OutBack Antifa lädt ein zur Female HipHop Night. Profeministisch feiern gegen Männlichkeitsperformance! Herrentag? What the Fuck?! Wir feiern anders, ohne Sexismus, Mackertum und Männerbündelei. Soliparty für antifaschistische Arbeit in den Randbezirken.<br>"
-  },
-  {
-    "date": "2016-05-04",
-    "time": "21:00",
+    "date": "2016-05-10",
+    "time": "19:00",
+    "free": true,
     "location": "Tommy-Weisbecker-Haus",
     "loc": "79",
-    "type": "Konzert",
-    "desc": "Into the Darkness, into the Doom. Es spielen: \"Coltsblood\" (Headmoulding Doom, Slugde, ex-Conan from UK) und \"Hermann\" (Black Shining Maniacs from Berlin)"
+    "type": "Liedermacher_innenabend + Soliküche",
+    "desc": "\"Geigerzähler\" (Geigenpunk) versüßt euch die vegane Soliküche. Eintritt frei, Hutspende für die Künstler_innen..."
   },
   {
-    "date": "2016-05-04",
-    "time": "21:30",
-    "free": true,
-    "location": "Kastanienkeller",
-    "loc": "41",
-    "type": "Schwarzlichttischtennis",
-    "desc": "Der Frühling steht vor der Tür. Wenn auch die Kastanien noch frieren spielen wir heute die letzten Runden vor der Sommerpause. Kommt zahlreich, um mit uns die warme Zeit und den ganzen Rest zu feiern. Ansonsten geht's nach dem ersten Schnee weiter."
-  },
-  {
-    "date": "2016-05-09",
-    "time": "15:00",
-    "free": true,
-    "address": "Treptower Park",
-    "location": "Treptower Park",
-    "type": "Feier",
-    "desc": "\"9. Mai - Tag des Sieges über den deutschen Faschismus\". Fest zum 71. Jahrestag des Sieges über den deutschen Faschismus. \"Wer nicht feiert, hat verloren!\" Mit deutsch-russischem Kulturprogramm, Zeitzeugen, russischer Küche, Informations- und Bücherständen, Kinderfest sowie Führungen zum Sowjetischen Ehrenmal.<br>",
-    "coordinates": [
-      13.4647681,
-      52.4868703
-    ]
-  },
-  {
-    "date": "2016-05-09",
-    "time": "20:00",
-    "free": true,
-    "location": "K19 Café",
-    "loc": "45",
-    "type": "Weltküche",
-    "desc": "Weltküche mit entwicklungspolitischem Nachtisch<br>"
-  },
-  {
-    "date": "2016-05-09",
-    "time": "20:00",
-    "free": true,
-    "location": "Kadterschmiede",
-    "loc": "4265",
-    "type": "Infoveranstaltung",
-    "desc": "Infoveranstaltung zur Newroz Delagation 2016. Im März 2016 nahmen Mitglieder*innen des Kurdischen Studierenden Verbands (YXK) an einer Delegation zu den Newroz Feierlichkeiten in Nordkurdistan teil. Die Vertreter*innen des Yxk werden über ihre Erlebnisse sowie über die aktuelle Situation in Nordkurdistan berichten. Kommt vorbei und zeigt euch solidarisch!"
-  },
-  {
-    "date": "2016-05-09",
-    "time": "20:00",
-    "free": true,
-    "location": "Lunte",
-    "loc": "48",
-    "type": "Infoveranstaltung",
-    "desc": "\"Direkte Demokratie?\" Verbreitete Vorstellungen direkter Demokratie gegenüber angeblicher Repräsentation werden kontrastiert mit den Traditionen von Syndikalismus, Anarchismus und Rätedemokratie in einer Veranstaltung der AnarchoSyndikalistischen Initiative Berlin."
-  },
-  {
-    "date": "2016-05-09",
-    "time": "20:00",
+    "date": "2016-05-10",
+    "time": "19:30",
     "location": "New Yorck im Bethanien",
     "loc": "3944",
-    "type": "Anarchistisches Infocafé",
-    "desc": "Widerstand in Honduras. Der Dokumentarfilm \"La Voz del Gualcarque - Die Stimme des Gualcarque\" (Honduras 2015, 46 Min., span. mit dt. UT) berichtet über die territoriale Souveränität von Indigenen und Bäuer_innen in Honduras. Der Verlust der indigenen bäuerlichen Souveränität ist Ergebnis eines strikt neoliberalen Kurses der honduranischen Machtelite. Die Veräußerung von Land und Bodenschätzen an honduranische und ausländische Investoren erfolgt ohne Rücksicht auf die Bevölkerung und deren Kultur und verstößt gegen nationales und internationales Recht. Der Film befasst sich mit dem aktuellen Prozess einiger Gemeinden im Widerstand gegen ein privates Staudammprojekt. Im Anschluss Gespräch mit den Filmemacher_innen.<br>"
+    "type": "Latinokino",
+    "desc": "Bar-Solidario/comida Popular<br>"
   },
   {
-    "date": "2016-05-09",
-    "time": "21:00",
+    "date": "2016-05-10",
+    "time": "19:30",
     "free": true,
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Videokino Peliculoso",
-    "desc": "\"Er ist wieder da\" D 2015, 111 min R.: David Wnendt D.: Lars Rudolph, Katja Riemann, Fabian Busch<br>"
+    "location": "Villa Kuriosum",
+    "loc": "6787",
+    "type": "Essen + Film",
+    "desc": "\"Rojava - Freiheitsversprechen oder Projektion linker Sehnsüchte?\" Diese Frage werden wir bestimmt nicht klären, doch wollen wir besser verstehen, was eigentlich passiert und worum es geht. Zwei interessante Dokus geben Einblick: eine kürzere (30 Min.) fragt, warum Europäer_innen in Rojava kämpfen, eine längere (60 Min.) zeigt beeindruckend den selbstermächtigenden und kollektiven Alltag kurdischer Kämpferinnen in den Kandilbergen. Bei gutem Wetter im schönen Villagarten.<br>"
   },
   {
-    "date": "2016-05-09",
-    "time": "21:00",
+    "date": "2016-05-10",
+    "time": "20:30",
     "location": "Schokoladen",
     "loc": "1131",
-    "type": "Party",
-    "desc": "\"Schokokuss\" presents: Party-Night"
+    "type": "Lesung",
+    "desc": "LSD - Liebe Statt Drogen"
   },
   {
-    "date": "2016-05-09",
-    "time": "21:30",
+    "date": "2016-05-10",
+    "time": "21:00",
     "free": true,
-    "location": "Sama-Café",
-    "loc": "86",
-    "type": "Film Club",
-    "desc": "\"Tote tragen keine Karos\""
-  },
-  {
-    "date": "2016-05-09",
-    "time": "22:00",
-    "location": "Abstand",
-    "loc": "5085",
-    "type": "Konzert",
-    "desc": "\"Nausea Bomb\" (Psycho-Ska-Punk-Oi from Paris), diesmal akustisch. Eintritt: Spende."
+    "location": "Scherer8",
+    "loc": "3981",
+    "type": "Kino + Küfa",
+    "desc": "Wie jeden Dienstag Kino mit leckerer Küfa. Heute mit dem Film \"Le guerra degli anto\"."
   },
   {
     "date": "2016-05-05",
@@ -299,6 +210,356 @@
     "desc": "Fine selection of experimental music: \"Cheap Animals\" (improvised experiments on tropical ballads from Denmark), \"Snake &amp; Crocodile feat. Discodude\" (free.that.jazz) and \"Nanadisco\" (folk influenced danceable nowave from Israel)."
   },
   {
+    "date": "2016-05-08",
+    "time": "13:00",
+    "free": true,
+    "location": "K9",
+    "loc": "4347",
+    "type": "Aktionstraining für \"Ende Gelände\"",
+    "desc": "Am Wochenende vom 13. bis 16. Mai 2016 werden wir gemeinsam mit vielen Menschen durch Aktionen des zivilen Ungehorsams den reibungslosen Ablauf in einem Tagebau des Lausitzer Braunkohlereviers mächtig durcheinanderbringen. Durch unsere Anwesenheit im und am Tagebau werden wir den Kohlekonzern Vattenfall dazu bringen, den regulären Betrieb einzustellen. Wir setzen damit ein Zeichen gegen den weiteren Abbau und die Verbrennung von Kohle, eine der größten Ursachen für die globale Klimaerwärmung und ihre dramatischen Folgen.<br>"
+  },
+  {
+    "date": "2016-05-08",
+    "time": "14:00",
+    "free": true,
+    "location": "Haus der Demokratie",
+    "loc": "973",
+    "type": "Hoffest",
+    "desc": "\"Spasibo! Thank You! Merci! Danke! - Feiern und Gedenken\". Hoffest am Tag der Befreiung.<br>"
+  },
+  {
+    "date": "2016-05-08",
+    "time": "14:00",
+    "free": true,
+    "location": "Villa Kuriosum",
+    "loc": "6787",
+    "type": "Scheffel Frühlingsfest",
+    "desc": "Wagenplatz und Villa K. laden zum gemütlich aufregenden Sonntag. Und weil es so viel gibt, fassen wir das mal zusammen: Kunst und Kultur, Workshops und Performances, Wissenswertes und Spielerisches, Kurioses und Akrobatisches, Kaffee, Kuchen, Küfa, Flohmarkt - bringt einfach mit, was ihr los werden wollt... und eine Decke, Saatgut-Tauschbörse - bringt euer Saatgut mit und tauscht gegen anderes. Keine Hunde!"
+  },
+  {
+    "date": "2016-05-08",
+    "time": "17:00",
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Konzert",
+    "desc": "Late Sunday Matinée Show with \"Milanku\" (Posthardcore, Postmetal from Montréal), \"Ryvulet\" (Postmetal from Berlin) and \"Zero Absolu\" (Experimental, Postrock from Mainz). Doors 17h, shows 18h. Eintritt: Spende."
+  },
+  {
+    "date": "2016-05-08",
+    "time": "18:00",
+    "free": true,
+    "location": "NGBK",
+    "loc": "1441",
+    "type": "Vortrag",
+    "desc": "\"Das Versprechen der Revolution\". Andreas Förster (FAU) spricht über eine demokratische Organisierung des ökonomischen Feldes auf der Suche nach der \"wirklichen Bewegung\".<br>"
+  },
+  {
+    "date": "2016-05-08",
+    "time": "19:00",
+    "free": true,
+    "location": "Café Morgenrot",
+    "loc": "2167",
+    "type": "Anxious Polys Unite!",
+    "desc": "Ein queer-feministisch orientierter Stammtisch für alle unsicheren, eifersüchtigen und/oder neuroatypischen Menschen, die nicht monogam leben: Wir zerreißen das Heile-Welt-Bild der Vorzeige-Polys und unterstützen einander, unsere eigenen Maßstäbe zu finden. Rauchfrei und barrierearm. All genders welcome!"
+  },
+  {
+    "date": "2016-05-08",
+    "time": "19:00",
+    "free": true,
+    "location": "WB13",
+    "loc": "82",
+    "type": "Kino",
+    "desc": "\"Graf von Monte Christo\". Mit erst neunzehn Jahren steht der französische Seemann Edmond Dantes vor dem Abgrund: Zwei schurkische Freunde haben ihn seiner Geliebten und seiner Zukunft beraubt, boshafte Intrigen haben ihn ins Gefängnis gebracht. Nach vierzehn schmachvollen Jahren jedoch gelingt ihm die Flucht aus seinem düsteren Kerker. Als begüterter Graf von Monte Christo kehrt er ins Leben zurück und bewegt sich fortan in den höheren Kreisen der Pariser Gesellschaft - beseelt nur von einem Gedanken: Rache. Nun ist er derjenige, der die Fäden zieht, um seinen Peinigern das Handwerk zu legen... Der Roman von Alexandre Dumas wurde mehrfach verfilmt und gehört heute noch zu den wichtigsten Klassikern der Weltliteratur."
+  },
+  {
+    "date": "2016-05-08",
+    "time": "20:00",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Film",
+    "desc": "Film zum Tag der Befreiung: \"Der Führer's face - Donald Duck in Nutzi-Land\". 1942 produzierter Kurzfilm der Walt Disney Studios, der, voll gestopft mit Anspielungen wider den deutschen Faschismus (Nazigrößen spielen in der Blaskapelle, Donalds Wecker hat eine Pickelhaube und macht den Nazigruß, sowohl Windmühlen als auch Wolken haben die Form von Hakenkreuzen  etc. etc.) als ein Anti-Nazi-Propagandafilm im Kino bestens funktioniert haben muss..."
+  },
+  {
+    "date": "2016-05-08",
+    "time": "20:00",
+    "free": true,
+    "location": "K9",
+    "loc": "4347",
+    "type": "Filmabend",
+    "desc": "combatiente zeigt: \"Revolution - politischer Filmeabend\"<br>"
+  },
+  {
+    "date": "2016-05-08",
+    "time": "20:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Party",
+    "desc": "Der SchmuSalon - Die Party mit den Bons"
+  },
+  {
+    "date": "2016-05-08",
+    "time": "20:15",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Film",
+    "desc": "\"Gitler kapuut\" (RUS 2008, 95 Min., R.: Marius Balchunas) - Tänzchen unter der Hakenkreuz-Discokugel gefällig? SS-Standartenführer Olaf Schulenberg ist ein sowjetischer Undercover Top-Spion. Er soll geheime Dokumente aus dem Führerhauptquartier beschaffen. Wie langweilig. Lieber schießt er im Keller auf Hakenkreuze, züchtet Tomaten, lernt die Damen des Berliner Nachtlebens kennen und ist gern gesehener Gast in Bars und Clubs. Er nimmt an der Weltmeisterschaft im \"Heil Hitler\"-Grüßen teil und legt einen Kosakentanz aufs Parkett. Aber genau das wird ihm zum Verhängnis. Er muss fliehen, aber seine vollbusige Agentenkollegin Sina kommt ihm zur Hilfe. Gemeinsam haben sie noch einen letzten Auftrag zu erfüllen.<br>"
+  },
+  {
+    "date": "2016-05-04",
+    "time": "17:00",
+    "free": true,
+    "location": "Café Morgenrot",
+    "loc": "2167",
+    "type": "Queer-feministischer Stricktreff",
+    "desc": "Miss Rottenmeiers queer-feministischer Stricktreff. Jeden 1. und 3. Mittwoch im Monat ab 17.00 Uhr. DIY-Workshop für Einsteiger_innen und Stitch'n Bitch. Alles, was Sie schon immer übers Stricken wissen wollten über die ersten Schritte des Selbermachens. Und/oder einfach gemütliches Stricken beim stilvollen Heissgetränk. Wenn möglich sollten Stricknadeln und Wolle mitgebracht werden. Für Einmaltäter_innen wird aber auch Material vorhanden sein."
+  },
+  {
+    "date": "2016-05-04",
+    "time": "18:00",
+    "location": "Laster und Hänger",
+    "loc": "1945",
+    "type": "Küfa + Kino",
+    "desc": "Die Saison hat begonnen: Wieder jeden Mittwoch futtern trinken Lagerfeuer und bei gutem Wetter Kino... Diesmal: \"The Cut\" (von Fatih Akin)."
+  },
+  {
+    "date": "2016-05-04",
+    "time": "19:00",
+    "free": true,
+    "location": "B5355",
+    "loc": "7599",
+    "type": "Soli Küfa, Open Stage + Haircuts",
+    "desc": "Still raising money for soli-rooms/flats. Come and enjoy a vegan/glutenfree delicous meal with friends, drinks, music and Open Stage. Also a friend will offer his soli haircuts. Doors open 7pm. Food from 8pm on. Open Stage starts 9pm. Smoke free till 10pm. If you/or your band are interessted in playing (acoustic), feel free to contact us or just drop by."
+  },
+  {
+    "date": "2016-05-04",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Black Eyed Dog\" (Record Release Party), \"The Beauty Regime\" (Indie aus Berlin) und Very Special Guest: \"Lady Gaby\" (Spoken Word)"
+  },
+  {
+    "date": "2016-05-04",
+    "time": "20:00",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Kickerturnier",
+    "desc": "Teams werden wie immer gelost, Einzelspieler_innen sind also willkommen. Kosten gibt's keine (außer bei den Sportgetränken). Für die Anmeldung müsstet Ihr aber spätestens 19.45 Uhr da sein, sonst garantieren wir für nix."
+  },
+  {
+    "date": "2016-05-04",
+    "time": "20:00",
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Release DreckSack # 24",
+    "desc": "Seit Anfang April ist sie erhältlich, die aktuelle Ausgabe, der \"im Prinzip letzten lesbaren Zeitschrift für Literatur\" (junge Welt). Und auch diesmal wartet sie mit zahlreichen Textbeiträgen bekannter und neuer Autoren, rund um die Lebens- und Arbeitswelt der schweigenden Mehrheit auf. Vorgestellt wird sie diesmal von: Astrid Beutel, Florian Günther, Erik Steffen, Dago Langhans, Salah Yousif. Wer will (und kann) wirft was innen Hut. <a href=\"http://www.edition-luekk-noesens.de/drecksack/\" target=\"_blank\" title=\"Weitere Infos: http://www.edition-luekk-noesens.de/drecksack/\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
+  },
+  {
+    "date": "2016-05-04",
+    "time": "20:00",
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Female HipHop Night",
+    "desc": "Die Berlin OutBack Antifa lädt ein zur Female HipHop Night. Profeministisch feiern gegen Männlichkeitsperformance! Herrentag? What the Fuck?! Wir feiern anders, ohne Sexismus, Mackertum und Männerbündelei. Soliparty für antifaschistische Arbeit in den Randbezirken.<br>"
+  },
+  {
+    "date": "2016-05-04",
+    "time": "21:00",
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Konzert",
+    "desc": "Into the Darkness, into the Doom. Es spielen: \"Coltsblood\" (Headmoulding Doom, Slugde, ex-Conan from UK) und \"Hermann\" (Black Shining Maniacs from Berlin)"
+  },
+  {
+    "date": "2016-05-04",
+    "time": "21:30",
+    "free": true,
+    "location": "Kastanienkeller",
+    "loc": "41",
+    "type": "Schwarzlichttischtennis",
+    "desc": "Der Frühling steht vor der Tür. Wenn auch die Kastanien noch frieren spielen wir heute die letzten Runden vor der Sommerpause. Kommt zahlreich, um mit uns die warme Zeit und den ganzen Rest zu feiern. Ansonsten geht's nach dem ersten Schnee weiter."
+  },
+  {
+    "date": "2016-05-09",
+    "time": "15:00",
+    "free": true,
+    "address": "Treptower Park",
+    "location": "Treptower Park",
+    "type": "Feier",
+    "desc": "\"9. Mai - Tag des Sieges über den deutschen Faschismus\". Fest zum 71. Jahrestag des Sieges über den deutschen Faschismus. \"Wer nicht feiert, hat verloren!\" Mit deutsch-russischem Kulturprogramm, Zeitzeugen, russischer Küche, Informations- und Bücherständen, Kinderfest sowie Führungen zum Sowjetischen Ehrenmal.<br>",
+    "coordinates": [
+      13.4647681,
+      52.4868703
+    ]
+  },
+  {
+    "date": "2016-05-09",
+    "time": "20:00",
+    "free": true,
+    "location": "K19 Café",
+    "loc": "45",
+    "type": "Weltküche",
+    "desc": "Weltküche mit entwicklungspolitischem Nachtisch<br>"
+  },
+  {
+    "date": "2016-05-09",
+    "time": "20:00",
+    "free": true,
+    "location": "Kadterschmiede",
+    "loc": "4265",
+    "type": "Infoveranstaltung",
+    "desc": "Infoveranstaltung zur Newroz Delagation 2016. Im März 2016 nahmen Mitglieder*innen des Kurdischen Studierenden Verbands (YXK) an einer Delegation zu den Newroz Feierlichkeiten in Nordkurdistan teil. Die Vertreter*innen des Yxk werden über ihre Erlebnisse sowie über die aktuelle Situation in Nordkurdistan berichten. Kommt vorbei und zeigt euch solidarisch!"
+  },
+  {
+    "date": "2016-05-09",
+    "time": "20:00",
+    "free": true,
+    "location": "Lunte",
+    "loc": "48",
+    "type": "Infoveranstaltung",
+    "desc": "\"Direkte Demokratie?\" Verbreitete Vorstellungen direkter Demokratie gegenüber angeblicher Repräsentation werden kontrastiert mit den Traditionen von Syndikalismus, Anarchismus und Rätedemokratie in einer Veranstaltung der AnarchoSyndikalistischen Initiative Berlin."
+  },
+  {
+    "date": "2016-05-09",
+    "time": "20:00",
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Anarchistisches Infocafé",
+    "desc": "Widerstand in Honduras. Der Dokumentarfilm \"La Voz del Gualcarque - Die Stimme des Gualcarque\" (Honduras 2015, 46 Min., span. mit dt. UT) berichtet über die territoriale Souveränität von Indigenen und Bäuer_innen in Honduras. Der Verlust der indigenen bäuerlichen Souveränität ist Ergebnis eines strikt neoliberalen Kurses der honduranischen Machtelite. Die Veräußerung von Land und Bodenschätzen an honduranische und ausländische Investoren erfolgt ohne Rücksicht auf die Bevölkerung und deren Kultur und verstößt gegen nationales und internationales Recht. Der Film befasst sich mit dem aktuellen Prozess einiger Gemeinden im Widerstand gegen ein privates Staudammprojekt. Im Anschluss Gespräch mit den Filmemacher_innen.<br>"
+  },
+  {
+    "date": "2016-05-09",
+    "time": "21:00",
+    "free": true,
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Videokino Peliculoso",
+    "desc": "\"Er ist wieder da\" D 2015, 111 min R.: David Wnendt D.: Lars Rudolph, Katja Riemann, Fabian Busch<br>"
+  },
+  {
+    "date": "2016-05-09",
+    "time": "21:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Party",
+    "desc": "\"Schokokuss\" presents: Party-Night"
+  },
+  {
+    "date": "2016-05-09",
+    "time": "21:30",
+    "free": true,
+    "location": "Sama-Café",
+    "loc": "86",
+    "type": "Film Club",
+    "desc": "\"Tote tragen keine Karos\""
+  },
+  {
+    "date": "2016-05-09",
+    "time": "22:00",
+    "location": "Abstand",
+    "loc": "5085",
+    "type": "Konzert",
+    "desc": "\"Nausea Bomb\" (Psycho-Ska-Punk-Oi from Paris), diesmal akustisch. Eintritt: Spende."
+  },
+  {
+    "date": "2016-05-07",
+    "time": "16:00",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Anarchistischer Kaffeeklatsch",
+    "desc": "Vorstellung der \"Tage der anarchistischen Ideen und Pubkikationen\" (27.-29. Mai 2016 New Yorck im Bethanien).<br>"
+  },
+  {
+    "date": "2016-05-07",
+    "time": "19:00",
+    "free": true,
+    "location": "Haus der Demokratie",
+    "loc": "973",
+    "type": "Film",
+    "desc": "NS-Verbrechen in Griechenland - Dokumentarfilm \"Ein Lied für Argyris\". 10. Juni 1944. Distomo. Hier überlebt der kleine Argyris, noch keine vier Jahre alt, ein brutales Massaker der deutschen Besatzungsmacht: Eine so genannte \"Sühnemaßnahme\" einer SS-Division als Reaktion auf einen Partisanenangriff in der Gegend. In weniger als zwei Stunden werden 218 Dorfbewohner umgebracht - Frauen, Männer, Greise, Kleinkinder und Säuglinge.<br>"
+  },
+  {
+    "date": "2016-05-07",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Malm\" (Noiserock aus Würzburg), \"Sonic Booze Machine\" (Downtempo Metal aus Berlin)"
+  },
+  {
+    "date": "2016-05-07",
+    "time": "20:00",
+    "location": "K19 Café",
+    "loc": "45",
+    "type": "Konzert",
+    "desc": "Punk-Show. DIE letzte lebende Punklegende, live und in Farbe: \"Pestpocken\" (Deutschpunk aus Gießen-Asozial) und \"Dead Tourists\" (Punk HC aus Berlin)"
+  },
+  {
+    "date": "2016-05-07",
+    "time": "20:00",
+    "location": "Rote Insel",
+    "loc": "66",
+    "type": "Konzert",
+    "desc": "\"Inwar\" (Powerviolence from Rotterdam), \"Rot/n/Damned\" (Hardcore from Rotterdam), \"Gall\" (Powerviolence from Potsdam). No melodies allowed."
+  },
+  {
+    "date": "2016-05-07",
+    "time": "21:00",
+    "location": "Clash",
+    "loc": "1950",
+    "type": "Konzert",
+    "desc": "Erst die \"Arbeit\", dann das Vergnügen: Tagsüber Nazi-Aufmarsch verhindern - abends Konzert mit \"Los Chikos del Maíz\" (Rap político aus Valencia), \"Zoo\" (Rap, Electrònica, Reggae aus Gandia/Valencia) und \"LaTwal\" (Revolt Electro Dub aus Paris, ex Bérurier Noir, ex Kochise und Sängerin von Cartouche)"
+  },
+  {
+    "date": "2016-05-07",
+    "time": "21:00",
+    "location": "Scherer8",
+    "loc": "3981",
+    "type": "Konzert",
+    "desc": "\"Sator\" (Doom Sludge aus Genova/Italy), \"Dokuga\" (Punk'n'Roll aus Porto/Portugal), \"Loipe\" (Experimental Doom Instrumental Lehmrock Postrock Sludge aus Berlin) \"Victims of Classwar\" (Crust Punk aus Leipzig/Saarbrücken)"
+  },
+  {
+    "date": "2016-05-07",
+    "time": "21:00",
+    "free": true,
+    "address": "SchwuZ (Rollbergstr. 26)",
+    "location": "SchwuZ (Rollbergstr. 26)",
+    "type": "Next Stop: Warsaw Pride",
+    "desc": "Warschauer Aktivist*innen sprechen auf dem Podium über Lebenswirklichkeiten und politische Arbeit in der LGBTIQ*-Szene und die Bedeutung der queeren Demo \"Parade der Gleichheit\" in ihrer Stadt. Eingeladen sind Aktivist*innen des Komitees der Demo, des nicht-heterosexuellen Kulturfestivals Pomada, der \"Kampagne gegen Homophobie\" und ein Präventionsaktivist von Lambda Warszawa. Charmant durch den Abend führt Polittunte Tulita Coke von der Tuntischen Einheitsfront.<br>",
+    "coordinates": [
+      13.433419,
+      52.47912609999999
+    ]
+  },
+  {
+    "date": "2016-05-07",
+    "time": "21:00",
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "X*CSD Soli-Party",
+    "desc": "\"Queers against borders!\" Soli-Party zum Fundraising für den X*CSD. Eintritt: Spende.<br>"
+  },
+  {
+    "date": "2016-05-07",
+    "time": "21:00",
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Soliparty",
+    "desc": "\"Winter adé, Scheiden tut weh\". Es gibt nicht nur gute Gründe zu heiraten, sondern auch sich scheiden zu lassen. Da Scheidungen nicht ganz billig sind, trinken wir gemeinsam auf die Geschiedenen, essen ein paar Snacks und feiern mit ihnen. Das musikalische Rahmenprogramm übernehmen freundlicher Weise: DJ-Team Break'n Beats (quer durch's musikalische Gemüsebeet) und Team RamRod (Schallplattenunterhalter Berlin-Brandenburg mit All Tims Fav)."
+  },
+  {
+    "date": "2016-05-07",
+    "time": "22:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im AGH",
+    "desc": "\"Desalmado\" (dirty nihilistic Grind from São Paulo, Bra) - \"Bujo\" (BlackMetal Berlin)"
+  },
+  {
     "date": "2016-05-06",
     "time": "09:00",
     "address": "Alexanderplatz",
@@ -401,8 +662,8 @@
     "type": "Konzert",
     "desc": "\"Will Wood\" (Singer of songs, NZ), \"Maybexcyborgs\" (Glittery Lärm-Pop aus Berlin), \"Loveburgers\" (Kuschelrock aus Berlin)",
     "coordinates": [
-      -134.5076621,
-      58.2723068
+      137.0645651,
+      34.878101
     ]
   },
   {
@@ -432,258 +693,5 @@
       -119.0446611,
       50.3565104
     ]
-  },
-  {
-    "date": "2016-05-10",
-    "time": "19:00",
-    "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Film",
-    "desc": "\"Die Mordfelder von Berditschew\". In der Ukraine lebten vor dem II. Weltkrieg 2,5 Millionen Juden. Das war die größte je zusammenhängend existierende jiddische Lebenswelt. 1945 war diese Welt zerstört. An hunderten von Orten ermordeten die deutschen Einsatzgruppen ca. 1,5 Millionen Menschen.<br>"
-  },
-  {
-    "date": "2016-05-10",
-    "time": "19:00",
-    "free": true,
-    "location": "Bandito Rosso",
-    "loc": "15",
-    "type": "Perspektive Tresen",
-    "desc": "\"Bewaffnet gegen Nazis\". Wenn über die französische Résistance geschrieben oder gesprochen wird geht es in der Regel um den nationalen Widerstand, der von General de Gaulle gegen die deutsche Besatzung geführt wurde. Tatsächlich aber gab es noch viele andere Gruppen, die organisiert gekämpft haben. 1941 nach dem Überfall Deutschlands auf die Sowjetunion rief die kommunistische Partei Frankreichs zum bewaffneten Kampf auf. In der kommunistischen Widerstandsgruppe FTP-MOI kämpften viele jüdische Immigrant*innen aus Osteuropa. Die Gruppe organisierte eine Vielzahl von Sabotageaktionen, Entgleisungen von Militärzügen und Exekutionen von hochrangigen Nazis und deren Kollaborateuren. In Frankreich ist die MOI über ein tausendfach verbreitetes Propaganda-Plakat das \"l'affiche rouge\" der deutschen Besatzer im Gedächtnis geblieben, auf dem zehn 1944 verhaftete und hingerichtete Kämpfer der MOI porträtiert sind. Anlässlich des 8. Mai - dem Tag der Befreiung - beschäftigen wir uns mit dem antifaschistischen Widerstand im besetzten Frankreich. Dazu wird es einen kurzen Vortrag zur Entstehung und Organisation der FTP-MOI geben. Außerdem zeigen wir den Film \"Widerstandskämpfer im Ruhestand\" des französischen Filmemachers Mosco Boucault von 1985. Im Film sprechen sieben Überlebende von ihrem Kampf gegen die faschistische deutsche Armee und von ihrer Trauer über den Verlust ihrer Familien und Mitkämpfer*innen. <a href=\"http://www.perspektive.nostate.net\" target=\"_blank\" title=\"Weitere Infos: http://www.perspektive.nostate.net\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
-  },
-  {
-    "date": "2016-05-10",
-    "time": "19:00",
-    "free": true,
-    "location": "Tommy-Weisbecker-Haus",
-    "loc": "79",
-    "type": "Liedermacher_innenabend + Soliküche",
-    "desc": "\"Geigerzähler\" (Geigenpunk) versüßt euch die vegane Soliküche. Eintritt frei, Hutspende für die Künstler_innen..."
-  },
-  {
-    "date": "2016-05-10",
-    "time": "19:30",
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Latinokino",
-    "desc": "Bar-Solidario/comida Popular<br>"
-  },
-  {
-    "date": "2016-05-10",
-    "time": "19:30",
-    "free": true,
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Essen + Film",
-    "desc": "\"Rojava - Freiheitsversprechen oder Projektion linker Sehnsüchte?\" Diese Frage werden wir bestimmt nicht klären, doch wollen wir besser verstehen, was eigentlich passiert und worum es geht. Zwei interessante Dokus geben Einblick: eine kürzere (30 Min.) fragt, warum Europäer_innen in Rojava kämpfen, eine längere (60 Min.) zeigt beeindruckend den selbstermächtigenden und kollektiven Alltag kurdischer Kämpferinnen in den Kandilbergen. Bei gutem Wetter im schönen Villagarten.<br>"
-  },
-  {
-    "date": "2016-05-10",
-    "time": "20:30",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Lesung",
-    "desc": "LSD - Liebe Statt Drogen"
-  },
-  {
-    "date": "2016-05-10",
-    "time": "21:00",
-    "free": true,
-    "location": "Scherer8",
-    "loc": "3981",
-    "type": "Kino + Küfa",
-    "desc": "Wie jeden Dienstag Kino mit leckerer Küfa. Heute mit dem Film \"Le guerra degli anto\"."
-  },
-  {
-    "date": "2016-05-07",
-    "time": "16:00",
-    "free": true,
-    "location": "Friedel 54",
-    "loc": "7801",
-    "type": "Anarchistischer Kaffeeklatsch",
-    "desc": "Vorstellung der \"Tage der anarchistischen Ideen und Pubkikationen\" (27.-29. Mai 2016 New Yorck im Bethanien).<br>"
-  },
-  {
-    "date": "2016-05-07",
-    "time": "19:00",
-    "free": true,
-    "location": "Haus der Demokratie",
-    "loc": "973",
-    "type": "Film",
-    "desc": "NS-Verbrechen in Griechenland - Dokumentarfilm \"Ein Lied für Argyris\". 10. Juni 1944. Distomo. Hier überlebt der kleine Argyris, noch keine vier Jahre alt, ein brutales Massaker der deutschen Besatzungsmacht: Eine so genannte \"Sühnemaßnahme\" einer SS-Division als Reaktion auf einen Partisanenangriff in der Gegend. In weniger als zwei Stunden werden 218 Dorfbewohner umgebracht - Frauen, Männer, Greise, Kleinkinder und Säuglinge.<br>"
-  },
-  {
-    "date": "2016-05-07",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Malm\" (Noiserock aus Würzburg), \"Sonic Booze Machine\" (Downtempo Metal aus Berlin)"
-  },
-  {
-    "date": "2016-05-07",
-    "time": "20:00",
-    "location": "K19 Café",
-    "loc": "45",
-    "type": "Konzert",
-    "desc": "Punk-Show. DIE letzte lebende Punklegende, live und in Farbe: \"Pestpocken\" (Deutschpunk aus Gießen-Asozial) und \"Dead Tourists\" (Punk HC aus Berlin)"
-  },
-  {
-    "date": "2016-05-07",
-    "time": "20:00",
-    "location": "Rote Insel",
-    "loc": "66",
-    "type": "Konzert",
-    "desc": "\"Inwar\" (Powerviolence from Rotterdam), \"Rot/n/Damned\" (Hardcore from Rotterdam), \"Gall\" (Powerviolence from Potsdam). No melodies allowed."
-  },
-  {
-    "date": "2016-05-07",
-    "time": "21:00",
-    "location": "Clash",
-    "loc": "1950",
-    "type": "Konzert",
-    "desc": "Erst die \"Arbeit\", dann das Vergnügen: Tagsüber Nazi-Aufmarsch verhindern - abends Konzert mit \"Los Chikos del Maíz\" (Rap político aus Valencia), \"Zoo\" (Rap, Electrònica, Reggae aus Gandia/Valencia) und \"LaTwal\" (Revolt Electro Dub aus Paris, ex Bérurier Noir, ex Kochise und Sängerin von Cartouche)"
-  },
-  {
-    "date": "2016-05-07",
-    "time": "21:00",
-    "location": "Scherer8",
-    "loc": "3981",
-    "type": "Konzert",
-    "desc": "\"Sator\" (Doom Sludge aus Genova/Italy), \"Dokuga\" (Punk'n'Roll aus Porto/Portugal), \"Loipe\" (Experimental Doom Instrumental Lehmrock Postrock Sludge aus Berlin) \"Victims of Classwar\" (Crust Punk aus Leipzig/Saarbrücken)"
-  },
-  {
-    "date": "2016-05-07",
-    "time": "21:00",
-    "free": true,
-    "address": "SchwuZ (Rollbergstr. 26)",
-    "location": "SchwuZ (Rollbergstr. 26)",
-    "type": "Next Stop: Warsaw Pride",
-    "desc": "Warschauer Aktivist*innen sprechen auf dem Podium über Lebenswirklichkeiten und politische Arbeit in der LGBTIQ*-Szene und die Bedeutung der queeren Demo \"Parade der Gleichheit\" in ihrer Stadt. Eingeladen sind Aktivist*innen des Komitees der Demo, des nicht-heterosexuellen Kulturfestivals Pomada, der \"Kampagne gegen Homophobie\" und ein Präventionsaktivist von Lambda Warszawa. Charmant durch den Abend führt Polittunte Tulita Coke von der Tuntischen Einheitsfront.<br>",
-    "coordinates": [
-      13.433419,
-      52.47912609999999
-    ]
-  },
-  {
-    "date": "2016-05-07",
-    "time": "21:00",
-    "location": "Supamolly",
-    "loc": "77",
-    "type": "X*CSD Soli-Party",
-    "desc": "\"Queers against borders!\" Soli-Party zum Fundraising für den X*CSD. Eintritt: Spende.<br>"
-  },
-  {
-    "date": "2016-05-07",
-    "time": "21:00",
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "Soliparty",
-    "desc": "\"Winter adé, Scheiden tut weh\". Es gibt nicht nur gute Gründe zu heiraten, sondern auch sich scheiden zu lassen. Da Scheidungen nicht ganz billig sind, trinken wir gemeinsam auf die Geschiedenen, essen ein paar Snacks und feiern mit ihnen. Das musikalische Rahmenprogramm übernehmen freundlicher Weise: DJ-Team Break'n Beats (quer durch's musikalische Gemüsebeet) und Team RamRod (Schallplattenunterhalter Berlin-Brandenburg mit All Tims Fav)."
-  },
-  {
-    "date": "2016-05-07",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im AGH",
-    "desc": "\"Desalmado\" (dirty nihilistic Grind from São Paulo, Bra) - \"Bujo\" (HCMetalCrust Berlin)"
-  },
-  {
-    "date": "2016-05-08",
-    "time": "13:00",
-    "free": true,
-    "location": "K9",
-    "loc": "4347",
-    "type": "Aktionstraining für \"Ende Gelände\"",
-    "desc": "Am Wochenende vom 13. bis 16. Mai 2016 werden wir gemeinsam mit vielen Menschen durch Aktionen des zivilen Ungehorsams den reibungslosen Ablauf in einem Tagebau des Lausitzer Braunkohlereviers mächtig durcheinanderbringen. Durch unsere Anwesenheit im und am Tagebau werden wir den Kohlekonzern Vattenfall dazu bringen, den regulären Betrieb einzustellen. Wir setzen damit ein Zeichen gegen den weiteren Abbau und die Verbrennung von Kohle, eine der größten Ursachen für die globale Klimaerwärmung und ihre dramatischen Folgen.<br>"
-  },
-  {
-    "date": "2016-05-08",
-    "time": "14:00",
-    "free": true,
-    "location": "Haus der Demokratie",
-    "loc": "973",
-    "type": "Hoffest",
-    "desc": "\"Spasibo! Thank You! Merci! Danke! - Feiern und Gedenken\". Hoffest am Tag der Befreiung.<br>"
-  },
-  {
-    "date": "2016-05-08",
-    "time": "14:00",
-    "free": true,
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Scheffel Frühlingsfest",
-    "desc": "Wagenplatz und Villa K. laden zum gemütlich aufregenden Sonntag. Und weil es so viel gibt, fassen wir das mal zusammen: Kunst und Kultur, Workshops und Performances, Wissenswertes und Spielerisches, Kurioses und Akrobatisches, Kaffee, Kuchen, Küfa, Flohmarkt - bringt einfach mit, was ihr los werden wollt... und eine Decke, Saatgut-Tauschbörse - bringt euer Saatgut mit und tauscht gegen anderes. Keine Hunde!"
-  },
-  {
-    "date": "2016-05-08",
-    "time": "17:00",
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "Konzert",
-    "desc": "Late Sunday Matinée Show with \"Milanku\" (Posthardcore, Postmetal from Montréal), \"Ryvulet\" (Postmetal from Berlin) and \"Zero Absolu\" (Experimental, Postrock from Mainz). Doors 17h, shows 18h. Eintritt: Spende."
-  },
-  {
-    "date": "2016-05-08",
-    "time": "18:00",
-    "free": true,
-    "location": "NGBK",
-    "loc": "1441",
-    "type": "Vortrag",
-    "desc": "\"Das Versprechen der Revolution\". Andreas Förster (FAU) spricht über eine demokratische Organisierung des ökonomischen Feldes auf der Suche nach der \"wirklichen Bewegung\".<br>"
-  },
-  {
-    "date": "2016-05-08",
-    "time": "19:00",
-    "free": true,
-    "location": "Café Morgenrot",
-    "loc": "2167",
-    "type": "Anxious Polys Unite!",
-    "desc": "Ein queer-feministisch orientierter Stammtisch für alle unsicheren, eifersüchtigen und/oder neuroatypischen Menschen, die nicht monogam leben: Wir zerreißen das Heile-Welt-Bild der Vorzeige-Polys und unterstützen einander, unsere eigenen Maßstäbe zu finden. Rauchfrei und barrierearm. All genders welcome!"
-  },
-  {
-    "date": "2016-05-08",
-    "time": "19:00",
-    "free": true,
-    "location": "WB13",
-    "loc": "82",
-    "type": "Kino",
-    "desc": "\"Graf von Monte Christo\". Mit erst neunzehn Jahren steht der französische Seemann Edmond Dantes vor dem Abgrund: Zwei schurkische Freunde haben ihn seiner Geliebten und seiner Zukunft beraubt, boshafte Intrigen haben ihn ins Gefängnis gebracht. Nach vierzehn schmachvollen Jahren jedoch gelingt ihm die Flucht aus seinem düsteren Kerker. Als begüterter Graf von Monte Christo kehrt er ins Leben zurück und bewegt sich fortan in den höheren Kreisen der Pariser Gesellschaft - beseelt nur von einem Gedanken: Rache. Nun ist er derjenige, der die Fäden zieht, um seinen Peinigern das Handwerk zu legen... Der Roman von Alexandre Dumas wurde mehrfach verfilmt und gehört heute noch zu den wichtigsten Klassikern der Weltliteratur."
-  },
-  {
-    "date": "2016-05-08",
-    "time": "20:00",
-    "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Film",
-    "desc": "Film zum Tag der Befreiung: \"Der Führer's face - Donald Duck in Nutzi-Land\". 1942 produzierter Kurzfilm der Walt Disney Studios, der, voll gestopft mit Anspielungen wider den deutschen Faschismus (Nazigrößen spielen in der Blaskapelle, Donalds Wecker hat eine Pickelhaube und macht den Nazigruß, sowohl Windmühlen als auch Wolken haben die Form von Hakenkreuzen  etc. etc.) als ein Anti-Nazi-Propagandafilm im Kino bestens funktioniert haben muss..."
-  },
-  {
-    "date": "2016-05-08",
-    "time": "20:00",
-    "free": true,
-    "location": "K9",
-    "loc": "4347",
-    "type": "Filmabend",
-    "desc": "combatiente zeigt: \"Revolution - politischer Filmeabend\"<br>"
-  },
-  {
-    "date": "2016-05-08",
-    "time": "20:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Party",
-    "desc": "Der SchmuSalon - Die Party mit den Bons"
-  },
-  {
-    "date": "2016-05-08",
-    "time": "20:15",
-    "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Film",
-    "desc": "\"Gitler kapuut\" (RUS 2008, 95 Min., R.: Marius Balchunas) - Tänzchen unter der Hakenkreuz-Discokugel gefällig? SS-Standartenführer Olaf Schulenberg ist ein sowjetischer Undercover Top-Spion. Er soll geheime Dokumente aus dem Führerhauptquartier beschaffen. Wie langweilig. Lieber schießt er im Keller auf Hakenkreuze, züchtet Tomaten, lernt die Damen des Berliner Nachtlebens kennen und ist gern gesehener Gast in Bars und Clubs. Er nimmt an der Weltmeisterschaft im \"Heil Hitler\"-Grüßen teil und legt einen Kosakentanz aufs Parkett. Aber genau das wird ihm zum Verhängnis. Er muss fliehen, aber seine vollbusige Agentenkollegin Sina kommt ihm zur Hilfe. Gemeinsam haben sie noch einen letzten Auftrag zu erfüllen.<br>"
   }
 ]
