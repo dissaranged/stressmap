@@ -39,6 +39,15 @@
   },
   {
     "date": "2016-05-14",
+    "time": "19:00",
+    "free": true,
+    "location": "Schreina47",
+    "loc": "87",
+    "type": "Solitresen + Kneipen-Quiz",
+    "desc": "In Bitterfeld, in Bitterfeld, ist da wo die AFD und Nazis sich um die Hälse fällt. Aber nicht alles ist dort scheiße, es soll dort auch noch emanzipatorische Menschen geben. Und weil es immer wieder Stress mit den unangenehmen (braunen) Zeitgenossen gibt, mal wieder ein Open-Air organisieren wollen, so Gegenkultur und so, oder einfach ihre RAs zu bezahlen haben, wollen wir uns solidarisch zeigen. Deshalb jibbet ein buntes und evtl. sogar lustiges Kneipenquiz und Mucke aus der Dose. Für die geistige Unterhaltung ist natürlich gesorgt."
+  },
+  {
+    "date": "2016-05-14",
     "time": "20:00",
     "free": true,
     "location": "Babylonia",
@@ -130,272 +139,87 @@
     "desc": "Crach Records present: \"Coregasm!\" Come to the last \"Crach Records Label Night\" before a summer break. We will play hard and dark DnB, Hardcore and Breakcore with some great guys of Crach Members &amp; their Friends.<br>"
   },
   {
-    "date": "2016-05-13",
+    "date": "2016-05-18",
+    "time": "17:00",
+    "free": true,
+    "location": "Café Morgenrot",
+    "loc": "2167",
+    "type": "Queer-feministischer Stricktreff",
+    "desc": "Miss Rottenmeiers queer-feministischer Stricktreff. Jeden 1. und 3. Mittwoch im Monat ab 17.00 Uhr. DIY-Workshop für Einsteiger_innen und Stitch'n Bitch. Alles, was Sie schon immer übers Stricken wissen wollten über die ersten Schritte des Selbermachens. Und/oder einfach gemütliches Stricken beim stilvollen Heissgetränk. Wenn möglich sollten Stricknadeln und Wolle mitgebracht werden. Für Einmaltäter_innen wird aber auch Material vorhanden sein."
+  },
+  {
+    "date": "2016-05-18",
+    "time": "19:00",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Erzählcafé",
+    "desc": "\"Marx - is - muss? Die VI.\" Auf dem Höhepunkt der Finanzkrise warnte Deutsche Bank Chef Ackermann davor, dass \"die Legitimation unserer Gesellschaft\" in Frage gestellt werden könne. Ein knappes Jahrzehnt später scheint es vielen zu dämmern, dass die Gesellschaft eines grundlegenden Wandels bedarf. Der Massenzulauf zu PEGIDA und AfD zeigt, dass auch viele bereit sind sich für einen solchen persönlich einzusetzen. Ist vielleicht Vormärz? Die Linke ist überall auf dem Rückzug und macht keinerlei Anstalten die Systemfrage zu stellen und Vorstellungen einer Gesellschaft jenseits des Kapitalismuss aufzuzeigen. Dabei kann das im Vormärz (1847/48) geschriebene \"Manifest der Kommunistischen Partei\" vielleicht behilflich sein, Ideen einer Gesellschaft \"freier Produzenten\" zu entwickeln..."
+  },
+  {
+    "date": "2016-05-18",
+    "time": "19:00",
+    "free": true,
+    "address": "Café Laika (Emser Str. 131, Neukölln)",
+    "location": "Café Laika (Emser Str. 131, Neukölln)",
+    "type": "Buchvorstellung",
+    "desc": "\"Dancehall und Homophobie\". Battyman-Tunes sind Songs, in denen homosexuelle Männer abgewertet werden. Deejays aus Jamaika haben insbesondere in den 1990er Jahren und zur Jahrtausendwende zahlreiche Lyrics geschrieben und performt, die sich extrem gewalttätig gegen Homosexualität aussprechen oder die brutale Ermordung von Homosexuellen beschreiben und begrüßen.<br>",
+    "coordinates": [
+      13.4380257,
+      52.4692679
+    ]
+  },
+  {
+    "date": "2016-05-18",
+    "time": "19:00",
+    "free": true,
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Offenes Treffen von NoWar",
+    "desc": "ILA: Krieg beginnt hier. Vom 1. bis 4. Juni 2016 findet in Berlin-Schönefeld die Internationale Luft- und Raumfahrtausstellung (ILA) statt. Die ILA ist die bedeutendste Fachmesse der Luft- und Raumfahrtindustrie in der BRD und ein gigantischer Tummelplatz der Rüstungsindustrie. Die Bundeswehr ist der größte Einzelaussteller der ILA. Auf einem über 10 000 Quadratmeter großen Freigelände stellt sie ihr Kriegsgerät zur Schau. Dazu zählen Kampfflugzeuge der Typen Eurofighter und Tornado, Transportflugzeuge und verschiedene Drohnen des Heeres. Der Bundeswehr stehen etwa 600 Drohnen zur Verfügung. Spätestens ab 2018 will sie auch bewaffnete Kampfdrohnen einsetzen. Gegen die Rüstungsmesse gab es in den vergangenen Jahren immer wieder Proteste von Antimilitarist*innen, unter anderem wurde der Eingang zur ILA blockiert, es gab Kundgebungen und eine Protest-Aktion im Ausstellungsbereich gegen das Rüstungsunternehmen Rafael. Wir wollen beim offenen Treffen anhand einer \"Theorie der Drohne\" der Frage nachgehen, welche Konsequenzen die ferngesteuerte Gewalt der Drohnen auf die kommenden Kriege hat und überlegen, wie wir gegen Kampfdrohnen und gegen die ILA aktiv werden können. <a href=\"http://www.nowar.blogsport.de\">Infos</a>"
+  },
+  {
+    "date": "2016-05-18",
     "time": "19:00",
     "location": "Schokoladen",
     "loc": "1131",
     "type": "Konzert",
-    "desc": "\"Wood In Di Fire\" (Groovy Jazzy Reggae)"
+    "desc": "\"Itaca\" (Italo-Pop aus Berlin), \"Pashmak\" (Indie aus Italien) und \"Brandon Miller\" (Indie aus Berlin)"
   },
   {
-    "date": "2016-05-13",
-    "time": "19:00",
-    "location": "Schreina47",
-    "loc": "87",
-    "type": "Soli-Skat-Turnier",
-    "desc": "Soli-Skat-Turnier für <a href=\"http://systemli.org\">systemli.org</a>.<br>"
-  },
-  {
-    "date": "2016-05-13",
+    "date": "2016-05-18",
     "time": "20:00",
-    "free": true,
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Soli-Tresen für anarchistische Gefangene",
-    "desc": "Diesmal Info-Veranstaltung über den §129 und das \"Bundeswehrverfahren\".<br>"
-  },
-  {
-    "date": "2016-05-13",
-    "time": "20:30",
-    "location": "K19 Café",
-    "loc": "45",
-    "type": "Konzert",
-    "desc": "\"La Trola\" (Punk'n'Roll aus Mexico), \"Wonach Wir Suchen\" (Akustik-Punk aus Leipzig) und \"Hannez Übern Zaun\" (Akustik-Punk aus Leipzig)."
-  },
-  {
-    "date": "2016-05-13",
-    "time": "21:00",
-    "location": "Abstand",
-    "loc": "5085",
-    "type": "Solikonzert",
-    "desc": "Punkrockfatsche für den Stressi mit \"A!Sexuell\" (Punk aus Dresden) und \"Resistent\" (Punk-HC-Metal aus Brander-Pissdorf)"
-  },
-  {
-    "date": "2016-05-13",
-    "time": "21:00",
     "free": true,
     "location": "Friedel 54",
     "loc": "7801",
-    "type": "Info-Tresen",
-    "desc": "Die <a href=\"http://anarchistischegruppe.noblogs.org\">Anarchistische Gruppe Neukölln</a> lädt ein: Gustav Landauer. Geschichte und Aktualität eines Berliner Anarchisten: Fast 100 Jahre nach seinem Tod wird Gustav Landauer heute wiederentdeckt und erweist sich als überraschend aktuell. Anhand historischer Episoden und der Schriften Landauers führt die Gustav Landauer Denkmalinitiative in Leben und Werk des einflussreichen Anarchisten ein, der seit den 1890er Jahren an allen größeren Auseinandersetzungen in der sozialistischen und anarchistischen Bewegung Berlins beteiligt war. Die Initiative stellt sich und ihr Anliegen vor."
+    "type": "Original-Punkrock-Tresen",
+    "desc": "Die Kiez-Punks sind zurück mit ihrem eigenen Tresen. Wir versorgen euch wieder mit veganer Pampe und feinstem Dosenbier. Im Kinoraum zeigen wir den Film \"This ain't California\". Eine Geschichte dreier Teenager, die auf dem bröckelnden Asphalt der DDR ihre Liebe zu einem Sport entdecken, der so gar nicht ins Programm passte. Das Punk-Märchen der drei Rollbrettfahrer zeigt die Entstehung einer Jugend-Subkultur im Ost-Berlin der 80er Jahre."
   },
   {
-    "date": "2016-05-13",
-    "time": "21:00",
-    "location": "Kastanienkeller",
-    "loc": "41",
-    "type": "Konzert",
-    "desc": "\"Dean Dirg\" (Thrash'n'Burn HC-Feast), \"Ruby\" (Allstar Melodic-Punk aus Berlin)"
-  },
-  {
-    "date": "2016-05-13",
-    "time": "21:00",
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Konzert + Party",
-    "desc": "Geburten sind nichts Schönes. Schleim, Blut, Schmerz. Genau wie bei Punk. \"Tupsi Tampon\" (Geburts-Punk), \"Candy and the Stripes\" (Kindeheits-Punk), \"Toylettes\" (Pubertäts-Punk) und \"Ach Was...!\" (Renten-Punk) zeigen auf, dass Leben kein Spaß ist. Nachgeburt von DJ Laika und DJ Zufall (Punk, NDW, Wave)."
-  },
-  {
-    "date": "2016-05-13",
-    "time": "21:30",
-    "location": "Supamolly",
-    "loc": "77",
-    "type": "Konzert",
-    "desc": "\"Elvis live\" (The Soul of Elvis). Danach DJane Frau Meia."
-  },
-  {
-    "date": "2016-05-13",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Canival Of Subculture warm-up Show at Koma F!",
-    "desc": "\"Zona d'Ombra\" (Punk Hardcore/Italy) + \"Rat Race\" (Hardcore Punk/Poland) + \"Förgiftad\" (Hardcore Punk/Sweden)"
-  },
-  {
-    "date": "2016-05-13",
-    "time": "22:00",
-    "location": "Lauschangriff",
-    "loc": "2041",
-    "type": "Party",
-    "desc": "\"Celebration Generation\". Hardtrance, Happy Hardcore und Rave Party. Auflegen werden DJ Tasteless und Team Zoundshine und DJ Speedraver. Eintritt: Spende."
-  },
-  {
-    "date": "2016-05-13",
-    "time": "22:00",
-    "free": true,
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "Extended Kneipentresen",
-    "desc": "Spooky Sounds aka Finsterer Freitag lädt ein zur special edition @ friday the 13th. In dunkelbuntem Ambiente präsentieren euch die Spookysound Allstars/Ex-Strobogeziefer: Tamat (Industrieterror Berlin) und Netzeauswasser (Transmitter Berlin) - expect dark sounds and cheap beer. Use bell at the front door."
-  },
-  {
-    "date": "2016-05-19",
-    "time": "17:00",
-    "free": true,
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Ausstellung",
-    "desc": "\"120 Bilder\". Eröffnung der Ausstellung von Max Querfeld. Ende 21.00 Uhr."
-  },
-  {
-    "date": "2016-05-19",
-    "time": "18:00",
-    "free": true,
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Politisches Café",
-    "desc": "Film: \"Griechenland - Ausverkauf!\" Schon seit 2011 stehen viele Stücke aus dem \"griechischen Familiensilber\" international zum Verkauf an: Dutzende Inseln, auch Paläste, Häfen, Flughäfen, Eisenbahnen und Minen suchen neue Besitzer. Investoren aus China, Russland und den USA interessieren sich für die griechischen Schnäppchen...<br>"
-  },
-  {
-    "date": "2016-05-19",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Yass\" (Noiserock, Elektro, Punk aus Freiburg - Members of Kurt/Ten Volt Shock), \"Storno\" (Postpunk, Noiserock aus Duis- und Freiburg - Members of Kurt/Telemark)"
-  },
-  {
-    "date": "2016-05-19",
-    "time": "19:30",
-    "free": true,
-    "location": "B-Lage",
-    "loc": "7639",
-    "type": "Film",
-    "desc": "Die Filmreihe von RAV und NSU-Watch \"Flucht und Rassismus, Protest und Widerstand\" wird fortgesetzt, wir laden herzlich ein:<br>"
-  },
-  {
-    "date": "2016-05-19",
+    "date": "2016-05-18",
     "time": "20:00",
     "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Buchvorstellung",
-    "desc": "\"Generation Hoyerswerda - Das Netzwerk militanter Neonazis in Brandenburg\" mit Heike Kleffner (Hg.) und Anna Spangenberg (Hg.).<br>"
+    "address": "K-Fetisch (Wildenbruchstr. 86)",
+    "location": "K-Fetisch (Wildenbruchstr. 86)",
+    "type": "Vortrag + Diskussion",
+    "desc": "\"Von Hoyerswerda nach Clausnitz\". Diskussions- und Vortragsabend über rassistische Kontinuitäten von 1991 bis 2016 - nicht nur in Sachsen.<br>",
+    "coordinates": [
+      13.44174,
+      52.4833
+    ]
   },
   {
-    "date": "2016-05-19",
-    "time": "20:00",
-    "location": "Tommy-Weisbecker-Haus",
-    "loc": "79",
-    "type": "Konzert",
-    "desc": "Native-American Hip Hop Konzert mit \"Nataanii Means\" (Santa Fe) und \"Witko\" (Pine Ridge Reservation)."
-  },
-  {
-    "date": "2016-05-19",
-    "time": "21:00",
-    "free": true,
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Videokino Peliculoso",
-    "desc": "\"Die Schlacht um Algier\" IT 1965 116 min R.: Gillo Pontecorvo D.: Jean Martin, Brahim Hadjadj, Samia Kerbash<br>"
-  },
-  {
-    "date": "2016-05-19",
-    "time": "21:00",
-    "free": true,
-    "location": "Scherer8",
-    "loc": "3981",
-    "type": "Liedermacher*in Tresen",
-    "desc": "\"Steven &amp; Stanley\"  und \"Der Papst, seine Frau und sein Porsche\". Liedermacher*in Tresen (jeden 3. Do. im Monat)"
-  },
-  {
-    "date": "2016-05-16",
-    "time": "19:00",
-    "free": true,
-    "location": "Tristeza",
-    "loc": "4798",
-    "type": "Infoveranstaltung",
-    "desc": "\"Das Märchen vom ungerechten Lohn\". Arbeit im Kapitalismus heißt ständige Unsicherheit und Stress für alle diejenigen, die mit der Lohnarbeit ihr Aus- und Fortkommen bestreiten müssen. Findet man einen Ausbildungsplatz und danach auch einen Arbeitsplatz? Genügt man dort den steigenden Anforderungen; und das auch in Zukunft? Die Abhängigkeit vom Kapital erzeugt für die Lohnabhängigen stets Probleme, mit denen diese umgehen müssen. Ob und wofür der Lohn reicht, ständiges sich beschränken müssen, das sind die täglichen Fragen, mit denen man sich herumschlagen muss.<br>"
-  },
-  {
-    "date": "2016-05-16",
-    "time": "21:00",
-    "free": true,
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Videokino Peliculoso",
-    "desc": "\"Frauen am Rande des Nervenzusammenbruchs\" ES 1988 86 min  R.: Pedro Almodovar, D.: Antonio Banderas, Carmen Maura, Rossy de Palma<br>"
-  },
-  {
-    "date": "2016-05-16",
-    "time": "21:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Party",
-    "desc": "\"Schokokuss\" presents: Party-Night"
-  },
-  {
-    "date": "2016-05-16",
-    "time": "21:30",
-    "free": true,
-    "location": "Sama-Café",
-    "loc": "86",
-    "type": "Film Club",
-    "desc": "\"Fahr zur Hölle, Liebling\""
-  },
-  {
-    "date": "2016-05-15",
-    "time": "14:00",
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Ausstellungseröffnung",
-    "desc": "Das Fotoprojekt \"Light on Tarp\" ist eine dokumentarische Arbeit über Landarbeiter_innen in Brasilien. Es zeigt den Alltag der Landwirt_innen, die Protagonist_innen eines Landes im Umbruch sind.<br>"
-  },
-  {
-    "date": "2016-05-15",
-    "time": "19:00",
-    "free": true,
-    "location": "WB13",
-    "loc": "82",
-    "type": "Kino",
-    "desc": "\"Black August\" (USA 2008, engl.O.m.engl.U.) - Inmate activist George Lester Jackson's short life became a flashpoint for revolution, igniting the bloodiest riot in San Quentin's history. In a story ripped from history's headlines, Black August traces Jackson's spiritual journey and violent fate, from being sent up on a one-year-to-life sentence for robbing a gas station of $71, to galvanizing the Black Guerrilla Family with his incendiary book of letters, Soledad Brother, to the fierce August day when his younger brother Jonathan shocked the world by taking a California courtroom hostage to protest Jackson's upcoming trial."
-  },
-  {
-    "date": "2016-05-15",
-    "time": "20:00",
-    "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Film",
-    "desc": "\"Ehe im Schatten\" (D 1947, 105 Min., R.&amp;B.: Kurt Maetzig) - Ein Berliner Schauspieler, mit einer jüdischen Kollegin verheiratet, sieht sich im \"Dritten Reich\" zunehmend Diffamierungen ausgesetzt. Als er unter Androhung des Berufsverbots zur Scheidung gezwungen werden soll, nimmt sich das Ehepaar das Leben. Nach der Novelle \"Es wird schon nicht so schlimm\", in der Hans Schweikart das tragische Schicksal seines Freundes Joachim Gottschalk nachzeichnete, drehte Maetzig für die DEFA dieses erschütternde, zeitgeschichtlich bedeutsame und formal anspruchsvolle Filmdrama, das auch international Anerkennung fand z.B. gab es 1948 den Bambi..."
-  },
-  {
-    "date": "2016-05-15",
-    "time": "20:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "Open stage - play your songs unplugged"
-  },
-  {
-    "date": "2016-05-15",
-    "time": "20:00",
-    "free": true,
-    "location": "X-B-Liebig",
-    "loc": "83",
-    "type": "Glitzernde Giraffen-Küfa",
-    "desc": "Huhu. Es gibt eine neue Küfa im XB. Die Glitzernde Giraffen-Küfa ist vegan und wir würden gerne jedes mal weiteres Programm anbieten. Z.B. Lesung, Performance, Info-event, Filme, etc. Also wenn ihr davon etwas machen wollt, meldet euch gerne. Wir wollen auch Personen, die zum ersten mal performen etc. einen Ort anbieten. Der Soli für die erste Küfa wird für Anti-Rep-Kosten für die Liebig 34 sein."
-  },
-  {
-    "date": "2016-05-15",
+    "date": "2016-05-18",
     "time": "21:00",
     "free": true,
     "address": "Filmriss (Rigaerstr. 103)",
     "location": "Filmriss (Rigaerstr. 103)",
     "type": "Kino",
-    "desc": "\"Vic &amp; Flo haben einen Bären gesehen\" (F 2013, 95 Min., OmU) - Victoria ist 60 Jahre alt und wird auf Bewährung aus dem Gefängnis entlassen. Zusammen mit ihrer Freundin Florence, die ebenfalls erst seit Kurzem den Knast hinter sich gelassen hat, beginnt sie ein Leben in den kanadischen Wäldern von Quebec. Doch obwohl die beiden Frauen ihre Strafen abgesessen haben, werden sie ihre Vergangenheit als Ex-Knackis nicht los. Mit einem Golfmobil erkunden sie die Gegend, lästern über die Bewährungshelferin, die einmal pro Woche einen Bericht verlangt. So fristen Vic und Flo in der Provinz ziellos ihr Dasein. Doch die Ruhe, in der sie leben, hält nicht ewig.",
+    "desc": "\"Something Must Break\" (Schweden 2014, 81 Min.) - Sebastian hat Gefühle für Andreas und Andreas hat Gefühle für Sebastian - so weit so gut. Die Konstellation, die auf den ersten Blick ganz einfach aussieht, wird aber dadurch verkompliziert, dass Andreas nicht schwul ist und Sebastian viel lieber eine Frau sein und Ellie heißen würde. Wie gut oder schlecht sie selbst diese Geschlechterverhältnis akzeptieren können und wie die Gesellschaft um sie herum damit zurechtkommt, ist ein Faktor, der ihrer Liebe füreinander zusätzlichen Zündstoff verleiht. Während die Leidenschaft sich immer weiter hochschaukelt, wird bei aller Zärtlichkeit und Härte klar: Something Must Break - etwas muss zerbrechen, denn so wie die Situation momentan ist, kann sie nicht bleiben.",
     "coordinates": [
       13.45533,
       52.51835999999999
     ]
-  },
-  {
-    "date": "2016-05-15",
-    "time": "21:00",
-    "location": "Rauchhaus",
-    "loc": "4268",
-    "type": "Konzert",
-    "desc": "\"Oaken\" (Crust, Punk from Hungary), \"Britneys Tears\" (HC, Metal), \"Canine\" (HC, Punk), \"Ryvulet\" (Post Punk).<br>"
   },
   {
     "date": "2016-05-17",
@@ -504,86 +328,334 @@
     "desc": "\"Seksihullut\" (Garagepunk, Fem-voc aus Finnalnd), \"Lokit\" (Slacker, Indie, Powerpop aus Finnland) + 3. Band tba"
   },
   {
-    "date": "2016-05-18",
+    "date": "2016-05-17",
+    "time": "21:05",
+    "free": true,
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "Filmstube",
+    "desc": "*Snow White &amp; the Huntsman* (Fantasy, USA 2012) - \"Spieglein, Spieglein an der Wand, wer ist die Schönste im ganzen Land?\" Doch was die tyrannische Königin zu hören bekommt, gefällt ihr ganz und gar nicht. 'Snow White' ist das einzige Mädchen weit und breit, dass noch hübscher als die böse Herrscherin des Märchenlands ist. Vor Wut und Neid hält es die Königin kaum mehr aus und beschließt ein grausames Verbrechen zu begehen. Der Jägersmann wird ausgesandt, um Schneewittchen in den Wald zu bringen und zu töten. Doch anstatt das unendlich schöne Mädchen umzubringen, wird der Jäger zu ihrem Beschützer und Mentor. Er bringt ihr das Kämpfen bei und bereitet sie auf ihre Mission vor - die böse Königin zu besiegen."
+  },
+  {
+    "date": "2016-05-19",
     "time": "17:00",
     "free": true,
-    "location": "Café Morgenrot",
-    "loc": "2167",
-    "type": "Queer-feministischer Stricktreff",
-    "desc": "Miss Rottenmeiers queer-feministischer Stricktreff. Jeden 1. und 3. Mittwoch im Monat ab 17.00 Uhr. DIY-Workshop für Einsteiger_innen und Stitch'n Bitch. Alles, was Sie schon immer übers Stricken wissen wollten über die ersten Schritte des Selbermachens. Und/oder einfach gemütliches Stricken beim stilvollen Heissgetränk. Wenn möglich sollten Stricknadeln und Wolle mitgebracht werden. Für Einmaltäter_innen wird aber auch Material vorhanden sein."
+    "location": "Villa Kuriosum",
+    "loc": "6787",
+    "type": "Ausstellung",
+    "desc": "\"120 Bilder\". Eröffnung der Ausstellung von Max Querfeld. Ende 21.00 Uhr."
   },
   {
-    "date": "2016-05-18",
-    "time": "19:00",
+    "date": "2016-05-19",
+    "time": "18:00",
     "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Erzählcafé",
-    "desc": "\"Marx - is - muss? Die VI.\" Auf dem Höhepunkt der Finanzkrise warnte Deutsche Bank Chef Ackermann davor, dass \"die Legitimation unserer Gesellschaft\" in Frage gestellt werden könne. Ein knappes Jahrzehnt später scheint es vielen zu dämmern, dass die Gesellschaft eines grundlegenden Wandels bedarf. Der Massenzulauf zu PEGIDA und AfD zeigt, dass auch viele bereit sind sich für einen solchen persönlich einzusetzen. Ist vielleicht Vormärz? Die Linke ist überall auf dem Rückzug und macht keinerlei Anstalten die Systemfrage zu stellen und Vorstellungen einer Gesellschaft jenseits des Kapitalismuss aufzuzeigen. Dabei kann das im Vormärz (1847/48) geschriebene \"Manifest der Kommunistischen Partei\" vielleicht behilflich sein, Ideen einer Gesellschaft \"freier Produzenten\" zu entwickeln..."
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "Politisches Café",
+    "desc": "Film: \"Griechenland - Ausverkauf!\" Schon seit 2011 stehen viele Stücke aus dem \"griechischen Familiensilber\" international zum Verkauf an: Dutzende Inseln, auch Paläste, Häfen, Flughäfen, Eisenbahnen und Minen suchen neue Besitzer. Investoren aus China, Russland und den USA interessieren sich für die griechischen Schnäppchen...<br>"
   },
   {
-    "date": "2016-05-18",
-    "time": "19:00",
-    "free": true,
-    "address": "Café Laika (Emser Str. 131, Neukölln)",
-    "location": "Café Laika (Emser Str. 131, Neukölln)",
-    "type": "Buchvorstellung",
-    "desc": "\"Dancehall und Homophobie\". Battyman-Tunes sind Songs, in denen homosexuelle Männer abgewertet werden. Deejays aus Jamaika haben insbesondere in den 1990er Jahren und zur Jahrtausendwende zahlreiche Lyrics geschrieben und performt, die sich extrem gewalttätig gegen Homosexualität aussprechen oder die brutale Ermordung von Homosexuellen beschreiben und begrüßen.<br>",
-    "coordinates": [
-      13.4380257,
-      52.4692679
-    ]
-  },
-  {
-    "date": "2016-05-18",
-    "time": "19:00",
-    "free": true,
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Offenes Treffen von NoWar",
-    "desc": "ILA: Krieg beginnt hier. Vom 1. bis 4. Juni 2016 findet in Berlin-Schönefeld die Internationale Luft- und Raumfahrtausstellung (ILA) statt. Die ILA ist die bedeutendste Fachmesse der Luft- und Raumfahrtindustrie in der BRD und ein gigantischer Tummelplatz der Rüstungsindustrie. Die Bundeswehr ist der größte Einzelaussteller der ILA. Auf einem über 10 000 Quadratmeter großen Freigelände stellt sie ihr Kriegsgerät zur Schau. Dazu zählen Kampfflugzeuge der Typen Eurofighter und Tornado, Transportflugzeuge und verschiedene Drohnen des Heeres. Der Bundeswehr stehen etwa 600 Drohnen zur Verfügung. Spätestens ab 2018 will sie auch bewaffnete Kampfdrohnen einsetzen. Gegen die Rüstungsmesse gab es in den vergangenen Jahren immer wieder Proteste von Antimilitarist*innen, unter anderem wurde der Eingang zur ILA blockiert, es gab Kundgebungen und eine Protest-Aktion im Ausstellungsbereich gegen das Rüstungsunternehmen Rafael. Wir wollen beim offenen Treffen anhand einer \"Theorie der Drohne\" der Frage nachgehen, welche Konsequenzen die ferngesteuerte Gewalt der Drohnen auf die kommenden Kriege hat und überlegen, wie wir gegen Kampfdrohnen und gegen die ILA aktiv werden können. <a href=\"http://www.nowar.blogsport.de\">Infos</a>"
-  },
-  {
-    "date": "2016-05-18",
+    "date": "2016-05-19",
     "time": "19:00",
     "location": "Schokoladen",
     "loc": "1131",
     "type": "Konzert",
-    "desc": "\"Itaca\" (Italo-Pop aus Berlin), \"Pashmak\" (Indie aus Italien) und \"Brandon Miller\" (Indie aus Berlin)"
+    "desc": "\"Yass\" (Noiserock, Elektro, Punk aus Freiburg - Members of Kurt/Ten Volt Shock), \"Storno\" (Postpunk, Noiserock aus Duis- und Freiburg - Members of Kurt/Telemark)"
   },
   {
-    "date": "2016-05-18",
-    "time": "20:00",
+    "date": "2016-05-19",
+    "time": "19:30",
     "free": true,
-    "location": "Friedel 54",
-    "loc": "7801",
-    "type": "Original-Punkrock-Tresen",
-    "desc": "Die Kiez-Punks sind zurück mit ihrem eigenen Tresen. Wir versorgen euch wieder mit veganer Pampe und feinstem Dosenbier. Im Kinoraum zeigen wir den Film \"This ain't California\". Eine Geschichte dreier Teenager, die auf dem bröckelnden Asphalt der DDR ihre Liebe zu einem Sport entdecken, der so gar nicht ins Programm passte. Das Punk-Märchen der drei Rollbrettfahrer zeigt die Entstehung einer Jugend-Subkultur im Ost-Berlin der 80er Jahre."
+    "location": "B-Lage",
+    "loc": "7639",
+    "type": "Film",
+    "desc": "Die Filmreihe von RAV und NSU-Watch \"Flucht und Rassismus, Protest und Widerstand\" wird fortgesetzt, wir laden herzlich ein:<br>"
   },
   {
-    "date": "2016-05-18",
+    "date": "2016-05-19",
     "time": "20:00",
     "free": true,
-    "address": "K-Fetisch (Wildenbruchstr. 86)",
-    "location": "K-Fetisch (Wildenbruchstr. 86)",
-    "type": "Vortrag + Diskussion",
-    "desc": "\"Von Hoyerswerda nach Clausnitz\". Diskussions- und Vortragsabend über rassistische Kontinuitäten von 1991 bis 2016 - nicht nur in Sachsen.<br>",
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Buchvorstellung",
+    "desc": "\"Generation Hoyerswerda - Das Netzwerk militanter Neonazis in Brandenburg\" mit Heike Kleffner (Hg.) und Anna Spangenberg (Hg.).<br>"
+  },
+  {
+    "date": "2016-05-19",
+    "time": "20:00",
+    "location": "Potse",
+    "loc": "64",
+    "type": "RSUS Tresen",
+    "desc": "Der Schul, Uni, und Azubistreik gegen Rassismus, bekannt auch als Refugee Schul- und Unistreik, lädt zum Tresen in die Potse ein. Wir wollen mit euch quatschen, kickern und was trinken. Lernen wir uns kennen. Es wird wie immer in der Potse Potzkü (Küfa) geben und zwischen 22.00 und 23.00 Uhr kostet Sterni nur 50 Cent."
+  },
+  {
+    "date": "2016-05-19",
+    "time": "20:00",
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Konzert",
+    "desc": "Native-American Hip Hop Konzert mit \"Nataanii Means\" (Santa Fe) und \"Witko\" (Pine Ridge Reservation)."
+  },
+  {
+    "date": "2016-05-19",
+    "time": "21:00",
+    "free": true,
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Videokino Peliculoso",
+    "desc": "\"Die Schlacht um Algier\" IT 1965 116 min R.: Gillo Pontecorvo D.: Jean Martin, Brahim Hadjadj, Samia Kerbash<br>"
+  },
+  {
+    "date": "2016-05-19",
+    "time": "21:00",
+    "free": true,
+    "location": "Scherer8",
+    "loc": "3981",
+    "type": "Liedermacher*in Tresen",
+    "desc": "\"Steven &amp; Stanley\"  und \"Der Papst, seine Frau und sein Porsche\". Liedermacher*in Tresen (jeden 3. Do. im Monat)"
+  },
+  {
+    "date": "2016-05-19",
+    "time": "21:00",
+    "location": "X-B-Liebig",
+    "loc": "83",
+    "type": "Konzert",
+    "desc": "\"Kyliga Dälen\" (Crust, D-Beat aus Budapest), \"Red And The Dumbasses\" (Hardcore aus Budapest)"
+  },
+  {
+    "date": "2016-05-16",
+    "time": "18:30",
+    "address": "Washingtonplatz (Hauptbahnhof)",
+    "location": "Washingtonplatz (Hauptbahnhof)",
+    "type": "Bärgida stoppen!",
+    "desc": "Bereits seit über einem Jahr verbreiten Nazis unter dem Namen \"Bärgida\" ihre rassistische, islamophobe und faschistische Hetze. Auch an diesem Montag wollen sie wieder am Washingtonplatz direkt am Hauptbahnhof aufmarschieren. Lasst uns dies gemeinsam verhindern!<br>",
     "coordinates": [
-      13.44174,
-      52.4833
+      13.3702303,
+      52.52341449999999
     ]
   },
   {
-    "date": "2016-05-18",
+    "date": "2016-05-16",
+    "time": "19:00",
+    "free": true,
+    "location": "Tristeza",
+    "loc": "4798",
+    "type": "Infoveranstaltung",
+    "desc": "\"Das Märchen vom ungerechten Lohn\". Arbeit im Kapitalismus heißt ständige Unsicherheit und Stress für alle diejenigen, die mit der Lohnarbeit ihr Aus- und Fortkommen bestreiten müssen. Findet man einen Ausbildungsplatz und danach auch einen Arbeitsplatz? Genügt man dort den steigenden Anforderungen; und das auch in Zukunft? Die Abhängigkeit vom Kapital erzeugt für die Lohnabhängigen stets Probleme, mit denen diese umgehen müssen. Ob und wofür der Lohn reicht, ständiges sich beschränken müssen, das sind die täglichen Fragen, mit denen man sich herumschlagen muss.<br>"
+  },
+  {
+    "date": "2016-05-16",
+    "time": "21:00",
+    "free": true,
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Videokino Peliculoso",
+    "desc": "\"Frauen am Rande des Nervenzusammenbruchs\" ES 1988 86 min  R.: Pedro Almodovar, D.: Antonio Banderas, Carmen Maura, Rossy de Palma<br>"
+  },
+  {
+    "date": "2016-05-16",
+    "time": "21:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Party",
+    "desc": "\"Schokokuss\" presents: Party-Night"
+  },
+  {
+    "date": "2016-05-16",
+    "time": "21:30",
+    "free": true,
+    "location": "Sama-Café",
+    "loc": "86",
+    "type": "Film Club",
+    "desc": "\"Fahr zur Hölle, Liebling\""
+  },
+  {
+    "date": "2016-05-15",
+    "time": "14:00",
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Ausstellungseröffnung",
+    "desc": "Das Fotoprojekt \"Light on Tarp\" ist eine dokumentarische Arbeit über Landarbeiter_innen in Brasilien. Es zeigt den Alltag der Landwirt_innen, die Protagonist_innen eines Landes im Umbruch sind.<br>"
+  },
+  {
+    "date": "2016-05-15",
+    "time": "15:00",
+    "address": "Mariannenplatz (Kreuzberg)",
+    "location": "Mariannenplatz (Kreuzberg)",
+    "type": "Global Debout Berlin Versammlung",
+    "desc": "Am 15. Mai 2016 - dem fünften Jahrestag der \"Indignados\"-Aufstände in Spanien - folgen wir dem Aufruf aus Frankreich zu einem globalen Aktionstag.<br>",
+    "coordinates": [
+      13.4258017,
+      52.50340070000001
+    ]
+  },
+  {
+    "date": "2016-05-15",
+    "time": "19:00",
+    "free": true,
+    "location": "WB13",
+    "loc": "82",
+    "type": "Kino",
+    "desc": "\"Black August\" (USA 2008, engl.O.m.engl.U.) - Inmate activist George Lester Jackson's short life became a flashpoint for revolution, igniting the bloodiest riot in San Quentin's history. In a story ripped from history's headlines, Black August traces Jackson's spiritual journey and violent fate, from being sent up on a one-year-to-life sentence for robbing a gas station of $71, to galvanizing the Black Guerrilla Family with his incendiary book of letters, Soledad Brother, to the fierce August day when his younger brother Jonathan shocked the world by taking a California courtroom hostage to protest Jackson's upcoming trial."
+  },
+  {
+    "date": "2016-05-15",
+    "time": "20:00",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Film",
+    "desc": "\"Ehe im Schatten\" (D 1947, 105 Min., R.&amp;B.: Kurt Maetzig) - Ein Berliner Schauspieler, mit einer jüdischen Kollegin verheiratet, sieht sich im \"Dritten Reich\" zunehmend Diffamierungen ausgesetzt. Als er unter Androhung des Berufsverbots zur Scheidung gezwungen werden soll, nimmt sich das Ehepaar das Leben. Nach der Novelle \"Es wird schon nicht so schlimm\", in der Hans Schweikart das tragische Schicksal seines Freundes Joachim Gottschalk nachzeichnete, drehte Maetzig für die DEFA dieses erschütternde, zeitgeschichtlich bedeutsame und formal anspruchsvolle Filmdrama, das auch international Anerkennung fand z.B. gab es 1948 den Bambi..."
+  },
+  {
+    "date": "2016-05-15",
+    "time": "20:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "Open stage - play your songs unplugged"
+  },
+  {
+    "date": "2016-05-15",
+    "time": "20:00",
+    "free": true,
+    "location": "X-B-Liebig",
+    "loc": "83",
+    "type": "Glitzernde Giraffen-Küfa",
+    "desc": "Huhu. Es gibt eine neue Küfa im XB. Die Glitzernde Giraffen-Küfa ist vegan und wir würden gerne jedes mal weiteres Programm anbieten. Z.B. Lesung, Performance, Info-event, Filme, etc. Also wenn ihr davon etwas machen wollt, meldet euch gerne. Wir wollen auch Personen, die zum ersten mal performen etc. einen Ort anbieten. Der Soli für die erste Küfa wird für Anti-Rep-Kosten für die Liebig 34 sein.<br>"
+  },
+  {
+    "date": "2016-05-15",
     "time": "21:00",
     "free": true,
     "address": "Filmriss (Rigaerstr. 103)",
     "location": "Filmriss (Rigaerstr. 103)",
     "type": "Kino",
-    "desc": "\"Something Must Break\" (Schweden 2014, 81 Min.) - Sebastian hat Gefühle für Andreas und Andreas hat Gefühle für Sebastian - so weit so gut. Die Konstellation, die auf den ersten Blick ganz einfach aussieht, wird aber dadurch verkompliziert, dass Andreas nicht schwul ist und Sebastian viel lieber eine Frau sein und Ellie heißen würde. Wie gut oder schlecht sie selbst diese Geschlechterverhältnis akzeptieren können und wie die Gesellschaft um sie herum damit zurechtkommt, ist ein Faktor, der ihrer Liebe füreinander zusätzlichen Zündstoff verleiht. Während die Leidenschaft sich immer weiter hochschaukelt, wird bei aller Zärtlichkeit und Härte klar: Something Must Break - etwas muss zerbrechen, denn so wie die Situation momentan ist, kann sie nicht bleiben.",
+    "desc": "\"Vic &amp; Flo haben einen Bären gesehen\" (F 2013, 95 Min., OmU) - Victoria ist 60 Jahre alt und wird auf Bewährung aus dem Gefängnis entlassen. Zusammen mit ihrer Freundin Florence, die ebenfalls erst seit Kurzem den Knast hinter sich gelassen hat, beginnt sie ein Leben in den kanadischen Wäldern von Quebec. Doch obwohl die beiden Frauen ihre Strafen abgesessen haben, werden sie ihre Vergangenheit als Ex-Knackis nicht los. Mit einem Golfmobil erkunden sie die Gegend, lästern über die Bewährungshelferin, die einmal pro Woche einen Bericht verlangt. So fristen Vic und Flo in der Provinz ziellos ihr Dasein. Doch die Ruhe, in der sie leben, hält nicht ewig.",
     "coordinates": [
       13.45533,
       52.51835999999999
     ]
+  },
+  {
+    "date": "2016-05-15",
+    "time": "21:00",
+    "location": "Rauchhaus",
+    "loc": "4268",
+    "type": "Konzert",
+    "desc": "\"Oaken\" (Crust, Punk from Hungary), \"Britneys Tears\" (HC, Metal), \"Canine\" (HC, Punk), \"Ryvulet\" (Post Punk).<br>"
+  },
+  {
+    "date": "2016-05-20",
+    "time": "17:00",
+    "free": true,
+    "location": "Villa Kuriosum",
+    "loc": "6787",
+    "type": "Ausstellung",
+    "desc": "\"120 Bilder\". Ausstellung von Max Querfeld. 20.00 Uhr spielt das \"Innensassinenorchester\"."
+  },
+  {
+    "date": "2016-05-20",
+    "time": "19:00",
+    "free": true,
+    "location": "B5355",
+    "loc": "7599",
+    "type": "Küfa",
+    "desc": "Soli Küfa with vegan Pizza (8pm) and DnB, Neurofunk by DJane Bandit (11pm - 1am or more). As always, a friend is offering professional soli Haircuts and please smoke outside until 10pm."
+  },
+  {
+    "date": "2016-05-20",
+    "time": "19:00",
+    "free": true,
+    "location": "Bibliothek der Freien",
+    "loc": "5013",
+    "type": "Buchvorstellung mit Diskussion",
+    "desc": "Murray Bookchin: \"Die nächste Revolution. Libertärer Kommunalismus und die Zukunft der Linken\". Vorstellung einer Neuerscheinung.<br>"
+  },
+  {
+    "date": "2016-05-20",
+    "time": "19:00",
+    "free": true,
+    "location": "Haus der Demokratie",
+    "loc": "973",
+    "type": "Infoveranstaltung",
+    "desc": "\"Der Überfall der Wehrmacht auf Kreta 1941 (75. Jahrestag)\"<br>"
+  },
+  {
+    "date": "2016-05-20",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Scum Babies\" (Punk aus Berlin) und \"Complete Crap\" (Punk aus Potsdam)"
+  },
+  {
+    "date": "2016-05-20",
+    "time": "20:00",
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Konzert",
+    "desc": "\"Crude SS\" (80s Hardcore Punk from Sweden), \"Cyness\" (Grindcore Punx from Germany), \"Pest Hole\" (Metal Punk Granate from Germany)."
+  },
+  {
+    "date": "2016-05-20",
+    "time": "21:00",
+    "location": "Kastanienkeller",
+    "loc": "41",
+    "type": "Konzert",
+    "desc": "\"Pyramido\" (Sludge, Doom from Sweden), \"Sickmark\" (Powerviolence from Bielefeld), \"Gall\" (Extreme Hardcore-Punk Noise, Drone from Potsdam)."
+  },
+  {
+    "date": "2016-05-20",
+    "time": "21:00",
+    "address": "Trickster",
+    "location": "Trickster",
+    "type": "Renfield-Zine #32 Releaseparty",
+    "desc": "Die nächste Ausgabe des Fachorgans für Krims und Krams und Rock'n'Roll geht an den Start und das wird ausgiebig gefeiert.<br>",
+    "coordinates": [
+      -134.5076621,
+      58.2723068
+    ]
+  },
+  {
+    "date": "2016-05-20",
+    "time": "21:00",
+    "free": true,
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "Filme",
+    "desc": "Kurzflime vom tschechischen surrealistischem Regisseur Jan Vankmajer: \"Breakfast\" uvm. Soli für Antifa Polen/Gefangenenkommunikation."
+  },
+  {
+    "date": "2016-05-20",
+    "time": "21:30",
+    "location": "Abstand",
+    "loc": "5085",
+    "type": "Konzert",
+    "desc": "\"Beef Tape Worm\" und \"Vandalism\" (St. Petersburg)"
+  },
+  {
+    "date": "2016-05-20",
+    "time": "21:30",
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "Konzert",
+    "desc": "\"La Tourette\" (Tonia Reeh und Rudi Fischerlehner) und \"Barbara Morgenstern\"."
+  },
+  {
+    "date": "2016-05-20",
+    "time": "22:00",
+    "location": "Schreina47",
+    "loc": "87",
+    "type": "Antirep Soliparty",
+    "desc": "Am 19.09.2015 zogen fundamentalistische ChristInnen betend durch Berlin-Mitte um ihre antifeministischen, reaktionären und moralisierenden Positionen mit Holzkreuzen bewaffnet zur Schau zu tragen. Dieser Marsch konnte erheblich gestört, verkürzt und nur mit massiver Polizeigewalt durchgesetzt werden, sodass die Abschlusskundgebung der selbsternannten LebensschützerInnen erst mit 3h Verspätung stattfinden konnte. Die Mühlen des Repressionsapparates in diesem Staate mahlen langsam. Nun stehen die ersten Kosten für Anwälte und Bußgelder an. Um die Menschen mit diesen nicht alleine zu lassen, wollen wir euch einladen, mit uns solidarisch zu Trash und 80s in der Schreina47 zu feiern. Solidarität ist eine Waffe!<br>"
+  },
+  {
+    "date": "2016-05-20",
+    "time": "23:00",
+    "location": "Lauschangriff",
+    "loc": "2041",
+    "type": "FORWAC Kenya Soliparty",
+    "desc": "Drum&amp;Bass supporting FORWAC: HNS (Audiomassive), Dan M (Kingbeatz), Flare 5 (Basstion), Allic (Madness for Soul). Eintritt: 3-5 EUR.<br>"
   }
 ]
