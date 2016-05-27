@@ -1,161 +1,5 @@
 [
   {
-    "date": "2016-05-28",
-    "time": "10:00",
-    "free": true,
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Tage der anarchistischen Ideen und Publikationen",
-    "desc": "Wir laden alle ein, die Interesse haben über libertäre und hierarchiefreie Ideen und Perspektiven, über Mittel und Methoden in unseren Kämpfen, über Konsequenzen, Probleme und Hürden zu diskutieren und auch zu streiten. Anstatt zu konsumieren, wollen wir uns kennenlernen, in einen direkten Austausch treten und uns praktisch ausprobieren. Wir sind der Überzeugung, das wir nur so heraus finden können, in was für einer Realität wir uns wirklich befinden und wo sich potentielle Brennpunkte befinden. <a href=\"https://ausloeser.blackblogs.org\">Info</a><br>"
-  },
-  {
-    "date": "2016-05-28",
-    "time": "12:30",
-    "address": "Bhf. Ostkreuz",
-    "location": "Bhf. Ostkreuz",
-    "type": "Antifa-Kaffeefahrt in den Spreewald",
-    "desc": "Seit Ende Oktober letzten Jahres veranstaltet der rechte Verein \"Zukunft Heimat\" (ZH) im Spreewald mehrere Demonstrationen. Im monatlichen Rhythmus demonstrierte \"ZH\" in Lübben (Dahme-Spreewald) und Lübbenau (Elbe-Elster). Die Demonstrationen verzeichneten anfangs bis zu 800 Teilnehmende, während die Zahlen in den letzten Monaten rückläufig waren. Zunehmend weichen die Organisator_innen auf weitere Städte im Spreewald aus und bieten damit eine Bühne für nationalistische und rassistische Gruppierungen verschiedenster Spektren. Wir wollen das Treiben nicht hinnehmen und rufen zu einer antifaschistischen Kaffee-Fahrt am 28. Mai in den Spreewald auf.<br>",
-    "coordinates": [
-      13.4693859,
-      52.5032934
-    ]
-  },
-  {
-    "date": "2016-05-28",
-    "time": "14:00",
-    "address": "S-Bhf. Buch",
-    "location": "S-Bhf. Buch",
-    "type": "Demo",
-    "desc": "\"Never again!\" - Demo im Gedenken an Dieter Eich. Im Mai 2000 von Nazis in Berlin-Buch ermordet. Gegen Faschismus und Sozialchauvinismus.<br>"
-  },
-  {
-    "date": "2016-05-28",
-    "time": "15:00",
-    "free": true,
-    "location": "Friedel 54",
-    "loc": "7801",
-    "type": "Anarchistisches Café",
-    "desc": "Die <a href=\"http://anarchistischegruppe.noblogs.org\">Anarchistische Gruppe Neukölln</a> lädt ein zu einem Anarchistischen Café mit Kinderecke. Wir wollen einen Ort bieten zur Diskussion über pädagogische Themen (Vorschlag: Müssen Kinder \"erzogen\" werden? Brauchen Kinder Grenzen?) und die Möglichkeit, sich mit Kindern willkommen zu fühlen. Es gibt Kaffee, Saft, Kuchen und Snacks (auch gerne selbst mitbringen) und eine Kinderecke mit Bilderbüchern vom <a href=\"http://www.vielfalterbuecher.wordpress.com\">Vielfalter</a> und Malsachen."
-  },
-  {
-    "date": "2016-05-28",
-    "time": "15:00",
-    "free": true,
-    "address": "Karl-Marx-Platz (Neukölln)",
-    "location": "Karl-Marx-Platz (Neukölln)",
-    "type": "Kiezspaziergang",
-    "desc": "Das Kiezforum lädt ein zum Kiezspaziergang durch Rixdorf. Themen diesmal: Verdichtung und Verdrängung. Wir schauen uns Orte der Luxussanierungen, Neubebauungen und des Leerstands an und diskutieren über die Folgen. Im Anschluß gibt's Suppe. <a href=\"http://www.rixdorf.org\">Info</a>",
-    "coordinates": [
-      13.4421308,
-      52.473879
-    ]
-  },
-  {
-    "date": "2016-05-28",
-    "time": "17:00",
-    "address": "Oranienplatz (Kreuzberg)",
-    "location": "Oranienplatz (Kreuzberg)",
-    "type": "Demo",
-    "desc": "\"Loi El Khomri, Loi d'esclavage\". Kommt zum Oranienplatz mit anschließender Kundgebung am Pariser Platz, in Solidarität mit den sozialen Kämpfen in Frankreich gegen die Arbeitsmarktreform. Organisierende Gruppe ist die Solidarische Jugendbewegung.",
-    "coordinates": [
-      13.4149207,
-      52.5024849
-    ]
-  },
-  {
-    "date": "2016-05-28",
-    "time": "18:00",
-    "location": "Bunte Kuh",
-    "loc": "1199",
-    "type": "Solifest",
-    "desc": "\"77 Years Of Filth &amp; Smoke\". Solifest dessen Gewinne wie letztes Jahr der regionalen Wildtier- und Flüchtlingshilfe zugutekommen.<br>"
-  },
-  {
-    "date": "2016-05-28",
-    "time": "19:00",
-    "free": true,
-    "location": "Drugstore",
-    "loc": "23",
-    "type": "Menschen von Nebenan",
-    "desc": "Dies ist der Auftakt unserer Party-Reihe \"Menschen von Nebenan\" - Subkulturen in anderen Ländern.<br>"
-  },
-  {
-    "date": "2016-05-28",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Bubonix\" (Hardcore Punk aus Limburg) und \"Wer schießt auf Ralf Bialla?\" (Punk, HC aus Berlin)"
-  },
-  {
-    "date": "2016-05-28",
-    "time": "21:00",
-    "location": "Fischladen",
-    "loc": "31",
-    "type": "Soli concert + party",
-    "desc": "Soli for an anarchist ambulance for the autonomous clinics in Athens. With \"Schnur\" (Chansonpunk from Berlin) live, Karaoke and Djs."
-  },
-  {
-    "date": "2016-05-28",
-    "time": "21:00",
-    "address": "Trickster",
-    "location": "Trickster",
-    "type": "Konzert",
-    "desc": "\"Die Plattenfirma\" bereichert die Welt um ein weiteres Kulturprodukt. 7\" Split Record-Release von \"Dr. Urban\" (Punk aus Halle) und \"Mommy Boys\" (Punk aus Berlin). Dazu: \"No Waves\" (Wave aus Leipzig) + DJ Dingo Skullfuck.",
-    "coordinates": [
-      -134.5076621,
-      58.2723068
-    ]
-  },
-  {
-    "date": "2016-05-28",
-    "time": "21:30",
-    "location": "Supamolly",
-    "loc": "77",
-    "type": "Konzert",
-    "desc": "\"Bolschewistische Kurkapelle\" (politisches Einsatzorchester). Danach Party."
-  },
-  {
-    "date": "2016-05-28",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im Koma F",
-    "desc": "Fleshbug Records presents :<br>"
-  },
-  {
-    "date": "2016-05-28",
-    "time": "22:00",
-    "location": "Lauschangriff",
-    "loc": "2041",
-    "type": "Soli-Party",
-    "desc": "Soli-Party für linke Medienarbeit und AFA-Filmprojekt.<br>"
-  },
-  {
-    "date": "2016-05-28",
-    "time": "23:00",
-    "location": "Mensch Meier",
-    "loc": "8045",
-    "type": "Konzert + Party",
-    "desc": "Jack Bimski Afterhour \"Jack is back\". Das Jack Bimski Team lädt herzlichst ein, um das nicht beendete Festival von 2015 zu einem gebührendem Ende zu bringen.<br>"
-  },
-  {
-    "date": "2016-05-28",
-    "time": "23:00",
-    "location": "Tommy-Weisbecker-Haus",
-    "loc": "79",
-    "type": "Party",
-    "desc": "Make Some Noise präsentiert \"Wackelschnaps meet Konfetti Party\""
-  },
-  {
-    "date": "2016-05-28",
-    "time": "23:00",
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "Praxis Presents Datacide",
-    "desc": "Release party und Soli für Datacide 15 und Almanac 2016. DJs/Live: Pure, Kamphetamine, 2/5 BZ, Karl Marx Stadt, Lynx, Aekre, Zombieflesheater. Style: Experimental Hardcore, Breakcore, Industrial, Noise and More."
-  },
-  {
     "date": "2016-05-27",
     "time": "13:30",
     "free": true,
@@ -188,10 +32,14 @@
   {
     "date": "2016-05-27",
     "time": "18:00",
-    "address": "Teepeeland",
+    "address": "Köpenicker Straße 40, 10179 Berlin",
     "location": "Teepeeland",
     "type": "Open Stage",
-    "desc": "Wie jeden Freitag öffnen wir unsere Bühne wieder für alle, die Musik und verschiedene Performences erleben oder vorführen möchten. Ob Musik, Stand Up oder Karaoke. Alles ist möglich denn die Bühne gehört euch. Zeigt eure Solidarität mit uns und kommt zur open Stage ins Teepeeland. Wie immer kein Eintritt. Ihr findet uns an der Schillingbrücke neben Ver.di, hinter der alten Eisfabrik."
+    "desc": "Wie jeden Freitag öffnen wir unsere Bühne wieder für alle, die Musik und verschiedene Performences erleben oder vorführen möchten. Ob Musik, Stand Up oder Karaoke. Alles ist möglich denn die Bühne gehört euch. Zeigt eure Solidarität mit uns und kommt zur open Stage ins Teepeeland. Wie immer kein Eintritt. Ihr findet uns an der Schillingbrücke neben Ver.di, hinter der alten Eisfabrik.",
+    "coordinates": [
+      13.4254339,
+      52.5087601
+    ]
   },
   {
     "date": "2016-05-27",
@@ -429,6 +277,292 @@
     "desc": "Soli-Konzert für Soli-Mieten mit \"Captain Chaos\". Der Sänger von \"Ghost Mice\" und Gründer des Labels Plan-It-X Records präsentiert sein neues Solo-Album \"156 Songs\". Türen offen ab 9, Konzert startet so um 10. Die Einnahmen werden komplett für unsere Solizimmer verwendet."
   },
   {
+    "date": "2016-05-28",
+    "time": "10:00",
+    "free": true,
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Tage der anarchistischen Ideen und Publikationen",
+    "desc": "Wir laden alle ein, die Interesse haben über libertäre und hierarchiefreie Ideen und Perspektiven, über Mittel und Methoden in unseren Kämpfen, über Konsequenzen, Probleme und Hürden zu diskutieren und auch zu streiten. Anstatt zu konsumieren, wollen wir uns kennenlernen, in einen direkten Austausch treten und uns praktisch ausprobieren. Wir sind der Überzeugung, das wir nur so heraus finden können, in was für einer Realität wir uns wirklich befinden und wo sich potentielle Brennpunkte befinden. <a href=\"https://ausloeser.blackblogs.org\">Info</a><br>"
+  },
+  {
+    "date": "2016-05-28",
+    "time": "12:30",
+    "address": "Bhf. Ostkreuz",
+    "location": "Bhf. Ostkreuz",
+    "type": "Antifa-Kaffeefahrt in den Spreewald",
+    "desc": "Seit Ende Oktober letzten Jahres veranstaltet der rechte Verein \"Zukunft Heimat\" (ZH) im Spreewald mehrere Demonstrationen. Im monatlichen Rhythmus demonstrierte \"ZH\" in Lübben (Dahme-Spreewald) und Lübbenau (Elbe-Elster). Die Demonstrationen verzeichneten anfangs bis zu 800 Teilnehmende, während die Zahlen in den letzten Monaten rückläufig waren. Zunehmend weichen die Organisator_innen auf weitere Städte im Spreewald aus und bieten damit eine Bühne für nationalistische und rassistische Gruppierungen verschiedenster Spektren. Wir wollen das Treiben nicht hinnehmen und rufen zu einer antifaschistischen Kaffee-Fahrt am 28. Mai in den Spreewald auf.<br>",
+    "coordinates": [
+      13.4693859,
+      52.5032934
+    ]
+  },
+  {
+    "date": "2016-05-28",
+    "time": "14:00",
+    "address": "S-Bhf. Buch",
+    "location": "S-Bhf. Buch",
+    "type": "Demo",
+    "desc": "\"Never again!\" - Demo im Gedenken an Dieter Eich. Im Mai 2000 von Nazis in Berlin-Buch ermordet. Gegen Faschismus und Sozialchauvinismus.<br>"
+  },
+  {
+    "date": "2016-05-28",
+    "time": "15:00",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Anarchistisches Café",
+    "desc": "Die <a href=\"http://anarchistischegruppe.noblogs.org\">Anarchistische Gruppe Neukölln</a> lädt ein zu einem Anarchistischen Café mit Kinderecke. Wir wollen einen Ort bieten zur Diskussion über pädagogische Themen (Vorschlag: Müssen Kinder \"erzogen\" werden? Brauchen Kinder Grenzen?) und die Möglichkeit, sich mit Kindern willkommen zu fühlen. Es gibt Kaffee, Saft, Kuchen und Snacks (auch gerne selbst mitbringen) und eine Kinderecke mit Bilderbüchern vom <a href=\"http://www.vielfalterbuecher.wordpress.com\">Vielfalter</a> und Malsachen."
+  },
+  {
+    "date": "2016-05-28",
+    "time": "15:00",
+    "free": true,
+    "address": "Karl-Marx-Platz (Neukölln)",
+    "location": "Karl-Marx-Platz (Neukölln)",
+    "type": "Kiezspaziergang",
+    "desc": "Das Kiezforum lädt ein zum Kiezspaziergang durch Rixdorf. Themen diesmal: Verdichtung und Verdrängung. Wir schauen uns Orte der Luxussanierungen, Neubebauungen und des Leerstands an und diskutieren über die Folgen. Im Anschluß gibt's Suppe. <a href=\"http://www.rixdorf.org\">Info</a>",
+    "coordinates": [
+      13.4421308,
+      52.473879
+    ]
+  },
+  {
+    "date": "2016-05-28",
+    "time": "17:00",
+    "address": "Oranienplatz (Kreuzberg)",
+    "location": "Oranienplatz (Kreuzberg)",
+    "type": "Demo",
+    "desc": "\"Loi El Khomri, Loi d'esclavage\". Kommt zum Oranienplatz mit anschließender Kundgebung am Pariser Platz, in Solidarität mit den sozialen Kämpfen in Frankreich gegen die Arbeitsmarktreform. Organisierende Gruppe ist die Solidarische Jugendbewegung.",
+    "coordinates": [
+      13.4149207,
+      52.5024849
+    ]
+  },
+  {
+    "date": "2016-05-28",
+    "time": "18:00",
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Solifest",
+    "desc": "\"77 Years Of Filth &amp; Smoke\". Solifest dessen Gewinne wie letztes Jahr der regionalen Wildtier- und Flüchtlingshilfe zugutekommen.<br>"
+  },
+  {
+    "date": "2016-05-28",
+    "time": "19:00",
+    "free": true,
+    "location": "Drugstore",
+    "loc": "23",
+    "type": "Menschen von Nebenan",
+    "desc": "Dies ist der Auftakt unserer Party-Reihe \"Menschen von Nebenan\" - Subkulturen in anderen Ländern.<br>"
+  },
+  {
+    "date": "2016-05-28",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Bubonix\" (Hardcore Punk aus Limburg) und \"Wer schießt auf Ralf Bialla?\" (Punk, HC aus Berlin)"
+  },
+  {
+    "date": "2016-05-28",
+    "time": "21:00",
+    "location": "Fischladen",
+    "loc": "31",
+    "type": "Soli concert + party",
+    "desc": "Soli for an anarchist ambulance for the autonomous clinics in Athens. With \"Schnur\" (Chansonpunk from Berlin) live, Karaoke and Djs."
+  },
+  {
+    "date": "2016-05-28",
+    "time": "21:00",
+    "address": "Trickster",
+    "location": "Trickster",
+    "type": "Konzert",
+    "desc": "\"Die Plattenfirma\" bereichert die Welt um ein weiteres Kulturprodukt. 7\" Split Record-Release von \"Dr. Urban\" (Punk aus Halle) und \"Mommy Boys\" (Punk aus Berlin). Dazu: \"No Waves\" (Wave aus Leipzig) + DJ Dingo Skullfuck.",
+    "coordinates": [
+      -134.5076621,
+      58.2723068
+    ]
+  },
+  {
+    "date": "2016-05-28",
+    "time": "21:30",
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "Konzert",
+    "desc": "\"Bolschewistische Kurkapelle\" (politisches Einsatzorchester). Danach Party."
+  },
+  {
+    "date": "2016-05-28",
+    "time": "22:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im Koma F",
+    "desc": "Fleshbug Records presents :<br>"
+  },
+  {
+    "date": "2016-05-28",
+    "time": "22:00",
+    "location": "Lauschangriff",
+    "loc": "2041",
+    "type": "Soli-Party",
+    "desc": "Soli-Party für linke Medienarbeit und AFA-Filmprojekt.<br>"
+  },
+  {
+    "date": "2016-05-28",
+    "time": "23:00",
+    "location": "Mensch Meier",
+    "loc": "8045",
+    "type": "Konzert + Party",
+    "desc": "Jack Bimski Afterhour \"Jack is back\". Das Jack Bimski Team lädt herzlichst ein, um das nicht beendete Festival von 2015 zu einem gebührendem Ende zu bringen.<br>"
+  },
+  {
+    "date": "2016-05-28",
+    "time": "23:00",
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Party",
+    "desc": "Make Some Noise präsentiert \"Wackelschnaps meet Konfetti Party\""
+  },
+  {
+    "date": "2016-05-28",
+    "time": "23:00",
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Praxis Presents Datacide",
+    "desc": "Release party und Soli für Datacide 15 und Almanac 2016. DJs/Live: Pure, Kamphetamine, 2/5 BZ, Karl Marx Stadt, Lynx, Aekre, Zombieflesheater. Style: Experimental Hardcore, Breakcore, Industrial, Noise and More."
+  },
+  {
+    "date": "2016-05-30",
+    "time": "16:00",
+    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "type": "Antikriegscafé",
+    "desc": "Offener Treffpunkt für Antimilitarist_innen. Ab 18.00 Uhr: Infos und Diskussion über die Kriegsübungsstadt \"Schnöggersburg\" auf dem GÜZ nähe Magdeburg.",
+    "coordinates": [
+      13.402794,
+      52.528892
+    ]
+  },
+  {
+    "date": "2016-05-30",
+    "time": "20:00",
+    "free": true,
+    "location": "K19 Café",
+    "loc": "45",
+    "type": "Weltküche",
+    "desc": "Weltküche mit entwicklungspolitischem Nachtisch<br>"
+  },
+  {
+    "date": "2016-05-30",
+    "time": "20:00",
+    "free": true,
+    "location": "Lunte",
+    "loc": "48",
+    "type": "Film",
+    "desc": "\"Krater für den Frieden\". Wie der militärisch-industrielle Komplex die Abrüstung überlebte, vorgestellt von der AnarchoSyndikalistischen Initiative Berlin."
+  },
+  {
+    "date": "2016-05-30",
+    "time": "20:00",
+    "free": true,
+    "location": "Schwarze Risse (im Mehringhof)",
+    "loc": "71",
+    "type": "Infoveranstaltung",
+    "desc": "\"Ist der lange Abschied vom Proletariat zu Ende?\" Gespräch über die Geschichte und Aktualität linker Betriebsinterventionen: mit Dietmar Lange, Historiker und Mitherausgeber der Zeitschrift Arbeit Bewegung Geschichte und Mark Richter Mitglied der IWW. Moderation: Peter Nowak, Journalist und Herausgeber des Buches \"Ein Streik steht, wenn mensch ihn selber macht\".<br>"
+  },
+  {
+    "date": "2016-05-30",
+    "time": "21:00",
+    "location": "JUP",
+    "loc": "970",
+    "type": "Sleaze Show",
+    "desc": "\"Totem Skin\", \"Oak\", \"Christofer\". Eintritt: Spende."
+  },
+  {
+    "date": "2016-05-30",
+    "time": "21:00",
+    "free": true,
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Videokino Peliculoso",
+    "desc": "Rainer Werner Fassbinder - die Kinofilme \"Götter der Pest\" D 1969 80 min, R.:W. Fassbinder D.:Hanna Schygulla, harry Baer, Ingrid Caven<br>"
+  },
+  {
+    "date": "2016-05-30",
+    "time": "21:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Party",
+    "desc": "\"Schokokuss\" presents: Party-Night"
+  },
+  {
+    "date": "2016-05-30",
+    "time": "21:30",
+    "free": true,
+    "location": "Sama-Café",
+    "loc": "86",
+    "type": "Film Club",
+    "desc": "\"Falsches Spiel mit Roger Rabbit\""
+  },
+  {
+    "date": "2016-05-31",
+    "time": "19:00",
+    "free": true,
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Liedermacher_innenabend + Soliküche",
+    "desc": "Abschlussfest des Jubi-Monats. Es spielen \"Rob &amp; The Kings of the Farmyard\" (Musik). Wir geben einen Hut rum, der die Kosten der Künstler_innen decken soll. Also packt Kleingeld ein. Dazu: Vegane Soliküche."
+  },
+  {
+    "date": "2016-05-31",
+    "time": "19:30",
+    "free": true,
+    "location": "Projektraum H48 (Neukölln)",
+    "loc": "3484",
+    "type": "Offenes Auftakttreffen",
+    "desc": "Aktion \"Der AfD ins Bier spucken\". Die AfD für ihren Rassismus anzugreifen ist wichtig. Doch damit allein ist ihr Aufwind nicht zu stoppen. Die Partei wirbt erfolgreich um die Stimmen von Benachteiligten und Protestwähler_innen. Und das, obwohl sich die antisoziale Programmatik der AfD gegen sie richtet. Genau diesen Angriffspunkt gilt es zu nutzen, um den Einzug der AfD ins Berliner Abgeordnetenhaus bei den Wahlen im September zu verhindern. Dafür müssen wir dorthin, wo die Stammtischparolen verbreitet werden. Wir sagen: 4,9% ist blau genug. Kommt zum Auftakt eines aktionistischen Berliner Anti-AfD-Sommers. Zeit für Aktion \"Blau?Pause!\""
+  },
+  {
+    "date": "2016-05-31",
+    "time": "20:00",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Infoveranstaltung + Ausstellung",
+    "desc": "\"Vom KZ Esterwegen zum KZ Sachsenhausen\". Infoveranstaltung und Ausstellung mit Ralph Gabriel. Zur Sicherung der Macht des NS-Systems errichtete das preußische Innenministerium 1933 staatliche Konzentrationslager in den Emslandmooren, darunter das KZ Esterwegen. 1934 übernahm die SS dieses Lager und ließ es durch den SS-Architekten Bernhard Kuiper vollständig umbauen. Mit der Entscheidung, neue und moderne KZs zu errichten, wurde Kuiper auch mit den Planungen für ein neues Musterlager bei der Reichshauptstadt Berlin betraut. Am Stadtrand von Oranienburg entwickelte er auf einem kiefernbewaldeten Forstgelände das KZ Sachsenhausen zu einer \"Idealstadt\" für die SS. Während der Bauarbeiten kam es in Esterwegen und Sachsenhausen zu schweren Misshandlungen und Tötungen von Häftlingen, die die Pläne des ehrgeizigen SS-Architekten umsetzen mussten."
+  },
+  {
+    "date": "2016-05-31",
+    "time": "20:00",
+    "free": true,
+    "address": "K-Fetisch (Wildenbruchstr. 86)",
+    "location": "K-Fetisch (Wildenbruchstr. 86)",
+    "type": "Auftaktveranstaltung der Linken Buchtage",
+    "desc": "Karsten Krampitz liest und diskutiert aus \"1976. Die DDR in der Krise\"",
+    "coordinates": [
+      13.44174,
+      52.4833
+    ]
+  },
+  {
+    "date": "2016-05-31",
+    "time": "20:30",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Lesung",
+    "desc": "LSD - Liebe Statt Drogen"
+  },
+  {
+    "date": "2016-05-31",
+    "time": "21:00",
+    "free": true,
+    "location": "Scherer8",
+    "loc": "3981",
+    "type": "Kino + Küfa",
+    "desc": "Wie jeden Dienstag Kino mit lecker Küfa. Heute im Kino \"o menino e o mundo\"."
+  },
+  {
     "date": "2016-06-01",
     "time": "17:00",
     "free": true,
@@ -506,63 +640,6 @@
     "desc": "\"Extinct/Exist\" (Crust machine/Melbourne) + \"Kriminal\" (Hardcore Punk/Berlin)"
   },
   {
-    "date": "2016-05-31",
-    "time": "19:00",
-    "free": true,
-    "location": "Tommy-Weisbecker-Haus",
-    "loc": "79",
-    "type": "Liedermacher_innenabend + Soliküche",
-    "desc": "Abschlussfest des Jubi-Monats. Es spielen \"Rob &amp; The Kings of the Farmyard\" (Musik). Wir geben einen Hut rum, der die Kosten der Künstler_innen decken soll. Also packt Kleingeld ein. Dazu: Vegane Soliküche."
-  },
-  {
-    "date": "2016-05-31",
-    "time": "19:30",
-    "free": true,
-    "location": "Projektraum H48 (Neukölln)",
-    "loc": "3484",
-    "type": "Offenes Auftakttreffen",
-    "desc": "Aktion \"Der AfD ins Bier spucken\". Die AfD für ihren Rassismus anzugreifen ist wichtig. Doch damit allein ist ihr Aufwind nicht zu stoppen. Die Partei wirbt erfolgreich um die Stimmen von Benachteiligten und Protestwähler_innen. Und das, obwohl sich die antisoziale Programmatik der AfD gegen sie richtet. Genau diesen Angriffspunkt gilt es zu nutzen, um den Einzug der AfD ins Berliner Abgeordnetenhaus bei den Wahlen im September zu verhindern. Dafür müssen wir dorthin, wo die Stammtischparolen verbreitet werden. Wir sagen: 4,9% ist blau genug. Kommt zum Auftakt eines aktionistischen Berliner Anti-AfD-Sommers. Zeit für Aktion \"Blau?Pause!\""
-  },
-  {
-    "date": "2016-05-31",
-    "time": "20:00",
-    "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Infoveranstaltung + Ausstellung",
-    "desc": "\"Vom KZ Esterwegen zum KZ Sachsenhausen\". Infoveranstaltung und Ausstellung mit Ralph Gabriel. Zur Sicherung der Macht des NS-Systems errichtete das preußische Innenministerium 1933 staatliche Konzentrationslager in den Emslandmooren, darunter das KZ Esterwegen. 1934 übernahm die SS dieses Lager und ließ es durch den SS-Architekten Bernhard Kuiper vollständig umbauen. Mit der Entscheidung, neue und moderne KZs zu errichten, wurde Kuiper auch mit den Planungen für ein neues Musterlager bei der Reichshauptstadt Berlin betraut. Am Stadtrand von Oranienburg entwickelte er auf einem kiefernbewaldeten Forstgelände das KZ Sachsenhausen zu einer \"Idealstadt\" für die SS. Während der Bauarbeiten kam es in Esterwegen und Sachsenhausen zu schweren Misshandlungen und Tötungen von Häftlingen, die die Pläne des ehrgeizigen SS-Architekten umsetzen mussten."
-  },
-  {
-    "date": "2016-05-31",
-    "time": "20:00",
-    "free": true,
-    "address": "K-Fetisch (Wildenbruchstr. 86)",
-    "location": "K-Fetisch (Wildenbruchstr. 86)",
-    "type": "Auftaktveranstaltung der Linken Buchtage",
-    "desc": "Karsten Krampitz liest und diskutiert aus \"1976. Die DDR in der Krise\"",
-    "coordinates": [
-      13.44174,
-      52.4833
-    ]
-  },
-  {
-    "date": "2016-05-31",
-    "time": "20:30",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Lesung",
-    "desc": "LSD - Liebe Statt Drogen"
-  },
-  {
-    "date": "2016-05-31",
-    "time": "21:00",
-    "free": true,
-    "location": "Scherer8",
-    "loc": "3981",
-    "type": "Kino + Küfa",
-    "desc": "Wie jeden Dienstag Kino mit lecker Küfa. Heute im Kino \"o menino e o mundo\"."
-  },
-  {
     "date": "2016-05-29",
     "time": "10:00",
     "free": true,
@@ -631,10 +708,14 @@
   {
     "date": "2016-05-29",
     "time": "19:00",
-    "address": "Teepeeland",
+    "address": "Köpenicker Straße 40, 10179 Berlin",
     "location": "Teepeeland",
     "type": "Stands Up - 2 Year Anniversary",
-    "desc": "It's the show's 2 year anniversary and we're gonna celebrate it right. With Berlins funniest comedians and out of town celebrities, we will bring you the best comedy show you could ever wish for this month. James Bond Boathouse, cheap beers, food and lots of laughs. Could your sunday evening get any better?! Start getting ready for the festivities. Show is donations based. Doors open at 7pm, Show starts at 8pm."
+    "desc": "It's the show's 2 year anniversary and we're gonna celebrate it right. With Berlins funniest comedians and out of town celebrities, we will bring you the best comedy show you could ever wish for this month. James Bond Boathouse, cheap beers, food and lots of laughs. Could your sunday evening get any better?! Start getting ready for the festivities. Show is donations based. Doors open at 7pm, Show starts at 8pm.",
+    "coordinates": [
+      13.4254339,
+      52.5087601
+    ]
   },
   {
     "date": "2016-05-29",
@@ -661,78 +742,5 @@
     "loc": "1131",
     "type": "Spezial",
     "desc": "Schoki-Quiz mit Jana Palawer &amp; Inga Jauche"
-  },
-  {
-    "date": "2016-05-30",
-    "time": "16:00",
-    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "type": "Antikriegscafé",
-    "desc": "Offener Treffpunkt für Antimilitarist_innen. Ab 18.00 Uhr: Infos und Diskussion über die Kriegsübungsstadt \"Schnöggersburg\" auf dem GÜZ nähe Magdeburg.",
-    "coordinates": [
-      13.402794,
-      52.528892
-    ]
-  },
-  {
-    "date": "2016-05-30",
-    "time": "20:00",
-    "free": true,
-    "location": "K19 Café",
-    "loc": "45",
-    "type": "Weltküche",
-    "desc": "Weltküche mit entwicklungspolitischem Nachtisch<br>"
-  },
-  {
-    "date": "2016-05-30",
-    "time": "20:00",
-    "free": true,
-    "location": "Lunte",
-    "loc": "48",
-    "type": "Film",
-    "desc": "\"Krater für den Frieden\". Wie der militärisch-industrielle Komplex die Abrüstung überlebte, vorgestellt von der AnarchoSyndikalistischen Initiative Berlin."
-  },
-  {
-    "date": "2016-05-30",
-    "time": "20:00",
-    "free": true,
-    "location": "Schwarze Risse (im Mehringhof)",
-    "loc": "71",
-    "type": "Infoveranstaltung",
-    "desc": "\"Ist der lange Abschied vom Proletariat zu Ende?\" Gespräch über die Geschichte und Aktualität linker Betriebsinterventionen: mit Dietmar Lange, Historiker und Mitherausgeber der Zeitschrift Arbeit Bewegung Geschichte und Mark Richter Mitglied der IWW. Moderation: Peter Nowak, Journalist und Herausgeber des Buches \"Ein Streik steht, wenn mensch ihn selber macht\".<br>"
-  },
-  {
-    "date": "2016-05-30",
-    "time": "21:00",
-    "location": "JUP",
-    "loc": "970",
-    "type": "Sleaze Show",
-    "desc": "\"Totem Skin\", \"Oak\", \"Christofer\". Eintritt: Spende."
-  },
-  {
-    "date": "2016-05-30",
-    "time": "21:00",
-    "free": true,
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Videokino Peliculoso",
-    "desc": "Rainer Werner Fassbinder - die Kinofilme \"Götter der Pest\" D 1969 80 min, R.:W. Fassbinder D.:Hanna Schygulla, harry Baer, Ingrid Caven<br>"
-  },
-  {
-    "date": "2016-05-30",
-    "time": "21:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Party",
-    "desc": "\"Schokokuss\" presents: Party-Night"
-  },
-  {
-    "date": "2016-05-30",
-    "time": "21:30",
-    "free": true,
-    "location": "Sama-Café",
-    "loc": "86",
-    "type": "Film Club",
-    "desc": "\"Falsches Spiel mit Roger Rabbit\""
   }
 ]
