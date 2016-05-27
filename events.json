@@ -1,233 +1,159 @@
 [
   {
-    "date": "2016-05-22",
-    "time": "13:00",
-    "location": "Erreichbar",
-    "loc": "26",
-    "type": "Soli-Brunch + Workshop",
-    "desc": "Ab 13.00 Uhr: veganer Brunch mit Burger, Salate, Aufstriche, Kuchen u.v.m. (mit glutenfreien Optionen). Spenden sind für die Miete eines Soli-Zimmers.<br>"
+    "date": "2016-05-28",
+    "time": "10:00",
+    "free": true,
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Tage der anarchistischen Ideen und Publikationen",
+    "desc": "Wir laden alle ein, die Interesse haben über libertäre und hierarchiefreie Ideen und Perspektiven, über Mittel und Methoden in unseren Kämpfen, über Konsequenzen, Probleme und Hürden zu diskutieren und auch zu streiten. Anstatt zu konsumieren, wollen wir uns kennenlernen, in einen direkten Austausch treten und uns praktisch ausprobieren. Wir sind der Überzeugung, das wir nur so heraus finden können, in was für einer Realität wir uns wirklich befinden und wo sich potentielle Brennpunkte befinden. <a href=\"https://ausloeser.blackblogs.org\">Info</a><br>"
   },
   {
-    "date": "2016-05-22",
-    "time": "13:00",
-    "free": true,
-    "location": "X-B-Liebig",
-    "loc": "83",
-    "type": "Delikatessen Brunch",
-    "desc": "Like every 4th Sunday of the month, there will be a a brunch in xb starting at 13 with lecker vegan food, a yard chilling area, lots of beers and nice music. The xb will be smoke free for this day, so feel free to come with your kids."
-  },
-  {
-    "date": "2016-05-22",
-    "time": "14:00",
-    "free": true,
-    "address": "Rosa Rose Garten",
-    "location": "Rosa Rose Garten",
-    "type": "Saatgut- + Pflanzen-Tauschbörse",
-    "desc": "PermaPunx und die Rosa Rosen laden ein zur Saatgut- und Pflanzen-Tauschbörse (bringt mit was ihr zuviel habt) mit Mugge, Seedbomb Workshop, Input der Permakultur-Akademie zum Thema Urban Gardening und mit lekker Kuchen und Kaffee. Eine Koproduktion von Gemeinschaftsgarten Rosa Rose und PermaKulturAkademie.<br>",
+    "date": "2016-05-28",
+    "time": "12:30",
+    "address": "Bhf. Ostkreuz",
+    "location": "Bhf. Ostkreuz",
+    "type": "Antifa-Kaffeefahrt in den Spreewald",
+    "desc": "Seit Ende Oktober letzten Jahres veranstaltet der rechte Verein \"Zukunft Heimat\" (ZH) im Spreewald mehrere Demonstrationen. Im monatlichen Rhythmus demonstrierte \"ZH\" in Lübben (Dahme-Spreewald) und Lübbenau (Elbe-Elster). Die Demonstrationen verzeichneten anfangs bis zu 800 Teilnehmende, während die Zahlen in den letzten Monaten rückläufig waren. Zunehmend weichen die Organisator_innen auf weitere Städte im Spreewald aus und bieten damit eine Bühne für nationalistische und rassistische Gruppierungen verschiedenster Spektren. Wir wollen das Treiben nicht hinnehmen und rufen zu einer antifaschistischen Kaffee-Fahrt am 28. Mai in den Spreewald auf.<br>",
     "coordinates": [
-      -112.132653,
-      33.679125
+      13.4693859,
+      52.5032934
     ]
   },
   {
-    "date": "2016-05-22",
-    "time": "17:00",
-    "free": true,
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Finnisage",
-    "desc": "\"120 Bilder\". Finnisage der Ausstellung von Max Querfeld. Ende 20.00 Uhr."
+    "date": "2016-05-28",
+    "time": "14:00",
+    "address": "S-Bhf. Buch",
+    "location": "S-Bhf. Buch",
+    "type": "Demo",
+    "desc": "\"Never again!\" - Demo im Gedenken an Dieter Eich. Im Mai 2000 von Nazis in Berlin-Buch ermordet. Gegen Faschismus und Sozialchauvinismus.<br>"
   },
   {
-    "date": "2016-05-22",
+    "date": "2016-05-28",
+    "time": "15:00",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Anarchistisches Café",
+    "desc": "Die <a href=\"http://anarchistischegruppe.noblogs.org\">Anarchistische Gruppe Neukölln</a> lädt ein zu einem Anarchistischen Café mit Kinderecke. Wir wollen einen Ort bieten zur Diskussion über pädagogische Themen (Vorschlag: Müssen Kinder \"erzogen\" werden? Brauchen Kinder Grenzen?) und die Möglichkeit, sich mit Kindern willkommen zu fühlen. Es gibt Kaffee, Saft, Kuchen und Snacks (auch gerne selbst mitbringen) und eine Kinderecke mit Bilderbüchern vom <a href=\"http://www.vielfalterbuecher.wordpress.com\">Vielfalter</a> und Malsachen."
+  },
+  {
+    "date": "2016-05-28",
+    "time": "15:00",
+    "free": true,
+    "address": "Karl-Marx-Platz (Neukölln)",
+    "location": "Karl-Marx-Platz (Neukölln)",
+    "type": "Kiezspaziergang",
+    "desc": "Das Kiezforum lädt ein zum Kiezspaziergang durch Rixdorf. Themen diesmal: Verdichtung und Verdrängung. Wir schauen uns Orte der Luxussanierungen, Neubebauungen und des Leerstands an und diskutieren über die Folgen. Im Anschluß gibt's Suppe. <a href=\"http://www.rixdorf.org\">Info</a>",
+    "coordinates": [
+      13.4421308,
+      52.473879
+    ]
+  },
+  {
+    "date": "2016-05-28",
+    "time": "17:00",
+    "address": "Oranienplatz (Kreuzberg)",
+    "location": "Oranienplatz (Kreuzberg)",
+    "type": "Demo",
+    "desc": "\"Loi El Khomri, Loi d'esclavage\". Kommt zum Oranienplatz mit anschließender Kundgebung am Pariser Platz, in Solidarität mit den sozialen Kämpfen in Frankreich gegen die Arbeitsmarktreform. Organisierende Gruppe ist die Solidarische Jugendbewegung.",
+    "coordinates": [
+      13.4149207,
+      52.5024849
+    ]
+  },
+  {
+    "date": "2016-05-28",
+    "time": "18:00",
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Solifest",
+    "desc": "\"77 Years Of Filth &amp; Smoke\". Solifest dessen Gewinne wie letztes Jahr der regionalen Wildtier- und Flüchtlingshilfe zugutekommen.<br>"
+  },
+  {
+    "date": "2016-05-28",
     "time": "19:00",
     "free": true,
-    "location": "WB13",
-    "loc": "82",
-    "type": "Kino",
-    "desc": "\"Meine Freiheit, deine Freiheit\" (D 2011, Dokumentarfilm von Diana Näcke). Der Film handelt von der jungen Intensivstraftäterin Kübra und der Äthioperin Salema, die nichts anderes kennt als Drogen, Gewalt und das Leben auf der Straße. Näcke lässt beide Frauen ihre Geschichte erzählen und begleitet beide auf ihrem Weg aus dem Gefängnis. Unter Verzicht auf wertende Urteile sowie schönfärberische Verharmlosung kommt der Film allen Protagonisten sehr nah. Vor dem Film wird es einen kleinen Input zum Thema Knast geben."
+    "location": "Drugstore",
+    "loc": "23",
+    "type": "Menschen von Nebenan",
+    "desc": "Dies ist der Auftakt unserer Party-Reihe \"Menschen von Nebenan\" - Subkulturen in anderen Ländern.<br>"
   },
   {
-    "date": "2016-05-22",
-    "time": "20:00",
-    "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Film",
-    "desc": "\"Das höhere Prinzip\" (CSR 1959, 104 Min., R.: Jirí Krejcík nach der Erzählung von Jan Drda) - \"Protektorat Böhmen und Mähren\" im Frühjahr 1942: Während Schüler der Abschlussklasse eines Gymnasiums sich auf ihre Abiturprüfung vorbereiten, wird Obersturmführer Reinhard Heydrich von Attentätern getötet. Auch ihre Schule gerät ins Visier der Vergeltungsmaßnahmen der SS: Weil sie ein Zeitungsfoto Heydrichs mit Kritzeleien versehen haben, werden drei der Abiturienten nach der Denunziation durch einen Mitschüler von der Gestapo verhaftet und standrechtlich zum Tode verurteilt, das vorgegebene Soll an Erschießungen muss stimmen. Einzig die Klassenkameradin Jana und der Lateinlehrer Málek versuchen, ihre Freilassung zu erwirken. Seine Schüler nennen ihn \"Das höhere Prinzip\", weil er fest an das von antiken Philosophen hergeleitete Prinzip der Sittlichkeit glaubt, an die klassischen Ideale des Rechts und der Menschenwürde, doch auch im Lehrerkollegium gibt es unterschiedlichste Reaktionen... <br>"
-  },
-  {
-    "date": "2016-05-22",
-    "time": "20:00",
-    "location": "Lichtblick",
-    "loc": "1130",
-    "type": "Film",
-    "desc": "\"Mietrebellen / Bunt Lokatorów\". Kino-Aufführung der \"Mietrebellen\" auf deutsch mit polnischen Untertiteln und anschließender zweisprachiger Diskussion mit dem Filmteam. Eintritt: 5/7 EUR."
-  },
-  {
-    "date": "2016-05-22",
-    "time": "20:30",
+    "date": "2016-05-28",
+    "time": "19:00",
     "location": "Schokoladen",
     "loc": "1131",
-    "type": "Lesung",
-    "desc": "Ivo Lotions Lokalrunde - Die Lesung mit Weltniveau"
-  },
-  {
-    "date": "2016-05-22",
-    "time": "20:30",
-    "location": "ZGK",
-    "loc": "5980",
     "type": "Konzert",
-    "desc": "\"Elende Bande\" (Anarcho-Akustik-Punk aus Freiburg) und \"Arbeitstitel: Bullenblut\" (Minimal-instumentierter-Punk aus Freiburg). Eintritt: Spende."
+    "desc": "\"Bubonix\" (Hardcore Punk aus Limburg) und \"Wer schießt auf Ralf Bialla?\" (Punk, HC aus Berlin)"
   },
   {
-    "date": "2016-05-22",
+    "date": "2016-05-28",
     "time": "21:00",
-    "free": true,
-    "address": "Filmriss (Rigaerstr. 103)",
-    "location": "Filmriss (Rigaerstr. 103)",
-    "type": "Kino",
-    "desc": "\"Im Namen des...\" (Polen 2013, 96 Min.) - Adam ist ein katholischer Priester in einem polnischen Provinznest. Seitdem er 21 Jahre alt ist, hat er sein Leben Gott gewidmet. Doch die Gründe hierfür sind nicht nur seine Liebe zum Glauben, sondern auch seine heimliche Homosexualität, der er durch das Zölibat entfliehen wollte. Eines Tages verliebt er sich in den introvertierten Bauernsohn Łukasz und schon bald wird ihm die selbstauferlegte Enthaltsamkeit zur beinahe unerträglichen Qual.",
-    "coordinates": [
-      13.45533,
-      52.51835999999999
-    ]
+    "location": "Fischladen",
+    "loc": "31",
+    "type": "Soli concert + party",
+    "desc": "Soli for an anarchist ambulance for the autonomous clinics in Athens. With \"Schnur\" (Chansonpunk from Berlin) live, Karaoke and Djs."
   },
   {
-    "date": "2016-05-22",
-    "time": "22:00",
-    "location": "K19 Café",
-    "loc": "45",
+    "date": "2016-05-28",
+    "time": "21:00",
+    "address": "Trickster",
+    "location": "Trickster",
     "type": "Konzert",
-    "desc": "\"Addenda\" (Fastcore aus Barcelona) und \"Reality Asylum\" (Shit aus Berlin)"
-  },
-  {
-    "date": "2016-05-24",
-    "time": "18:00",
-    "free": true,
-    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "type": "Bunter Abend",
-    "desc": "Dieses Mal mit einem Vortrag zu Möglichkeiten von anarchistischen \"Hilfs\"organisationen und dem Versagen des Staates.<br>",
+    "desc": "\"Die Plattenfirma\" bereichert die Welt um ein weiteres Kulturprodukt. 7\" Split Record-Release von \"Dr. Urban\" (Punk aus Halle) und \"Mommy Boys\" (Punk aus Berlin). Dazu: \"No Waves\" (Wave aus Leipzig) + DJ Dingo Skullfuck.",
     "coordinates": [
-      13.402794,
-      52.528892
+      -134.5076621,
+      58.2723068
     ]
   },
   {
-    "date": "2016-05-24",
-    "time": "19:00",
-    "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Slam a la Card",
-    "desc": "Jeden zweiten Monat versammeln sich vier der besten Slampoeten und Lesebühnenautoren der Hauptstadt in der Baiz, um sich die Liebe des Publikums zu erspielen. Dabei dreht sich alles um Text, Performance und das richtige Ass im Ärmel. Die Poeten haben in 3 Runden jeweils 5 Minuten Zeit, ihre jeweiligen Kontrahenten zu übertrumpfen. Ein Kartenspiel der Poesie, wie ihr es so noch nicht gesehen habt. Eintritt: 5/3 EUR."
+    "date": "2016-05-28",
+    "time": "21:30",
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "Konzert",
+    "desc": "\"Bolschewistische Kurkapelle\" (politisches Einsatzorchester). Danach Party."
   },
   {
-    "date": "2016-05-24",
-    "time": "19:00",
-    "free": true,
-    "location": "Café Morgenrot",
-    "loc": "2167",
-    "type": "Anarchistischer Stammtisch",
-    "desc": "Lust auf einen lockeren Abend des Diskutierens, Philosophierens, des Kennen lernens und des Austausches? Hast du Themen - politisch, persönlich oder beides - die du gern in offener Runde und mit dem Versuch einer libertären Perspektive besprechen möchtest? Dann komm zu unserem Stammtisch, das anarchistische Kaffeekränzchen freut sich auf dich."
+    "date": "2016-05-28",
+    "time": "22:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im Koma F",
+    "desc": "Fleshbug Records presents :<br>"
   },
   {
-    "date": "2016-05-24",
-    "time": "19:00",
-    "free": true,
-    "location": "Haus der Demokratie",
-    "loc": "973",
-    "type": "Dokumentarfilm",
-    "desc": "\"Als die Deutschen vom Himmel fielen\". Der Film erzählt vom Widerstand der Bevölkerung Kretas gegen die deutschen Truppen, die im Mai 1941 die Mittelmeerinsel angriffen. Für die Frauen, Männer und Kinder war es ein Kampf um Freiheit, gegen die Vernichtung ihrer Angehörigen und die Zerstörung der Dörfer. Doch die Erzählungen offenbaren auch die Konflikte, die sich während der Besatzungszeit innerhalb des Widerstandes an der Frage der politischen Zukunft des Landes entzündeten und unter Einflussnahme der Alliierten und der deutschen Truppen im Bürgerkrieg mündeten. Und der Film greift noch eine weitere Spur auf. An 1941 errichteten Ehrenmälern pflegen Wehrmachtsveteranen im Schulterschluss mit Bundeswehrsoldaten ihre Geschichtsschreibung: Es ist der Mythos von mutigen und opferbereiten Soldaten, die der Pflicht der Vaterlandsverteidigung gefolgt seien.<br>"
+    "date": "2016-05-28",
+    "time": "22:00",
+    "location": "Lauschangriff",
+    "loc": "2041",
+    "type": "Soli-Party",
+    "desc": "Soli-Party für linke Medienarbeit und AFA-Filmprojekt.<br>"
   },
   {
-    "date": "2016-05-24",
-    "time": "19:00",
-    "free": true,
+    "date": "2016-05-28",
+    "time": "23:00",
+    "location": "Mensch Meier",
+    "loc": "8045",
+    "type": "Konzert + Party",
+    "desc": "Jack Bimski Afterhour \"Jack is back\". Das Jack Bimski Team lädt herzlichst ein, um das nicht beendete Festival von 2015 zu einem gebührendem Ende zu bringen.<br>"
+  },
+  {
+    "date": "2016-05-28",
+    "time": "23:00",
     "location": "Tommy-Weisbecker-Haus",
     "loc": "79",
-    "type": "Liedermacher_innenabend + Soliküche",
-    "desc": "\"Merle\" (Cello und Gesang), \"Anderersaits und Tintenwolf\" (Gitarre und Poesie) spielen für euch und versüßen euch die vegane Soli-Kiezküche. Eintritt frei, aber Hutspende für die Künstler_innen..."
+    "type": "Party",
+    "desc": "Make Some Noise präsentiert \"Wackelschnaps meet Konfetti Party\""
   },
   {
-    "date": "2016-05-24",
-    "time": "19:00",
-    "free": true,
-    "address": "TU Berlin",
-    "location": "TU Berlin",
-    "type": "Infoveranstaltung",
-    "desc": "\"Misogynie in queeren Szenen. Abwertung von Femininität in queeren Kontexten\". Feminismus und Gay Liberation gehen in vielen Diskursen Hand in Hand, sie werden als miteinander eng verknüpfte Kämpfe betrachtet und häufig in einem Atemzug genannt. Wie viel das mit der Realität zu tun hat, wird selten mitgedacht. Machtgefälle innerhalb von Communities werden so schnell unsichtbar. Mit einer androzentrischen Norm wird viel über Female Masculinities und sehr wenig über schwule Misogynie, Transmisogynie und Femme-Invisibility gesprochen. In ihrem Vortrag bricht Hengameh Yaghoobifarah mit Einblicken aus Theorie und Praxis damit.<br>",
-    "coordinates": [
-      13.3200295,
-      52.5129792
-    ]
-  },
-  {
-    "date": "2016-05-24",
-    "time": "19:30",
-    "free": true,
-    "address": "Café Laika (Emser Str. 131, Neukölln)",
-    "location": "Café Laika (Emser Str. 131, Neukölln)",
-    "type": "ErneuerBAR",
-    "desc": "\"Nebenan und mittendrin - Die Lebenssituation von Roma in Berlin\". Nachbar*innen, Menschen in der U-Bahn, auf dem Weg nach Hause, in der Wohnung nebenan, mit Kinderwagen oder Fußball, alt und jung. Viele Menschen leben in Berlin, doch die soziale Lebenssituation teilen hier nicht alle. Zwischen Diskriminierung, Antiziganismus und einem Teufelskreis aus Arbeits- und Wohnungslosigkeit leben mehrere tausend Roma derzeit in Berlin.<br>",
-    "coordinates": [
-      13.4380257,
-      52.4692679
-    ]
-  },
-  {
-    "date": "2016-05-24",
-    "time": "19:30",
-    "free": true,
-    "location": "Erreichbar",
-    "loc": "26",
-    "type": "Robin Wood Tresen",
-    "desc": "Für Dabeigewesene und Daheimgebliebene: Der monatliche Tresen von Robin Wood diesmal mit Berichten und Austausch zu Ende Gelände und Lautonomia (Waldbesetzung gegen Braunkohle in der Lausitz)."
-  },
-  {
-    "date": "2016-05-24",
-    "time": "20:00",
-    "free": true,
-    "location": "Projektraum H48 (Neukölln)",
-    "loc": "3484",
-    "type": "Histo-Kino der FSI Geschichte",
-    "desc": "Film: \"Animated Soviet Propaganda\". Anhand verschiedener Clips von den 1920ern bis zu den 1980er Jahren wollen wir einen Einblick in die interessante und unterhaltsame Geschichte des sowjetischen Animationsfilms geben und diese gemeinsam diskutieren.<br>"
-  },
-  {
-    "date": "2016-05-24",
-    "time": "20:00",
-    "free": true,
-    "location": "Schwarze Risse (im Mehringhof)",
-    "loc": "71",
-    "type": "Lesung",
-    "desc": "Lesung mit Adelmo Cervi: \"Meine 7 Väter. Als Partisan gegen Hitler und Mussolini\".<br>"
-  },
-  {
-    "date": "2016-05-24",
-    "time": "20:30",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Lesung",
-    "desc": "LSD - Liebe Statt Drogen"
-  },
-  {
-    "date": "2016-05-24",
-    "time": "21:00",
-    "free": true,
-    "location": "Scherer8",
-    "loc": "3981",
-    "type": "Kino + Küfa",
-    "desc": "Wie jeden Dienstag Kino mit lecker Küfa. Heute mit \"The dance of reality\"."
-  },
-  {
-    "date": "2016-05-24",
-    "time": "21:05",
-    "free": true,
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Filmstube",
-    "desc": "\"Die Kinder der Seidenstrasse\" (Drama, Abenteuer, D/Australien/China 2008) - China 1937: Unter dramatischen Umständen lernt der britische Reporter George Hogg in der von den Japanern belagerten Stadt Nanking die US-Krankenschwester Lee Pearson und den Partisanenkämpfer Jack Chen kennen. Gemeinsam wollen Sie die Jungen eines Waisenheims vor den herannahenden Besatzern retten und treten die Flucht nach Westen an - ein abenteuerlicher, über tausend Kilometer langer Marsch entlang der Seidenstrasse. Unterwegs findet Hogg, der als junger Idealist und Abenteurer nach China gekommen ist, die Liebe seines Lebens und lernt, was Verantwortung und Mut bedeuten. Denn die Freundschaft mit den elternlosen Kindern wird ihn für immer verändern..."
+    "date": "2016-05-28",
+    "time": "23:00",
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Praxis Presents Datacide",
+    "desc": "Release party und Soli für Datacide 15 und Almanac 2016. DJs/Live: Pure, Kamphetamine, 2/5 BZ, Karl Marx Stadt, Lynx, Aekre, Zombieflesheater. Style: Experimental Hardcore, Breakcore, Industrial, Noise and More."
   },
   {
     "date": "2016-05-27",
@@ -248,6 +174,27 @@
   },
   {
     "date": "2016-05-27",
+    "time": "17:00",
+    "free": true,
+    "address": "Hausprojekt Burge (Burgemeisterstr. 17/18, Tempelhof)",
+    "location": "Hausprojekt Burge (Burgemeisterstr. 17/18, Tempelhof)",
+    "type": "Küfa",
+    "desc": "Wir kochen für euch. Ihr seid alle herzlich eingeladen, mit oder ohne Kinder, vorbeizukommen und mit uns zu futtern, zu gammeln, zu spielen, zu toben und zu schnacken. Es gibt gemütliche Sofas, viel Platz zum Toben, einen Kickertisch, eine Tischtennisplatte, Spielzeug für die Kinder und einen Hof zum Chillen und Rumlaufen. Das Essen ist vegan und vegetarisch. Barriere- und (drinnen) rauchfrei.",
+    "coordinates": [
+      13.37976,
+      52.45756
+    ]
+  },
+  {
+    "date": "2016-05-27",
+    "time": "18:00",
+    "address": "Teepeeland",
+    "location": "Teepeeland",
+    "type": "Open Stage",
+    "desc": "Wie jeden Freitag öffnen wir unsere Bühne wieder für alle, die Musik und verschiedene Performences erleben oder vorführen möchten. Ob Musik, Stand Up oder Karaoke. Alles ist möglich denn die Bühne gehört euch. Zeigt eure Solidarität mit uns und kommt zur open Stage ins Teepeeland. Wie immer kein Eintritt. Ihr findet uns an der Schillingbrücke neben Ver.di, hinter der alten Eisfabrik."
+  },
+  {
+    "date": "2016-05-27",
     "time": "19:00",
     "free": true,
     "location": "f.a.q.",
@@ -263,6 +210,19 @@
     "loc": "2440",
     "type": "Infoveranstaltung",
     "desc": "Organisierung im Niedriglohnsektor am Beispiel der Industrial Workers of the World (IWW) in Rostock. Der allgemeinen Verschlechterung der Lebenslage für alle Lohnabhängigen in der BRD der letzten 25 Jahre konnten die Mainstream Gewerkschaften wie der DGB nichts entgegensetzen - und wollten es eigentlich auch nicht so richtig. Aber auch von linker (gewerkschaftlicher) Seite waren die Versuche dem etwas entgegen zu setzen, begrenzt. Oft genug scheinen die Organisierungsbemühungen wenig von Erfolg gekrönt zu sein. Viele Linke in der BRD sind deshalb auch der Meinung, dass es gerade im prekären Niedriglohnbereich nicht möglich ist, sich mit KollegInnen zusammen zu organisieren. Das dem nicht so sein muss, zeigen die Erfolge der IWW in der BRD, aber auch in den USA und Großbritannien, die wir mit Euch an konkreten Beispielen diskutieren möchten. Klar sollte jedoch ebenfalls sein, dass nicht alles großartig funktioniert, sondern auch Rückschläge dazu gehören. Die Möglichkeiten und Schwierigkeiten werden ebenfalls Thema der Veranstaltung sein."
+  },
+  {
+    "date": "2016-05-27",
+    "time": "19:00",
+    "free": true,
+    "address": "Schloss 19",
+    "location": "Schloss 19",
+    "type": "Video-Quiz",
+    "desc": "Der Offene Antifatresen lädt zum Ultimativen All Time Favourite Riot Porn Quiz. Bildet Banden! Betrachtet Audiovisuelle Highlights aus ausgesuchten Strassenschlachten der letzten Jahrzehnte! ????! Bringt den geheimen Preis nach Hause! Veranstaltet von der Antifaschistischen Koordination Westberlin.<br>",
+    "coordinates": [
+      8.650319999999999,
+      48.16518
+    ]
   },
   {
     "date": "2016-05-27",
@@ -380,202 +340,342 @@
     "desc": "\"Mucopus\" (Hardcore from Torino), \"Pretesto\" (Hardcorepunk from Torino), \"Grott\" (Crust from Neubrandenburg)"
   },
   {
-    "date": "2016-05-21",
-    "time": "13:00",
-    "address": "Rigaer Str. 71-73",
-    "location": "Rigaer Str. 71-73",
-    "type": "Kundgebungen",
-    "desc": "Kundgebungen gegen den Luxusbau Carre Sama-Riga. Friedrichshain. In der Rigaer Straße soll demnächst eine Großbaustelle für einen weiteren Luxusbau entstehen. Das Gelände gegenüber von LIDL, zwischen Samariterstraße und Voigtstraße, wurde von einem Investor, der CG-Gruppe, gekauft. Diese will 37 Millionen Euro investieren, um ihre gewinnbringenden Luxuswohnungen in unseren Stadtteil zu setzen.<br>",
+    "date": "2016-05-27",
+    "time": "22:00",
+    "free": true,
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Multisexueller Abend",
+    "desc": "Alte Perlen neugefädelt. Unsere Tunten servieren genußvoll kalten Sekt und Knabbereien. Dazu wie immer emanzipatorische Kommentare zum Zeitgeschehen."
+  },
+  {
+    "date": "2016-06-02",
+    "time": "19:00",
+    "free": true,
+    "address": "AStA TU-Berlin",
+    "location": "AStA TU-Berlin",
+    "type": "Buchvorstellung",
+    "desc": "\"We love Code! Das kleine 101 des Programmierens\". Programmieren ist etwas für soziophobe Jungs? Überhaupt nicht! Die beiden Gründerinnen der Leipziger Code Girls, Julia Hoffmann und Natalie Sontopski, erklären auf leicht verständliche und unterhaltsame Weise, was Programmiersprachen sind, wie diese funktionieren und was sie mit uns allen zu tun haben. Sie erläutern die einfachen Grundlagen des Digitalen und zeigen, was sich hinter den Oberflächen von Websites und Apps verbirgt. Sie berichten über das Programmieren, über Datensicherheit und Hackerparties, über die nötige Hardware und die wichtigste Software, listen die besten Hackerfilme und blamabelsten Bugs auf - und zeigen, dass Programmieren Spaß machen kann, viel kreativer und kommunikativer ist als man denkt - und auch ganz einfach zu erlernen ist. Julia und Natalie werden auch über ihre Rolle als Frauen in einer (noch?) \"klassischen Männerdomäne\" sprechen und auch darüber berichten, wie es ist, das erste eigene Buch zu schreiben.<br>",
     "coordinates": [
-      13.466368,
-      52.5163087
+      13.404954,
+      52.52000659999999
     ]
   },
   {
-    "date": "2016-05-21",
-    "time": "15:00",
-    "free": true,
-    "address": "Markgrafendamm 22 (Nähe Ostkreuz)",
-    "location": "Markgrafendamm 22 (Nähe Ostkreuz)",
-    "type": "18. Ankerfest am Wasserturm",
-    "desc": "umsonst &amp; draußen<br>",
-    "coordinates": [
-      10.45647,
-      49.50242
-    ]
-  },
-  {
-    "date": "2016-05-21",
-    "time": "15:00",
-    "free": true,
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Kinder-Kino",
-    "desc": "\"Vilja und die Räuber\". Wie immer mit Popcorn und Kuchen, falls jemand welchen backt. (Achtung: letztes Mal vor der Sommerpause!)"
-  },
-  {
-    "date": "2016-05-21",
-    "time": "17:00",
-    "free": true,
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Ausstellung",
-    "desc": "\"120 Bilder\". Ausstellung von Max Querfeld. Ende 21.00 Uhr."
-  },
-  {
-    "date": "2016-05-21",
-    "time": "17:00",
-    "free": true,
-    "location": "Wagenburg Lohmühle",
-    "loc": "4180",
-    "type": "Frühlingsfest",
-    "desc": "Live: \"Frau Vorne und die Hintermänner\", \"Cynical Smile\", \"Bloody Marys\". Cocktailbar, Kuchen, gute Laune, ..."
-  },
-  {
-    "date": "2016-05-21",
+    "date": "2016-06-02",
     "time": "19:00",
     "location": "Schokoladen",
     "loc": "1131",
     "type": "Konzert",
-    "desc": "\"Downfall\" (DK)"
+    "desc": "\"Los Pepes\" (Punkrock, Powerpop aus GB) und \"Candy and the Stripes\" (Pop, Punk aus Berlin)"
   },
   {
-    "date": "2016-05-21",
+    "date": "2016-06-02",
+    "time": "19:30",
+    "free": true,
+    "address": "Humboldt-Universität",
+    "location": "Humboldt-Universität",
+    "type": "Vortrag + Diskussion",
+    "desc": "\"Gewisse Rivalitäten\" - Zum Verhältnis von Staat und NSU im postnazistischen Deutschland.<br>",
+    "coordinates": [
+      13.5333041,
+      52.4321218
+    ]
+  },
+  {
+    "date": "2016-06-02",
+    "time": "19:30",
+    "location": "SO36",
+    "loc": "1018",
+    "type": "Soli-Konzert",
+    "desc": "Record-Release-Konzert: \"Lena Stoehrfaktor\" mit neuem Album \"Gott im Himmel, Leichen im Keller\". Line Up: \"Lena Stoehrfaktor\", Support: \"Alice Dee und MXiML\", \"Blank\" und \"Manuskript\". DJs: Lenya, Sinok. Soli für KOP - Kampagne für Opfer rassistischer Polizeigewalt. Eintritt: 5-10 EUR."
+  },
+  {
+    "date": "2016-06-02",
     "time": "20:00",
     "location": "Baiz",
     "loc": "2756",
-    "type": "Kulturbühne",
-    "desc": "\"Sheef\" (Punkrock aus Berlin - unplugged). Raina, Lipp, Torsten und Oli treten an diesem Abend in einer Akustik-Version mit neuen und alten bearbeiteten Songs auf. Eintritt: Spende."
+    "type": "Kulturbühne: Kopfstand",
+    "desc": "Musikalische Lesebühne mit Sahara B., Paul Geigerzähler, Der Papst, seine Frau und sein Porsche und Gästen. Eintritt: Spende."
   },
   {
-    "date": "2016-05-21",
-    "time": "21:00",
-    "location": "Kadterschmiede",
-    "loc": "4265",
-    "type": "Solikonzert",
-    "desc": "Solikonzert für einen Squat in Vilanova mit \"Egofilia\" und \"Los Mierda\". Danach Party und Karaoke im Keller. Eintritt: Spende."
+    "date": "2016-06-02",
+    "time": "20:00",
+    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "type": "Küfa, Linocut Prisoner Support",
+    "desc": "From 8pm at the Linie206, delicious vegan kufa and drinks, maybe even soli-cocktails. Anti-prison kufa by our small berlin based art collective, we would like to share with you linocut and printing. Come and try if you never have, or make a print if you want. Please just ask organisers on night because it's not a workshop, but we love to print. We also have an info-table for prisoner letter/postcard writing and support. Soli for this night goes special to friends in south-east turkey who are struggling hard against fierce repression.",
+    "coordinates": [
+      13.402794,
+      52.528892
+    ]
   },
   {
-    "date": "2016-05-21",
-    "time": "21:00",
-    "location": "Scherer8",
-    "loc": "3981",
-    "type": "Solikonzert",
-    "desc": "Auch in diesem Jahr wird es in Marzahn-Hellersdorf wieder das umsonst und draussen Festival \"rand.gestalten\" geben. Und wie immer benötigen wir dafür dieses Kleingeld.<br>"
+    "date": "2016-06-02",
+    "time": "20:30",
+    "free": true,
+    "location": "Café Cralle",
+    "loc": "20",
+    "type": "\"Hände Weg vom Wedding\"-Tresen",
+    "desc": "\"Organize! Praktiken autonomer Organisierung in Santiago de Chile.\"<br>"
   },
   {
-    "date": "2016-05-21",
+    "date": "2016-06-02",
     "time": "21:00",
-    "location": "Tommy-Weisbecker-Haus",
-    "loc": "79",
+    "free": true,
+    "location": "B5355",
+    "loc": "7599",
+    "type": "Soli-Konzert",
+    "desc": "Soli-Konzert für Soli-Mieten mit \"Captain Chaos\". Der Sänger von \"Ghost Mice\" und Gründer des Labels Plan-It-X Records präsentiert sein neues Solo-Album \"156 Songs\". Türen offen ab 9, Konzert startet so um 10. Die Einnahmen werden komplett für unsere Solizimmer verwendet."
+  },
+  {
+    "date": "2016-06-01",
+    "time": "17:00",
+    "free": true,
+    "location": "Café Morgenrot",
+    "loc": "2167",
+    "type": "Queer-feministischer Stricktreff",
+    "desc": "Miss Rottenmeiers queer-feministischer Stricktreff. Jeden 1. und 3. Mittwoch im Monat ab 17.00 Uhr. DIY-Workshop für Einsteiger_innen und Stitch'n Bitch. Alles, was Sie schon immer übers Stricken wissen wollten über die ersten Schritte des Selbermachens. Und/oder einfach gemütliches Stricken beim stilvollen Heissgetränk. Wenn möglich sollten Stricknadeln und Wolle mitgebracht werden. Für Einmaltäter_innen wird aber auch Material vorhanden sein."
+  },
+  {
+    "date": "2016-06-01",
+    "time": "18:00",
+    "location": "Rotes Café",
+    "loc": "5867",
+    "type": "KüFa und Reden über Idomeni",
+    "desc": "Was an der europäischen Grenze derzeit passiert, erscheint hier in Berlin oft sehr surreal und weit weg, doch gibt es viele Anknüpfungspunkte, um auch hier Solidarität zu zeigen und etwas zu tun. Noch haben wir keinen genauen Plan, in welcher Form der Abend ablaufen wird. Auf jeden Fall aber werden Menschen da sein, die während der Semesterferien in Idomeni waren und von ihren subjektiven Erlebnissen berichten können. Eintritt: Spende."
+  },
+  {
+    "date": "2016-06-01",
+    "time": "19:00",
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Antifa-Tresen + Infoveranstaltung (Last Update)",
+    "desc": "Die Berlin Outback Antifa und der Antifaschistische Schwarz-Rote Aufbau laden zum 1. gemeinsamen Tresen. Um unsere Genoss*innen in Dortmund zu unterstützen, werden wir eine Infoveranstaltung zum diesjährigen \"Tag der deutschen Zukunft\" (Tddz) und den geplanten Protesten halten. Neben Informationen über die allgemeine Situation in Dortmund und letzten Informationen zum Tag selbst wird es auch Informationen geben, wie ihr am besten von Berlin aus nach Dortmund kommt. Zusätzlich ist für es eine vegane Küfa gesorgt und es gibt kalte Getränke an der Bar. Veranstalter*innen: Berlin Outback Antifa + Antifaschistischer Schwarz-Roter Aufbau."
+  },
+  {
+    "date": "2016-06-01",
+    "time": "19:00",
+    "free": true,
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Zeit der Kirschen Kulturbühne",
+    "desc": "\"Arbeit und Gewerkschaft\". Wir leben in einer Welt, in der erwartet wird, dass wir lohnarbeiten, um zu essen, dass wir uns von Chef*innen abhängig machen, um ein Dach über dem Kopf zu haben. Wer das nicht tut, hat in der Regel das Jobcenter als Arbeitgeberin und oft gehen Menschen sogar für statt gegen Arbeit auf die Straße. Lohn gibt's für Arbeit, wenn wir Glück haben, doch nicht mal das ist sicher, wenn wir z.B. für ein Subsubsub-Unternehmen auf einer großen Mallbaustelle arbeiten und die Gebäude aufbauen, in denen andere Menschen ihr verdientes Geld wieder ausgeben. Um diesen und anderen Verhältnissen etwas entgegenzusetzen, gibt es Gewerkschaften, doch auch hier dreht sich häufig Vieles um Verbesserungen innerhalb des Systems, höhere Löhne kurbeln schließlich Kaufkraft und Wirtschaftswachstum an. Welche Rolle können Gewerkschaften in einer antikapiatlistischen (Lohn-)arbeitskritik übernehmen? Wie erleben wir selbst die Arbeitswelt und gewerkschaftliche Kämpfe? Über all das wollen wir uns an diesem Abend singend, lesend und musikmachend austauschen und laden euch dazu ein. <br>"
+  },
+  {
+    "date": "2016-06-01",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
     "type": "Konzert",
-    "desc": "3mal Punkrock: \"Artless\", \"AKD\", \"Klorix\""
+    "desc": "\"Goldfish\" (Indie aus Berlin), \"Elephants on Tape\" (Indie aus Leipzig) und \"Komparse\" (Indie aus Köln)"
   },
   {
-    "date": "2016-05-21",
+    "date": "2016-06-01",
+    "time": "20:00",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Kickerturnier",
+    "desc": "Teams werden wie immer gelost, Einzelspieler_innen sind also willkommen. Kosten gibt's keine (außer bei den Sportgetränken). Für die Anmeldung müsstet Ihr aber spätestens 19.45 Uhr da sein, sonst garantieren wir für nix."
+  },
+  {
+    "date": "2016-06-01",
+    "time": "20:00",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Zwischenmahl",
+    "desc": "Wir laden wieder zum veganen Zwischenmahl in den Räumen des geliebten Akazie-Berlin e.V. ein. Los geht's um 20.00 Uhr mit leckerem Essen. Ab 21.00 Uhr soll es Vorträge und anschließende Diskussion zu aktuell durch Verdrängung bedrohten Projekten geben. <a href=\"http://www.zwischenraum-festival.de\">Infos</a>"
+  },
+  {
+    "date": "2016-06-01",
     "time": "21:00",
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Ska-Punk-Reggae-Niter",
-    "desc": "Feinste Mucke u.a. mit DJ Amok77, kühle Getränke, nette Leute und Kicker für umme. Wenn das Tanzbein zuckt, schieben wir die Tische zusammen."
+    "free": true,
+    "location": "Café Cralle",
+    "loc": "20",
+    "type": "Kino-Abend",
+    "desc": "\"Twilight Zone Marathon\". Die Originalserie aus den 1960ern (engl. ohne UT). Vierteljährliche Marathon jeweils am 1. Mittwoch März, Juni, September und Dezember. \"You unlock this door with the key of imagination. Beyond it is another dimension - a dimension of sound, a dimension of sight, a dimension of mind. You're moving into a land of both shadow and substance, of things and ideas. You've just crossed over into the Twilight Zone\"."
   },
   {
-    "date": "2016-05-21",
-    "time": "21:30",
-    "location": "Abstand",
-    "loc": "5085",
-    "type": "Konzert",
-    "desc": "\"Scumbabies\" und \"Dead Tourist\""
-  },
-  {
-    "date": "2016-05-21",
-    "time": "21:30",
-    "location": "Supamolly",
-    "loc": "77",
-    "type": "Konzert",
-    "desc": "\"Die Strafe\" (Punk Rock) + Opening act. Danach DJane Frau Meia."
-  },
-  {
-    "date": "2016-05-21",
+    "date": "2016-06-01",
     "time": "22:00",
     "location": "Køpi",
     "loc": "43",
-    "type": "Konzert im AGH",
-    "desc": "\"Hayleys\" (Punk Finnland)"
+    "type": "After the Vokü-Konzert im Koma F",
+    "desc": "\"Extinct/Exist\" (Crust machine/Melbourne) + \"Kriminal\" (Hardcore Punk/Berlin)"
   },
   {
-    "date": "2016-05-21",
-    "time": "23:00",
-    "location": "Rauchhaus",
-    "loc": "4268",
-    "type": "Soliparty",
-    "desc": "Soli-Raven gegen Rechtsruck und Knastgesellschaft. Berliner All-Star-DJ-Legenden legen auf zum frenetischen Abhotten gegen die soziale Kälte dieser repressiven Welt. Soli-Einnahmen gehen an queer-feministische Genossin aus Spanien, die im \"Pandora\"-Verfahren z.Z. in Madrid in Isolations-Haft sitzt.<br>"
-  },
-  {
-    "date": "2016-05-21",
-    "time": "23:00",
-    "location": "Subversiv",
-    "loc": "75",
-    "type": "Party",
-    "desc": "\"Tanz den Untergrund\" mit DJ TerrorWave (Unexpected Sounds, Underground Electronics, Minimal-Electro-Synth, UndergrouNDW, Experimental, Strange Stuff)."
-  },
-  {
-    "date": "2016-05-23",
-    "time": "16:00",
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Antikriegscafé",
-    "desc": "Kaffee trinken, Kekse essen, sich über Krieg und Militarisierung austauschen. Ab 18.00 Uhr: Infos und Mobilisisierung zum War-Starts-Here-Camp vom 25.-31.7. beim GÜZ (Nähe Magdeburg)."
-  },
-  {
-    "date": "2016-05-23",
-    "time": "18:00",
-    "free": true,
-    "address": "Ortolfstr. Ecke Venusstr. (Altglienicke)",
-    "location": "Ortolfstr. Ecke Venusstr. (Altglienicke)",
-    "type": "Refugees Welcome! Überraschung geplant!",
-    "desc": "Am Montagabend, dem 9. Mai 2016, fand in Altglienicke eine Kundgebung mit knapp 200 Teilnehmenden unter dem Motto \"für eine gleichmäßige Verteilung von Asylanten\" statt. Aufgerufen hatte dazu die \"Bürgerinitiative Bahnweg/Molchstraße2, laut eigener Aussage Anwohner_innen, welche in direkter Umgebung zu dem geplanten Tempohome-Projekt für Asylsuchende wohnen. Auf dem bisherigen brachliegenden Gelände sollen ab Juni 500 geflüchtete und asylsuchende Menschen untergebracht werden.<br>",
-    "coordinates": [
-      13.5312671,
-      52.4050988
-    ]
-  },
-  {
-    "date": "2016-05-23",
+    "date": "2016-05-31",
     "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Dragster\" (Punk, Rock'n'Roll aus UK), \"Übelzt\" (Punk aus Berlin) + DJ."
+    "free": true,
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Liedermacher_innenabend + Soliküche",
+    "desc": "Abschlussfest des Jubi-Monats. Es spielen \"Rob &amp; The Kings of the Farmyard\" (Musik). Wir geben einen Hut rum, der die Kosten der Künstler_innen decken soll. Also packt Kleingeld ein. Dazu: Vegane Soliküche."
   },
   {
-    "date": "2016-05-23",
-    "time": "19:15",
-    "location": "B-Lage",
-    "loc": "7639",
-    "type": "Soli-KüfA + Dokumentarfilm",
-    "desc": "Der Mord an Berta Cáceres, Koordinatorin des Zivilen Rats der Indigenen- und Basisorganisationen von Honduras (COPINH), ist die Eskalation einer  Reihe von kriminellen Strategien der Betreiberfirma DESA und der honduranischen Regierung im Zusammenhang mit dem Bau des Wasserkraftswerks Agua Zarca im Westen von Honduras. Er steht exemplarisch für einen Staat, in dem Straffreiheit, Korruption und Menschenrechtsverletzungen seit Jahren in einem erschreckenden Ausmaß existieren - in einem Staat, der nach dem Putsch im Jahr 2009 sein Wirtschaften auf das extraktivistische Modell umgestellt hat.<br>"
-  },
-  {
-    "date": "2016-05-23",
+    "date": "2016-05-31",
     "time": "19:30",
     "free": true,
-    "location": "Bandito Rosso",
-    "loc": "15",
-    "type": "Kino + Diskussion",
-    "desc": "Empowerment durch Fußball. Allmonatlicher Tresen der FSI*OSI, diesmal: Kino und Diskussion mit den Organisatorinnen von \"Discover Football\".<br>"
+    "location": "Projektraum H48 (Neukölln)",
+    "loc": "3484",
+    "type": "Offenes Auftakttreffen",
+    "desc": "Aktion \"Der AfD ins Bier spucken\". Die AfD für ihren Rassismus anzugreifen ist wichtig. Doch damit allein ist ihr Aufwind nicht zu stoppen. Die Partei wirbt erfolgreich um die Stimmen von Benachteiligten und Protestwähler_innen. Und das, obwohl sich die antisoziale Programmatik der AfD gegen sie richtet. Genau diesen Angriffspunkt gilt es zu nutzen, um den Einzug der AfD ins Berliner Abgeordnetenhaus bei den Wahlen im September zu verhindern. Dafür müssen wir dorthin, wo die Stammtischparolen verbreitet werden. Wir sagen: 4,9% ist blau genug. Kommt zum Auftakt eines aktionistischen Berliner Anti-AfD-Sommers. Zeit für Aktion \"Blau?Pause!\""
   },
   {
-    "date": "2016-05-23",
+    "date": "2016-05-31",
     "time": "20:00",
     "free": true,
     "location": "Baiz",
     "loc": "2756",
-    "type": "Podiumsdiskussion",
-    "desc": "\"Reflexionen über Antifa-Arbeit ab den 80iger Jahren bis Heute\".<br>"
+    "type": "Infoveranstaltung + Ausstellung",
+    "desc": "\"Vom KZ Esterwegen zum KZ Sachsenhausen\". Infoveranstaltung und Ausstellung mit Ralph Gabriel. Zur Sicherung der Macht des NS-Systems errichtete das preußische Innenministerium 1933 staatliche Konzentrationslager in den Emslandmooren, darunter das KZ Esterwegen. 1934 übernahm die SS dieses Lager und ließ es durch den SS-Architekten Bernhard Kuiper vollständig umbauen. Mit der Entscheidung, neue und moderne KZs zu errichten, wurde Kuiper auch mit den Planungen für ein neues Musterlager bei der Reichshauptstadt Berlin betraut. Am Stadtrand von Oranienburg entwickelte er auf einem kiefernbewaldeten Forstgelände das KZ Sachsenhausen zu einer \"Idealstadt\" für die SS. Während der Bauarbeiten kam es in Esterwegen und Sachsenhausen zu schweren Misshandlungen und Tötungen von Häftlingen, die die Pläne des ehrgeizigen SS-Architekten umsetzen mussten."
   },
   {
-    "date": "2016-05-23",
+    "date": "2016-05-31",
+    "time": "20:00",
+    "free": true,
+    "address": "K-Fetisch (Wildenbruchstr. 86)",
+    "location": "K-Fetisch (Wildenbruchstr. 86)",
+    "type": "Auftaktveranstaltung der Linken Buchtage",
+    "desc": "Karsten Krampitz liest und diskutiert aus \"1976. Die DDR in der Krise\"",
+    "coordinates": [
+      13.44174,
+      52.4833
+    ]
+  },
+  {
+    "date": "2016-05-31",
+    "time": "20:30",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Lesung",
+    "desc": "LSD - Liebe Statt Drogen"
+  },
+  {
+    "date": "2016-05-31",
+    "time": "21:00",
+    "free": true,
+    "location": "Scherer8",
+    "loc": "3981",
+    "type": "Kino + Küfa",
+    "desc": "Wie jeden Dienstag Kino mit lecker Küfa. Heute im Kino \"o menino e o mundo\"."
+  },
+  {
+    "date": "2016-05-29",
+    "time": "10:00",
+    "free": true,
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Tage der anarchistischen Ideen und Publikationen",
+    "desc": "Wir laden alle ein, die Interesse haben über libertäre und hierarchiefreie Ideen und Perspektiven, über Mittel und Methoden in unseren Kämpfen, über Konsequenzen, Probleme und Hürden zu diskutieren und auch zu streiten. Anstatt zu konsumieren, wollen wir uns kennenlernen, in einen direkten Austausch treten und uns praktisch ausprobieren. Wir sind der Überzeugung, das wir nur so heraus finden können, in was für einer Realität wir uns wirklich befinden und wo sich potentielle Brennpunkte befinden. <a href=\"https://ausloeser.blackblogs.org\">Info</a><br>"
+  },
+  {
+    "date": "2016-05-29",
+    "time": "12:00",
+    "location": "Wagenburg Lohmühle",
+    "loc": "4180",
+    "type": "Flohmarkt",
+    "desc": "Ohne Anmeldung, gegen Spende."
+  },
+  {
+    "date": "2016-05-29",
+    "time": "13:00",
+    "location": "Erreichbar",
+    "loc": "26",
+    "type": "Brunch + Kinderkino",
+    "desc": "13.00 Uhr: veganer Brunch mit glutenfreien Optionen, Salate, Aufstriche, Kuchen etc. Gegen Spende. Das Geld ist für die OP einer Trans*person.<br>"
+  },
+  {
+    "date": "2016-05-29",
+    "time": "13:00",
+    "address": "Potsdamer Platz",
+    "location": "Potsdamer Platz",
+    "type": "Antimilitaristischer Stadtspaziergang",
+    "desc": "Schwerpunkt: Drohnen. Spielzeug, Transport\"fahrzeug\", Überwachungs- und Abhörinstrument oder Mordmaschine im \"target killing\"? Wir führen euch durch die Berliner City, zu Institutionen und Firmen, die an der Erforschung und Produktion von Drohnen beteiligt sind und damit Milliardengeschäfte machen (werden). Wo befinden sich und wer betreibt Interessenverbände für den Lobbyismus, der in die Verteidigungspolitik der Bundesrepublik, die Verbindung von Bundeswehr und Rüstungsindustrie verantwortlich ist? Wie wehren sich die Opfer von \"gezielten\" Tötungen? Und: wie gestaltet sich die (öffentliche) Diskussion zum Thema einer europ. (waffenfähigen) Drohne? All diesen Fragen wollen wir nachgehen und in einigen Punkten Antworten geben. Treffpunkt: Potsdamer Platz, Mauerdenkmal. Eintritt: Spende.",
+    "coordinates": [
+      13.3757392,
+      52.5093519
+    ]
+  },
+  {
+    "date": "2016-05-29",
+    "time": "14:00",
+    "location": "Villa Kuriosum",
+    "loc": "6787",
+    "type": "Soli-Brunch",
+    "desc": "Soli-Brunch der BerTA (Berliner Tierbefreiungsaktion). Ihr seid wie jeden letzten Sonntag im Monat zum BerTA Brunch eingeladen. Seit einem Monat findet der in der Villa Kuriosum statt. Die Villa und das Gelände drumherum sind Katzengebiet. Wir möchten euch daher bitten ohne eure vierbeinigen Begleiter_innen zu kommen.<br>"
+  },
+  {
+    "date": "2016-05-29",
+    "time": "15:00",
+    "free": true,
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Zeckenmarkt",
+    "desc": "Stöbert, findet, freut euch - der Saal macht Flohmarkt. Meldet euch mit eurem Stand unter schicksaal@tommyhaus.org an, bringt euer nicht gebrauchtes Zeugs mit. Es gibt Cocktails, Musk und Grillgedöns."
+  },
+  {
+    "date": "2016-05-29",
+    "time": "17:00",
+    "address": "Zukunft (Laskerstr. 5, Ostkreuz)",
+    "location": "Zukunft (Laskerstr. 5, Ostkreuz)",
+    "type": "Theater",
+    "desc": "Premiere: \"Der fliegende Arzt\" (Molière). Um die Hochzeit mit dem Wackelgreis Villebrequin abzuwenden, spielt Lucile vor ihrem Vater die Sterbenskranke. In Wirklichkeit liebt sie den jungen Valère, dessen Diener Scapino den Arzt mimen und nebenbei eine heimliche Hochzeit der beiden einfädeln soll. Zufälle und Verwicklungen stürzen Scapino von einem Possenspiel ins nächste. Seine Rollenwechsel werden am Ende so rasant, dass er beinah die Schwerkraft überwindet. Eintritt: 10 EUR, ermäßigt 6 EUR.",
+    "coordinates": [
+      6.2833115,
+      50.8360639
+    ]
+  },
+  {
+    "date": "2016-05-29",
+    "time": "19:00",
+    "address": "Teepeeland",
+    "location": "Teepeeland",
+    "type": "Stands Up - 2 Year Anniversary",
+    "desc": "It's the show's 2 year anniversary and we're gonna celebrate it right. With Berlins funniest comedians and out of town celebrities, we will bring you the best comedy show you could ever wish for this month. James Bond Boathouse, cheap beers, food and lots of laughs. Could your sunday evening get any better?! Start getting ready for the festivities. Show is donations based. Doors open at 7pm, Show starts at 8pm."
+  },
+  {
+    "date": "2016-05-29",
+    "time": "19:00",
+    "free": true,
+    "location": "WB13",
+    "loc": "82",
+    "type": "Kino",
+    "desc": "\"Nach Wriezen\" (D 2012) - Deutscher Dokumentarfilm von Daniel Abma. Der Film begleitet drei straffällig gewordene Jugendliche - darunter einen der Täter bei der Tötung Marinus Schöberls (* 4. September 1985 in Wolfen - 13. Juli 2002 in Potzlow; wurde postum bekannt als Mordopfer rechtsextremer Jugendlicher in Potzlow) - von dem Tag ihrer Entlassung aus der JVA Wriezen über einen Zeitraum von drei Jahren und zeigt dabei den schwierigen Prozess der Resozialisierung. Der Regisseur stellt in seinem Film existenzielle Fragen über die heutige Gesellschaft, über die Voraussetzungen für ein gelingendes Leben und ob sich ehemalige Sträflinge jemals vom Makel eines \"Knacki\" befreien können."
+  },
+  {
+    "date": "2016-05-29",
+    "time": "20:00",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Film",
+    "desc": "\"Der Aufenthalt\" (DDR 1982, 98 Min., R.: Frank Beyer) - Ein 19jähriger deutscher Soldat gerät durch eine Verwechslung in den Verdacht, bei einer SS-Razzia in Lublin ein polnisches Mädchen ermordet zu haben. Unschuldig im Sinne der Anklage sieht er sich in der Haft dem faschistischen Geist und den alten Hierarchien seiner Mithäftlinge ausgesetzt. <br>"
+  },
+  {
+    "date": "2016-05-29",
+    "time": "20:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Spezial",
+    "desc": "Schoki-Quiz mit Jana Palawer &amp; Inga Jauche"
+  },
+  {
+    "date": "2016-05-30",
+    "time": "16:00",
+    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "type": "Antikriegscafé",
+    "desc": "Offener Treffpunkt für Antimilitarist_innen. Ab 18.00 Uhr: Infos und Diskussion über die Kriegsübungsstadt \"Schnöggersburg\" auf dem GÜZ nähe Magdeburg.",
+    "coordinates": [
+      13.402794,
+      52.528892
+    ]
+  },
+  {
+    "date": "2016-05-30",
     "time": "20:00",
     "free": true,
     "location": "K19 Café",
@@ -584,247 +684,55 @@
     "desc": "Weltküche mit entwicklungspolitischem Nachtisch<br>"
   },
   {
-    "date": "2016-05-23",
+    "date": "2016-05-30",
     "time": "20:00",
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Anarchistische Infocafé",
-    "desc": "Infoveranstaltung Hambacher Forst. Der Hambacher Forst, Mitteleuropas letzter \"Urwald\", wird gerodet durch Europas größten Klimakiller - RWE. Die Folgen davon sind verheerend und sind sowohl regional in Form von Naturzerstörung, Zwangsumsiedlungen und Gesundheitsschäden als auch global durch Klimawandel und Flucht zu spüren. All das für völlig veraltete Kohle und einen Konzern, der die Energiewende verschlafen hat. Um dem ein Ende zu setzen, besetzen seit vier Jahren Umweltaktivist*innen den bedrohten Wald. Mehr dazu erfahrt ihr heute Abend von Hambi-Aktivist*innen und <a href=\"http://hambacherforst.blogsport.de\">hier</a>.<br>"
+    "free": true,
+    "location": "Lunte",
+    "loc": "48",
+    "type": "Film",
+    "desc": "\"Krater für den Frieden\". Wie der militärisch-industrielle Komplex die Abrüstung überlebte, vorgestellt von der AnarchoSyndikalistischen Initiative Berlin."
   },
   {
-    "date": "2016-05-23",
+    "date": "2016-05-30",
+    "time": "20:00",
+    "free": true,
+    "location": "Schwarze Risse (im Mehringhof)",
+    "loc": "71",
+    "type": "Infoveranstaltung",
+    "desc": "\"Ist der lange Abschied vom Proletariat zu Ende?\" Gespräch über die Geschichte und Aktualität linker Betriebsinterventionen: mit Dietmar Lange, Historiker und Mitherausgeber der Zeitschrift Arbeit Bewegung Geschichte und Mark Richter Mitglied der IWW. Moderation: Peter Nowak, Journalist und Herausgeber des Buches \"Ein Streik steht, wenn mensch ihn selber macht\".<br>"
+  },
+  {
+    "date": "2016-05-30",
+    "time": "21:00",
+    "location": "JUP",
+    "loc": "970",
+    "type": "Sleaze Show",
+    "desc": "\"Totem Skin\", \"Oak\", \"Christofer\". Eintritt: Spende."
+  },
+  {
+    "date": "2016-05-30",
     "time": "21:00",
     "free": true,
     "location": "Køpi",
     "loc": "43",
     "type": "Videokino Peliculoso",
-    "desc": "\"Wundkanal\" D 1984 107 min  R.: Thomas Harlan<br>"
+    "desc": "Rainer Werner Fassbinder - die Kinofilme \"Götter der Pest\" D 1969 80 min, R.:W. Fassbinder D.:Hanna Schygulla, harry Baer, Ingrid Caven<br>"
   },
   {
-    "date": "2016-05-23",
+    "date": "2016-05-30",
+    "time": "21:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Party",
+    "desc": "\"Schokokuss\" presents: Party-Night"
+  },
+  {
+    "date": "2016-05-30",
     "time": "21:30",
     "free": true,
     "location": "Sama-Café",
     "loc": "86",
     "type": "Film Club",
-    "desc": "\"Rattennest\" (USA 1955)"
-  },
-  {
-    "date": "2016-05-26",
-    "time": "18:00",
-    "free": true,
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Politisches Café",
-    "desc": "Film: \"Fascism inc.\" (OmU). Dieser Film zeigt den Zusammenhang zwischen Wirtschaft und Faschismus. \"Faschismus AG\" ist von der antifaschistischen Bewegung in ganz Europa inspiriert und hat das Ziel diese zu unterstützen. Weil der Faschismus nicht nur von der \"Goldenen Morgenröte\" sondern auch von Politikern, Unternehmen und Verlegern verbreitet wird. Weil die Ursachen der Krise, die den Faschismus fördern, Teil der Gegenwart und nicht nur der Vergangenheit sind. Weil ganz Europa schnell in der Dunkelheit des Rechtsradikalismus versinken kann."
-  },
-  {
-    "date": "2016-05-26",
-    "time": "19:00",
-    "free": true,
-    "location": "f.a.q.",
-    "loc": "5379",
-    "type": "Stören-Frida",
-    "desc": "Feministische Frauenkneipe. Frida tanzt aus den Mai. Es gibt einen Swing - LindyHop Einsteiger*innen Workshop um 20.00 Uhr mit Nina und Kathi. Anschließend freies (Swing) Tanzen. An der Bar rumhängen oder Freund*innen treffen ist auch möglich. Für FrauenLesbenTrans* <a href=\"http://stoerenfridaberlin.de\">Infos</a>"
-  },
-  {
-    "date": "2016-05-26",
-    "time": "19:00",
-    "address": "Regenbogenfabrik (Lausitzerstr. 22)",
-    "location": "Regenbogenfabrik (Lausitzerstr. 22)",
-    "type": "Info + Diskussion",
-    "desc": "\"Berlin und Airbnb... was sagen die Zahlen?\" - Info- und Diskussionsveranstaltung zu Ferienwohnungen.<br>",
-    "coordinates": [
-      14.9788131,
-      51.1701324
-    ]
-  },
-  {
-    "date": "2016-05-26",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Earl Grey\" (Punk, HC aus Mönchengladbach), \"Elm Tree Circle\" (Pop-Punk aus Berlin) und \"Choke On Me\" (Punkrock aus Vienna)"
-  },
-  {
-    "date": "2016-05-26",
-    "time": "19:30",
-    "free": true,
-    "address": "K-Fetisch (Wildenbruchstr. 86)",
-    "location": "K-Fetisch (Wildenbruchstr. 86)",
-    "type": "Antinationalistisches Kneipenquiz",
-    "desc": "Beatrix von Storch, das Staatsversagen um den NSU, Götz Kubitscheks Institut für Staatspolitik, Frei.Wild und rechte Hools - Wie gut kennt Ihr Euch aus in der Szene von AfD, Salon-Faschisten, NPD-Kadern und extrem rechter Gedankenwelt? Testet Euer Wissen beim legendären Polit-Kneipenquiz.<br>",
-    "coordinates": [
-      13.44174,
-      52.4833
-    ]
-  },
-  {
-    "date": "2016-05-26",
-    "time": "20:00",
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Kulturbühne",
-    "desc": "Konzert mit \"The Bribe and the Mockery\" und \"Philipp Taubert\" (Berliner Liedermacher)"
-  },
-  {
-    "date": "2016-05-26",
-    "time": "20:00",
-    "free": true,
-    "address": "Laidak (Boddinstr. 42/43)",
-    "location": "Laidak (Boddinstr. 42/43)",
-    "type": "Auftaktveranstaltung der Linken Buchtage",
-    "desc": "Charlie Kaufhold liest aus ihrem Buch \"In guter Gesellschaft? Geschlecht, Schuld und Abwehr in der Berichterstattung über Beate Zschäpe\"",
-    "coordinates": [
-      13.4283167,
-      52.47992010000001
-    ]
-  },
-  {
-    "date": "2016-05-26",
-    "time": "20:00",
-    "location": "Lunte",
-    "loc": "48",
-    "type": "Infoveranstaltung",
-    "desc": "Probleme mit dem \"Gefahrengebiet\"? - Tu was dagegen! Die Rote Hilfe lädt zur Infoveranstaltung ein. Ab 20.00 Uhr wird vegane/vegetarische SoKü serviert und danach möchten wir euch einen Überblick über das \"Gefahrengebiet\" geben. Schwerpunkte werden die aktuellen Maßnahmen der Cops sein und welche juristischen Angriffspunkte sich daraus ergeben. Zudem wird das aktuelle Vorgehen gegen das Gefahrengebiet erklärt. Interessant dabei sind die Unterschiede zum Hamburger Modell, welches erfolgreich gekippt wurde, als auch die geschichtliche Entwicklung in Berlin."
-  },
-  {
-    "date": "2016-05-26",
-    "time": "20:00",
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Very Big Minibar",
-    "desc": "Wir starten um 20.00 Uhr mit Effa von Hasta La Pasta. Wir machen weiter mit der ultimativen Gameshow zum Mitmachen oder Zuschauen. Wir machen euch dann fertig mit der legendären PowerHour, 60 Minuten, 60 Musikvideos, 60 Bier Shots. Who will survive!?"
-  },
-  {
-    "date": "2016-05-26",
-    "time": "21:00",
-    "free": true,
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Videokino Peliculoso",
-    "desc": "\"Brother\" RUS 1997 95min R.: Alexei Balabanov D.: Sergei Bodrow, Maria Schukowa<br>"
-  },
-  {
-    "date": "2016-05-26",
-    "time": "21:00",
-    "free": true,
-    "location": "Subversiv",
-    "loc": "75",
-    "type": "Vortrag",
-    "desc": "\"Grenzen - Von Lesbos bis Calais\". Eine fotografische Dokumentation der Fluchtbewegungen in Europa seit dem Herbst 2014.<br>"
-  },
-  {
-    "date": "2016-05-26",
-    "time": "21:00",
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "Sleaze-Tresen",
-    "desc": "Sleaze-Show Tresen und Konzert mit \"Marais\" + tba"
-  },
-  {
-    "date": "2016-05-26",
-    "time": "21:30",
-    "address": "Zukunft (Laskerstr. 5, Ostkreuz)",
-    "location": "Zukunft (Laskerstr. 5, Ostkreuz)",
-    "type": "Konzert",
-    "desc": "\"Gaffa Ghandi\" (Proll-Nu-Stoner aus Dresden) und \"Halbtal\" (Postkraut aus Berlin)",
-    "coordinates": [
-      6.2833115,
-      50.8360639
-    ]
-  },
-  {
-    "date": "2016-05-25",
-    "time": "16:00",
-    "free": true,
-    "address": "Teepeeland",
-    "location": "Teepeeland",
-    "type": "Jam Session",
-    "desc": "Teepeeland ist abgebrannt... unsere Bühne allerdings nicht. Also ran ans Mikro und Finger auf die Tasten. Alle sind Willkommen und wir freuen uns auf euch. Wie immer entspannte Musik und Getränke auf Spendenbasis. Anfahrt: An der Schillingbrücke, hinter der alten Eisfabrik."
-  },
-  {
-    "date": "2016-05-25",
-    "time": "19:00",
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "A-Laden Experience",
-    "desc": "\"Freie Liebe für Alle! - Erörterungen zum ältesten Herrschafts-Verhältnis\". Warum soll eine Frau kein Verhältnis haben? Aber es muss ja kein Herrschaftsverhältnis sein. Im Wonnemonat Mai schauen wir mal, wie es mit der Freien Liebe bestellt ist - einer Uraltforderung der Anarchist*innen. Seit 68 alles paletti? Oder alles verklemmt wie eh und je? Polyamouren in Single-Citys? Wo geht's denn nun ins Freie?"
-  },
-  {
-    "date": "2016-05-25",
-    "time": "19:00",
-    "free": true,
-    "location": "K9",
-    "loc": "4347",
-    "type": "Nachtreffen von Ende Gelände",
-    "desc": "Wir wollen nach der Aktion in der Lausitz zusammenkommen, uns gegenseitig vor der psychischen Hängepartie nach dieser intensiven Zeit bewahren und uns gegenseitig feiern. Auch indem wir die Aktion auswerten und wild Pläne schmieden, wie und wo es das nächste mal heißen könnte: \"Auf geht's, ab geht's - Ende Gelände!\"<br>"
-  },
-  {
-    "date": "2016-05-25",
-    "time": "19:00",
-    "address": "RuT- Rad und Tat (Schillerpromenade 1, Neukölln)",
-    "location": "RuT- Rad und Tat (Schillerpromenade 1, Neukölln)",
-    "type": "Film + Gespräch",
-    "desc": "Eröffnungsveranstaltung der Reihe: \"Barrieren verkehren!\" Eine Einjahresreihe zu den Überkreuzungen von Behinderung, Frau*sein und Homosexualität.<br>",
-    "coordinates": [
-      13.42109,
-      52.47837
-    ]
-  },
-  {
-    "date": "2016-05-25",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Julie's Haircut\" (Italien)"
-  },
-  {
-    "date": "2016-05-25",
-    "time": "19:00",
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Grüni-Soli-Tresen",
-    "desc": "Wir brauchen dringende Unterstützung für eines unserer Solizimmer. Kommt bitte zahlreich, um ein paar Bier oder Limos mit uns zu genießen, als auch uns beim Geld sammeln helfen. Wir fangen um 19.00 Uhr an und hören um 01.00 Uhr auf."
-  },
-  {
-    "date": "2016-05-25",
-    "time": "19:30",
-    "free": true,
-    "location": "Café Cralle",
-    "loc": "20",
-    "type": "Lesung",
-    "desc": "\"Rauch über Birkenau\" von Seweryna Szmaglewska. Experimentelle Lesung (dt.) (Teil 3: 1944, Kapitel 17 \"Nach Deutschland\" und Teil 4: 1945, Kapitel 18 \"Liquidierung\") aus einer weiblichen Perspektive auf den Holocaust. <a href=\"https://rauchueberbirkenau.wordpress.com/das-projekt/\">Info</a>"
-  },
-  {
-    "date": "2016-05-25",
-    "time": "20:00",
-    "location": "Friedel 54",
-    "loc": "7801",
-    "type": "Film, Diskussion + Küfa",
-    "desc": "\"Orbánistan\" (DE/HU 2015, 57 Min., Deutsch-Ungarisch mit deutschen und ungarischen Untertitel). Seit ihrem Antritt im Jahr 2010 zentralisiert die autoritäre ungarische Orbán-Regierung die Medien, lässt alternative Kultureinrichtungen schließen, greift in die Personalpolitik von Theatern und Museen ein und verändert die Gedenkkultur. Era Trammer veranschaulicht in ihrem Dokumentarfilm \"Orbánistan\" diese Entwicklung. In Anwesenheit der Regisseurin. Film gegen 20.30 Uhr."
-  },
-  {
-    "date": "2016-05-25",
-    "time": "21:00",
-    "free": true,
-    "address": "Filmriss (Rigaerstr. 103)",
-    "location": "Filmriss (Rigaerstr. 103)",
-    "type": "Kino",
-    "desc": "\"Wilde Herzen\" (F 1994, 108 Min.) - Südfrankreich Anfang der 60er Jahre: In Algerien herrscht Bürgerkrieg, Frankreich steckt politisch in der Krise. Vor diesem Hintergrund versuchen drei Internatsschüler den Übergang zum Erwachsenwerden zu meistern. François, Serge und die hübsche Maité erleben erste Gefühlswallungen. François hegt zarte Gefühle für Maité, gesteht ihr das jedoch nicht. Serge entdeckt, dass er sich mehr für Jungs interessiert. Dann taucht Henri, der \"Neue\", auf...",
-    "coordinates": [
-      13.45533,
-      52.51835999999999
-    ]
-  },
-  {
-    "date": "2016-05-25",
-    "time": "21:00",
-    "location": "X-B-Liebig",
-    "loc": "83",
-    "type": "Sleaze Show",
-    "desc": "\"Myteri\" (Crustpunk aus Schweden), \"Gränslandet\" (Alternative-Instrumental aus Schweden), \"Johnny hat Krätze\" (Powerviolence aus Potsdam). Eintritt: Spende."
+    "desc": "\"Falsches Spiel mit Roger Rabbit\""
   }
 ]
