@@ -1,4 +1,3 @@
-// [ToDo] deal with multiple things in one house
 
 // global map object
 var map
@@ -67,10 +66,13 @@ function mk_geoJSON(today) {
   var events = data.events.reduce(
     function(carry, el, index, obj){
       if (today == 'all' || Object.keys(data.kuefas)[(new Date(el.date).getDay()+6)%7] == today) {
-	if(el.location) {
-	  carry[el.location] ? null : carry[el.location] = [] ;
-	  carry[el.location].push( merge(el) );
-	} else if (el.coordinates) {
+	if (el.coordinates) {
+	  var markerColor = '#A517A5';
+	  console.log('COORD',el)
+	  if(el.free) {
+	    console.log('FREE')
+	    markerColor = '#A517F5';
+	  }
 	  features.push( {
 	    type: 'Feature',
 	    geometry: {
@@ -81,11 +83,15 @@ function mk_geoJSON(today) {
 	      title: el.type,
 	      description: $.Mustache.render('infowindow',{event:el}),
               'marker-size': 'medium',
-	      'marker-color': '#A517A5',
+	      'marker-color': markerColor,
 	      'marker-symbol': 'star',
 	      events: true
 	    }
 	  } )
+	} else if( el.location) {
+	  console.log('LOC',el)
+	  carry[el.location] ? null : carry[el.location] = [] ;
+	  carry[el.location].push( merge(el) );
 	} else {
 	  console.log("strange things happen by el creation: ",el)
 	}
