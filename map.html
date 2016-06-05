@@ -16,6 +16,7 @@
     
     <link href="main.css" rel="stylesheet" />
     <script src="main.js"></script>
+
     <script id="infowindow" type="x-tmpl-mustache">
       <div class="address">
 	{{full_address}}
@@ -42,19 +43,22 @@
 	{{{info}}}
       </div>
     </script>
+    <title>
+      StressMaps
+    </title>
   </head>
   <body>
     <div id="map" class="dark"></div>
 
     <div id="controls">
       <div class="stressfaktoren legend">
-	<span>StressFaktoren</span>	<img class="symbol" src="./maki/danger-18.png">
+	<span>StressFaktoren</span>	<img class="symbol" src="./maki/danger-18.png" alt="location">
       </div>
       <div class="events legend active">
-	<span>Events</span>    <img class="symbol" src="./maki/star-18.png">
+	<span>Events</span>    <img class="symbol" src="./maki/star-18.png" alt="event">
       </div>
       <div class="vokues legend active">
-	<span>VoKues</span>	<img class="symbol" src="./maki/restaurant-18.png">
+	<span>VoKues</span>	<img class="symbol" src="./maki/restaurant-18.png" alt="vokue">
       </div>
 
       <div> 
