@@ -30,7 +30,7 @@
     padding: 5px;
     margin: 5px;
     max-height: 10em;
-    overflow: overlay;
+    overflow: auto;
     
 }
 #reset_findings {
@@ -54,7 +54,7 @@
     border: 2px solid;
     border-radius: 100px;
     text-align: center;
-    font-size: 18;
+    font-size: 18px;
     padding: 3px;
 }
 
@@ -86,7 +86,7 @@
 }
 .marker-description {
     max-height: 300px;
-    overflow-y: overlay;
+    overflow-y: auto;
 }
 .marker-title {
     text-align: center;
