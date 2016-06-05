@@ -69,7 +69,6 @@ function mk_geoJSON(today) {
 	if (el.coordinates) {
 	  var markerColor = '#A517A5';
 	  if(el.free) {
-	    console.log('FREE')
 	    markerColor = '#A5F7A5';
 	  }
 	  features.push( {
@@ -116,8 +115,10 @@ function mk_geoJSON(today) {
       e.event = events[e.name];
       events[e.name] = undefined;
       color = '#A517A5';
-      if(e.event.free) {
-	console.log('2 FREE')
+      if(e.event.reduce((ret, el) => {
+	if (el.free) return true;
+	return ret;
+      }, false)) {
 	color = '#A5F7A5';
       }
       var symbol = 'star'
