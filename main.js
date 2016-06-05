@@ -18,7 +18,7 @@ function filter(layer) {
 
 function loaded(dat) {
   data = dat;
-  setupMap(mk_geoJSON('today'));
+  setupMap(mk_geoJSON('today'), filter);
 }
 
 function merge(obj, oobj={}) {
