@@ -68,10 +68,9 @@ function mk_geoJSON(today) {
       if (today == 'all' || Object.keys(data.kuefas)[(new Date(el.date).getDay()+6)%7] == today) {
 	if (el.coordinates) {
 	  var markerColor = '#A517A5';
-	  console.log('COORD',el)
 	  if(el.free) {
 	    console.log('FREE')
-	    markerColor = '#A517F5';
+	    markerColor = '#A5F7A5';
 	  }
 	  features.push( {
 	    type: 'Feature',
@@ -89,7 +88,6 @@ function mk_geoJSON(today) {
 	    }
 	  } )
 	} else if( el.location) {
-	  console.log('LOC',el)
 	  carry[el.location] ? null : carry[el.location] = [] ;
 	  carry[el.location].push( merge(el) );
 	} else {
@@ -118,6 +116,10 @@ function mk_geoJSON(today) {
       e.event = events[e.name];
       events[e.name] = undefined;
       color = '#A517A5';
+      if(e.event.free) {
+	console.log('2 FREE')
+	color = '#A5F7A5';
+      }
       var symbol = 'star'
       var has_event = true;
     }
