@@ -30,7 +30,8 @@ const fs = require('fs');
 		 "Piekfeiner Laden - Hausprojekt Wönnichstr. 103": {"address": "Wönnichstr. 103, Berlin"},
 		 "Treffpunkt: vor Oppelner Straße 45 (nahe U-Bhf. Schlesisches Tor) ": {"address": "Oppelner Str. 45, 10997 Berlin"},
 		 "Freie Universität Berlin": {"address": "Kaiserswerther Str. 16-18,14195 Berlin"},
-		 "S-Bhf Schöneweide": {"address": "S-Bhf Schöneweide, Berlin"}
+		 "S-Bhf Schöneweide": {"address": "S-Bhf Schöneweide, Berlin"},
+		 "Teepeeland": {"address": "Köpenicker Straße 40, 10179 Berlin"}
 		};
 
   var faulty_ones = []
@@ -226,7 +227,6 @@ const fs = require('fs');
 	  var $ = window.jQuery;
 
 	  var c_geocoder = 0;
-	  
 	  var m = /(\d+)\.(\d+)\.(\d+)/.exec($('table:eq(3) td:eq(1) table>tbody>tr:eq(0) span').text())
 	  var date = m[3] +'-'+ m[2] +'-'+ m[1]
 
