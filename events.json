@@ -1,431 +1,5 @@
 [
   {
-    "date": "2016-07-03",
-    "time": "13:00",
-    "address": "Flughafen Tegel",
-    "location": "Flughafen Tegel",
-    "type": "Kundgebung",
-    "desc": "Kundgebung gegen Air France/KLM (Terminal D direkt vor den Schaltern von Air France-KLM). Nach den Tierversuchsgegner_innen ist vor der BerTA. Auch an diesem ersten Sonntag im Monat organisiert die Berliner Tierbefreiungsaktion BerTA eine Kundgebung gegen die Transporte von sogenannten Versuchstieren durch die Fluggesellschaft Air France-KLM.<br>",
-    "coordinates": [
-      13.3108855,
-      52.5613774
-    ]
-  },
-  {
-    "date": "2016-07-03",
-    "time": "16:00",
-    "free": true,
-    "location": "Haus der Demokratie",
-    "loc": "973",
-    "type": "Buchvorstellung",
-    "desc": "\"Das Handeln der Tiere\". Der Chimaira Arbeitskreis für Human-Animal Studies stellt seinen aktuellen Sammelband zu tierlicher Agency in Berlin vor. Darin werden gesellschaftliche Mensch-Tier-Verhältnisse kritisch reflektiert. Buchvorstellung/Vortrag und Diskussion mit Autor_innen: \"Das Handeln der Tiere - Tierliche Agency im Fokus der Human-Animal Studies\"."
-  },
-  {
-    "date": "2016-07-03",
-    "time": "18:00",
-    "free": true,
-    "location": "NGBK",
-    "loc": "1441",
-    "type": "Vortrag",
-    "desc": "\"Präsentische Demokratie\". Isabell Lorey kritsiert die entleerte liberale Demokratie und fordert auf, das Präsentische der Demokratie zu denken."
-  },
-  {
-    "date": "2016-07-03",
-    "time": "20:30",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Party",
-    "desc": "Karaoke-Nacht mit KJ Der Käpt'n"
-  },
-  {
-    "date": "2016-07-03",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im Koma F",
-    "desc": "\"Kovaa Rasvaa\" (Fast HC Punk/Finland) + \"Yhtennotto\" (Punk/Finland)"
-  },
-  {
-    "date": "2016-07-05",
-    "time": "15:00",
-    "location": "B5355",
-    "loc": "7599",
-    "type": "Kiezcafé",
-    "desc": "Ab 15.00 Uhr Kaffee und Kuchen. Ab 19.00 Uhr Doku und Diskussion.<br>"
-  },
-  {
-    "date": "2016-07-05",
-    "time": "17:00",
-    "free": true,
-    "address": "Plattenladen (Sonnenallee 137)",
-    "location": "Plattenladen (Sonnenallee 137)",
-    "type": "FLIT*-Fahrradwerkstatt",
-    "desc": "An jedem 1. Dienstag im Monat von 16.00-20.00 Uhr darf gebastelt, geschraubt, geflext, geschweißt, geflickt, gegessen, getrunken, geschnackt und Juke-Box gehört werden. Alle außer cis-Männer. Gerne könnt ihr Kuchen oder so mitbringen.",
-    "coordinates": [
-      13.44495,
-      52.47996999999999
-    ]
-  },
-  {
-    "date": "2016-07-05",
-    "time": "19:00",
-    "free": true,
-    "location": "B-Lage",
-    "loc": "7639",
-    "type": "Infoveranstaltung",
-    "desc": "\"Dann hast du dich nicht genug angestrengt! Sinn von Schulnoten\".<br>"
-  },
-  {
-    "date": "2016-07-05",
-    "time": "19:00",
-    "location": "Kastanienkeller",
-    "loc": "41",
-    "type": "Konzert",
-    "desc": "\"Misantropic\" (Disfear like metallic D-Beat n Roll from Sweden), \"Howling Wolves\" (Berlin's Hardcore hope w/ members of blablabla etc. and so on). Entrance: 19:00. Start: 20:00 (sharp). End: 22:00 (sharp). No joke!"
-  },
-  {
-    "date": "2016-07-05",
-    "time": "19:00",
-    "location": "Mehringhof",
-    "loc": "50",
-    "type": "Speakerstour + Diskussion",
-    "desc": "Die Referent*innen werden Texte von politischen Gefangenen aus kolumbianischen Gefängnissen vorstellen. Es sind autobiografische Erzählungen, Gedichte, Kurzgeschichten, Berichte und Anklagen, die von den Ungerechtigkeiten des politischen Systems berichten, von der Behandlung politischer Menschen in Kolumbien durch die Justiz und politischer Gefangener im Gefängnisalltag. In den Erzählungen teilen die politischen Gefangenen auf eine unübliche Weise ihre Erfahrungen und ihre individuelle Sicht über die komplexe Situation in Kolumbien mit. Kollektive, Organisationen, soziale und politische Initiativen werden vorgestellt.<br>"
-  },
-  {
-    "date": "2016-07-05",
-    "time": "20:00",
-    "address": "about blank (Markgrafendamm 24c)",
-    "location": "about blank (Markgrafendamm 24c)",
-    "type": "Vortrag",
-    "desc": "\"Die Verdammten dieser Erde\" - Frantz Fanon und die Kritik an \"Rasse\", Anerkennung und Revolution<br>",
-    "coordinates": [
-      -119.0446611,
-      50.3565104
-    ]
-  },
-  {
-    "date": "2016-07-05",
-    "time": "20:00",
-    "free": true,
-    "location": "Lunte",
-    "loc": "48",
-    "type": "Filme",
-    "desc": "4th of You Lie - Filme zum Indigenen Widerstand in den USA.<br>"
-  },
-  {
-    "date": "2016-07-05",
-    "time": "20:30",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Lesung",
-    "desc": "LSD - Liebe Statt Drogen"
-  },
-  {
-    "date": "2016-07-05",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im Koma F",
-    "desc": "\"Matrak Attakk\" (Crust Grind/Belgium) + \"Anti bastard\" (Abstand Punx/Berlin) + \"Speed Kobra\" (Thrash'n'Roll/Berlin, 1st gig) + After Party DJ set 80's-Punk-Wave"
-  },
-  {
-    "date": "2016-07-04",
-    "time": "09:00",
-    "address": "Landgericht Berlin (Turmstr. 91, Moabit)",
-    "location": "Landgericht Berlin (Turmstr. 91, Moabit)",
-    "type": "Prozess",
-    "desc": "Rechter Mord in Neukölln? - Prozessbeobachtung (Saal 500 oder 129/218). Eingang über Sicherheitsschleuse links vom regulären Eingang entweder Turmstr. oder Wilsnacker Str.<br>",
-    "coordinates": [
-      13.35201,
-      52.52614
-    ]
-  },
-  {
-    "date": "2016-07-04",
-    "time": "16:00",
-    "free": true,
-    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "type": "Antikriegscafé",
-    "desc": "Kaffee trinken, Kekse essen, sich über Krieg und Militarisierung austauschen. Bei gutem Wetter draußen.",
-    "coordinates": [
-      13.402794,
-      52.528892
-    ]
-  },
-  {
-    "date": "2016-07-04",
-    "time": "19:00",
-    "location": "Bunte Kuh",
-    "loc": "1199",
-    "type": "Konzert",
-    "desc": "Montagssause in der Kuh. Diesmal haben wir für euch eingeladen: \"Watching Tides\" (Pop-Punk, Alternative, Emo, Post-Hardcore aus Berlin), \"Earl Grey\" (Hardcore, Punk aus Mönchengladbach), \"Elm Tree Circle\" (Pop Punk aus Berlin) und \"Dead Tourists\" (Hardcore aus Berlin). Wie immer mit kalten Getränken und ner netten Stimmung. Eintritt: Spende."
-  },
-  {
-    "date": "2016-07-04",
-    "time": "19:45",
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Soli-DruzBar",
-    "desc": "Soli-DruzBar für selbstbestimmtes Leben von Frauen in Kamerun. Mit Überraschungsfilm, Essen, Cocktails, Bar, Music."
-  },
-  {
-    "date": "2016-07-04",
-    "time": "20:00",
-    "free": true,
-    "location": "K19 Café",
-    "loc": "45",
-    "type": "Weltküche",
-    "desc": "Weltküche mit entwicklungspolitischem Nachtisch<br>"
-  },
-  {
-    "date": "2016-07-04",
-    "time": "20:30",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Party",
-    "desc": "\"Schokokuss\" presents: Party-Night"
-  },
-  {
-    "date": "2016-07-04",
-    "time": "21:30",
-    "free": true,
-    "location": "Sama-Café",
-    "loc": "86",
-    "type": "Film Club",
-    "desc": "Thema: Heiße Gebiete<br>"
-  },
-  {
-    "date": "2016-07-01",
-    "time": "09:00",
-    "address": "Landgericht Berlin (Turmstr. 91, Moabit)",
-    "location": "Landgericht Berlin (Turmstr. 91, Moabit)",
-    "type": "Prozess",
-    "desc": "Rechter Mord in Neukölln? - Prozessbeobachtung (Saal 500 oder 129/218). Eingang über Sicherheitsschleuse links vom regulären Eingang entweder Turmstr. oder Wilsnacker Str.<br>",
-    "coordinates": [
-      13.35201,
-      52.52614
-    ]
-  },
-  {
-    "date": "2016-07-01",
-    "time": "15:00",
-    "free": true,
-    "address": "Cafe Tschüsch (Fuldastr. 12)",
-    "location": "Cafe Tschüsch (Fuldastr. 12)",
-    "type": "Mitmach-/Infotreffen",
-    "desc": "\"Wir wollen Wohnungen!\" ist eine Kampagne des Bündnis \"Zwangsräumung verhindern\". Nach unserer ersten Aktion beim Tag der Immobilienwirtschaft laden wir alle interessierten Menschen ein, sich über die Kampagne zu informieren und sich an weiteren Aktionsplanungen zu beteiligen. <a href=\"http://wiwowo.zwangsraeumungverhindern.org\" target=\"_blank\" title=\"Weitere Infos: http://wiwowo.zwangsraeumungverhindern.org\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>",
-    "coordinates": [
-      9.860475899999999,
-      50.83598
-    ]
-  },
-  {
-    "date": "2016-07-01",
-    "time": "18:00",
-    "location": "FAU-Lokal",
-    "loc": "2440",
-    "type": "Beratung der Gender AG",
-    "desc": "Die Gender AG der FAU Berlin bietet einmal monatlich eine spezielle Beratung zu sexualisierter Diskriminierung und Gewalt am Arbeits- und Ausbildungsplatz, beim Kontakt mit Jobcenter/Arbeitsagentur oder in der Gewerkschaft an. Jeden 1. Freitag im Monat, von 18.00 bis 19.00 Uhr im FAU-Lokal. Gerne kannst du uns dein Anliegen vorher mitteilen oder dich kurz anmelden: faub-gender-beratung@fau.org"
-  },
-  {
-    "date": "2016-07-01",
-    "time": "19:00",
-    "free": true,
-    "location": "Bibliothek der Freien",
-    "loc": "5013",
-    "type": "Vortrag mit Diskussion",
-    "desc": "\"66 Jahre bis zur Anarchie - Die Vorgeschichte der spanischen Revolution 1936\".<br>"
-  },
-  {
-    "date": "2016-07-01",
-    "time": "19:00",
-    "free": true,
-    "location": "FAU-Lokal",
-    "loc": "2440",
-    "type": "Info",
-    "desc": "FAU - wie funktioniert das? Wie ist die FAU - lokal in Berlin, bundesweit sowie international - organisiert und vernetzt? Was macht eine syndikalistische Gewerkschaft überhaupt aus? Warum ist die FAU nicht einfach eine weitere Gewerkschaft? Einführung für Neumitglieder und Interessierte."
-  },
-  {
-    "date": "2016-07-01",
-    "time": "19:30",
-    "free": true,
-    "location": "Mehringhof",
-    "loc": "50",
-    "type": "Vortrag",
-    "desc": "Über das \"Finanzkapital\" und seine Kritiker. Veranstaltung und Seminar mit Robert Schlosser.<br>"
-  },
-  {
-    "date": "2016-07-01",
-    "time": "20:00",
-    "location": "Abstand",
-    "loc": "5085",
-    "type": "Konzert",
-    "desc": "\"Choix!\" (Punkrock from Moscow), \"Teenage Tits\" (Punkrock from Amsterdam)"
-  },
-  {
-    "date": "2016-07-01",
-    "time": "20:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Party",
-    "desc": "Commander Schmackos presents \"Weird Vibes\". Music for Legs and Brain. Cosmic Soul, Exotica, Early Electronics, Weird Folk."
-  },
-  {
-    "date": "2016-07-01",
-    "time": "21:00",
-    "address": "Dorfplatz (Rigaerstr. Ecke Liebigstr.)",
-    "location": "Dorfplatz (Rigaerstr. Ecke Liebigstr.)",
-    "type": "Solidaritätskundgebung",
-    "desc": "\"Solidarität mit der Rigaer Straße 94 und allen von Vertreibung bedrohten Mieter_innen!\" Seit mehr als einer Woche herrscht rund um die Rigaer Straße 94 erneut der Ausnahmezustand. Polizei und ein privater Wachdienst befinden sich und vor dem Haus. Bewohner_innen werden kontrolliert, ihr Eigentum zerstört und abtransportiert. Hierbei handelt es sich um flagrante Verletzungen von Mieter_innenrechten. In den letzten Wochen haben wir im Wiederstand gegen Nobelprojekte, wie das geplante Sama-Riga-Carree in der Rigaer Straße 71-73, unsere Nachbar_innen besser kennen gelernt. Für uns ist es daher selbstverständlich, dass wir uns jetzt mit ihnen solidarisieren  Wenn jetzt hier elementare Rechte außer Kraft gesetzt werden, ist ein Angriff auf die Grundrechte aller Mieter_innen.<br>",
-    "coordinates": [
-      13.7777279,
-      53.76522079999999
-    ]
-  },
-  {
-    "date": "2016-07-01",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im AGH",
-    "desc": "\"Baraka Face Junta\" (experimaental stuff, Kolobrzeg, Poland) - \"Produkt\" (norwegian style Punk, Olsztyn, Poland) - \"El Banda\" (HC Punk, Warszawa, Poland)"
-  },
-  {
-    "date": "2016-07-02",
-    "time": "10:00",
-    "free": true,
-    "location": "Mehringhof",
-    "loc": "50",
-    "type": "Seminar",
-    "desc": "Über das \"Finanzkapital\" und seine Kritiker. Tagesseminar mit Robert Schlosser.<br>"
-  },
-  {
-    "date": "2016-07-02",
-    "time": "19:00",
-    "free": true,
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Infoveranstaltung",
-    "desc": "\"Familiennachzug - Aufenthalt ohne Asyl?\" Die Sorgeberechtigten deutscher Staatsbürger haben ein großzügiges Nachzugsrecht. Das Bundesverfassungsgericht (1 BvL 6/10) entschied 2014, dass ein DNA-Test unzulässig ist, wenn dadurch die Staatsbürgerschaft des Kindes gefährdet ist. Parallel zur Asylrechtsverschärfung wird der Familiennachzug teilweise erleichtert. Welche Optionen entstehen für solidarisches Handeln? Wie können deutsche Männer ihre Vorteile nutzen?<br>"
-  },
-  {
-    "date": "2016-07-02",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Riots\" (Punk aus Norwegen) + Support + DJ"
-  },
-  {
-    "date": "2016-07-02",
-    "time": "20:00",
-    "free": true,
-    "location": "Meuterei",
-    "loc": "5269",
-    "type": "Solicocktails für die Rigaer94",
-    "desc": "Am 22.06. wurde die Rigaer94 teilgeräumt. Seitdem belagern die Cops das Haus rund um die Uhr, was zahlreiche Festnahmen und weitere Repressaliien nach sich zieht. Die so entstehenden Repressionskosten wollen wir solidarisch tragen und bieten deshalb heute abend Solicocktails für die 94 in der Meuterei an. Das gesammelte Geld kommt komplett den Bewohner*innen und Unterstützer*innen zugute. Kommt vorbei, seid solidarisch, vernetzt euch! Unsere Solidarität gegen ihre Repression!"
-  },
-  {
-    "date": "2016-07-02",
-    "time": "20:00",
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "FrequenZine Soliparty",
-    "desc": "Soliparty für die Finanzierung des visuellen Projekts vom Kollektiv <a href=\"http://grundfrequenz.tumblr.com\">Grundfrequenz</a>: <a href=\"http://frequenzine.tumblr.com\">FrequenZine</a>, ein Raum für visuelle KünstlerInnen, PhotographerInnen, DiechterInnen, SchriftstellerInnen und Visionäre, sich bezüglich bestimmten Themen auszudrücken.<br>"
-  },
-  {
-    "date": "2016-07-02",
-    "time": "21:00",
-    "free": true,
-    "address": "Potse + Drugstore",
-    "location": "Potse + Drugstore",
-    "type": "Antirep-Soli",
-    "desc": "\"Freiheit für Kette\". Die meisten von uns kennen es, die Cops überziehen uns mit Repressalien und wir müssen blechen. Diesmal hat es einen Freund von uns erwischt. Wir schaffen es nicht die Kosten alleine zu stemmen und bitten euch daher um Unterstützung und Solidarität.<br>"
-  },
-  {
-    "date": "2016-07-02",
-    "time": "21:30",
-    "location": "Supamolly",
-    "loc": "77",
-    "type": "Konzert",
-    "desc": "\"Skampida\" (Ska Mestizo Rock aus Kolumbien). Danach DJ. (letztes Konzert vor der Sommerpause)"
-  },
-  {
-    "date": "2016-06-30",
-    "time": "18:00",
-    "address": "Manteuffelstr. 99 (Kreuzberg)",
-    "location": "Manteuffelstr. 99 (Kreuzberg)",
-    "type": "Kundgebung",
-    "desc": "Marathonkundgebung gegen die Zwangsräumung des M99. Hans Georg Lindenau (HG) hat die Mitteilung bekommen, dass seine Ladenwohnung in der Manteuffelstraße 99 am 9.8. zwangsgeräumt werden soll. HG und seine Unterstützer_innen rufen jeden Donnerstag zwischen 18.00 und 22.00 Uhr zu einer Marathonkundgebung vor dem Laden auf. Es sind berlinweit alle betroffenen Wohn und Projekte - aktuell bedroht und bereits Verdrängten - eingeladen, sich mit ihren Aktionen am Donnerstag zwischen Naunynstr. und Waldemarstr. vor M99 vorzustellen. Am besten mit Streetfood parallel zur Markthalle 9 Streedfoodday-Aktion und Strassenmusik, hoffentlich bald auch mit Unterstützung der Anlage des Technoclub Nachbarn der M99 60 Herz. Infostellkwände und Wandsausstellung mit Infos zur Verdrängung von M99/HG und anderen berlinweit wird ständig aktualisiert und erweitert.",
-    "coordinates": [
-      13.4281498,
-      52.5009343
-    ]
-  },
-  {
-    "date": "2016-06-30",
-    "time": "18:00",
-    "free": true,
-    "address": "U-Bhf. Eberswalder Strasse",
-    "location": "U-Bhf. Eberswalder Strasse",
-    "type": "Kundgebung",
-    "desc": "CDU Sommerfest mit Frank Henkel im Prenzelberg stören. Solidarität mit der Rigaer94. Lasst uns das CDU Sommerfest mit Frank Henkel stören. Fight law &amp; order! Rigaer bleibt! Startkundgebung am U-Bahnhof Eberswalder Straße. <a href=\"https://pbs.twimg.com/media/CmAxQepWgAA0noS.jpg\" target=\"_blank\" title=\"Weitere Infos: https://pbs.twimg.com/media/CmAxQepWgAA0noS.jpg\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
-  },
-  {
-    "date": "2016-06-30",
-    "time": "19:00",
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Lesung",
-    "desc": "\"Raketenautos und Tulpenzwiebeln #2\". Heribert Günzelsau wird in die Psychiatrie eingewiesen, wo man ihm weiszumachen versucht, er habe nie auch nur eine einzige Zeile veröffentlicht, ja, eine Person seines Namens existiere überhaupt nicht. Und tatsächlich, als Günzelsau im Internet Nachforschungen über sich selbst anstellt, scheinen seine Existenz und sein Werk aus dem digitalen Gedächtnis der Menschheit getilgt, was ihn nur in der Annahme bestärkt, es sei eine großangelegte Verschwörung des Literaturbetriebes gegen ihn im Gange.<br>"
-  },
-  {
-    "date": "2016-06-30",
-    "time": "19:00",
-    "free": true,
-    "location": "SBZ Krähenfuß",
-    "loc": "44",
-    "type": "Perverser Krähen-Tresen",
-    "desc": "Jann Schweitzer aus Frankfurt am Main gibt ein Input zu Chemsex und Sexualmoral und lädt zur Diskussion. Hier gibt es die Möglichkeit, andere LGBTI an der HU und darüber hinaus kennenzulernen."
-  },
-  {
-    "date": "2016-06-30",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Seneca\" (Postrock aus Berlin) und \"Dwarphs\" (Mathrock aus Berlin)"
-  },
-  {
-    "date": "2016-06-30",
-    "time": "20:00",
-    "address": "Dorfplatz (Rigaerstr. Ecke Liebigstr.)",
-    "location": "Dorfplatz (Rigaerstr. Ecke Liebigstr.)",
-    "type": "Essen auf'm Dorfi",
-    "desc": "Nach der \"Frank Henkel stören\"-Demo gibt's leckeres Fingerfood (süß und salzig). Und bringt euch Sachen mit zum Lärm machen, denn ab 21.00 Uhr werden wir wieder Stimmung gegen die Bullen machen.",
-    "coordinates": [
-      13.7777279,
-      53.76522079999999
-    ]
-  },
-  {
-    "date": "2016-06-30",
-    "time": "21:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Videokino Peliculoso",
-    "desc": "\"RIO DAS MORTES\" (Fassbinder-Reihe) BRD 1970 84 min R.: Rainer W.<br>"
-  },
-  {
-    "date": "2016-06-30",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im Koma F",
-    "desc": "\"Plaguefiend\" (Crust/K-Town) + \"Warclose\" (D-beat Raw Punk/Berlin) + \"G.A.U\" (Noise Punk/Berlin)"
-  },
-  {
     "date": "2016-07-06",
     "time": "17:00",
     "free": true,
@@ -460,6 +34,24 @@
     "date": "2016-07-06",
     "time": "19:00",
     "free": true,
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Antifa-Tresen + Workshops",
+    "desc": "Die Berlin Outback Antifa und der Antifaschistische Schwarz-Rote Aufbau laden zum 2. gemeinsamen Tresen in die Bunte Kuh. Diesmal erwarten euch verschiedene Workshops der \"kreativen\" praktischen Art. Dazu gibt es wieder Küfa und kalte Getränke. Wir freuen uns auf jede*n Besucher*in."
+  },
+  {
+    "date": "2016-07-06",
+    "time": "19:00",
+    "free": true,
+    "location": "JUP",
+    "loc": "970",
+    "type": "Infoveranstaltung",
+    "desc": "Infoveranstaltung über die Pankower AfD. Die AfD, dass sind in der öffentlichen Wahrnehmung vor allem Höcke, Petry und von Storch. Aber was wissen wir über die Akteure der Berliner AfD? Wir wollen etwas Licht ins Dunkel bringen und werden in unserem ersten Vortrag einen Fokus auf die Berliner AfD-Strukturen im Großbezirk Pankow legen. Der Bezirksverband ist einer der mitgliedsstärksten im Osten der Stadt und verortet allerlei Parteiprominenz in seinen Reihen, sowie im eigenen Wahlkreis. Prenzlauer Berg bildet hier einen Wohnortschwerpunkt für Funktionäre der Partei. Der Pankower AfD-Verband versteht sich als \"Einheitsverband\", der bewusst neoliberalen und offene rechte Kräfte unter einem Dach vereint. Ehemalige Parteimitglieder von den \"Republikanern\" und von \"Die Freiheit\" haben in der AfD Pankow genauso eine Heimat gefunden, wie Professoren, lokale Kleinunternehmer*innen und ehemalige DDR-Bürgerrechtler. Auch der amtierende so wie der ehemalige Pressesprecher der Berliner AfD kommen von hier."
+  },
+  {
+    "date": "2016-07-06",
+    "time": "19:00",
+    "free": true,
     "location": "Kurt-Lade-Klub",
     "loc": "90",
     "type": "TTT - Tischtennistresen",
@@ -472,5 +64,494 @@
     "loc": "1131",
     "type": "Konzert",
     "desc": "\"Doctorella\" (Bohemian Srawberry Label Launch) und \"Jacqueline Blouin\" (Indie)"
+  },
+  {
+    "date": "2016-07-06",
+    "time": "21:00",
+    "free": true,
+    "location": "KuBiZ",
+    "loc": "4351",
+    "type": "Video-Kino",
+    "desc": "\"Der Klavierspieler aus Jarmuk\" (Doku, D 2016, 30 Min.) - Die Reportage erzählt die Geschichte des palästinensischen Musikers Aeham Ahmad, von seiner Flucht aus Syrien und dem Versuch eines Neuanfangs in Deutschland. Aeham wuchs in Jarmuk, in einem palästinensischen Flüchtlingslager auf. Er spielte mit seinem Klavier dort so lange in den zerbombten Straßen gegen die Schrecken des Krieges an, bis der IS ihm sein Instrument wegnahm und er flüchten musste.<br>"
+  },
+  {
+    "date": "2016-07-06",
+    "time": "21:30",
+    "free": true,
+    "location": "KuBiZ",
+    "loc": "4351",
+    "type": "Video-Kino",
+    "desc": "\"Der Sommer mit Mama\" (Spielfilm, Brasilien 2015, 110 Min., R.: Anna Muylaert) - In einem reichen Haushalt in São Paulo sorgt Haushälterin Val zuverlässig für alles. Für den 17jährigen Sprössling ist sie Ersatzmutter und Vertraute und wichtiger als die leibliche Mutter, die sich mehr für ihre Karriere und gesellschaftliches Ansehen inter-essiert. Zwar betont sie, dass Val zur Familie gehört - doch meint damit vor allem, dass sie immer zur Verfügung stehen soll. Vals kleines Zimmerchen symbolisiert nur zu klar die untergeordnete Position, die die Familie der Haushälterin zuweist. Fast wie eine Leibeigene hat sie für die reiche Familie gelebt - und ihre eigene Tochter, die auf dem Land im Nordosten lebt, 10 Jahre lang nicht gesehen! Als diese jedoch für eine Aufnahmeprüfung an der Universität in die Stadt kommt, gerät das Herrschaftsleben ins Wanken, denn die Tochter kann nicht mitansehen, wie unterwürfig ihre Mutter sich verhält und wie unverschämt die Familie sie ausnutzt. Der Film gewann auf der Berlinale 2015 völlig zurecht den Publikumspreis. (Bei schönem Wetter Open Air im Innenhof)"
+  },
+  {
+    "date": "2016-07-09",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Los Leos\" und \"Flora Camille\""
+  },
+  {
+    "date": "2016-07-09",
+    "time": "20:00",
+    "free": true,
+    "location": "Bandito Rosso",
+    "loc": "15",
+    "type": "ALJ Tresen",
+    "desc": "Vortrag und antinationales Besäufnis. Zuerst gibt es einen Vortrag zu (bewaffnetem) jüdischem Widerstand im dritten Reich und in Nachkriegsdeutschland. Dabei wird über Motivation, Ziele und Hintergründe diverser Gruppen (u.A. Nakam) und Organisationen aufgeklärt. <br>"
+  },
+  {
+    "date": "2016-07-09",
+    "time": "20:00",
+    "free": true,
+    "location": "Lunte",
+    "loc": "48",
+    "type": "Renovierungs-Soliparty",
+    "desc": "Die Lunte braucht neue Farbe. Für die kommende Bauwoche laden wir ein, solidarisch Chili zu essen, Cocktails und Bier zu trinken und das letzte mal den verrauchten Charme zu genießen, bevor wir alles schick machen."
+  },
+  {
+    "date": "2016-07-09",
+    "time": "21:00",
+    "free": true,
+    "location": "Drugstore",
+    "loc": "23",
+    "type": "Proberaumfestival",
+    "desc": "Es ist wieder so weit. Einmal im Jahr verlassen ein paar Künstler den muffig riechenden, feucht warmen Schutz unserer Proberäume und kriechen hervor ins grelle Rampenlicht. Auf unserer Bühne präsentieren sich dieses Jahr: \"The Illitihds\", \"The Barf Shaddocks\", \"Bipol\", \"Raum A\", \"Os Bastidos\" und eine Flamenco-Tänzerin."
+  },
+  {
+    "date": "2016-07-09",
+    "time": "21:00",
+    "free": true,
+    "location": "Potse",
+    "loc": "64",
+    "type": "Solikonzert",
+    "desc": "Solikonzert für die Rigaer 94. Mit \"R.O.C.K.E.T.\" (Fun Punk, Garage aus Aachen), \"Die Atombomben\" (dreckiger Punk aus Berlin), \"Radloß\" (Punk aus Berlin). Der Soli von dem Abend geht an die Rigaer 94, da es bei uns keinen Eintritt gibt, müsst ihr umso mehr saufen. No dogs, No masters!"
+  },
+  {
+    "date": "2016-07-09",
+    "time": "21:00",
+    "free": true,
+    "location": "Schreina47",
+    "loc": "87",
+    "type": "Antifabrik: Soliabend",
+    "desc": "Solidarität kennt keine Sommerpause! - die Antifabrik aber schon. Kommt also zum letzten Mal, bevor es uns wieder in die Parks dieser Stadt verschlägt, zur Antifabrik und genießt den Abend. Für Kühles und Warmes ist gesorgt. Solizweck: Praktischer Antirassismus (Unterstützung, damit eine Person bleiben kann)."
+  },
+  {
+    "date": "2016-07-09",
+    "time": "21:00",
+    "address": "Wismarplatz (F'hain)",
+    "location": "Wismarplatz (F'hain)",
+    "type": "Demo",
+    "desc": "\"Rigaer 94 verteidigen! Investor*innenträume platzen lassen!\" Am 17.06. veröffentlichten wir den ersten Aufruf zur Kiezdemo am 9.7. \"Investor*innenträume platzen lassen, Carré Sama-Rigaer verhindern!\" 5 Tage später wurde die Rigaer 94 durch ein Zusammenspiel vom Eigentümer, Bullen und Senat gestürmt und die \"Kadterschmiede\", der Rest des Erdgeschosses, mitsamt Werkstatt und dem Garten sowie der Dachboden des Hinterhauses als auch der besetzte Dachboden im Vorderhaus geräumt.<br>",
+    "coordinates": [
+      13.4630435,
+      52.5113723
+    ]
+  },
+  {
+    "date": "2016-07-09",
+    "time": "21:00",
+    "free": true,
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "FAU-Soli-Tresen",
+    "desc": "Soli-Tresen für die Streikkasse der Freien ArbeiterInnen Union Berlin, mit Musik, kalten Getränken und Kicker for free."
+  },
+  {
+    "date": "2016-07-09",
+    "time": "22:00",
+    "location": "Fischladen",
+    "loc": "31",
+    "type": "\"Capture the flag\" Party",
+    "desc": "Bring as many national flags as you can get and watch them being transformed into something useful. Afterwards DJs: Mooppigaloppi, Radio Punkabbestia (Disco Chaos). Doors open at 21:00."
+  },
+  {
+    "date": "2016-07-09",
+    "time": "22:00",
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Soli-Party",
+    "desc": "Soli-Party für die Comunidad Ecopunk aus Mexiko Stadt. Eintritt: Spende.<br>"
+  },
+  {
+    "date": "2016-07-09",
+    "time": "22:00",
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Soliparty",
+    "desc": "\"Marsch fürs Leben - what the fuck?\" Antirep-Solikonzert/-party für im Nachgang der Gegendemo entstandene Gerichtskosten mit PRSLM Live (Technorap), anschließend Party mit Mutti Cool (Trash) und Giovannis TrapArtTonis (Trap, Eurodance)."
+  },
+  {
+    "date": "2016-07-09",
+    "time": "23:00",
+    "location": "Rauchhaus",
+    "loc": "4268",
+    "type": "Konzert",
+    "desc": "\"E.K. Records is Rap Beyond Borders!\" This night is a benefit for E.K. Records, a D.I.Y. self-organized label that focuses on original productions and class conscious radical lyrics. Anarchist and libcom rap brought to you by solidarity and horizontal organizing.<br>"
+  },
+  {
+    "date": "2016-07-11",
+    "time": "10:00",
+    "address": "Landgericht Berlin (Turmstr. 91, Moabit)",
+    "location": "Landgericht Berlin (Turmstr. 91, Moabit)",
+    "type": "Prozess",
+    "desc": "Rechter Mord in Neukölln? - Prozessbeobachtung (Saal 500/129ab/218). Eingang über Sicherheitsschleuse links vom regulären Eingang entweder Turmstr. oder Wilsnacker Str.<br>",
+    "coordinates": [
+      13.35201,
+      52.52614
+    ]
+  },
+  {
+    "date": "2016-07-11",
+    "time": "16:00",
+    "free": true,
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Antikriegscafé",
+    "desc": "Kaffee trinken, Kekse essen, sich über Krieg und Militarisierung austauschen. Bei gutem Wetter draußen."
+  },
+  {
+    "date": "2016-07-11",
+    "time": "20:00",
+    "free": true,
+    "location": "K19 Café",
+    "loc": "45",
+    "type": "Weltküche",
+    "desc": "Weltküche mit entwicklungspolitischem Nachtisch<br>"
+  },
+  {
+    "date": "2016-07-11",
+    "time": "21:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Videokino Peliculoso",
+    "desc": "\"Tucker &amp; Dale vs. Evil\" KAN 2010, 84 min R.: Eli Craig; D.: Alan Tudyk, Katrina Bowden, Jesse Moss, Chelan Simmons<br>"
+  },
+  {
+    "date": "2016-07-11",
+    "time": "21:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Party",
+    "desc": "\"Schokokuss\" presents: Party-Night"
+  },
+  {
+    "date": "2016-07-11",
+    "time": "21:30",
+    "free": true,
+    "location": "Sama-Café",
+    "loc": "86",
+    "type": "Film Club",
+    "desc": "\"Wasser\""
+  },
+  {
+    "date": "2016-07-10",
+    "time": "12:00",
+    "address": "Stadion Lehrter Str. 59 (Moabit)",
+    "location": "Stadion Lehrter Str. 59 (Moabit)",
+    "type": "Kundgebung",
+    "desc": "Kundgebung gegen AfD-Aktivist Frank Börner, Vorstandsmitglied und Pressesprecher des SC Union 06. Darüber hinaus ist er Mitarbeiter an der Beuth Hochschule für Technik. Den Verein, wie die Hochschule eint ihr besonderes Engagement für Geflüchtete - Grund genug für uns, sie daran zu erinnern, dass sich soziales Engagement auf der einen Seite und mit RassistInnen zusammenzuarbeiten auf der Anderen, nicht gut vertragen.<br>",
+    "coordinates": [
+      13.3624893,
+      52.5294914
+    ]
+  },
+  {
+    "date": "2016-07-10",
+    "time": "14:00",
+    "address": "Hermannplatz (Neukölln)",
+    "location": "Hermannplatz (Neukölln)",
+    "type": "Demo",
+    "desc": "\"Abschiebungen von Rom*nja stoppen! Nachkommen von Völkermord-Opfern Schutz und Lebensperspektive bieten - Bleiberecht für alle Rom*nja!\" Schutz wird uns aufgrund der Regelung der \"sicheren Herkunftsländer\" pauschal verwehrt, unsere Fluchtgründe werden ignoriert. Dadurch werden wir in die Illegalität gezwungen. Wir fordern ein bedingungsloses Einreise- und uneingeschränktes Bleiberecht für Rom*nja, welches rein aus historischer Verantwortung eigentlich schon längst selbstverständlich sein sollte. Veranstalter*innen: Rom*nja Familien in Berlin und Unterstützer*innen. <a href=\"http://supportromaprotest.blogsport.de\" target=\"_blank\" title=\"Weitere Infos: http://supportromaprotest.blogsport.de\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>",
+    "coordinates": [
+      13.4250533,
+      52.48705169999999
+    ]
+  },
+  {
+    "date": "2016-07-10",
+    "time": "15:00",
+    "free": true,
+    "location": "Kurt-Lade-Klub",
+    "loc": "90",
+    "type": "Mach es selbst Börse",
+    "desc": "Jeden zweiten Sonntag im Monat findet unser Tauschflohmarkt statt. Für alle Standbetreiber ist das Haus ab 14.00 Uhr geöffnet und für alle interessierten Stöberer ab 15.00 Uhr. <a href=\"http://mach-es-selbst-boerse.jimdo.com\" target=\"_blank\" title=\"Weitere Infos: http://mach-es-selbst-boerse.jimdo.com\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
+  },
+  {
+    "date": "2016-07-10",
+    "time": "15:00",
+    "free": true,
+    "location": "Wagenburg Lohmühle",
+    "loc": "4180",
+    "type": "Soli-Café",
+    "desc": "Mit musikalischer Live-Begleitung servieren wir kalte Getränke, wie immer leckeren Kuchen, dazu gibt's noch extra Soli-Pizza und Sushi. Die Kohle wird in den Bau von ein paar Fahrrädern gesteckt, die bald nach Gambia wandern und da den Kindern von dem Dorf Buiba Mandinka den Weg zur Schule (die gerade auch von Soligeld renoviert ist) vereinfachen."
+  },
+  {
+    "date": "2016-07-10",
+    "time": "18:00",
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Solikonzert",
+    "desc": "CU Later und Lieblingstape present: Soli Show für das Haus der Jugend - Bunte Kuh e.V.<br>"
+  },
+  {
+    "date": "2016-07-10",
+    "time": "19:30",
+    "free": true,
+    "location": "WB13",
+    "loc": "82",
+    "type": "Kino",
+    "desc": "\"Berlin Calling\" (D 2008) - Der Berliner Elektro-Komponist Martin, genannt DJ Ickarus, tourt mit seiner Managerin und Freundin Mathilde durch die Tanzclubs der Welt. Sie stehen kurz vor ihrer größten Albumveröffentlichung. Als Ickarus jedoch nach einem Auftritt im Drogenrausch in eine Berliner Nervenklinik zu Ärztin Prof. Dr. Paul eingeliefert wird, geraten alle Pläne durcheinander. Mit der Musik von Paul Kalkbrenner.<br>"
+  },
+  {
+    "date": "2016-07-10",
+    "time": "20:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Party",
+    "desc": "SchmuSalon - Die Party mit den Bons."
+  },
+  {
+    "date": "2016-07-10",
+    "time": "22:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im Koma F",
+    "desc": "\"Voidfiller\" (Crust-Punk, Sweden) + \"Nocturnal Scum\" (Stench, Berlin) + \"Crustenunie\" (Crust-Punk / D-Beat, Netherlands)"
+  },
+  {
+    "date": "2016-07-07",
+    "time": "18:00",
+    "address": "Manteuffelstr. 99 (Kreuzberg)",
+    "location": "Manteuffelstr. 99 (Kreuzberg)",
+    "type": "Kundgebung",
+    "desc": "Marathonkundgebung gegen die Zwangsräumung des M99. Hans Georg Lindenau (HG) hat die Mitteilung bekommen, dass seine Ladenwohnung in der Manteuffelstraße 99 am 9.8. zwangsgeräumt werden soll. HG und seine Unterstützer_innen rufen jeden Donnerstag zwischen 18.00 und 22.00 Uhr zu einer Marathonkundgebung vor dem Laden auf. Es sind berlinweit alle betroffenen Wohn und Projekte - aktuell bedroht und bereits Verdrängten - eingeladen, sich mit ihren Aktionen am Donnerstag zwischen Naunynstr. und Waldemarstr. vor M99 vorzustellen. Am besten mit Streetfood parallel zur Markthalle 9 Streedfoodday-Aktion und Strassenmusik, hoffentlich bald auch mit Unterstützung der Anlage des Technoclub Nachbarn der M99 60 Herz. Infostellkwände und Wandsausstellung mit Infos zur Verdrängung von M99/HG und anderen berlinweit wird ständig aktualisiert und erweitert.",
+    "coordinates": [
+      13.4281498,
+      52.5009343
+    ]
+  },
+  {
+    "date": "2016-07-07",
+    "time": "19:00",
+    "free": true,
+    "location": "f.a.q.",
+    "loc": "5379",
+    "type": "StörenFrida",
+    "desc": "Feministische Frauenkneipe. Filmvorführung und Buchvorstellung mit Katharina Oguntoye. Veranstaltung im Rahmen der <a href=\"http://www.bildungswerk-boell.de/de/feministische-summerschool\">Feministischen Summerschool</a> für Frauen*.<br>"
+  },
+  {
+    "date": "2016-07-07",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Silver Furs\" (Psych, 60s aus Berlin; LP Launch) und \"The Recalls\" (Beat, Garage, Psych aus Berlin)"
+  },
+  {
+    "date": "2016-07-07",
+    "time": "19:30",
+    "location": "Galerie Olga Benario",
+    "loc": "57",
+    "type": "Film",
+    "desc": "\"Wer bist du, dass du sprichst?\" (Türkei/Deutschland  2006, OF, Türkisch mit deutschem voice-over, 64 Min.) - Dok.-Film von Maria Binder und Verena Franke. Vier Frauen und eine Trans*frau aus Istanbul erzählen von sexueller Foltererfahrung durch den türkischen Staat, von Trauma-Verarbeitung und von ihrem Kampf um gesellschaftliche Veränderung. Filmveranstaltung in Anwesenheit der beiden Regisseurinnen."
+  },
+  {
+    "date": "2016-07-07",
+    "time": "20:00",
+    "free": true,
+    "location": "Café Cralle",
+    "loc": "20",
+    "type": "Ultimatives Wedding Pub-Quiz",
+    "desc": "Du denkst du bist ein*e richtige*r Weddinger*in? Weil du schon seit 5 Jahren hier wohnst und mit dem Späti-Verkäufer oft ein nettes Pläuschlein hältst? Alles Quatsch! \"Ey, ick leb' hier schon ewig!\"<br>"
+  },
+  {
+    "date": "2016-07-07",
+    "time": "20:00",
+    "location": "K19 Café",
+    "loc": "45",
+    "type": "Ultrash Warmup",
+    "desc": "Dieses Jahr präsentieren Euch die Red &amp; Anarchist Skinheads Berlin-Brandenburg, das Filmstadtinferno 99, Scortesi und engagierte Einzelpersonen zum mittlerweile zehnten Mal unser politisches Subkulturfestival für Skins, Punks, Ultras u.a. antifaschistische Gegenkulturen. Zu unserem zehnten Jubiläum werden jede Menge Bands für Euch aufspielen. Außerdem haben wir im Vorfeld zu einer Fotoaktion aufgerufen und wollen Euch nun die schönsten, lustigsten und verrücktesten Bilder präsentieren.<br>"
+  },
+  {
+    "date": "2016-07-07",
+    "time": "20:00",
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Riot Grrrl's not Dead #7",
+    "desc": "This month our queer-feminist bar evening will host female rap and hip hop soliconcerts for an antifascist dental surgery. Let's celebrate half a year of Riot Grrrl's not Dead with us before summer break at ZGK.<br>"
+  },
+  {
+    "date": "2016-07-07",
+    "time": "20:00",
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "Infoveranstaltung",
+    "desc": "\"This is the way we do it in gothenburg\". Infoveranstaltung beim Sama-Huset im Exil Tresen mit Küfa und Filmen: \"No justice no peace\" und \"Terrorists - the kids they sentenced\", mit Gästen, die 2001 an den Protesten gegen den EU-Gipfel in Göteborg teilgenommen haben, und von ihren Erlebnissen berichten werden, sowie die Ausstellung \"15 Jahre Göteborg - Genua - A short Summer of Resistance\"."
+  },
+  {
+    "date": "2016-07-07",
+    "time": "21:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im AGH",
+    "desc": "\"City Rats\" (Punk IsraHell) - \"4 Scums\" (D-BeatPunk Russia)"
+  },
+  {
+    "date": "2016-07-07",
+    "time": "21:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Videokino Peliculoso",
+    "desc": "\"American Hustle\" USA 2013 132 min, David O. Russell; D.: Christian Bale, Amy Adams, Bradley Cooper, Shea Whigham<br>"
+  },
+  {
+    "date": "2016-07-12",
+    "time": "16:00",
+    "free": true,
+    "location": "Villa Kuriosum",
+    "loc": "6787",
+    "type": "Scharni29 Tresen + Küfa",
+    "desc": "Senegalesische Session. Bei der sommerlichen Hitze wollen wir euch in den schattigen Villagarten einladen und schon nachmittags mit einem gemütlichen Picknick mit den Kindern beginnen. Abends gibt es senegalesischen veganen Djeeb für alle und Musik (Mbalax, HipHop). Picknick ab 16.00 Uhr. Musik und Küfa ab 19.00 Uhr."
+  },
+  {
+    "date": "2016-07-12",
+    "time": "18:00",
+    "free": true,
+    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "type": "Bunter Abend",
+    "desc": "\"Linke Bewegungen in der Ukraine\". Für diesen Bunten Abend haben wir eine Person eingeladen, die euch was über die aktuelle Situation in der Ukraine berichten wird.<br>",
+    "coordinates": [
+      13.402794,
+      52.528892
+    ]
+  },
+  {
+    "date": "2016-07-12",
+    "time": "19:00",
+    "free": true,
+    "location": "Bandito Rosso",
+    "loc": "15",
+    "type": "Perspektive-Tresen",
+    "desc": "\"Widerstand in Frankreich\". Seit Monaten finden in Frankreich massive Proteste gegen die geplante \"Arbeitsrechtsreform\" der sozialdemokratischen Regierung statt. Das Gesetz würde gravierende Verschlechterungen für die Lohnabhängigen bedeuten. Der stärkste Gewerkschaftsdachverband CGT fordert die Rücknahme des Gesetzes. Im Juli wird die entscheidende letzte Lesung in der Nationalversammlung stattfinden. Der Widerstand beinhaltet vielfältige Formen wie Großdemonstrationen, Platzbesetzungen, Streiks, Blockaden und militante Aktionen unter anderem gegen Banken. Verschiedene Kämpfe konnten durch die Proteste gegen die \"Reform\" gebündelt werden. Es wurden unter anderem Raffinerien blockiert, der Bahnverkehr wurde bestreikt und Aktivist*innen von Nuit Debout - Aufrecht in der Nacht - haben seit dem 31. März Plätze besetzt und organisieren Vollversammlungen. Nuit debout ist eine heterogene Bewegung, in der auch viele Menschen aktiv sind, die keine antikapitalistische Perspektive einnehmen. Deutlich hat sich die Bewegung jedoch von rassistischen Positionen distanziert. Der Staat reagiert mit polizeilicher Gewalt und zahlreichen Festnahmen. Über 1000 Menschen wurden durch die Polizei verletzt. Der Ausnahmezustand gilt seit dem 14. November 2015 ohne Unterbrechung. Der Journalist und Autor Bernard Schmid wird einen Vortrag zu der aktuellen Protestbewegung halten und über Strategien und Perspektiven des Widerstands sprechen. <a href=\"http://www.perspektive.nostate.net\" target=\"_blank\" title=\"Weitere Infos: http://www.perspektive.nostate.net\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
+  },
+  {
+    "date": "2016-07-12",
+    "time": "20:00",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Essen und Mexiko-Info-Abend",
+    "desc": "Erst Essen, danach Infoveranstaltung zur \"Campaña Nacional en defensa de la Madre Tierra y el territorio\" (de; es + en possible): In Mexiko haben sich 179 Gemeinden, Organisationen, Kollektive und Stadtteile aus unterschiedlichen Regionen des ganzen Landes in einer landesweiten Kampagne zusammengeschlossen, um gemeinsam gegen die Zerstörung, Privatisierung und Ausbeutung der \"Mutter Erde\" durch Bergbau, infrastrukturelle Großprojekte oder Energiegewinnungsprojekte zu kämpfen.<br>"
+  },
+  {
+    "date": "2016-07-12",
+    "time": "20:00",
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Latinokino",
+    "desc": "Mexiko-Veranstaltung zu Chiapas und Oaxaca: Eine Compañera wird uns die neuesten Informationen zur aktuellen Situation dort geben.<br>"
+  },
+  {
+    "date": "2016-07-12",
+    "time": "20:30",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Lesung",
+    "desc": "LSD - Liebe Statt Drogen"
+  },
+  {
+    "date": "2016-07-12",
+    "time": "21:25",
+    "address": "Open Air Kino Mitte (Rosenthaler Str. 39)",
+    "location": "Open Air Kino Mitte (Rosenthaler Str. 39)",
+    "type": "Film",
+    "desc": "\"Projekt A\" (engl. version with subtitles)",
+    "coordinates": [
+      14.2052,
+      51.23954
+    ]
+  },
+  {
+    "date": "2016-07-08",
+    "time": "18:30",
+    "free": true,
+    "location": "Bibliothek der Freien",
+    "loc": "5013",
+    "type": "Bibliothekseinführung für Skeptiker",
+    "desc": "Der Anarchismus bietet Einsichten, keine Erlösung. Er verlangt Rückgrat, keine Repression. Er schafft Gemeinschaften, keine Gefängnisse. Die Bibliothek der Freien ist seit 23 Jahren im anarchistischen Entwicklungsland Deutschland aktiv und bietet substanzielle Informationen über den Anarchismus. Ein Mitarbeiter präsentiert unsere Bestände an Büchern, Zeitschriften, Archivalien und stellt sich allen Interessierten, die mehr Fragen haben als Antworten, an der Freiheit (ver)zweifeln oder über diese unterschätzte Idee einfach mehr wissen wollen."
+  },
+  {
+    "date": "2016-07-08",
+    "time": "19:00",
+    "free": true,
+    "address": "Café Laika (Emser Str. 131, Neukölln)",
+    "location": "Café Laika (Emser Str. 131, Neukölln)",
+    "type": "Vortrag",
+    "desc": "\"Rassistische Gewalt und Lebensführung\". Wie können psychische Folgen rassistischer Verhältnisse begriffen werden? In den letzten 30 Jahren hat sich Rassismustheorie und -forschung auch in Deutschland als Forschungsfeld herausgebildet. Ideologietheoretische Zugänge von Robert Miles, Stuart Hall und Etienne Balibar waren dabei zentrale Bezugspunkte, um ein Rassismusverständnis zu formulieren, welches individuelles Denken, Handeln und Fühlen in den Zusammenhang rassistischer gesellschaftlicher Strukturen und Diskurse stellt. In meinem Vortrag geht es um die subjektive Bewältigung rassistischer Gewalt durch die Betroffenen. Anhand von Fallanalysen und unter der Perspektive der Lebensführung werden die jeweiligen Konstellationen aus Handlungsmöglichkeiten und -einschränkungen rekonstruiert, in denen Betroffene mit der Gewalt umgehen. Anknüpfend an jüngere Arbeiten aus dem Feld rassismuskritischer Forschung zu Rassismuserfahrungen soll diskutiert werden, wie psychische Kosten rassistischer Verhältnisse mit kritisch-psychologischer Begrifflichkeit zugänglich werden können.<br>",
+    "coordinates": [
+      13.4380257,
+      52.4692679
+    ]
+  },
+  {
+    "date": "2016-07-08",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Yebo\" (Ska, Reggae) und \"The Scorchers\" (Rocksteady, Reggae) - beide Berlin."
+  },
+  {
+    "date": "2016-07-08",
+    "time": "19:00",
+    "free": true,
+    "location": "Subversiv",
+    "loc": "75",
+    "type": "Infoveranstaltung",
+    "desc": "Veranstaltung zu Mieten- und Arbeitskämpfen im Wedding. Beschäftigte des Amadeus-Hostels wehren sich gegen ihren Null-Euro-Job. Die Zwangsräumung von Tina konnte nicht verhindert werden, doch Hunderte gehen auf die Straße. Stadtteilaktivist_innen verwandeln eine Ferienwohnung in eine Beratung von Erwerbslosen. In der Koloniestraße wehren sich Mieter_innen gegen drohende Vertreibung. Das sind nur einige von vielen Aktionen, mit denen Menschen im Wedding auf die alltäglichen Zumutungen des Kapitalismus reagieren. Dabei wird deutlich, dass die Kämpfe um mehr Lohn und Einkommen und um Mieterhöhungen und Luxussanierungen zusammengehören. Auf der Veranstaltung wird der Journalist Peter Nowak, Autor der Bücher \"Zwangsräumung verhindern\" und \"Ein Streik steht, wenn mensch ihn selber macht\", zusammen mit dem Filmemacher Matthias Coers ausführen, was diese sozialen Kämpfe verbindet. Der Regisseur des Films \"Mietrebellen\" wird mit Videos und Fotos von Kämpfen zum Wedding und zu Berlin berichten. Die Stadtteilinitiative Basta wird über ihre Arbeit berichten und dazu auch einen Film zeigen.<br>"
+  },
+  {
+    "date": "2016-07-08",
+    "time": "19:30",
+    "free": true,
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Infoveranstaltung",
+    "desc": "\"Wie der Maoismus nach Westberlin kam - Ein Blick zurück nach vorn\".<br>"
+  },
+  {
+    "date": "2016-07-08",
+    "time": "20:00",
+    "free": true,
+    "location": "FAU-Lokal",
+    "loc": "2440",
+    "type": "Vortrag + Diskussion",
+    "desc": "\"Antisemitismus unter Anarchist_innen?\" Auch anarchistische Positionen bieten Einfallstore für verkürzte Kapitalismuskritik und antisemitische Einstellungen. Gleichzeitig können Aktionsformen - lokal, direkt und zwischenmenschlich - der Debatte um Antisemitismus und Antizionismus auf einer konkreteren Ebene begegnen. Der Autor und Theoretiker Jürgen Mümken erläutert, wie sich anarchistische Strömungen in der Vergangenheit zu Antisemitismus verhalten haben und wird die aktuellen Debatten dazu nachzeichnen. Wie positionieren sich Anarchistinnen und Anarchisten heute? Was bedeuten diese Auseinandersetzungen für unsere basisgewerkschaftliche Praxis?<br>"
+  },
+  {
+    "date": "2016-07-08",
+    "time": "20:00",
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Solikonzert",
+    "desc": "Solikonzert fürs Offene Büro, das u.a. der KuB und dem International Women's Space Arbeitsrräume bietet. Mit \"Affenmesserkampf\" (ex-Tackleberry! HC-Punk), \"Shutcombo\" (Punkrock) und \"Mole\" (HC Punk). Küfa ab 20.00 Uhr, Konzert ab 21.00 Uhr. Eintritt: Spende."
+  },
+  {
+    "date": "2016-07-08",
+    "time": "22:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im AGH",
+    "desc": "\"Miss Tetanos\" (Dark / Live electronics, Bel) - \"Protestera\" (AnarchAPunk Göteborg/ Swe) - \"Cartouche\" (RockPunk dé Paris/ Fr)"
+  },
+  {
+    "date": "2016-07-08",
+    "time": "22:00",
+    "location": "Subversiv",
+    "loc": "75",
+    "type": "Soliparty",
+    "desc": "Soliparty für Organize Demo. Ihr könnt mit uns zusammen das Tanzbeinschwingen zu: \"Turtle Rage\", \"Zerfetzt\", \"Crucial Point\". Wer dann noch nicht genug hat und weiter leckere Cocktails trinken möchte, bleibt noch mit uns da und lässt sich den Bass um die Ohren jagen von unseren bezaubernden DJs: Maarten Monoton, IRA, Mashkalji. Davor wird es noch eine Veranstaltung zu Mieten- und Arbeitskämpfen aus den vergangenen Jahren im Wedding geben, von Peter Nowak und Matthias Coers. Dazu lecker Küfa (Burger und Pommes)."
   }
 ]
