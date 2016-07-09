@@ -37,6 +37,7 @@ const fs = require('fs');
   var faulty_ones = []
   var geo_c = 0;
   function geocode_this(ary, allDone) {
+    console.log('Geocoding ...');
     var timeout = 300;
     if (ary == [])
       allDone();
@@ -109,6 +110,7 @@ const fs = require('fs');
   
   // Get VoKues
   function get_vokues(html) {
+    console.log('Processing Vokues')
     var promise = new Promise(function(resolve, reject) {
       jsdom.env(
 	html,
@@ -129,7 +131,7 @@ const fs = require('fs');
 		  obj.loc = m[1];
 	      }
     	      $('b',el).remove();
-    	      obj.desc = el.html();
+    	      obj.desc = el.html().trim();
     	      var time =  /\d\d:\d\d/.exec(obj.desc);
     	      obj.time = time ? time[0]: time
 
@@ -166,6 +168,7 @@ const fs = require('fs');
   
   function get_stressis(html) {
     // getting all Addresses
+    console.log('Processing Locations');
     var promise = new Promise(function(resolve, reject) {
       jsdom.env(
 	//"http://stressfaktor.squat.net/adressen.php",
@@ -217,6 +220,7 @@ const fs = require('fs');
   }
 
   function get_events(html) {
+    console.log('Processing Events');
     var promise = new Promise(function(resolve, reject) {
       jsdom.env(
 	//"http://stressfaktor.squat.net/adressen.php",
@@ -285,8 +289,8 @@ const fs = require('fs');
   
   todo = {
     //'./data/termine.html' : get_events,
-    // './data/kuefa.php' : get_vokues,
-    // './data/adressen.php' : get_stressis
+    './data/kuefa.php' : get_vokues,
+    './data/adressen.php' : get_stressis
   }
   fs.readdirSync('./data/').filter( i => {
     return /termine.php/.test(i)}).reduce( (cary, item) => {
@@ -317,7 +321,6 @@ const fs = require('fs');
     done_print();
   }
   
-  console.log('creating promise')
   var loop = new Promise( function(resolve, reject) {
     var c = 1;
     for ( fname in todo ) {
@@ -325,14 +328,12 @@ const fs = require('fs');
       var txt = fs.readFileSync(fname);
       var html = iconv.convert(txt).toString();
       todo[fname](html).then(function() {
-	console.log('then  :',c)
 	if (c == Object.keys(todo).length)
 	  resolve()
 	else
 	  c++;
       });
     }
-    console.log('after loop');
   }).then(function() {
     geocode_this(
       events.reduce( (ret, item) => {

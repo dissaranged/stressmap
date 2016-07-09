@@ -17,8 +17,8 @@ cd -
 
 node data-aquisition.js &&
     mv tst-events.json events.json &&
-#    mv tst-stressfaktoren.json stressfaktoren.json &&
-    #    mv tst-kuefas.jsson kuefas.json &&
+    mv tst-stressfaktoren.json stressfaktoren.json &&
+    mv tst-kuefas.json kuefas.json &&
     true
 git add {events,kuefas,stressfaktoren}.json
 git commit -m "new data"
