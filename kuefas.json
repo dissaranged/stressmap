@@ -1,4 +1,183 @@
 {
+  "Montag": [
+    {
+      "name": "Rote Insel",
+      "loc": "66",
+      "desc": ", 19:00 (vegi und Fleisch)",
+      "time": "19:00"
+    },
+    {
+      "name": "Bödiker 9",
+      "loc": "3428",
+      "desc": ", 20:00, vegane KüfA",
+      "time": "20:00"
+    },
+    {
+      "name": "Drugstore",
+      "loc": "23",
+      "desc": ", 20:00, vegane KüfA im Bierrechtscafé",
+      "time": "20:00"
+    },
+    {
+      "name": "K19 Café",
+      "loc": "45",
+      "desc": ", 20:00, Weltküche",
+      "time": "20:00"
+    },
+    {
+      "name": "New Yorck im Bethanien",
+      "loc": "3944",
+      "desc": ", jeden Mo 20:00 vegan, 1. und 3. Mo im Monat im Rahmen der DruzBar (KüfA und Soli-Cocktailbar)",
+      "time": "20:00"
+    },
+    {
+      "name": "V36",
+      "loc": "7591",
+      "desc": ", 20:00, Montagsphobie: vegane Burger-KüfA und Bar",
+      "time": "20:00"
+    },
+    {
+      "name": "Zielona Gora",
+      "loc": "84",
+      "desc": ", 20:00 vegan (jeden 1. Mo im Monat)",
+      "time": "20:00"
+    },
+    {
+      "name": "Abstand",
+      "loc": "5085",
+      "desc": ", 22:00, Burger (vegan)",
+      "time": "22:00"
+    },
+    {
+      "name": "Sama-Café",
+      "loc": "86",
+      "desc": ", 23:00 vegetarisch/vegan",
+      "time": "23:00"
+    }
+  ],
+  "Dienstag": [
+    {
+      "name": "Tommy-Weisbecker-Haus",
+      "loc": "79",
+      "desc": ", Kiez-Cuisine, 18:00",
+      "time": "18:00"
+    },
+    {
+      "name": "B5355",
+      "loc": "7599",
+      "desc": ", 19:00 jeden 1. + 3. Di im Monat Küche für Alle (vegan mit glutenfreier Alternative)",
+      "time": "19:00"
+    },
+    {
+      "name": "Groni50 (Wedding)",
+      "loc": "3689",
+      "desc": ", 20:00 vegan/veget. (jeden 1. + 3. Di im Monat)",
+      "time": "20:00"
+    },
+    {
+      "name": "KvU (Kirche von Unten)",
+      "loc": "43",
+      "desc": ", 20:00, vegan",
+      "time": "20:00"
+    },
+    {
+      "name": "M29",
+      "loc": "6981",
+      "desc": ", 20:00, vegan (jeden 1. Di im Monat)",
+      "time": "20:00"
+    },
+    {
+      "name": "Schreina47",
+      "loc": "87",
+      "desc": ", 20:00",
+      "time": "20:00"
+    },
+    {
+      "name": "Scherer8",
+      "loc": "3981",
+      "desc": ", 21:00 vegane Küfa und Kino",
+      "time": "21:00"
+    },
+    {
+      "name": "X-B-Liebig",
+      "loc": "83",
+      "desc": ", 21:00 Delikatessen-KüfA (vegan)",
+      "time": "21:00"
+    }
+  ],
+  "Mittwoch": [
+    {
+      "name": "Schokofabrik (Mariannenstr.)",
+      "desc": ", 18:00, Frauen-KüfA im Schoko-Café",
+      "time": "18:00"
+    },
+    {
+      "name": "Rauchhaus",
+      "loc": "4268",
+      "desc": ", 19:05",
+      "time": "19:05"
+    },
+    {
+      "name": "B-Lage",
+      "loc": "7639",
+      "desc": ", 20:00, vegan",
+      "time": "20:00"
+    },
+    {
+      "name": "Kadterschmiede",
+      "loc": "4265",
+      "desc": ", 20:00, vegan",
+      "time": "20:00"
+    },
+    {
+      "name": "K19 Café",
+      "loc": "45",
+      "desc": ", 20:00, Kiezsuppe (leckeres Essen mit Technobeatz)",
+      "time": "20:00"
+    },
+    {
+      "name": "Subversiv",
+      "loc": "75",
+      "desc": ", 20:00, vegan",
+      "time": "20:00"
+    },
+    {
+      "name": "Schreina47",
+      "loc": "87",
+      "desc": ", 20:00",
+      "time": "20:00"
+    },
+    {
+      "name": "Vetomat",
+      "loc": "4331",
+      "desc": ", 20:00",
+      "time": "20:00"
+    },
+    {
+      "name": "KvU (Kirche von Unten)",
+      "loc": "43",
+      "desc": ", 20:30, vegan",
+      "time": "20:30"
+    },
+    {
+      "name": "La Casa",
+      "loc": "1320",
+      "desc": ", 21:00 (vegetarisch/vegan)",
+      "time": "21:00"
+    },
+    {
+      "name": "X-B-Liebig",
+      "loc": "83",
+      "desc": ", 21:00 vegan",
+      "time": "21:00"
+    },
+    {
+      "name": "Sama-Café",
+      "loc": "86",
+      "desc": ", 22:00 vegetarisch/vegan",
+      "time": "22:00"
+    }
+  ],
   "Donnerstag": [
     {
       "name": "FREE e.V.",
@@ -46,6 +225,131 @@
       "loc": "3981",
       "desc": ", 21:00 vegane Küfa und Tresen",
       "time": "21:00"
+    }
+  ],
+  "Freitag": [
+    {
+      "name": "Bödiker 9",
+      "loc": "3428",
+      "desc": ", 19:00, vegan",
+      "time": "19:00"
+    },
+    {
+      "name": "Bandito Rosso",
+      "loc": "15",
+      "desc": ", 20:00 leckeres Drei-Gänge-Menü (vegan/manchmal auch vegetarisch)",
+      "time": "20:00"
+    },
+    {
+      "name": "Lunte",
+      "loc": "48",
+      "desc": ", 20:00, vegetarisch und Fleisch",
+      "time": "20:00"
+    },
+    {
+      "name": "Zielona Gora",
+      "loc": "84",
+      "desc": ", 20:00 vegan (jeden 4. Fr im Monat)",
+      "time": "20:00"
+    },
+    {
+      "name": "La Casa",
+      "loc": "1320",
+      "desc": ", jeden 2.+4. Fr 21:00 (vegetarisch)",
+      "time": "21:00"
+    },
+    {
+      "name": "Rote Insel",
+      "loc": "66",
+      "desc": ", ab 21:00 gibt's Steinofenpizza",
+      "time": "21:00"
+    },
+    {
+      "name": "Villa Kunterbunt",
+      "loc": "2402",
+      "desc": "21:00, vegetarisch",
+      "time": "21:00"
+    },
+    {
+      "name": "Sama-Café",
+      "loc": "86",
+      "desc": ", 22:00 vegetarisch",
+      "time": "22:00"
+    }
+  ],
+  "Samstag": [
+    {
+      "name": "Vetomat",
+      "loc": "4331",
+      "desc": ", 12:00-16:00 jeden 1. + 3. Samstag im Monat Brunch",
+      "time": "12:00"
+    },
+    {
+      "name": "Zielona Gora",
+      "loc": "84",
+      "desc": ", 12:15 Solibrunch (vegan/veget.), jeden 2. Samstag im Monat",
+      "time": "12:15"
+    }
+  ],
+  "Sonntag": [
+    {
+      "name": "Erreichbar",
+      "loc": "26",
+      "desc": ", 12:00 veganer AntiRa-Soli-Brunch",
+      "time": "12:00"
+    },
+    {
+      "name": "Schreina47",
+      "loc": "87",
+      "desc": ", 12:00 Frühstück mit Espresso",
+      "time": "12:00"
+    },
+    {
+      "name": "KvU (Kirche von Unten)",
+      "loc": "46",
+      "desc": ", Frühstück 13:00",
+      "time": "13:00"
+    },
+    {
+      "name": "Projektraum H48 (Neukölln)",
+      "loc": "3484",
+      "desc": ", 13:00 veganer Sonntagsbrunch",
+      "time": "13:00"
+    },
+    {
+      "name": "Scherer8",
+      "loc": "3981",
+      "desc": ", 13:00 jeden 2.+4. Sonntag Vegan-Brunch",
+      "time": "13:00"
+    },
+    {
+      "name": "Supamolly",
+      "loc": "77",
+      "desc": ", Café 16:00-20:00",
+      "time": "16:00"
+    },
+    {
+      "name": "Ausland",
+      "desc": ", Lychenerstr. 60 (P-Berg), 18:00, vegan/vegetarisch (für 1,50 Euro)",
+      "time": "18:00"
+    },
+    {
+      "name": "Café Cralle",
+      "loc": "20",
+      "desc": ", 19:00 vegan/vegetarisch",
+      "time": "19:00"
+    },
+    {
+      "name": "Freudenhaus",
+      "loc": "33",
+      "desc": ", vegetarisch ca. 19:09 (nach der Lindenstr.)",
+      "time": "19:09"
+    },
+    {
+      "name": "Zielona Gora",
+      "loc": "84",
+      "desc": ", vegane KüfA 19:09 (nach Lindenstraße)",
+      "time": "19:09"
     }
   ]
 }

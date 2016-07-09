@@ -7,12 +7,13 @@ mkdir -p data
 rm data/termine.php*
 
 cd data
+rm *
 for i in Monday Tuesday Wednesday Thursday Friday Saturday Sunday; do
     tag=`date -d $i +%d%m%Y`
     wget https://stressfaktor.squat.net/termine.php?tag=$tag
 done;
 wget https://stressfaktor.squat.net/adressen.php
-wget https://stressfaktor.squat.net/kuefa.php?day=all
+wget https://stressfaktor.squat.net/kuefa.php?day=all -O kuefa.php
 cd -
 
 node data-aquisition.js &&

@@ -1,80 +1,5 @@
 [
   {
-    "date": "2016-07-10",
-    "time": "12:00",
-    "address": "Stadion Lehrter Str. 59 (Moabit)",
-    "location": "Stadion Lehrter Str. 59 (Moabit)",
-    "type": "Kundgebung",
-    "desc": "Kundgebung gegen AfD-Aktivist Frank Börner, Vorstandsmitglied und Pressesprecher des SC Union 06. Darüber hinaus ist er Mitarbeiter an der Beuth Hochschule für Technik. Den Verein, wie die Hochschule eint ihr besonderes Engagement für Geflüchtete - Grund genug für uns, sie daran zu erinnern, dass sich soziales Engagement auf der einen Seite und mit RassistInnen zusammenzuarbeiten auf der Anderen, nicht gut vertragen.<br>",
-    "coordinates": [
-      13.3624893,
-      52.5294914
-    ]
-  },
-  {
-    "date": "2016-07-10",
-    "time": "14:00",
-    "address": "Hermannplatz (Neukölln)",
-    "location": "Hermannplatz (Neukölln)",
-    "type": "Demo",
-    "desc": "\"Abschiebungen von Rom*nja stoppen! Nachkommen von Völkermord-Opfern Schutz und Lebensperspektive bieten - Bleiberecht für alle Rom*nja!\" Schutz wird uns aufgrund der Regelung der \"sicheren Herkunftsländer\" pauschal verwehrt, unsere Fluchtgründe werden ignoriert. Dadurch werden wir in die Illegalität gezwungen. Wir fordern ein bedingungsloses Einreise- und uneingeschränktes Bleiberecht für Rom*nja, welches rein aus historischer Verantwortung eigentlich schon längst selbstverständlich sein sollte. Veranstalter*innen: Rom*nja Familien in Berlin und Unterstützer*innen. <a href=\"http://supportromaprotest.blogsport.de\" target=\"_blank\" title=\"Weitere Infos: http://supportromaprotest.blogsport.de\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>",
-    "coordinates": [
-      13.4250533,
-      52.48705169999999
-    ]
-  },
-  {
-    "date": "2016-07-10",
-    "time": "15:00",
-    "free": true,
-    "location": "Kurt-Lade-Klub",
-    "loc": "90",
-    "type": "Mach es selbst Börse",
-    "desc": "Jeden zweiten Sonntag im Monat findet unser Tauschflohmarkt statt. Für alle Standbetreiber ist das Haus ab 14.00 Uhr geöffnet und für alle interessierten Stöberer ab 15.00 Uhr. <a href=\"http://mach-es-selbst-boerse.jimdo.com\" target=\"_blank\" title=\"Weitere Infos: http://mach-es-selbst-boerse.jimdo.com\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
-  },
-  {
-    "date": "2016-07-10",
-    "time": "15:00",
-    "free": true,
-    "location": "Wagenburg Lohmühle",
-    "loc": "4180",
-    "type": "Soli-Café",
-    "desc": "Mit musikalischer Live-Begleitung servieren wir kalte Getränke, wie immer leckeren Kuchen, dazu gibt's noch extra Soli-Pizza und Sushi. Die Kohle wird in den Bau von ein paar Fahrrädern gesteckt, die bald nach Gambia wandern und da den Kindern von dem Dorf Buiba Mandinka den Weg zur Schule (die gerade auch von Soligeld renoviert ist) vereinfachen."
-  },
-  {
-    "date": "2016-07-10",
-    "time": "18:00",
-    "location": "Bunte Kuh",
-    "loc": "1199",
-    "type": "Solikonzert",
-    "desc": "CU Later und Lieblingstape present: Soli Show für das Haus der Jugend - Bunte Kuh e.V.<br>"
-  },
-  {
-    "date": "2016-07-10",
-    "time": "19:30",
-    "free": true,
-    "location": "WB13",
-    "loc": "82",
-    "type": "Kino",
-    "desc": "\"Berlin Calling\" (D 2008) - Der Berliner Elektro-Komponist Martin, genannt DJ Ickarus, tourt mit seiner Managerin und Freundin Mathilde durch die Tanzclubs der Welt. Sie stehen kurz vor ihrer größten Albumveröffentlichung. Als Ickarus jedoch nach einem Auftritt im Drogenrausch in eine Berliner Nervenklinik zu Ärztin Prof. Dr. Paul eingeliefert wird, geraten alle Pläne durcheinander. Mit der Musik von Paul Kalkbrenner.<br>"
-  },
-  {
-    "date": "2016-07-10",
-    "time": "20:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Party",
-    "desc": "SchmuSalon - Die Party mit den Bons."
-  },
-  {
-    "date": "2016-07-10",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im Koma F",
-    "desc": "\"Voidfiller\" (Crust-Punk, Sweden) + \"Nocturnal Scum\" (Stench, Berlin) + \"Crustenunie\" (Crust-Punk / D-Beat, Netherlands)"
-  },
-  {
     "date": "2016-07-09",
     "time": "13:00",
     "address": "Potsdamer Platz",
@@ -193,122 +118,79 @@
     "desc": "\"E.K. Records is Rap Beyond Borders!\" This night is a benefit for E.K. Records, a D.I.Y. self-organized label that focuses on original productions and class conscious radical lyrics. Anarchist and libcom rap brought to you by solidarity and horizontal organizing.<br>"
   },
   {
-    "date": "2016-07-12",
-    "time": "07:15",
-    "address": "Hauptbahnhof",
-    "location": "Hauptbahnhof",
-    "type": "Zugtreffpunkt",
-    "desc": "Gemeinsame Abfahrt von Berlin nach Görlitz: 07.15 Uhr, Gleis 11, Hauptbahnhof. Bitte fahrt zusammen und bewegt euch möglichst nicht allein vor Ort.<br>",
+    "date": "2016-07-10",
+    "time": "12:00",
+    "address": "Stadion Lehrter Str. 59 (Moabit)",
+    "location": "Stadion Lehrter Str. 59 (Moabit)",
+    "type": "Kundgebung",
+    "desc": "Kundgebung gegen AfD-Aktivist Frank Börner, Vorstandsmitglied und Pressesprecher des SC Union 06. Darüber hinaus ist er Mitarbeiter an der Beuth Hochschule für Technik. Den Verein, wie die Hochschule eint ihr besonderes Engagement für Geflüchtete - Grund genug für uns, sie daran zu erinnern, dass sich soziales Engagement auf der einen Seite und mit RassistInnen zusammenzuarbeiten auf der Anderen, nicht gut vertragen.<br>",
     "coordinates": [
-      9.178921299999999,
-      48.78417100000001
+      13.3624893,
+      52.5294914
     ]
   },
   {
-    "date": "2016-07-12",
-    "time": "16:00",
-    "free": true,
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Scharni29 Tresen + Küfa",
-    "desc": "Senegalesische Session. Bei der sommerlichen Hitze wollen wir euch in den schattigen Villagarten einladen und schon nachmittags mit einem gemütlichen Picknick mit den Kindern beginnen. Abends gibt es senegalesischen veganen Djeeb für alle und Musik (Mbalax, HipHop). Picknick ab 16.00 Uhr. Musik und Küfa ab 19.00 Uhr."
+    "date": "2016-07-10",
+    "time": "14:00",
+    "address": "Hermannplatz (Neukölln)",
+    "location": "Hermannplatz (Neukölln)",
+    "type": "Demo",
+    "desc": "\"Abschiebungen von Rom*nja stoppen! Nachkommen von Völkermord-Opfern Schutz und Lebensperspektive bieten - Bleiberecht für alle Rom*nja!\" Schutz wird uns aufgrund der Regelung der \"sicheren Herkunftsländer\" pauschal verwehrt, unsere Fluchtgründe werden ignoriert. Dadurch werden wir in die Illegalität gezwungen. Wir fordern ein bedingungsloses Einreise- und uneingeschränktes Bleiberecht für Rom*nja, welches rein aus historischer Verantwortung eigentlich schon längst selbstverständlich sein sollte. Veranstalter*innen: Rom*nja Familien in Berlin und Unterstützer*innen. <a href=\"http://supportromaprotest.blogsport.de\" target=\"_blank\" title=\"Weitere Infos: http://supportromaprotest.blogsport.de\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>",
+    "coordinates": [
+      13.4250533,
+      52.48705169999999
+    ]
   },
   {
-    "date": "2016-07-12",
+    "date": "2016-07-10",
+    "time": "15:00",
+    "free": true,
+    "location": "Kurt-Lade-Klub",
+    "loc": "90",
+    "type": "Mach es selbst Börse",
+    "desc": "Jeden zweiten Sonntag im Monat findet unser Tauschflohmarkt statt. Für alle Standbetreiber ist das Haus ab 14.00 Uhr geöffnet und für alle interessierten Stöberer ab 15.00 Uhr. <a href=\"http://mach-es-selbst-boerse.jimdo.com\" target=\"_blank\" title=\"Weitere Infos: http://mach-es-selbst-boerse.jimdo.com\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
+  },
+  {
+    "date": "2016-07-10",
+    "time": "15:00",
+    "free": true,
+    "location": "Wagenburg Lohmühle",
+    "loc": "4180",
+    "type": "Soli-Café",
+    "desc": "Mit musikalischer Live-Begleitung servieren wir kalte Getränke, wie immer leckeren Kuchen, dazu gibt's noch extra Soli-Pizza und Sushi. Die Kohle wird in den Bau von ein paar Fahrrädern gesteckt, die bald nach Gambia wandern und da den Kindern von dem Dorf Buiba Mandinka den Weg zur Schule (die gerade auch von Soligeld renoviert ist) vereinfachen."
+  },
+  {
+    "date": "2016-07-10",
     "time": "18:00",
-    "free": true,
-    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "type": "Bunter Abend",
-    "desc": "\"Linke Bewegungen in der Ukraine\". Für diesen Bunten Abend haben wir eine Person eingeladen, die euch was über die aktuelle Situation in der Ukraine berichten wird.<br>",
-    "coordinates": [
-      13.402794,
-      52.528892
-    ]
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Solikonzert",
+    "desc": "CU Later und Lieblingstape present: Soli Show für das Haus der Jugend - Bunte Kuh e.V.<br>"
   },
   {
-    "date": "2016-07-12",
-    "time": "19:00",
+    "date": "2016-07-10",
+    "time": "19:30",
     "free": true,
-    "location": "Bandito Rosso",
-    "loc": "15",
-    "type": "Perspektive-Tresen",
-    "desc": "\"Widerstand in Frankreich\". Seit Monaten finden in Frankreich massive Proteste gegen die geplante \"Arbeitsrechtsreform\" der sozialdemokratischen Regierung statt. Das Gesetz würde gravierende Verschlechterungen für die Lohnabhängigen bedeuten. Der stärkste Gewerkschaftsdachverband CGT fordert die Rücknahme des Gesetzes. Im Juli wird die entscheidende letzte Lesung in der Nationalversammlung stattfinden. Der Widerstand beinhaltet vielfältige Formen wie Großdemonstrationen, Platzbesetzungen, Streiks, Blockaden und militante Aktionen unter anderem gegen Banken. Verschiedene Kämpfe konnten durch die Proteste gegen die \"Reform\" gebündelt werden. Es wurden unter anderem Raffinerien blockiert, der Bahnverkehr wurde bestreikt und Aktivist*innen von Nuit Debout - Aufrecht in der Nacht - haben seit dem 31. März Plätze besetzt und organisieren Vollversammlungen. Nuit debout ist eine heterogene Bewegung, in der auch viele Menschen aktiv sind, die keine antikapitalistische Perspektive einnehmen. Deutlich hat sich die Bewegung jedoch von rassistischen Positionen distanziert. Der Staat reagiert mit polizeilicher Gewalt und zahlreichen Festnahmen. Über 1000 Menschen wurden durch die Polizei verletzt. Der Ausnahmezustand gilt seit dem 14. November 2015 ohne Unterbrechung. Der Journalist und Autor Bernard Schmid wird einen Vortrag zu der aktuellen Protestbewegung halten und über Strategien und Perspektiven des Widerstands sprechen. <a href=\"http://www.perspektive.nostate.net\" target=\"_blank\" title=\"Weitere Infos: http://www.perspektive.nostate.net\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
+    "location": "WB13",
+    "loc": "82",
+    "type": "Kino",
+    "desc": "\"Berlin Calling\" (D 2008) - Der Berliner Elektro-Komponist Martin, genannt DJ Ickarus, tourt mit seiner Managerin und Freundin Mathilde durch die Tanzclubs der Welt. Sie stehen kurz vor ihrer größten Albumveröffentlichung. Als Ickarus jedoch nach einem Auftritt im Drogenrausch in eine Berliner Nervenklinik zu Ärztin Prof. Dr. Paul eingeliefert wird, geraten alle Pläne durcheinander. Mit der Musik von Paul Kalkbrenner.<br>"
   },
   {
-    "date": "2016-07-12",
+    "date": "2016-07-10",
     "time": "20:00",
-    "free": true,
-    "location": "Friedel 54",
-    "loc": "7801",
-    "type": "Essen und Mexiko-Info-Abend",
-    "desc": "Erst Essen, danach Infoveranstaltung zur \"Campaña Nacional en defensa de la Madre Tierra y el territorio\" (de; es + en possible): In Mexiko haben sich 179 Gemeinden, Organisationen, Kollektive und Stadtteile aus unterschiedlichen Regionen des ganzen Landes in einer landesweiten Kampagne zusammengeschlossen, um gemeinsam gegen die Zerstörung, Privatisierung und Ausbeutung der \"Mutter Erde\" durch Bergbau, infrastrukturelle Großprojekte oder Energiegewinnungsprojekte zu kämpfen.<br>"
-  },
-  {
-    "date": "2016-07-12",
-    "time": "20:00",
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Latinokino",
-    "desc": "Mexiko-Veranstaltung zu Chiapas und Oaxaca: Eine Compañera wird uns die neuesten Informationen zur aktuellen Situation dort geben.<br>"
-  },
-  {
-    "date": "2016-07-12",
-    "time": "20:30",
     "location": "Schokoladen",
     "loc": "1131",
-    "type": "Lesung",
-    "desc": "LSD - Liebe Statt Drogen"
-  },
-  {
-    "date": "2016-07-12",
-    "time": "21:25",
-    "address": "Open Air Kino Mitte (Rosenthaler Str. 39)",
-    "location": "Open Air Kino Mitte (Rosenthaler Str. 39)",
-    "type": "Film",
-    "desc": "\"Projekt A\" (engl. version with subtitles)",
-    "coordinates": [
-      14.2052,
-      51.23954
-    ]
-  },
-  {
-    "date": "2016-07-15",
-    "time": "10:00",
-    "address": "Landgericht Berlin (Turmstr. 91, Moabit)",
-    "location": "Landgericht Berlin (Turmstr. 91, Moabit)",
-    "type": "Prozess",
-    "desc": "Rechter Mord in Neukölln? - Prozessbeobachtung (Saal 500 oder 129/218). Eingang über Sicherheitsschleuse links vom regulären Eingang entweder Turmstr. oder Wilsnacker Str.<br>",
-    "coordinates": [
-      13.35201,
-      52.52614
-    ]
-  },
-  {
-    "date": "2016-07-15",
-    "time": "19:00",
-    "free": true,
-    "location": "Rotes Café",
-    "loc": "5867",
     "type": "Party",
-    "desc": "\"Tanzen für den Leistungs-Schein\". Es gibt alles, was man zum Semesterende braucht: Tanzen, Bands, DJ*s, Lagerfeuer, Sterni (viel Sterni), Küfa, Kicker und und und. Solibeiträge über Cocktail-Bar/normale Bar gehen an das No Borders Camp. Line-Up wird die Tage bekannt gegeben - aber es lohnt sich eigentlich jetzt schon. Also; seid nicht dumm - kommt früh rum."
+    "desc": "SchmuSalon - Die Party mit den Bons."
   },
   {
-    "date": "2016-07-15",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "Improvisationstheater mit den Gruppen \"Hot Box\" und \"Guilliotine\", anschließend Publikums-Jam."
-  },
-  {
-    "date": "2016-07-15",
+    "date": "2016-07-10",
     "time": "22:00",
-    "free": true,
-    "location": "Sama-Café",
-    "loc": "86",
-    "type": "Karaoke",
-    "desc": "Jeden 3. Freitag im Monat steht die Bühne für alle Singwütigen frei. Über 400 Lieder erwarten euch zum Mitsingen und Grölen. Zwei Mikros und eine kleine Bühne lassen Platz für einige. Kommt vorbei, lacht und habt Spaß beim Trällern."
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Konzert im Koma F",
+    "desc": "\"Voidfiller\" (Crust-Punk, Sweden) + \"Nocturnal Scum\" (Stench, Berlin) + \"Crustenunie\" (Crust-Punk / D-Beat, Netherlands)"
   },
   {
     "date": "2016-07-11",
@@ -500,6 +382,86 @@
     "desc": "\"Hellbastard\" (Riff-Masters / Ripper-Crust, UK) + \"Gewaltbereit\" (80`s Deutschpunk, Leipzig) + \"Warnoir\" (Wave-Punk, Leipzig) + \"Cave Ne Cadas\" (Crust, France)<br>"
   },
   {
+    "date": "2016-07-12",
+    "time": "07:15",
+    "address": "Hauptbahnhof",
+    "location": "Hauptbahnhof",
+    "type": "Zugtreffpunkt",
+    "desc": "Gemeinsame Abfahrt von Berlin nach Görlitz: 07.15 Uhr, Gleis 11, Hauptbahnhof. Bitte fahrt zusammen und bewegt euch möglichst nicht allein vor Ort.<br>",
+    "coordinates": [
+      9.178921299999999,
+      48.78417100000001
+    ]
+  },
+  {
+    "date": "2016-07-12",
+    "time": "16:00",
+    "free": true,
+    "location": "Villa Kuriosum",
+    "loc": "6787",
+    "type": "Scharni29 Tresen + Küfa",
+    "desc": "Senegalesische Session. Bei der sommerlichen Hitze wollen wir euch in den schattigen Villagarten einladen und schon nachmittags mit einem gemütlichen Picknick mit den Kindern beginnen. Abends gibt es senegalesischen veganen Djeeb für alle und Musik (Mbalax, HipHop). Picknick ab 16.00 Uhr. Musik und Küfa ab 19.00 Uhr."
+  },
+  {
+    "date": "2016-07-12",
+    "time": "18:00",
+    "free": true,
+    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "type": "Bunter Abend",
+    "desc": "\"Linke Bewegungen in der Ukraine\". Für diesen Bunten Abend haben wir eine Person eingeladen, die euch was über die aktuelle Situation in der Ukraine berichten wird.<br>",
+    "coordinates": [
+      13.402794,
+      52.528892
+    ]
+  },
+  {
+    "date": "2016-07-12",
+    "time": "19:00",
+    "free": true,
+    "location": "Bandito Rosso",
+    "loc": "15",
+    "type": "Perspektive-Tresen",
+    "desc": "\"Widerstand in Frankreich\". Seit Monaten finden in Frankreich massive Proteste gegen die geplante \"Arbeitsrechtsreform\" der sozialdemokratischen Regierung statt. Das Gesetz würde gravierende Verschlechterungen für die Lohnabhängigen bedeuten. Der stärkste Gewerkschaftsdachverband CGT fordert die Rücknahme des Gesetzes. Im Juli wird die entscheidende letzte Lesung in der Nationalversammlung stattfinden. Der Widerstand beinhaltet vielfältige Formen wie Großdemonstrationen, Platzbesetzungen, Streiks, Blockaden und militante Aktionen unter anderem gegen Banken. Verschiedene Kämpfe konnten durch die Proteste gegen die \"Reform\" gebündelt werden. Es wurden unter anderem Raffinerien blockiert, der Bahnverkehr wurde bestreikt und Aktivist*innen von Nuit Debout - Aufrecht in der Nacht - haben seit dem 31. März Plätze besetzt und organisieren Vollversammlungen. Nuit debout ist eine heterogene Bewegung, in der auch viele Menschen aktiv sind, die keine antikapitalistische Perspektive einnehmen. Deutlich hat sich die Bewegung jedoch von rassistischen Positionen distanziert. Der Staat reagiert mit polizeilicher Gewalt und zahlreichen Festnahmen. Über 1000 Menschen wurden durch die Polizei verletzt. Der Ausnahmezustand gilt seit dem 14. November 2015 ohne Unterbrechung. Der Journalist und Autor Bernard Schmid wird einen Vortrag zu der aktuellen Protestbewegung halten und über Strategien und Perspektiven des Widerstands sprechen. <a href=\"http://www.perspektive.nostate.net\" target=\"_blank\" title=\"Weitere Infos: http://www.perspektive.nostate.net\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
+  },
+  {
+    "date": "2016-07-12",
+    "time": "20:00",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Essen und Mexiko-Info-Abend",
+    "desc": "Erst Essen, danach Infoveranstaltung zur \"Campaña Nacional en defensa de la Madre Tierra y el territorio\" (de; es + en possible): In Mexiko haben sich 179 Gemeinden, Organisationen, Kollektive und Stadtteile aus unterschiedlichen Regionen des ganzen Landes in einer landesweiten Kampagne zusammengeschlossen, um gemeinsam gegen die Zerstörung, Privatisierung und Ausbeutung der \"Mutter Erde\" durch Bergbau, infrastrukturelle Großprojekte oder Energiegewinnungsprojekte zu kämpfen.<br>"
+  },
+  {
+    "date": "2016-07-12",
+    "time": "20:00",
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Latinokino",
+    "desc": "Mexiko-Veranstaltung zu Chiapas und Oaxaca: Eine Compañera wird uns die neuesten Informationen zur aktuellen Situation dort geben.<br>"
+  },
+  {
+    "date": "2016-07-12",
+    "time": "20:30",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Lesung",
+    "desc": "LSD - Liebe Statt Drogen"
+  },
+  {
+    "date": "2016-07-12",
+    "time": "21:25",
+    "address": "Open Air Kino Mitte (Rosenthaler Str. 39)",
+    "location": "Open Air Kino Mitte (Rosenthaler Str. 39)",
+    "type": "Film",
+    "desc": "\"Projekt A\" (engl. version with subtitles)",
+    "coordinates": [
+      14.2052,
+      51.23954
+    ]
+  },
+  {
     "date": "2016-07-13",
     "time": "18:00",
     "free": true,
@@ -624,5 +586,43 @@
     "loc": "3981",
     "type": "Konzert",
     "desc": "Es spielen: \"Who I am\" (HC aus Angouleme/FR), \"Real Dead\" (HC aus Angouleme/FR) + local support. Eintritt: Spende."
+  },
+  {
+    "date": "2016-07-15",
+    "time": "10:00",
+    "address": "Landgericht Berlin (Turmstr. 91, Moabit)",
+    "location": "Landgericht Berlin (Turmstr. 91, Moabit)",
+    "type": "Prozess",
+    "desc": "Rechter Mord in Neukölln? - Prozessbeobachtung (Saal 500 oder 129/218). Eingang über Sicherheitsschleuse links vom regulären Eingang entweder Turmstr. oder Wilsnacker Str.<br>",
+    "coordinates": [
+      13.35201,
+      52.52614
+    ]
+  },
+  {
+    "date": "2016-07-15",
+    "time": "19:00",
+    "free": true,
+    "location": "Rotes Café",
+    "loc": "5867",
+    "type": "Party",
+    "desc": "\"Tanzen für den Leistungs-Schein\". Es gibt alles, was man zum Semesterende braucht: Tanzen, Bands, DJ*s, Lagerfeuer, Sterni (viel Sterni), Küfa, Kicker und und und. Solibeiträge über Cocktail-Bar/normale Bar gehen an das No Borders Camp. Line-Up wird die Tage bekannt gegeben - aber es lohnt sich eigentlich jetzt schon. Also; seid nicht dumm - kommt früh rum."
+  },
+  {
+    "date": "2016-07-15",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "Improvisationstheater mit den Gruppen \"Hot Box\" und \"Guilliotine\", anschließend Publikums-Jam."
+  },
+  {
+    "date": "2016-07-15",
+    "time": "22:00",
+    "free": true,
+    "location": "Sama-Café",
+    "loc": "86",
+    "type": "Karaoke",
+    "desc": "Jeden 3. Freitag im Monat steht die Bühne für alle Singwütigen frei. Über 400 Lieder erwarten euch zum Mitsingen und Grölen. Zwei Mikros und eine kleine Bühne lassen Platz für einige. Kommt vorbei, lacht und habt Spaß beim Trällern."
   }
 ]
