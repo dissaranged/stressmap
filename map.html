@@ -1,7 +1,5 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8"> 
     <!-- jQuery -->
     <script src="https://code.jquery.com/jquery.js"></script>
     <!-- Mustache -->
@@ -17,18 +15,13 @@
     
     <link href="main.css" rel="stylesheet" />
     <script src="main.js"></script>
-
     <script id="infowindow" type="x-tmpl-mustache">
       <div class="address">
 	{{full_address}}
       </div>
       {{#event}}
       <div class="event">
-	<b style="color:red">{{ date }}@{{ time }}</b> |
-	{{#event.free}}
-	  <b style="color:green">FREE</b> |
-	{{/event.free}}
-	<b>{{ type }}</b> <br/>
+	<b style="color:red">{{ date }}@{{ time }}</b> | <b>{{ type }}</b> <br/>
 	<i> {{{ desc }}} </i>
       </div>
       {{/event}}
@@ -44,22 +37,23 @@
 	{{{info}}}
       </div>
     </script>
-    <title>
-      StressMaps
-    </title>
   </head>
   <body>
     <div id="map" class="dark"></div>
 
     <div id="controls">
-      <div class="stressfaktoren legend">
-	<span>StressFaktoren</span>	<img class="symbol" src="./maki/danger-18.png" alt="location">
+      <center>
+	<a href="https://stressfaktor.squat.net/termine.php">Der StressFaktor</a>
+      </center>
+      <br/>
+      <div class="stressfaktoren legend active">
+	<span>StressFaktoren</span>	<img class="symbol" src="./maki/danger-18.png">
       </div>
-      <div class="events legend active">
-	<span>Events</span>    <img class="symbol" src="./maki/star-18.png" alt="event">
+      <div class="events legend">
+	<span>Events</span>    <img class="symbol" src="./maki/star-18.png">
       </div>
-      <div class="vokues legend active">
-	<span>VoKues</span>	<img class="symbol" src="./maki/restaurant-18.png" alt="vokue">
+      <div class="vokues legend">
+	<span>VoKues</span>	<img class="symbol" src="./maki/restaurant-18.png">
       </div>
 
       <div> 
