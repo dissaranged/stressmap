@@ -54,6 +54,7 @@ function mk_geoJSON(today) {
       }, {})
   } else {
     console.log(today)
+    console.log( data.kuefas[today] )
     var vokues = data.kuefas[today].reduce(
       function(carry, el, index, obj){
 	carry[el.name] ? null : carry[el.name] = [];
