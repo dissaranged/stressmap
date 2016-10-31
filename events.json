@@ -1,226 +1,311 @@
 [
   {
-    "date": "2016-10-23",
-    "time": "13:00",
-    "location": "Scherer8",
-    "loc": "3981",
-    "type": "Veganer Solibrunch",
-    "desc": "Kommt in den Wedding und schlemmt mit uns. Dieses mal gehen eure Spenden an Aaron und Balu, die am 9. Juli auf der Demo \"Rigaer 94 verteidigen - Investor*innenträume platzen lassen\" verhaftet wurden. Während bei Balu der Haftverschonung am 11.10. stattgegeben wurde, sitzt Aaron weiterhin in U-Haft in der JVA Moabit.<br>"
-  },
-  {
-    "date": "2016-10-23",
-    "time": "20:00",
+    "date": "2016-11-03",
+    "time": "18:00",
     "free": true,
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "Postsowjetisches Kino",
-    "desc": "\"Das Herz der Bärin\". Ein abenteuerlustiger, ruheloser junger Mann geht als Jäger nach Sibirien, wo er sich mit Mitgliedern eines Nomadenstammes anfreundet. Bei einem Streifzug in den Wald erschießt er einen Bären. Die zugehörige Bärin begegnet ihm trotzdem friedlich und zutraulich. Im nächsten Winter begegnet er einer stummen, in einen Pelz gehüllten jungen Frau, mit der er eine Zeitlang zusammen lebt..."
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "Politisches Café",
+    "desc": "Film: \"Auf der sicheren Seite\". Die Auflösung der städtischen und sozialen Gemeinschaft schreitet voran: hohe Mauern, Elektrozäune, Videoüberwachung und bewaffnete Sicherheitskräfte sind eine Antwort der höheren Einkommensklassen auf diese Entwicklung. In sogenannten \"Gated Communities\" wird ihnen ein Leben \"auf der sicheren Seite\" garantiert."
   },
   {
-    "date": "2016-10-23",
-    "time": "20:00",
-    "free": true,
-    "location": "K9",
-    "loc": "4347",
-    "type": "Filmabend",
-    "desc": "combatiente zeigt: \"Revolution - politischer Filmeabend\"<br>"
-  },
-  {
-    "date": "2016-10-23",
-    "time": "20:00",
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "Konzert",
-    "desc": "\"Seeds in Barren Fields\" (Anarchist Blackened Crust from Sweden), \"Sign of the Wicked\" (Grindcore from Berlin), \"Grott\" (Death, Crust from Berlin)"
-  },
-  {
-    "date": "2016-10-23",
-    "time": "20:30",
-    "location": "Rote Insel",
-    "loc": "66",
-    "type": "Konzert",
-    "desc": "\"Dzhumagaliev\" (HC, Grindcore aus UK), \"Reality Asylum\" (HC, Punk aus Berlin) und \"JHK\" (Powerviolence aus Potsdam). Eintritt: Spende."
-  },
-  {
-    "date": "2016-10-26",
+    "date": "2016-11-03",
     "time": "19:00",
-    "location": "Baiz",
-    "loc": "2756",
-    "type": "A-Laden Experience",
-    "desc": "\"Libertäre Dezentralität oder ökokapitale Optimierung\". Es gibt sie schon, energieautonome und ökologisch errichtete Dörfer und Städtchen. Aber nicht jeder Rohstoff ist überall verfügbar. Wie vernetzt sich eine freiheitlich ökosozialistische Gesellschaft global? Welche Organisationsformen brauchen wir, um Ökokapital und autoritären Linken zu trotzen?"
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Info night",
+    "desc": "<a href=\"http://www.uhurusolidarity.org\">Uhuru Solidarity Movement</a> (USM) is an international organization of white people under the leadership of the African People's Socialist Party, which has led the anti-colonial, anti-imperialist Uhuru Movement for African Liberation since over 40 years. The goals of the Uhuru movement are to overturn parasitic capitalism and to unite Africa as one nation of African people and erase the imperialist white borders that divided the continent after it's attack by europeans, which looted everything from them. It is the reason why Africans around the world are poor and white people are 22x more wealthy than the average black person.<br>"
   },
   {
-    "date": "2016-10-26",
-    "time": "19:00",
-    "free": true,
-    "location": "Kurt-Lade-Klub",
-    "loc": "90",
-    "type": "Tisch-Tennis-Tresen",
-    "desc": "Alle zwei Wochen öffnet der Kurt Lade Klub seine Pforten und bittet zum Einsatz. Entweder im Einzelspiel gegen jemand anderes, beim Chinesisch gegen alle oder bei einem gekühlten Getränk findet jeder und jede einen Ort für sich, an dem er oder sie sich wohlfühlt. Dabei wird die Bar von immer anderen Ehrenamtlichen des Hauses betreut, so dass es immer eine Überraschung ist, von wem ihr begrüßt werdet."
-  },
-  {
-    "date": "2016-10-26",
+    "date": "2016-11-03",
     "time": "19:00",
     "location": "Schokoladen",
     "loc": "1131",
     "type": "Konzert",
-    "desc": "\"Sicker Man\" (Indie aus Berlin), \"Julia A. Noack\" (Indie aus Berlin) und \"Drunk At Your Wedding\" (Indie aus Berlin)"
+    "desc": "\"Sajjanu\" (Electronic Mad-Rock aus Tokio) und \"mOck\" (Puzzle-Rock aus Berlin)"
   },
   {
-    "date": "2016-10-26",
-    "time": "19:00",
-    "location": "Wagenburg Lohmühle",
-    "loc": "4180",
-    "type": "Kino",
-    "desc": "Food statt aktion. 19.45 Uhr Kurzfilm. 20.00 Uhr \"Swansong\". Eintritt: Spende."
+    "date": "2016-11-03",
+    "time": "20:00",
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Chaos-Kulturbühne Kopfstand",
+    "desc": "Elche laufen auf MDMA über ein Hippiefestival und treffen auf esoterische Skinheads (\"ohm ohm ohm\"). Jürgen K. ist nach seiner Haftstrafe im Berliner Zoo (oder war es der Tierpark?) wieder auf freiem Fuß. Sigmar Gabriel wurde von einem sibirischen Steinbock als Geisel genommen. Anja schreibt Briefe aus Bautzen/Budyin, Martina ist auf der Suche nach sich selbst und die Mafia noch immer auf der Suche nach Jürgen. Und das ist erst der Anfang...<br>"
   },
   {
-    "date": "2016-10-26",
-    "time": "19:30",
+    "date": "2016-11-03",
+    "time": "20:00",
     "free": true,
-    "address": "Café Laika (Emser Str. 131, Neukölln)",
-    "location": "Café Laika (Emser Str. 131, Neukölln)",
-    "type": "Vortrag",
-    "desc": "\"Rassistische Feminismen in historischer Kontinuität\". Vortrag und Diskussion mit Prof. Dr. Nivedita Prasad.<br>",
+    "location": "Café Cralle",
+    "loc": "20",
+    "type": "Hände weg vom Wedding - Tresen",
+    "desc": "Abend der Gefangenensolidarität - Die Prozesse gegen Ali, Cem, Aaron und Balu gehen weiter. Wir informieren über Hintergründe, Prozessbeobachtung, anstehende Termine und die Solidarität mit den Aktivist*innen. Es wird die Möglichkeit geben, auf wunderschönen, anlassbezogenen Postkarten eure kleinen Nachrichten an die Freunde zu versenden. Alle Einnahmen vom Soli-Drink \"Roter Wedding\" gehen direkt an die Gefangenenunterstützung."
+  },
+  {
+    "date": "2016-11-03",
+    "time": "20:00",
+    "location": "Subversiv",
+    "loc": "75",
+    "type": "Sub*optimal Tresen",
+    "desc": "Heute fallen zwar gleich vier Namenstage auf ein Datum (Hubert, Martin, Silvia, Winifred, herzlichen Glückwunsch!) aber bei uns soll es heute um etwas wichtigeres, um nicht zu sagen ernstes gehen. Mit den Einnahmen des heutigen Tresens unterstützen wir Fluchthelfer*innen bei ihrer Arbeit. Darum werden wir uns für euch so richtig ins Zeug legen und mit lecker Cocktails und Knabbereien auffahren - also bringt am besten die ganze Crew mit und lasst es krachen."
+  },
+  {
+    "date": "2016-11-03",
+    "time": "21:00",
+    "free": true,
+    "location": "Fischladen",
+    "loc": "31",
+    "type": "Concert",
+    "desc": "The international conspiracy of anarchist acoustix proudly presents: \"B-Black Ribot Blues\" (Chanson Blues) and \"EFA Supertramp\" (Welsh Folk Punk Grrrl)."
+  },
+  {
+    "date": "2016-11-03",
+    "time": "22:05",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Party",
+    "desc": "Djake Wello Rausch spinning Cheesy 80s Wave Pop Hop Vinyls."
+  },
+  {
+    "date": "2016-11-04",
+    "time": "18:00",
+    "free": true,
+    "location": "FAU-Lokal",
+    "loc": "2440",
+    "type": "Beratung zu Sexismus am Arbeitsplatz",
+    "desc": "Die Gender AG der FAU Berlin bietet einmal monatlich eine spezielle Beratung zu sexualisierter Diskriminierung und Gewalt am Arbeits- und Ausbildungsplatz, beim Kontakt mit Jobcenter/Arbeitsagentur oder in der Gewerkschaft an.<br>"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "18:00",
+    "free": true,
+    "location": "Omayra",
+    "loc": "58",
+    "type": "Lesung",
+    "desc": "\"Die haben gedacht, dass wir das waren.\" MigrantInnen über rechten Terror und Rassismus - mit Kemal Bozay, Bahar Aslan, Özge Pinar Sarp.<br>"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "18:30",
+    "free": true,
+    "location": "Bibliothek der Freien",
+    "loc": "5013",
+    "type": "Vorstellung der Bibliothek",
+    "desc": "Durch einen Mitarbeiter wird allen Interessierten ein Einblick in unser langjähriges Bibliotheksprojekt gegeben: ein Überblick und eine Orientierung über die Bestände von Deutschlands größter libertärer Sammlung (Bücher, Archivalien, Zeitschriften, etc.) und vieles mehr."
+  },
+  {
+    "date": "2016-11-04",
+    "time": "19:00",
+    "free": true,
+    "location": "FAU-Lokal",
+    "loc": "2440",
+    "type": "Info",
+    "desc": "FAU - wie funktioniert das? Wie ist die FAU - lokal in Berlin, bundesweit sowie international - organisiert und vernetzt? Was macht eine syndikalistische Gewerkschaft überhaupt aus? Warum ist die FAU nicht einfach eine weitere Gewerkschaft? Einführung für Neumitglieder und Interessierte. <a href=\"http://berlin.fau.org\">Weitere Infos</a>"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Der Englische Garten\" (Mod-Pop aus München) und \"The Groovy Cellar\" (60's Mod aus Berlin)"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "20:00",
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Konzert",
+    "desc": "Antirep Soli Show with: \"God Mother\" (Grindpowerviolence, HC from Sweden), \"Cedron\" (Hardcore from Sweden), \"Nervöus\" (Screamopunk from Berlin), \"Colored Moth\" (Noise Post HC from Berlin). Eintritt: Spende."
+  },
+  {
+    "date": "2016-11-04",
+    "time": "20:00",
+    "free": true,
+    "location": "Drugstore",
+    "loc": "23",
+    "type": "Nox A Carnival",
+    "desc": "Wir heißen euch zum 4. Mal in Folge herzlich auf unserem dunklen Jahrmarkt willkommen. Der Freitag ist der erste von zwei Tagen, unseres jährlichen Metalfestival. Neben Bands, die euch musikalisch in verschiedenste Welten entführen werden, bieten wir euch auch in diesem Jahr Getränke für einen schmalen Taler, eine Wurfbude und einen Essensstand an. Und da man Halloween nicht oft genug zelebrieren kann, wird es auch wieder eine Schminkbude geben, um eurem Outfit den letzten Schliff zu verpassen.<br>"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "20:00",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Vortrag + Diskussion",
+    "desc": "\"Im Spannungsfeld von Hegemonie und Gegenhegemonien\". Eine anarchistische Lesart von Hegemonietheorien.<br>"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "20:00",
+    "free": true,
+    "location": "Meuterei",
+    "loc": "5269",
+    "type": "Film screening",
+    "desc": "\"Return to Homs\" and Cocktails. The movie is about the syrian citizen, who challenged everything and everyone to demand freedom. It is a movie about war and the pressure of being in a battlefield."
+  },
+  {
+    "date": "2016-11-04",
+    "time": "20:05",
+    "location": "Schreina47",
+    "loc": "87",
+    "type": "Soliparty gegen Repressionsschnack",
+    "desc": "Einladung zur black corner 2007 Soliparty: Kommt vorbei, feiert mit uns und unterstützt somit uns und unsere Freund*Innen. Uff dieser Soliparty sammeln wir für unsere Arbeit mit Geflüchteten und für Anwaltskosten für liebe Mitmenschen die aktuell von Repressionen betroffen sind. Wir feiern lieber als uns unterkriegen zu lassen. Für ausreichend Musik ist gesorgt, wir freuen uns wie Bolle uff euch.<br>"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "21:00",
+    "location": "Clash",
+    "loc": "1950",
+    "type": "Konzert",
+    "desc": "\"Topper\" (Rock'n'Roll-Punkrock aus Schweden) und \"Plastic Propaganda\" (Punk aus Hamburg)"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "21:00",
+    "location": "K19 Café",
+    "loc": "45",
+    "type": "Konzert",
+    "desc": "\"Nakam\" (HC, Punk aus Tübingen), \"Ravage Fix\" (HC, Punk aus Konstanz), \"Noj\" (Noiserock aus Berlin). Doors 20h, start 21h on time."
+  },
+  {
+    "date": "2016-11-04",
+    "time": "21:00",
+    "location": "Tommy-Weisbecker-Haus",
+    "loc": "79",
+    "type": "Offbeat Xplosion",
+    "desc": "Diesmal gibt's Ska von der Küste, der euer Tanzbein schwingen lässt. \"Jonkanoo\" (Offbeat-Riddim aus Hamburg), \"Plastic Skanksters\" (Ska aus Kiel). Danach noch Reggae-Xplosion in der Linie 1."
+  },
+  {
+    "date": "2016-11-04",
+    "time": "21:00",
+    "location": "X-B-Liebig",
+    "loc": "83",
+    "type": "Dat Festival Solishow #02",
+    "desc": "Second evening of solishows for the Dat Festival collective, this time with: \")))))(((((\" (disorchestrated guitar, reeds, voice and electronics), \"Altaj\" (guitar, electronics ambient, drone), \"Du Champ\" (ambient symphony), \"Analytical Engine\" (experimental pop drone) and \"Thiebault IMM\" (noise-jazz-punk-whatever). In between acts, DJ set with \"NIKO\". No discriminations allowed. Eintritt: Spende."
+  },
+  {
+    "date": "2016-11-04",
+    "time": "21:30",
+    "location": "Kastanienkeller",
+    "loc": "41",
+    "type": "Konzert",
+    "desc": "\"Telemark\" (Post-Punk, Noiserock aus Duisburg), \"Molde\" (Noise-Pop aus Berlin/Leipzig) und \"Dwarphs\" (Frickel-Post-Punk aus Berlin)."
+  },
+  {
+    "date": "2016-11-04",
+    "time": "21:30",
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "Konzert",
+    "desc": "\"Spartan Allstars\" (Rocksteady, Reggae, Ska)"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "22:00",
+    "location": "Køpi",
+    "loc": "43",
+    "type": "Vortrag &amp; Solikonzert im AGH",
+    "desc": "IN.FLAMMEN baut zurzeit ein politisches Hip-Hop-Netzwerk zwischen Griechenland und Deutschland auf. Im Fokus stehen Selbstorganisierung, soziale Kämpfe und Solidarität. Soli für die Stromversorgung eines Squats in Athen.<br>"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "22:00",
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Soliparty",
+    "desc": "\"Junkerland in Bauernhand!\" - Mit der Soliparty unterstützen wir indigene Bewegungen in Honduras, die ihr Gemeindeland und ihre Lebensgrundlagen gegen privatwirtschaftliche Interessen verteidigen; Menschen die durch staatliche und staatlich geduldete Gewalt extrem bedroht sind. CADEHO (Menschenrechtskette Honduras) setzt sich seit mehr als 5 Jahren für die Bekanntmachung von Menschenrechtsverletzungen in Honduras ein und unterstützt die sozialen Bewegungen im Land.<br>"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "22:00",
+    "location": "ZGK",
+    "loc": "5980",
+    "type": "Konzert + Party",
+    "desc": "\"Night in the closet\". On Stage: \"Phal:Angst\" (Ambient Dark Industial Post Rock aus Wien).<br>"
+  },
+  {
+    "date": "2016-11-04",
+    "time": "23:55",
+    "address": "about blank (Markgrafendamm 24c)",
+    "location": "about blank (Markgrafendamm 24c)",
+    "type": "Soliparty",
+    "desc": "\"Love techno - hate germany\". Am 4. November steigt unsere letzte Sause in diesem Jahr im wunderbaren ://about blank am Ostkreuz. Diesmal feiern wir für KommRin - die Intitiative hat zum Ziel, Wohnraum für geflüchtete Menschen zu finanzieren und Akteure zu vernetzen. U.a. mit: La Fraicheur (Friends With Benefits, Leonizer Records), Eluize (Night Tide), A.N.I.C.E. (Casual Lab, DIS Music), Akmê (://about blank), Tsorn (a friend in need - live-), und Marlene Mor (M_M_).",
     "coordinates": [
-      13.4380257,
-      52.4692679
+      -119.0446611,
+      50.3565104
     ]
   },
   {
-    "date": "2016-10-26",
-    "time": "21:00",
-    "free": true,
-    "location": "Kadterschmiede",
-    "loc": "4265",
-    "type": "Diskussion um Verhandlungen?",
-    "desc": "Es rumoren Gerüchte, Verfahren wurden verhandelt und stehen aus. Vor allem aber sind Freiräume verteidigt worden. Wir wollen euch einladen um zusammen über Strategie und Taktik zu diskutieren. Im Zentrum unsrer Diskussion soll dabei die Frage um und nach Verhandlungen stehen. Dabei geht es jedoch nicht ausschließlich um die Rigaer 94 sondern ganz allgemein um die Frage wie verhandelbar sind unsere Projekte? Die Aktualität dieser bereits in den 90ern geführte Diskussion zeigen die Auseinandersetzungen um Friedel54, M99 und Rigaer94 in Berlin ganz aktuell.<br>"
-  },
-  {
-    "date": "2016-10-26",
-    "time": "21:00",
-    "location": "Rauchhaus",
-    "loc": "4268",
-    "type": "Konzert",
-    "desc": "Sleaze Shows presents: Antira-Solishow with \"Hedger\", \"Watching Tides\", \"Béatrice\". Antira-Solishow for the \"Solizimmergruppe\" in Berlin with a mixture of emo, punk and hardcore bands from the city and Küfa by the Rauchhaus Crew. Eintritt: Spende."
-  },
-  {
-    "date": "2016-10-25",
-    "time": "18:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Vorbereitungstreffen für den nächsten Köpigeburtstag vom 23.2.-26.2.2017",
-    "desc": "Interessierte Gruppen und Einzelpersonen willkommen, Ideen und Vorschläge mitbringen (Workshops, Infoveranstaltung, Partykonzept, Ausstellung,...) - im 3.Stock links - 20Uhr Vokü im AGH"
-  },
-  {
-    "date": "2016-10-25",
-    "time": "18:00",
-    "free": true,
+    "date": "2016-10-31",
+    "time": "16:00",
     "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
     "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
-    "type": "Bunter Abend",
-    "desc": "\"Feministische und antirassistische Perspektiven auf Gewalt, Pazifismus und Militanz\".<br>",
+    "type": "Antikriegscafé",
+    "desc": "Offener Treffpunkt für Antimilitarist_innen. Ab 18.00 Uhr wollen wir über das KSK (Komando Spezialkräfte) der Bundeswehr informieren.",
     "coordinates": [
       13.402794,
       52.528892
     ]
   },
   {
-    "date": "2016-10-25",
-    "time": "19:00",
-    "free": true,
-    "location": "Café Morgenrot",
-    "loc": "2167",
-    "type": "Anarchistischer Stammtisch",
-    "desc": "Lust auf einen lockeren Abend des Diskutierens, Philosophierens, des Kennen lernens und des Austausches? Hast du Themen - politisch, persönlich oder beides - die du gerne mit anderen diskutieren (oder besprechen) möchtest? Dann komm zu unserem Stammtisch, das anarchistische Kaffeekränzchen freut sich auf dich!"
-  },
-  {
-    "date": "2016-10-25",
-    "time": "19:30",
-    "free": true,
-    "location": "Erreichbar",
-    "loc": "26",
-    "type": "Robin-Wood-Tresen",
-    "desc": "Ab 20.00 Uhr: gesellschaftliche Transformation jenseits des Reformismus, aber wie? - Kurzinputs und offene Diskussion."
-  },
-  {
-    "date": "2016-10-25",
-    "time": "19:30",
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Latinokino",
-    "desc": "Film zu Kolumbien. Vorher: Weltküche. Organisiert von <a href=\"http://www.latinokinony59.blogspot.de\">Latinokino NY59</a>. Eintritt: Spende."
-  },
-  {
-    "date": "2016-10-25",
-    "time": "20:00",
-    "free": true,
-    "location": "Lunte",
-    "loc": "48",
-    "type": "Infoveranstaltung",
-    "desc": "\"Indigene in den USA und der lange Kampf um Freiheit für Leonard Peltier\".<br>"
-  },
-  {
-    "date": "2016-10-25",
-    "time": "20:30",
-    "free": true,
-    "location": "M29",
-    "loc": "6981",
-    "type": "Raterepublik",
-    "desc": "Komm mit mir in die Raterepublik. Du bist herzlich eingeladen zum allmonatlichen Vosifa-Kneipenquiz. Gehirnzellendisko und kreatives Pöbeln zu einem kühlen Getränk gibt es ab 20.30 Uhr."
-  },
-  {
-    "date": "2016-10-25",
-    "time": "20:30",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Lesung",
-    "desc": "LSD - Liebe Statt Drogen"
-  },
-  {
-    "date": "2016-10-25",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im Koma F",
-    "desc": "\"Total Arse\" (Crust-Hardcore/Basque Country) + \"Violent Threat\" (BNew Breed Of Berlin Hardcore)"
-  },
-  {
-    "date": "2016-10-24",
+    "date": "2016-10-31",
     "time": "16:00",
     "free": true,
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Antikriegscafé",
-    "desc": "Wir treffen uns bei Kaffee und Keksen, um uns über dies und das auszutauschen. Heute wollen wir über aktuelle Themen sprechen."
+    "location": "Sama-Café",
+    "loc": "86",
+    "type": "Halloween",
+    "desc": "Schöne Kostüme, bereit für den \"Süßes sonst gibt's Saures\"-Raubzug? Es fehlt nur noch die richtige Bemalung? Wir wollen eure Kinder schminken: Hexen, Geister, Vampire oder doch Prinzessin und Löwe, ab 16.00 Uhr im Sama. Ab 20.00 Uhr auch für die großen Kinder. Happy Halloween im Sama wie jedes Jahr (kostümiert = Überraschung)."
   },
   {
-    "date": "2016-10-24",
+    "date": "2016-10-31",
+    "time": "17:00",
+    "location": "Wagenburg Lohmühle",
+    "loc": "4180",
+    "type": "Halloween Party",
+    "desc": "It's a Monday... Don't be afraid... Or be very afraid... It's a spooky Halloween evening at Lohmühle in solidarity with CRIBS International.<br>"
+  },
+  {
+    "date": "2016-10-31",
     "time": "18:00",
     "free": true,
-    "location": "FAU-Lokal",
-    "loc": "2440",
-    "type": "Mieter*innenberatung der FAU Berlin",
-    "desc": "Offene Mietrechtsberatung in Kooperation mit Rechtsanwältin Carola Handwerg. Immer am 4. Montag im Monat."
+    "address": "Kunsthaus KuLe (Auguststr. 10)",
+    "location": "Kunsthaus KuLe (Auguststr. 10)",
+    "type": "Finissage",
+    "desc": "Black Berlin Biennale 2.0, No Amnesty on Genocide Deutschland.<br>",
+    "coordinates": [
+      19.0374849,
+      51.04516169999999
+    ]
   },
   {
-    "date": "2016-10-24",
+    "date": "2016-10-31",
+    "time": "18:00",
+    "free": true,
+    "address": "U-Bhf. Wilmersdorfer Straße",
+    "location": "U-Bhf. Wilmersdorfer Straße",
+    "type": "Video-Installation",
+    "desc": "Video-Installation im Gedenken an die von dem NSU Ermordeten. Die Installation zeigt eine Serie von Lichtprojektionen zu den begangenen Ermittlungsfehlern, dem offen praktizierten Rassismus, sowie der unfassbaren Vorgehensweise der Behörden und verknüpft diese mit den begangenen Morden. Die Lichtinstallationen wurden in belebten Gegenden realisiert. Zur Aktionswoche werden die Lichtinstallationen um eine Tonspur aus Zitaten,  Reden und Ausschnitten aus Interviews mit den Opfern erweitert. Das Gedenken wird bewusst sichtbar, hörbar und somit auch spürbar in den öffentlichen Raum getragen. Ort: U7 Wilmersdorfer Str., Ausgang Pestalozzistr., hinter der Baustelle."
+  },
+  {
+    "date": "2016-10-31",
     "time": "19:00",
-    "location": "JUP",
-    "loc": "970",
+    "location": "Rote Insel",
+    "loc": "66",
     "type": "Konzert",
-    "desc": "Antirep-soli show with \"Dawn Ray'd\" (Anarchist Black Metal from UK), \"Christofer\" (Anarchist Crust from Berlin). The show has to be done at 10 pm so please be on time. Eintritt: Spende."
+    "desc": "Noiserock-Konzert mit \"Dead Kittens\" (Berlin) und \"30,000 Monkies\" (Belgium). Ab 19.00 Uhr Küfa, ab 20.30 Uhr Konzert. Eintritt: Free donation."
   },
   {
-    "date": "2016-10-24",
+    "date": "2016-10-31",
     "time": "19:00",
     "location": "Schokoladen",
     "loc": "1131",
     "type": "Konzert",
-    "desc": "\"Besides\" (Post-Rock aus Brzeszcze/Poland) und \"Jardín de la Croix\" (Math-, Post-Rock aus Madrid)"
+    "desc": "\"Hildegard von Binge Drinking\" (Power-Kraut n Knertz-Rap aus Würzburg) und \"Kuoko\" (Electronic Synthpop aus St. Pauli)"
   },
   {
-    "date": "2016-10-24",
+    "date": "2016-10-31",
     "time": "20:00",
     "free": true,
     "location": "K19 Café",
@@ -229,299 +314,392 @@
     "desc": "Weltküche mit entwicklungspolitischem Nachtisch<br>"
   },
   {
-    "date": "2016-10-24",
+    "date": "2016-10-31",
     "time": "20:00",
-    "location": "New Yorck im Bethanien",
-    "loc": "3944",
-    "type": "Anarchistisches Infocafé",
-    "desc": "Infoveranstaltung zum PKK-Prozess in Berlin. Vor dem Berliner Kammergericht läuft seit dem 11.10.2016 ein Prozess gegen Ali Hidir Dogan. Ihm wird vorgeworfen, Mitglied in der \"ausländischen terroristischen Vereinigung\" namens PKK zu sein. Konkrete Straftaten werden ihm allerdings nicht vorgeworfen. Der Prozess reiht sich ein in eine Vielzahl von Strafverfahren gegen kurdische Aktivst*innen. Die Repression hat zufällig seit dem Flüchtlingsdeal zwischen Merkel und Erdogan stark zugenommen. Wir wollen mit einer Prozessbeobachterin und einem der Anwälte über das Verfahren und die Hintergründe sprechen.<br>"
+    "location": "Kadterschmiede",
+    "loc": "4265",
+    "type": "Soli-Küfa für Aaron und Balu",
+    "desc": "20.00 Uhr lecker Essen<br>"
   },
   {
-    "date": "2016-10-24",
+    "date": "2016-10-31",
+    "time": "20:00",
+    "free": true,
+    "location": "Lunte",
+    "loc": "48",
+    "type": "Film",
+    "desc": "\"Abgereicherter\" Todesstaub - Uranmunition und die Folgen wird dargeboten von der AnarchoSyndikalistischen Initiative Berlin"
+  },
+  {
+    "date": "2016-10-31",
     "time": "21:00",
     "free": true,
     "location": "Køpi",
     "loc": "43",
     "type": "Videokino Peliculoso",
-    "desc": "\"Jawbreaker \" USA 1999, R.: Darren Stein, D: Pam Grier, Judy Greer, Carol Kane, Rebecca Gayeheart, Julie Benz, Rose McGowan<br>"
+    "desc": "\"Oktober\" UdSSR 1928, R.: Sergei Eisenstein, Grigori Alexandrow, D:Wassili Nikandrow, Nikolai Popow, Boris Liwanow, Nikolai Podwoiski<br>"
   },
   {
-    "date": "2016-10-28",
-    "time": "19:00",
+    "date": "2016-11-01",
+    "time": "11:00",
+    "address": "Amtsgericht Tiergarten (Turmstr. 91, Moabit)",
+    "location": "Amtsgericht Tiergarten (Turmstr. 91, Moabit)",
+    "type": "Prozess",
+    "desc": "Gemeinsam solidarisch zum Prozess - Balu beim 3. Prozesstag unterstützen!<br>",
+    "coordinates": [
+      13.35201,
+      52.52614
+    ]
+  },
+  {
+    "date": "2016-11-01",
+    "time": "17:00",
     "free": true,
-    "location": "f.a.q.",
-    "loc": "5379",
-    "type": "Mad Tresen",
-    "desc": "Da sein dürfen, irgendwie, so oder so. Mit und ohne Kraft. Mit und ohne Angst. Mit Verletzlichkeit und Wut, mit großen Ideen und mit jeder Menge Unsicherheit. Und biertrinkend, saftschlürfend, quatschend, kichernd, schweigend. Alleine_Zusammen. Das Mad Tresen Geuerfeuer glüht gütlichsterweise immer am 4. Freitag im Monat. Wir* wollen einen Raum für ver_rückte Bewegungen schaffen, einen Ort, möglichst frei von Angst irgendwie komisch oder falsch zu sein. Für alle, die psychiatrieerfahren, psychiatriebetroffen, krisenhaft, queer, gestört*, seltsam, traumatisiert*, wunderlich, sozial isoliert, depressiv*, manisch*, waren oder sind, gemacht werden oder sich fühlen, nicht mehr oder viel öfter sein wollen. Aus Erfahrung wissen wir* auch: Das scheint manchmal leichter gesagt als getan - so viele unterschiedlichste Menschen mit all ihren legitimen Bedürfnissen, Stimmungen und Erwartungen an einem Abend. Uns ist es sehr wichtig, dass alle dabei genau den Raum bekommen, den sie möchten und brauchen: Dies lässt sich nicht herbeizaubern, sondern ist ein Prozess, den wir* durch Reflexion und Kommunikation mit allen, die kommen, immer wieder neu gestalten möchten. Wir verstehen uns ausdrücklich als Mitmach-Gruppe: Helf uns gerne dabei,den Mad Tresen weiterzuentwickeln! Aus unserer offenen Orga-Gruppe ist immer eine*r vor Ort. Fühl dich ermutigt, uns mit allen noch so ver_rückten Ideen, mit Anregungen und mit Kritik anzusprechen. Übrigens: Als Schmankerl gibt es beim Mad Tresen fast immer Oer-Erkenschwick gegen Spende. Come to where the Geuerfeuer flavor is: Die Räumlichkeiten sind mit Rollstuhl begehbar und rauchfrei."
+    "address": "Plattenladen (Sonnenallee 137)",
+    "location": "Plattenladen (Sonnenallee 137)",
+    "type": "Fahrrad-Selbsthilfe-Werkstatt für FLIT*",
+    "desc": "Es ist wieder soweit: Der erste Dienstag im Monat steht an und damit auch die offene Fahrrad-Selbsthilfe-Werkstatt für FLIT* im Plattenladen. Von 17.00-21.00 Uhr kann, bei Bedarf mit Unterstützung von anderen Radliebhaber*innen, gebastelt, geschraubt, geflext, geschweißt, geflucht, geflickt, getrunken, gesnackt, geschnackt und Juke-Box gehört werden. Sonnenallee 137, Neukölln @ Plattenladen (einfach klingeln). Alle außer cis-Männer (also Männer, die ihr Leben ausschließlich als Mann gelebt haben und leben).",
+    "coordinates": [
+      13.4446008,
+      52.4796775
+    ]
   },
   {
-    "date": "2016-10-28",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Duck Duck Grey Duck\" (Garage, Psych-Soul, Rock aus Genf und Ohio) und \"Voodoo Beach\" (Krautrock, Psychedelica aus Berlin)"
-  },
-  {
-    "date": "2016-10-28",
-    "time": "19:30",
-    "location": "Kurt-Lade-Klub",
-    "loc": "90",
-    "type": "Kinonacht",
-    "desc": "\"Zombie\". Wie jedes Jahr bereiten wir euch auf Halloween vor und dieses Mal widmen wir uns den wandelnden Untoten. Dafür werden wir \"Dawn of the Dead\", \"Zombieland\" und \"World War Z\" auf unserer Leinwand präsentieren. Also kommt vorbei, lasst euch gruseln und drückt euch vor Furcht in unsere schönen Sofas."
-  },
-  {
-    "date": "2016-10-28",
-    "time": "20:00",
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Tintenwolf-Anti-Repressions-Soli",
-    "desc": "Wegen einer angeblichen Beamtenbeleidigung (\"Faschoschweine\") während einer NoBärgida-Veranstaltung werden Soligelder zur Deckung der Prozesskosten benötigt. Deshalb gibt es eine Soliparty im Rahmen des Internationalistischen Abends im Zielona Góra. Mit dabei sind Yok (Kleinkunstpunk), Torkel T. (Zeckenrap) und Sahara B. (Texte über die Absurdität des Alltäglichen). Es gibt Küfa und Solidrinks. Eintritt: Spende. <a href=\"http://tintenwolf.mrkeks.net/live-in-farbe/2016-4/2016-10-28-tintenwolf-anti-repressions-soli/\" target=\"_blank\" title=\"Weitere Infos: http://tintenwolf.mrkeks.net/live-in-farbe/2016-4/2016-10-28-tintenwolf-anti-repressions-soli/\"><img src=\"images/infoicon.gif\" width=\"15\" height=\"15\" border=\"0\" align=\"top\"></a>"
-  },
-  {
-    "date": "2016-10-28",
-    "time": "21:00",
-    "location": "Rauchhaus",
-    "loc": "4268",
-    "type": "Anti-Rep-Soliparty",
-    "desc": "Hip Hop und DnB mit Sara Hebe (Cumbia, Hip Hop), Dr. Wald &amp; Prof. Rama (Experimental Rap) - und danach Soak (DnB), Avid Ail (DnB) und Big Breeze (hard DnB)."
-  },
-  {
-    "date": "2016-10-28",
-    "time": "21:00",
-    "location": "Tommy-Weisbecker-Haus",
-    "loc": "79",
-    "type": "Konzert",
-    "desc": "\"Screw the Carpet\" (No Jazz aus Berlin), \"Rockbeton and the Mörtels\" (Rock aus Marktredwitz), \"The Restless Liver\" (Garage-Rock aus Berlin)"
-  },
-  {
-    "date": "2016-10-28",
-    "time": "21:30",
-    "location": "Scherer8",
-    "loc": "3981",
-    "type": "Konzert",
-    "desc": "\"Mock\" (Mathrock aus Berlin), \"Antikaroshi\" (Wave Punk aus Potsdam), \"Halbtal\" (Postkraut aus Berlin)."
-  },
-  {
-    "date": "2016-10-28",
-    "time": "21:30",
-    "location": "Supamolly",
-    "loc": "77",
-    "type": "Konzert",
-    "desc": "\"Paprika Korps\" (Heavy Dub from PL) und anschl. DJ."
-  },
-  {
-    "date": "2016-10-28",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im AGH",
-    "desc": "\"Regret\" (PunkHC, Bristol, U.K.) - \"This Ends Here\" (RawPunk, Bristol, U.K.)"
-  },
-  {
-    "date": "2016-10-28",
-    "time": "22:00",
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "Multisexueller Abend",
-    "desc": "\"Alte Perlen neu gefädelt\". Unsere Tunten servieren genußvoll kalten Sekt und Knabbereien. Dazu wie immer emanzipatorische Kommentare zum Zeitgeschehen."
-  },
-  {
-    "date": "2016-10-27",
+    "date": "2016-11-01",
     "time": "18:00",
     "free": true,
-    "location": "Zielona Gora",
-    "loc": "84",
-    "type": "Politisches Café",
-    "desc": "Film: \"Four Lions\". Vier Junge im englischen Sheffield lebende Muslime entscheiden sich, Selbstmordattentäter zu werden. Zwei Mitglieder der Gruppe, Omar und Waj, begeben sich in ein Terrorlager nach Pakistan. Die anderen Beiden sind der zum Islam konvertierte Barry und Hassan, welcher versucht, Krähen zu Bombenkurieren zu trainieren. Gemeinsam wollen sie sich als Suizidbomber beim London Marathon in die Luft jagen. Leichter gesagt als getan, wenn man erstens keinen Sprengstoff und zweitens keine Ahnung hat."
-  },
-  {
-    "date": "2016-10-27",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Nyos\" (Heavy Instru-Doom, Noise aus Finland) und \"100000 Tonnen Kruppstahl\" (Doom, Grind, Noise, Thrash aus Berlin)"
-  },
-  {
-    "date": "2016-10-27",
-    "time": "20:00",
-    "free": true,
-    "location": "Mehringhof",
-    "loc": "50",
-    "type": "Treffen",
-    "desc": "Kälteschutz im Mehringhof - Saisonstart und Treffen für neue Mithelfende. Es wird kalt! Deshalb bietet der Kälteschutz im Mehringhof auch dieses Jahr wieder einmal in der Woche bis zu 25 Menschen Schlafplätze, Essen, nette Atmosphäre, Respekt und Hilfe. Und dafür brauchen wir auch diese Saison wieder neue Engagierte - denn wir sind ein komplett selbstorganisierter Haufen Ehrenamtlicher, fern von Staat, Kirche, deren Auflagen und Almosen.<br>"
-  },
-  {
-    "date": "2016-10-27",
-    "time": "21:00",
-    "free": true,
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Videokino Peliculoso",
-    "desc": "\"Stranger Things\" Episode 5+6, USA 2016, Idee: Matt u. Ross Duffer, D: Winona Ryder, Matthew Modine, David Harbour<br>"
-  },
-  {
-    "date": "2016-10-27",
-    "time": "22:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Konzert im Koma F",
-    "desc": "\"Scab Eater\" (Raging Fuzzy Hardcore Punk/Melbourne, Australia) + \"Fear Of Extinction\" (Crust/Czech) + \"Angry Sometimes\" (HxC Punk/France)"
-  },
-  {
-    "date": "2016-10-29",
-    "time": "11:00",
-    "free": true,
-    "address": "Rudower Str. 51 (gegenüber Krankenhaus Neukölln)",
-    "location": "Rudower Str. 51 (gegenüber Krankenhaus Neukölln)",
-    "type": "Kundgebung",
-    "desc": "\"Für einen Gedenkort Burak Bektaş - Nie wieder Nazikundgebungen an der Todesstelle von Burak!\"<br>",
+    "address": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "location": "Linienstr. 206 (nähe Rosenthaler Platz)",
+    "type": "Bunter Abend",
+    "desc": "Wir möchten mit euch den Welt Vegan Tag feiern. Wir wollen uns, anhand eines Vortrags, kritisch mit verschiedenen Strategien der Vegan- und Tierbefreiungsbewegung auseinandersetzen, darüber diskutieren und Ideen entwickeln, wie eine emanzipatorische Tierbefreiungsbewegung agieren kann. Außerdem wird es ein veganes Potluck geben - wir würden uns daher freuen wenn ihr was veganes zu Essen mitbringt, werden aber selbst auch einige Leckereien zur Verfügung stellen. <br>",
     "coordinates": [
-      13.4445071,
-      52.4407709
+      13.402794,
+      52.528892
     ]
   },
   {
-    "date": "2016-10-29",
-    "time": "15:00",
-    "location": "Køpi",
-    "loc": "43",
-    "type": "Spooky Kids Party",
-    "desc": "Halloween Party für die Kleineren mit Grusellauf durch die dunklen Katakomben der Burg Köpi. Lasst euch die Zehnnägel nach oben rollen bei einer freaky Spooky Show oder bekommt Gänsehaut beim Gruselfilm. Dazu gibt es etwas für den Monsterbauch und Würmchenpunsch. Kommt verkleidet und lasst euch von uns die passende Schminke machen. Oder ihr macht euch selbst eine Horrormaske in unserer Bastelecke."
+    "date": "2016-11-01",
+    "time": "18:00",
+    "free": true,
+    "address": "U-Bahnhof Kleistpark",
+    "location": "U-Bahnhof Kleistpark",
+    "type": "Demo",
+    "desc": "\"Welt Kobani Tag - Überall ist Rojava, überall ist Widerstand!\"<br>"
   },
   {
-    "date": "2016-10-29",
-    "time": "16:00",
-    "address": "Wagenplatz Rummelplatz (Gürtelstr. 26)",
-    "location": "Wagenplatz Rummelplatz (Gürtelstr. 26)",
-    "type": "Platzfest",
-    "desc": "Wagenburg Rummelplatz feiert! Ab 16.00 Uhr gibt es Kaffee, Kuchen und Feuertonne. Um 18.00 Uhr Hip Hop Live Acts: Torkel T (B), Meezi (B) und Lady Lazy (B), danach DJ Astrophat. Zwischendrin oder so Ultimate Wrestling: Blood Dinner (HB). In der Waschbar startet ab 21.00 Uhr die Punkrocksause mit \"Zerum\" (Crust aus Berlin), \"Disconfect\" (D-Beat aus Bremen) und ein Überraschungsact. Danach DJanes. Wie immer gibt es leckeres Essen, unglaubliche Cocktails und ne Chilloutarea. No place for bullshit. Eintritt: Spende.",
+    "date": "2016-11-01",
+    "time": "19:00",
+    "free": true,
+    "address": "Theater X (Wiclefstr. 32)",
+    "location": "Theater X (Wiclefstr. 32)",
+    "type": "Theater/Diskussion",
+    "desc": "\"commUNITY gegen Rechts\" (Theater in Bewegung - Bewegung ins Theater - Theater X Ensemble)<br>",
     "coordinates": [
-      13.473015,
-      52.50895999999999
+      -122.6718547,
+      45.5222244
     ]
   },
   {
-    "date": "2016-10-29",
-    "time": "19:00",
-    "location": "Friedel 54",
-    "loc": "7801",
-    "type": "Party gegen Verdrängung",
-    "desc": "Die dubiose Luxemburger Briefkastenfirma Pinehill S.a.r.l. bedroht die Friedel54 mit einer Räumungsklage. Wir werden uns wehren und die Räume weiterhin nutzen. \"Besitz statt Eigentum! Pfeffi statt Pinehill!\" Musik und Programm ist bis jetzt geheim - kommen lohnt sich auf jeden Fall! <a href=\"http://www.friedel54.noblogs.org\">Weitere Infos</a>. Eintritt: Spende."
-  },
-  {
-    "date": "2016-10-29",
-    "time": "19:00",
-    "location": "Schokoladen",
-    "loc": "1131",
-    "type": "Konzert",
-    "desc": "\"Kitshickers\" (Heavy Postrock aus Luxemburg) und \"The Majestic Unicorns from Hell\" (Postmetal aus Luxemburg)"
-  },
-  {
-    "date": "2016-10-29",
-    "time": "19:30",
+    "date": "2016-11-01",
+    "time": "19:15",
     "free": true,
     "location": "B-Lage",
     "loc": "7639",
     "type": "Vortrag",
-    "desc": "Comic \"Flucht zum Goldenen Berg\". Vortrag und Vorstellung einer Graphic Novel zum Thema Immigration von Chines_innen nach Nordamerika, von ihrer Diskriminierung und Ausbeutung und ihrem Widerstand. Mit Comicautor David Wong und Comic-Übersetzer_in Katja Anton Cronauer. (auf Englisch und Deutsch; mit Slideshow)<br>"
+    "desc": "\"Was geht den Staat dein Rausch an?\" In der Reihe agitare bene der Gruppe <a href=\"http://www.gegner.in\">jimmy boyle</a>: Im Betäubungsmittelgesetz beschränkt der Staat den Verkehr mit allerlei psychotropen Substanzen. Besonders das Verbot von Cannabis erregt dabei die Gemüter. Die \"Legalize it!\"-Bewegung ist seit langem unzufrieden mit dem geltenden Recht und fordert die Freigabe von Marihuana. Um den Gesetzgeber dazu zu bewegen, ihnen den Umgang mit der grünen Pflanze zu erlauben, werden verschiedene Argumente vorgetragen. Zwei von diesen Argumentationen wollen wir uns im ersten Teil der Veranstaltung genauer anschauen und dabei einige vorherrschende Vorstellungen vom Rechtsstaat kritisieren.<br>"
   },
   {
-    "date": "2016-10-29",
-    "time": "20:00",
-    "location": "Scherer8",
-    "loc": "3981",
-    "type": "Konzert",
-    "desc": "Sleaze Shows Presents: Dark Hardcore and Punk with bands like \"Noll Koll\", \"Ilves\", \"Surmoi\" and \"Chambers\", who are playing their first show with new band members. No space for any discriminative behaviour! Eintritt: Spende."
-  },
-  {
-    "date": "2016-10-29",
-    "time": "20:00",
-    "location": "Tommy-Weisbecker-Haus",
-    "loc": "79",
-    "type": "Konzert",
-    "desc": "\"Sonnige Aussichten Festival\". Die Welt ist ein großer Haufen Scheiße, und da helfen weder Montagsfriedensmahnwachen, noch \"kluge\" Facebookposts zum Weltgeschehen. Eine Party für die, die heute schon das kotzen bekommen, wenn sie weiße Tauben und dreibeinige Mercedessterne sehen und gegen ALLES!<br>"
-  },
-  {
-    "date": "2016-10-29",
-    "time": "20:00",
+    "date": "2016-11-01",
+    "time": "19:55",
     "free": true,
     "location": "WB13",
     "loc": "82",
-    "type": "Spieleabend",
-    "desc": "\"A.C.A.B. - Antifaschistischer Canasta Abend Berlin\". Wir wollen mit Euch zocken, Euch an die Wand spielen bis Ihr aufgebt oder um eine Revanche bettelt... Und wir freuen und auch riesig, wenn wir Euch das Spiel beibringen dürfen um uns neue, würdige Gegner zu erschaffen. Alles in allem soll es aber hauptsächlich Spass machen und kein unnötiger Kampf sein, auch wenn hier so dargestellt. Kommt vorbei! Los wir zocken! Andere Spiele sind auch vorhanden und möglich... A. C. A. B.!"
+    "type": "Bäm-Session",
+    "desc": "Bäm-Session: Das heißt wir wollen Musik lernen, aber nicht vom Blatt, sondern by doing. Wir treffen uns einmal im Monat und spielen einfach drauf los. Instrumente (2x Gitarre, Bass, Drums, Keyboard, Cajon) sind genügend vorhanden, ausgefallene Musikerzeugergeräte à la Saxophon, Geige... etc. müsstet ihr allerdinngs mitbringen. Wer die Musikgene in sich noch nicht entdeckt hat, kann auch bei kühlem Getränk und ein paar Brettspielen entspannen."
   },
   {
-    "date": "2016-10-29",
+    "date": "2016-11-01",
     "time": "20:00",
-    "location": "ZGK",
-    "loc": "5980",
-    "type": "Grundfrequenz + FrequenZine Release Soliparty",
-    "desc": "We are pleased to invite You all to attend the self-funding night of GrundFrequenz collective. We will celebrate the newest FrequenZine Issue #2 \"Metropolis\" on visual arts curated by Marta Lodola (Double Nine) and Vasco Brighi (Vasco Brighi Illustration).<br>"
+    "location": "Groni50 (Wedding)",
+    "loc": "3689",
+    "type": "Küfa mit Infos von und zur Friedel54",
+    "desc": "Zu unserer Küfa kommt die Friedel54 zu Besuch. Sie erzählen vom aktuellen Stand, Ideen zur Unterstützung und Einbettung des Kampfes in den stadtpolitischen Kontext:<br>"
   },
   {
-    "date": "2016-10-29",
+    "date": "2016-11-01",
     "time": "20:00",
+    "location": "New Yorck im Bethanien",
+    "loc": "3944",
+    "type": "Sinema Jazeera",
+    "desc": "\"Terror and Kebap\" (Satire, Ägypten 1993, arab. mit engl. UT, R.: Sherif Arafa) - Als Ahmed zum wiederholten Mal mit seinem Anliegen scheitert, in der Kairoer Verwaltungsbehörde den zuständigen Beamten anzutreffen, rastet er aus: er nimmt die anderen Wartenden gefangen und fordert eine zügige Abwicklung seines Falles. Bald schon solidarisieren sich die Geiseln mit ihm. Gemeinsam tritt man den Kampf gegen die Institutionen des Staates an und besetzt die Verwaltungszentrale.<br>"
+  },
+  {
+    "date": "2016-11-01",
+    "time": "20:30",
+    "location": "M29",
+    "loc": "6981",
+    "type": "Infoveranstaltung",
+    "desc": "Die Veranstaltung \"Skandal über Skandal - NSU bis heute\" wird am Anfang kurz die Aktionswoche vorstellen und mit einer kleinen Filmsequenz das Thema Gedenken thematisieren und anschließend mit einem Kurzfilm von NSU Watch das Thema des Prozesses in München einleiten. Danach werden zwei Menschen, die den NSU Prozess Mitte Oktober vor Ort beobachtet haben, von ihren Eindrücken berichten. Nach diesem Einblick wollen wir gemeinsam darüber reden - wie kann diese Thematik als Gruppe der Einzelperson bearbeitet werden.<br>"
+  },
+  {
+    "date": "2016-11-01",
+    "time": "20:30",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Lesung",
+    "desc": "LSD - Liebe Statt Drogen"
+  },
+  {
+    "date": "2016-11-01",
+    "time": "21:00",
+    "free": true,
+    "location": "Scherer8",
+    "loc": "3981",
+    "type": "Küfa, Kino, Tresen",
+    "desc": "\"Paths of Glory\" (USA 1957)"
+  },
+  {
+    "date": "2016-11-01",
+    "time": "21:05",
     "location": "Zielona Gora",
     "loc": "84",
-    "type": "Soliparty",
-    "desc": "Rom*nja Proteste. Film \"The Awakening\" zur Lebensrealität abgeschobener Rom*nja (einer der Filmemacher ist anwesend), Infos zu Rom*nja Protesten, Konzert mit \"Rolling Hopp\" (Roma Hip Hop, Rap), danach Party u.a. mit DJ Schörgi. Eintritt: Spende."
+    "type": "Filmstube",
+    "desc": "\"The Witch\" (Mystery Horror) - New England im Jahr 1630: William und Katherine führen mit ihren fünf Kindern ein christliches Leben am Rande einer undurchdringlichen Wildnis. Als ihr neugeborener Sohn verschwindet und die Ernte verdirbt, bewahrheitet sich ihre größte Angst, denn in dem Wald lauert eine übernatürliche Bosheit."
   },
   {
-    "date": "2016-10-29",
-    "time": "21:00",
-    "location": "Abstand",
-    "loc": "5085",
-    "type": "Konzert + Halloween Party",
-    "desc": "\"Triple X\" (Punk aus Bogotà/Kolumbien), \"Disnea Boys\" (Punk aus Berlin), \"Los Mierda\" (spanischer Punk aus Berlin). Aftershow Karaoke mit DJ Zufall. Wer im Kostüm erscheint bekommt ein Freibier. No dogs, no master!"
+    "date": "2016-11-02",
+    "time": "17:00",
+    "free": true,
+    "location": "Café Morgenrot",
+    "loc": "2167",
+    "type": "Queer-feministischer Stricktreff",
+    "desc": "Miss Rottenmeiers queer-feministischer Stricktreff. Jeden 1. und 3. Mittwoch im Monat ab 17.00 Uhr. DIY-Workshop für Einsteiger_innen und Stitch'n Bitch. Alles, was Sie schon immer übers Stricken wissen wollten über die ersten Schritte des Selbermachens. Und/oder einfach gemütliches Stricken beim stilvollen Heissgetränk. Wenn möglich sollten Stricknadeln und Wolle mitgebracht werden. Für Einmaltäter_innen wird aber auch Material vorhanden sein."
   },
   {
-    "date": "2016-10-29",
-    "time": "21:00",
-    "location": "Kastanienkeller",
-    "loc": "41",
+    "date": "2016-11-02",
+    "time": "19:00",
+    "free": true,
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Antifa Tresen",
+    "desc": "Die Berlin Outback Antifa und der Antifaschistische Schwarz-Rote Aufbau laden zum gemeinsamen Tresen in die Bunte Kuh. Bei kühlen Getränken und leckerem Essen haben wir Zeit und Raum für einen Austausch untereinander und freuen uns, neue Menschen, die Interesse an antifaschistscher Arbeit in den Randbezirken haben, kennenzulernen."
+  },
+  {
+    "date": "2016-11-02",
+    "time": "19:00",
+    "free": true,
+    "address": "Humboldt-Universität",
+    "location": "Humboldt-Universität",
+    "type": "Buchvorstellung",
+    "desc": "\"Immer wieder Ungarn. Autobiographische Notizen, Nationalismus und Antisemitismus in der politischen Kultur Ungarns - Texte 1979 bis 2016\". Buchvorstellung mit Karl Pfeifer.<br>",
+    "coordinates": [
+      13.5333041,
+      52.4321218
+    ]
+  },
+  {
+    "date": "2016-11-02",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
     "type": "Konzert",
-    "desc": "Two evil nights till Halloween. \"Witch Trail\" (Black Thrash from Belgium), \"Hellcurse\" (Satanic Metal from Poland), \"Alkerdeel\" (Droney Black Doom from Belgium)"
+    "desc": "\"Leisure Tank\" (Indie aus UK/Berlin), \"Queen Sacrifice\" (Indie aus Berlin) und \"Mika Bajinski\" (Berlin)"
   },
   {
-    "date": "2016-10-29",
-    "time": "21:00",
-    "location": "Villa Kuriosum",
-    "loc": "6787",
-    "type": "Party",
-    "desc": "\"Nightmare on Scheffelstraße\". Monster-Märchen-Party mit Peggy Peng, Friedhofs-Performance und Leichenschmaus. Eintritt: Spende. (ohne Kostüm Eintritt 30.- Euro)"
+    "date": "2016-11-02",
+    "time": "20:00",
+    "location": "Wagenburg Lohmühle",
+    "loc": "4180",
+    "type": "Kino",
+    "desc": "Food statt Aktion. 19.45 Uhr Kurzfilm. 20.00 Uhr \"My own private Idaho\". Eintritt: Spende."
   },
   {
-    "date": "2016-10-29",
-    "time": "21:30",
+    "date": "2016-11-06",
+    "time": "15:00",
+    "free": true,
+    "location": "Lunte",
+    "loc": "48",
+    "type": "Kiezspaziergang Schillerkiez",
+    "desc": "Schillerkiez Hypo Investment Tours lädt ein: Es geht aufwärts im Schillerkiez! Die Mieten steigen immer weiter. Die Reichen werden mehr. Wer nicht zahlen kann, muss gehen."
+  },
+  {
+    "date": "2016-11-06",
+    "time": "15:00",
+    "free": true,
+    "location": "Meuterei",
+    "loc": "5269",
+    "type": "Wir wollen doch nur spielen",
+    "desc": "Kommt vorbei und spielt bis in den späten Abend... Ob Karten, Schach oder Brettspielereien, hier ist alles möglich. Wir sorgen für einiges an Auswahl (kooperativ und nicht-kooperativ), freuen uns aber auch über eure mitgebrachten Spiele. Neben den üblichen Kaltgetränken ist für Kaffee und Knabbereien gesorgt."
+  },
+  {
+    "date": "2016-11-06",
+    "time": "19:00",
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Sleaze &amp; Destroy Fest #2",
+    "desc": "The second sleazy hardcore fest with bands like \"Mindfall\", \"Under The Sunrise\", \"Backfist\", \"Grosswell\", \"Just For Being\" and \"Hopes\". No place for sexism, racism, homophobia or any other bullshit! Eintritt: Spende."
+  },
+  {
+    "date": "2016-11-06",
+    "time": "19:00",
+    "free": true,
+    "location": "Café Morgenrot",
+    "loc": "2167",
+    "type": "Anxious Polys Unite!",
+    "desc": "Ein queer-feministisch orientierter Stammtisch für alle Polys, Doch-nicht-Polys, Vielleicht-Polys, die unsicher, neuroatypisch, eifersüchtig usw. sind, Redebedarf haben oder von den Poly-Szene-Normen genervt sind. Rauchfrei und barrierearm. All genders welcome!"
+  },
+  {
+    "date": "2016-11-06",
+    "time": "20:00",
+    "free": true,
+    "location": "Baiz",
+    "loc": "2756",
+    "type": "Film",
+    "desc": "\"Drei Farben: Blau\" (F/PL 1993, R.: Krzysztof Kieslowski) - Der erste Teil der Trilogie beginnt mit einem Verkehrsunfall, bei dem ein berühmter Komponist und seine Tochter ums Leben kommen. Die zurückgelassene Frau und Mutter resigniert zunächst, aber ihr Lebenswille erweist sich als stärker: Durch die Kraft der Musik - sie vollendet die letzte Komposition ihres Mannes - findet sie wieder ins Leben zurück..."
+  },
+  {
+    "date": "2016-11-06",
+    "time": "20:00",
+    "free": true,
+    "location": "Lunte",
+    "loc": "48",
+    "type": "Gefangenen schreiben",
+    "desc": "Kommt vorbei und schreibt Gefangenen oder bringt eure Briefe, Karten zu uns und wir verschicken sie. Falls ihr Infos, Adressen oder Beratung braucht, stehen wir euch gern zur Verfügung. Unterstützt die Gefangenen! Dazu gibts leckeres Essen und kühle Getränke.<br>"
+  },
+  {
+    "date": "2016-11-06",
+    "time": "20:00",
     "location": "Supamolly",
     "loc": "77",
-    "type": "Konzert",
-    "desc": "\"Astro Zombies\" (Rock Psychobilly) und anschl. DJ."
+    "type": "Musikalische Lesung",
+    "desc": "Musikalische Lesung vom Kreutzigertheater. Freut euch auf einen Abend mit skurrilen Charakteren, spritzigen Dialogen, hochaktuell, unterhaltsam, mitten aus dem Leben gerissen."
   },
   {
-    "date": "2016-10-29",
+    "date": "2016-11-06",
+    "time": "20:30",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Party",
+    "desc": "Karaoke-Nacht mit KJ Der Käpt'n"
+  },
+  {
+    "date": "2016-11-05",
+    "time": "11:00",
+    "free": true,
+    "address": "Pumpe (Lützowstr. 42)",
+    "location": "Pumpe (Lützowstr. 42)",
+    "type": "Internationale Konferenz",
+    "desc": "\"Gedenken und Widerstand\" u.a. mit Rosita Grönfors, #Romskakvinnoforum (Romnja- und Reisenden-Frauen Forum), Schweden; Farid, Collectif urgence notre police assassine, Frankreich; Hanım Tosun, Samstagsmütter, Türkei; Initiative Chau und Lan, Hamburg; Ibrahim Arslan und Osman Taşköprü; Kenana Emini (Roma Antidiscrimination Network RAN &amp; alle bleiben!); Anja Soon-Hyun Michaelsen; Kampagne für Opfer rassistischer Polizeigewalt; Oury Jalloh Initiative (tbc); Abbas Doğan, Bündnis \"Tag der Solidarität\", Dortmund; Abdullah Özkan, Betroffener &amp; Initiative Keupstraße ist überall<br>",
+    "coordinates": [
+      17.189988,
+      48.2148937
+    ]
+  },
+  {
+    "date": "2016-11-05",
+    "time": "12:15",
+    "location": "Zielona Gora",
+    "loc": "84",
+    "type": "Solibrunch",
+    "desc": "Herbstzauber2, vegan/vegetarische süsse und deftige Köstlichkeiten. Kommt zusammen und schlemmt miteinander für den neuen Vetomaten."
+  },
+  {
+    "date": "2016-11-05",
+    "time": "13:00",
+    "free": true,
+    "location": "Friedel 54",
+    "loc": "7801",
+    "type": "Umsonstflohmarkt + Vegan Cake-Festival",
+    "desc": "Die Idee ist, Sachen, die nicht mehr benötigt werden, anderen umsonst zur Verfügung zu stellen und dabei leckere Kuchen zu genießen. Jede*r kann ohne Anmeldung oder Standgebühr teilnehmen. Ihr könnt aber auch einfach den Tag bei Kaffee, Kuchen oder anderen Leckereien gegen Spende genießen."
+  },
+  {
+    "date": "2016-11-05",
+    "time": "19:00",
+    "location": "Schokoladen",
+    "loc": "1131",
+    "type": "Konzert",
+    "desc": "\"Brüllmücken\" (Punk, Ska, Oi aus Berlin; Record Release Party)"
+  },
+  {
+    "date": "2016-11-05",
+    "time": "20:00",
+    "free": true,
+    "location": "Bandito Rosso",
+    "loc": "15",
+    "type": "Cocktail-Tresen + Infos zur Friedel54",
+    "desc": "Unsere Freund*innen vom Kiezladen <a href=\"http://friedel54.noblogs.org\">Friedel54</a> werden über ihre aktuelle Situaton berichten. Der Kampf gegen die Räumung durch eine ominöse Briefkastenfirma geht dort im Moment in die nächste Runde. Jetzt sind wir gefragt, die Friedel nicht alleine zu lassen.<br>"
+  },
+  {
+    "date": "2016-11-05",
+    "time": "20:00",
+    "location": "Bunte Kuh",
+    "loc": "1199",
+    "type": "Betondisteln Vol. #20",
+    "desc": "Es ist angerichtet, ein bunt gemischter Mukkesalat quer durch den Berliner Untergrund ohne Hip und ohne Star, wie immer 100% frei von blaubraun versifften Zusätzen. Bleibt kritisch und seid. bereit.<br>"
+  },
+  {
+    "date": "2016-11-05",
+    "time": "20:00",
+    "location": "Café Köpenick",
+    "loc": "1949",
+    "type": "Konzert",
+    "desc": "\"Harry Gump\" und \"The Sensitives\" (Edgy Punk from Sweden). Beginn pünktlich 20.00 Uhr."
+  },
+  {
+    "date": "2016-11-05",
+    "time": "20:00",
+    "free": true,
+    "location": "Drugstore",
+    "loc": "23",
+    "type": "Nox A Carnival",
+    "desc": "Herzlich willkommen zum zweiten Tag unseres jährlichen Metalfestivals. Es erwartet euch ein abwechslungsreiches Line-Up, Getränke wie gewohnt zu einem schmalen Taler, eine Wurfbude für den Zeitvertreib, eine Schminkbude zur Komplettierung eures Outfits und einen Essensstand. Zum Schluss gibt es wie jedes Jahr eine kleine After-Showparty mit den Nox DJs eines Jahrzehnts.<br>"
+  },
+  {
+    "date": "2016-11-05",
+    "time": "20:00",
+    "location": "Fischladen",
+    "loc": "31",
+    "type": "Party",
+    "desc": "Fischiges Halloween im Gruselgebiet mit DJ Robbi und Karaoke von KJ F***. Dress up and get a discount."
+  },
+  {
+    "date": "2016-11-05",
+    "time": "21:00",
+    "location": "Subversiv",
+    "loc": "75",
+    "type": "Konzert",
+    "desc": "\"Gattaca\" (Hardcore, Veganpunk, Crust from Czech Republic), \"Remek\" (Punk, Emocrust from Czech Republic), \"Weights\" (Punk, Aggressiv Pop, Hardcore from Berlin). Einlass 21.00 Uhr, Beginn 22.00 Uhr"
+  },
+  {
+    "date": "2016-11-05",
+    "time": "21:30",
+    "location": "Clash",
+    "loc": "1950",
+    "type": "Fiesta Lucha Amada",
+    "desc": "\"Sidi Wacho\" (Balkan Cumbia Rap from Lille). Aftershow-Party Lucha Amada DJ-Team."
+  },
+  {
+    "date": "2016-11-05",
+    "time": "21:30",
+    "location": "X-B-Liebig",
+    "loc": "83",
+    "type": "Mess Musik Fest I",
+    "desc": "On stage in the dark and smoky Xb.cave: \"Adventure team\" (Indipendent Rock aus Berlin), \"Me &amp; the Freaks\" (Freak Rock aus Berlin), \"Madame Guillotine\" (Sludge Grungy Noise from Saturn), \"Tristan da Cuhna (Honest Post-Rock from Italy). Später Goth Post-Punk Mukke vom Tresen. Eintritt: Spende."
+  },
+  {
+    "date": "2016-11-05",
     "time": "22:00",
     "location": "Køpi",
     "loc": "43",
-    "type": "Fright Night",
-    "desc": "Halloween Soliparty mit HorrorFunk / Dark Wave / Synth-Pop / Dark Techno / Industrial<br>"
+    "type": "Benefiz-Konzert im Koma F",
+    "desc": "Soli für das von Nazis attackierte Projekt \"JUWEL\" in Gotha (Thüringen) &amp; damit verbundene Repressions - und Baukosten<br>"
   },
   {
-    "date": "2016-10-29",
+    "date": "2016-11-05",
     "time": "22:00",
-    "location": "Subversiv",
-    "loc": "75",
-    "type": "Halloweenparty",
-    "desc": "Moldy Basement Advendures presents: \"out of the grave into the underground (of our subversive halloween party)\"<br>"
-  },
-  {
-    "date": "2016-10-29",
-    "time": "23:00",
-    "location": "Lauschangriff",
-    "loc": "2041",
-    "type": "Party",
-    "desc": "\"Tanz den Untergrund\" - Unexpected Sounds, Underground Electronics. DJ TerrorWave (Minimal, Electro, Synth, UndergrouNDW, Experimental, Strange Stuff)."
+    "location": "Supamolly",
+    "loc": "77",
+    "type": "Flowers Of Romance",
+    "desc": "DJ Terrorwave (Synth Wave Postpunk Minimal Electro) + Liveact: \"Paradox Sequenz\"."
   }
 ]
